@@ -1,14 +1,13 @@
-# Parallel-Meaning-Bank-5
-
 [![Logo](logo.png)](#)
+
+# Parallel-Meaning-Bank-5
 
 ## Table of Contents
 1. [Overview](#overview)
 2. [Dataset Description](#dataset-description)
 3. [Model Training](#model-usage)
 4. [Evaluation](#evaluation)
-5. [License](#license)
-6. [Contributors](#contributors)
+5. [Contributors](#contributors)
 
 ## Overview
 
