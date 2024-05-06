@@ -15,7 +15,7 @@ Data are available at /data folder, including:
 
 ✅ pmb-5.0.0  
 ✅ pmb-5.0.1  
-✅ pmb 5.1.0  
+✅ pmb-5.1.0  
 ❌ pmb-4.0.0
 
 👉 Recommendation: please use the latest version 5.1.0.
