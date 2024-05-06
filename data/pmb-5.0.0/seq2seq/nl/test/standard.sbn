@@ -1,0 +1,435 @@
+Tom knikte.	male.n.02 Name "Tom" nod.v.02 Agent -1 Time +1 time.n.08 TPR now
+Hij is lui.	male.n.02 time.n.08 EQU now lazy.a.02 AttributeOf -2 Time -1
+Wij zaaien.	person.n.01 Sub speaker sow.v.01 Agent -1 Time +1 time.n.08 EQU now
+Wie is hij?	person.n.01 Name ? be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02
+Het sneeuwt.	entity.n.01 snow.v.01 EQU -1 Time +1 time.n.08 EQU now
+Ik ben blut.	person.n.01 EQU speaker time.n.08 EQU now broke.a.01 AttributeOf -2 Time -1
+Je bent gek.	person.n.01 EQU hearer time.n.08 EQU now crazy.a.01 AttributeOf -2 Time -1
+Hij kneep me!	male.n.02 pinch.v.01 Agent -1 Time +1 Experiencer +2 time.n.08 TPR now person.n.01 EQU speaker
+'t Is gratis.	entity.n.01 time.n.08 EQU now free.a.03 AttributeOf -2 Time -1
+Ze zijn geel.	entity.n.01 time.n.08 EQU now yellow.a.01 ColourOf -2 Time -1
+Ik heb dorst.	person.n.01 EQU speaker time.n.08 EQU now thirsty.a.02 Experiencer -2 Time -1
+Ben je klaar?	time.n.08 EQU now person.n.01 EQU hearer ready.a.01 Time -2 AttributeOf -1
+Ze is lerares.	female.n.02 be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 teacher.n.01
+Ik ben zo moe!	person.n.01 EQU speaker time.n.08 EQU now so.r.01 tired.a.01 Experiencer -3 Time -2 Degree -1
+Hij is een DJ.	male.n.02 be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now dj.n.01
+Ik ga douchen.	person.n.01 EQU speaker time.n.08 TSU now shower.v.03 Agent -2 Time -1
+Tom zingt mooi.	male.n.02 Name "Tom" sing.v.02 Agent -1 Time +1 Manner +2 time.n.08 EQU now beautifully.r.01
+Ik ben hem zat.	person.n.01 EQU speaker time.n.08 EQU now male.n.02 fed_up.a.01 Experiencer -3 Time -2 Stimulus -1
+Hij rookt niet.	male.n.02 NEGATION <1 smoke.v.01 Agent -1 Time +1 time.n.08 EQU now
+Ik ben Antonio.	person.n.01 EQU speaker EQU +1 male.n.02 Name "Antonio"
+De kat miauwde.	cat.n.01 meow.v.01 Agent -1 Time +1 time.n.08 TPR now
+Ik ben 18 jaar.	person.n.01 EQU speaker old.a.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 18 year.n.01 Quantity -1
+Ik was woedend.	person.n.01 EQU speaker time.n.08 TPR now furious.a.02 AttributeOf -2 Time -1
+Wie helpt haar?	person.n.01 Name ? help.v.01 Agent -1 Time +1 Beneficiary +2 time.n.08 EQU now female.n.02
+Waar is Chiapas?	location.n.01 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now state.n.01 Name "Chiapas"
+Iedereen lachte.	NEGATION <1 person.n.01 NEGATION <1 laugh.v.01 Agent -1 Time +1 time.n.08 TPR now
+Het vuur brandt.	fire.n.03 burn.v.04 Causer -1 Time +1 time.n.08 EQU now
+Hij is tandarts.	male.n.02 be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 dentist.n.01
+Die hond stinkt!	dog.n.01 stink.v.02 Theme -1 Time +1 time.n.08 EQU now
+Ben je niet moe?	person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now tired.a.01 Experiencer -2 Time -1
+Alles is gratis.	NEGATION <1 entity.n.01 NEGATION <1 time.n.08 EQU now free.a.03 AttributeOf -2 Time -1
+Bent u getrouwd?	time.n.08 EQU now person.n.01 EQU hearer married.a.01 Time -2 AttributeOf -1
+Ik leer Kannada.	person.n.01 EQU speaker learn.v.01 Agent -1 Time +1 Topic +2 time.n.08 EQU now kannada.n.01
+Ik heb buikpijn.	person.n.01 EQU speaker have.v.16 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now stomachache.n.01
+Sita glimlachte.	female.n.02 Name "Sita" smile.v.01 Agent -1 Time +1 time.n.08 TPR now
+Ken is gelukkig.	male.n.02 Name "Ken" time.n.08 EQU now happy.a.01 Experiencer -2 Time -1
+Ik haat spinazie.	person.n.01 EQU speaker hate.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now spinach.n.02
+Tom grillt vlees.	male.n.02 Name "Tom" grill.v.01 Agent -1 Time +1 Patient +2 time.n.08 EQU now meat.n.01
+Ben ik in Londen?	be.v.03 Time +1 Theme +2 Location +3 time.n.08 EQU now person.n.01 EQU speaker city.n.01 Name "Londen"
+Het is half twee.	time.n.08 EQU now EQU +1 time.n.08 ClockTime 13:30
+Ik leer Perzisch.	person.n.01 EQU speaker study.v.05 Agent -1 Time +1 Theme +2 time.n.08 EQU now persian.n.02
+Ik omhelsde haar.	person.n.01 EQU speaker hug.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now female.n.02
+Iedereen haat me.	NEGATION <1 person.n.01 NEGATION <1 hate.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now person.n.01 EQU speaker
+Mijn plan werkte.	person.n.01 EQU speaker plan.n.01 Creator -1 work.v.03 Theme -1 Time +1 time.n.08 TPR now
+Ik heb hoofdpijn.	person.n.01 EQU speaker have.v.12 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now headache.n.02
+Kan je schaatsen?	POSSIBILITY <1 person.n.01 EQU hearer ice_skate.v.01 Theme -1
+Hij was heel oud.	male.n.02 time.n.08 TPR now very.r.01 old.a.01 Time -2 Degree -1 Value + AttributeOf -3
+We zijn gelukkig.	person.n.01 Sub speaker time.n.08 EQU now happy.a.01 Experiencer -2 Time -1
+Mijn oom is rijk.	person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 time.n.08 EQU now rich.a.01 AttributeOf -3 Time -1
+Je bent erg sexy.	person.n.01 EQU hearer time.n.08 EQU now very.r.01 sexy.a.01 AttributeOf -3 Time -2 Degree -1
+We keken een film.	person.n.01 Sub speaker watch.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now movie.n.01
+Mary is een kluns.	female.n.02 Name "Mary" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 klutz.n.01
+De sokken stinken.	sock.n.01 stink.v.02 Theme -1 Time +1 time.n.08 EQU now
+Heb je geld nodig?	time.n.08 EQU now person.n.01 EQU hearer money.n.01 need.v.02 Time -3 Pivot -2 Theme -1
+Ik werk in Milaan.	person.n.01 EQU speaker work.v.02 Agent -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Milaan"
+Hij sloot de deur.	male.n.02 close.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now door.n.01
+Ze is vriendelijk.	female.n.02 time.n.08 EQU now kind.a.01 AttributeOf -2 Time -1
+Het is een mummie!	entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now mummy.n.02
+Wiens boek is dit?	person.n.01 Name ? book.n.02 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+Ik haat die kleur.	person.n.01 EQU speaker hate.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now color.n.01
+Bill was in Japan.	male.n.02 Name "Bill" be.v.03 Theme -1 Time +1 Location +2 time.n.08 TPR now country.n.02 Name "Japan"
+De kamer was warm.	room.n.01 time.n.08 TPR now warm.a.01 Time -1 Value + AttributeOf -2
+Hij groef een gat.	male.n.02 dig.v.02 Agent -1 Time +1 Result +2 time.n.08 TPR now hole.n.01
+Hij opende één oog.	male.n.02 open.v.05 Agent -1 Time +1 Patient +2 time.n.08 TPR now eye.n.01 Quantity 1
+Je bent fotogeniek.	person.n.01 EQU hearer time.n.08 EQU now photogenic.a.01 Theme -2 Time -1
+Ben je boos op Tom?	time.n.08 EQU now person.n.01 EQU hearer angry.a.01 Time -2 Experiencer -1 Stimulus +1 male.n.02 Name "Tom"
+Zij plukte bloemen.	female.n.02 pick.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now flower.n.01
+Wat een goed schot!	be.v.01 Theme +1 Co-Theme +3 entity.n.01 good.a.01 AttributeOf +1 shot.n.03
+Een banaan is geel.	NEGATION <1 banana.n.02 NEGATION <1 time.n.08 EQU now yellow.n.01 ColourOf -2 Time -1
+Tom begon te lopen.	male.n.02 Name "Tom" start.v.01 Time +1 PartOf +2 time.n.08 TPR now run.v.01 Theme -3
+Dit is persoonlijk.	entity.n.01 time.n.08 EQU now personal.a.01 AttributeOf -2 Time -1
+Ik moest overgeven.	person.n.01 EQU speaker NECESSITY <1 throw_up.v.01 Agent -1 Time +1 time.n.08 TPR now
+Zijn wespen giftig?	time.n.08 EQU now wasp.n.02 poisonous.a.01 Time -2 AttributeOf -1
+School verveelt me.	school.n.03 bore.v.01 Stimulus -1 Time +1 Experiencer +2 time.n.08 EQU now person.n.01 EQU speaker
+De wekker loopt af.	alarm_clock.n.01 ring.v.01 Theme -1 Time +1 time.n.08 EQU now
+Het maakt niet uit.	entity.n.01 NEGATION <1 matter.v.01 Stimulus -1 Time +1 time.n.08 EQU now
+Wiens brief is dit?	person.n.01 Name ? letter.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+We hebben verloren.	person.n.01 Sub speaker lose.v.02 Agent -1 Time +1 time.n.08 TPR now
+Ik was gek op taart.	person.n.01 EQU speaker time.n.08 TPR now fond.a.03 Experiencer -2 Time -1 Stimulus +1 cake.n.03
+Dit huis is beroemd.	house.n.01 time.n.08 EQU now famous.a.01 AttributeOf -2 Time -1
+Dit is Toms kanarie.	entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 Name "tom" canary.n.04 Owner -1
+Hij overtrad de wet.	male.n.02 break.v.06 Agent -1 Time +1 Theme +2 time.n.08 TPR now law.n.01
+Ik ben rechtshandig.	person.n.01 EQU speaker time.n.08 EQU now right-handed.a.01 AttributeOf -2 Time -1
+We huurden een film.	person.n.01 Sub speaker rent.v.04 Agent -1 Time +1 Theme +2 time.n.08 TPR now movie.n.01
+Het is erg kleverig.	entity.n.01 time.n.08 EQU now very.r.01 sticky.a.01 AttributeOf -3 Time -2 Degree -1
+Hij is altijd bezig.	NEGATION <1 time.n.08 NEGATION <1 male.n.02 time.n.08 EQU now busy.a.01 AttributeOf -2 Time -1
+We gingen naar Gifu.	person.n.01 Sub speaker go.v.01 Theme -1 Time +1 Destination +2 time.n.08 TPR now city.n.01 Name "Gifu"
+Laten we sushi eten.	time.n.08 TSU now person.n.01 EQU speaker sushi.n.01 eat.v.01 Time -3 Agent -2 Patient -1
+Zijn fiets is blauw.	male.n.02 bicycle.n.01 User -1 time.n.08 EQU now blue.a.01 ColourOf -2 Time -1
+Iedereen glimlachte.	NEGATION <1 person.n.01 NEGATION <1 smile.v.01 Agent -1 Time +1 time.n.08 TPR now
+Ik spreek geen Ests.	person.n.01 EQU speaker NEGATION <1 speak.v.03 Agent -1 Time +1 Theme +2 time.n.08 EQU now estonian.n.01
+Niemand begreep mij.	NEGATION <1 person.n.01 understand.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now person.n.01 EQU speaker
+Wiens gitaar is dit?	person.n.01 Name ? guitar.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+Ze bezoekt nu Parijs.	female.n.02 visit.v.02 Agent -1 Time +1 Time +2 Theme +3 time.n.08 EQU now time.n.08 EQU now city.n.01 Name "Parijs"
+De rode rok is nieuw.	red.a.01 skirt.n.01 Colour -1 time.n.08 EQU now new.a.01 AttributeOf -2 Time -1
+Hij is wetenschapper.	male.n.02 be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 scientist.n.01
+Zal ik uw jas dragen?	time.n.08 TSU now person.n.01 EQU speaker person.n.01 EQU hearer coat.n.01 User -1 carry.v.01 Time -4 Agent -3 Theme -1
+Hij houdt zijn woord.	male.n.02 keep.v.05 Agent -1 Time +1 Theme +3 time.n.08 EQU now male.n.02 ANA -3 word.n.06 Creator -1
+De taart is heerlijk.	pie.n.01 time.n.08 EQU now delicious.a.02 AttributeOf -2 Time -1
+Swift stierf in 1745.	male.n.02 Name "Swift" die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1745
+Ik heb twee nichtjes.	person.n.01 EQU speaker have.v.01 Pivot -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 2 person.n.01 Quantity -1 Role +1 niece.n.01
+Ze rookte een sigaar.	female.n.02 smoke.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now cigar.n.01
+Ik ben dol op auto's.	person.n.01 EQU speaker time.n.08 EQU now fond.a.03 Experiencer -2 Time -1 Stimulus +1 car.n.01
+GUS verkocht Wehkamp.	company.n.01 Name "GUS" sell.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now company.n.01 Name "Wehkamp"
+Wat is uw achternaam?	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer last_name.n.01 Bearer -1
+Is dat niet schattig?	entity.n.01 NEGATION <1 time.n.08 EQU now cute.a.01 AttributeOf -2 Time -1
+Iedereen is gelukkig.	NEGATION <1 person.n.01 NEGATION <1 time.n.08 EQU now happy.a.01 Experiencer -2 Time -1
+Je hebt alles verpest.	person.n.01 EQU hearer NEGATION <1 entity.n.01 NEGATION <1 ruin.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+Hij woont in een dorp.	male.n.02 live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now village.n.02
+Is hij een leerkracht?	be.v.08 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now male.n.02 person.n.01 Role +1 teacher.n.01
+Dat verbaast me niets.	entity.n.01 NEGATION <1 surprise.v.01 Stimulus -1 Time +1 Experiencer +2 time.n.08 EQU now person.n.01 EQU speaker
+wat is de wisselkoers?	entity.n.01 EQU ? be.v.06 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now exchange_rate.n.01
+Mijn hartslag is laag.	person.n.01 EQU speaker pulse.n.03 Creator -1 time.n.08 EQU now slow.a.02 AttributeOf -2 Time -1
+Het vuur is uitgegaan.	fire.n.04 go_out.v.04 Patient -1 Time +1 time.n.08 TPR now
+Hij is groot en slank.	male.n.02 time.n.08 EQU now tall.n.01 Time -1 Value + AttributeOf -2 CONTINUATION <1 time.n.08 EQU now slim.a.01 AttributeOf -4 Time -1
+BSN kocht RJR Nabisco.	company.n.01 Name "BSN" buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now company.n.01 Name "RJR Nabisco"
+Ze masseerde zijn rug.	female.n.02 massage.v.01 Agent -1 Time +1 Experiencer +3 time.n.08 TPR now male.n.02 back.n.01 PartOf -1
+Het vlees is bevroren.	meat.n.01 time.n.08 EQU now frozen.a.05 AttributeOf -2 Time -1
+Dat zal € 30,- kosten.	entity.n.01 time.n.08 TSU now euro.n.01 Quantity +1 quantity.n.01 EQU 30 cost.v.01 Theme -4 Time -3 Value -2
+Ik wil naar Bali gaan.	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +3 time.n.08 EQU now island.n.01 Name "Bali" go.v.01 Theme -4 Destination -1
+Mijn sweater is paars.	person.n.01 EQU speaker sweater.n.01 User -1 time.n.08 EQU now purple.a.01 ColourOf -2 Time -1
+Iedereen maakt fouten.	NEGATION <1 person.n.01 NEGATION <1 make.v.24 Agent -1 Time +1 Theme +2 time.n.08 EQU now mistake.n.01
+Alle appels zijn rood.	NEGATION <1 apple.n.01 NEGATION <1 time.n.08 EQU now red.a.01 ColourOf -2 Time -1
+De kat blies naar Tom.	cat.n.01 hiss.v.01 Agent -1 Time +1 Recipient +2 time.n.08 TPR now male.n.02 Name "Tom"
+Vijf plus drie is acht.	number.n.02 EQU 5 plus.n.02 Theme -1 Co-Theme +1 number.n.02 EQU 3 be.v.06 Theme -2 Co-Theme +1 number.n.02 EQU 8
+Wiens container is dit?	person.n.01 Name ? container.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+Wat kost deze stropdas?	measure.n.02 Unit ? cost.v.01 Value -1 Time +1 Theme +2 time.n.08 EQU now tie.n.01
+Ik staarde naar de man.	person.n.01 EQU speaker stare.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now man.n.01
+Ik wil naar Japan gaan.	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +3 time.n.08 EQU now country.n.02 Name "Japan" go.v.01 Theme -4 Destination -1
+Mag ik naar de wc gaan?	POSSIBILITY <1 person.n.01 EQU speaker restroom.n.01 go.v.01 Theme -2 Destination -1
+Ze is veertig jaar oud.	female.n.02 time.n.08 EQU now quantity.n.01 EQU 40 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+Jij bent groter dan ik.	person.n.01 EQU hearer time.n.08 EQU now tall.a.01 AttributeOf -2 Time -1 Degree +1 more.r.01 Theme -3 Co-Theme +1 person.n.01 EQU speaker
+Wat een prachtige stad!	be.v.01 Theme +1 Co-Theme +3 entity.n.01 beautiful.a.01 AttributeOf +1 city.n.01
+Deze CD kost 10 dollar.	cd.n.04 cost.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 10 dollar.n.01 Quantity -1
+Dat is niet belangrijk.	entity.n.01 NEGATION <1 time.n.08 EQU now important.a.01 AttributeOf -2 Time -1
+Ik weet dat ze mooi is.	person.n.01 EQU speaker know.v.01 Proposition >1 Experiencer -1 Time +1 time.n.08 EQU now CONTINUATION <0 female.n.02 beautiful.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+Maria verstaat Chinees.	female.n.02 Name "Maria" understand.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now chinese.n.01
+Tom streek zijn kleren.	male.n.02 Name "Tom" iron.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 clothes.n.01 User -1
+Tom laat zijn hond uit.	male.n.02 Name "Tom" walk.v.09 Agent -1 Time +1 Theme +3 time.n.08 EQU now male.n.02 ANA -3 dog.n.01 Owner -1
+Hij woont in deze wijk.	male.n.02 live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now neighborhood.n.01
+Ik ben een tennisspeler.	person.n.01 EQU speaker be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 tennis_player.n.01
+Ik hou van chocoladeijs!	person.n.01 EQU speaker like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now chocolate_ice_cream.n.01
+Tom schraapte zijn keel.	male.n.02 Name "Tom" clear.v.24 Agent -1 Time +1 Source +3 time.n.08 TPR now male.n.02 ANA -3 throat.n.01 PartOf -1
+Hoeveel bloemen koop je?	flower.n.01 Quantity ? buy.v.01 Theme -1 Time +1 Agent +2 time.n.08 EQU now person.n.01 EQU hearer
+Wie is dit mooie meisje?	person.n.01 Name ? be.v.02 Co-Theme -1 Time +1 Theme +3 time.n.08 EQU now pretty.a.01 AttributeOf +1 girl.n.01
+Tom gaf Mary de zaklamp.	male.n.02 Name "Tom" hand.v.01 Agent -1 Time +1 Destination +2 Theme +3 time.n.08 TPR now female.n.02 Name "Mary" flashlight.n.01
+Ik ben geboren in Osaka.	person.n.01 EQU speaker bear.v.02 Patient -1 Time +1 Location +2 time.n.08 TPR now city.n.01 Name "Osaka"
+Urdu is onze moedertaal.	urdu.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 Sub speaker mother_tongue.n.01 Creator -1
+Zijn vriendin is Japans.	male.n.02 person.n.01 Role +1 girlfriend.n.01 Of -2 time.n.08 EQU now be.v.03 Attribute -3 Time -1 Source +1 country.n.02 Name "japan"
+Maler woonde in Yucatán.	male.n.02 Name "Maler" live.v.01 Theme -1 Time +1 Location +2 time.n.08 TPR now state.n.01 Name "Yucatán"
+Wat een mooie regenboog!	be.v.01 Theme +1 Co-Theme +3 entity.n.01 beautiful.a.01 AttributeOf +1 rainbow.n.01
+Iemand klopt op de deur.	person.n.01 knock.v.02 Agent -1 Time +1 Destination +2 time.n.08 EQU now door.n.01
+Mijn stropdas is oranje.	person.n.01 EQU speaker tie.n.01 User -1 time.n.08 EQU now orange.a.01 ColourOf -2 Time -1
+Tom heeft geen ervaring.	male.n.02 Name "Tom" NEGATION <1 have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now experience.n.01
+Tom houdt niet van kaas.	male.n.02 Name "Tom" NEGATION <1 love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now cheese.n.01
+Mary kan Japans spreken.	female.n.02 Name "Mary" POSSIBILITY <1 japanese.n.02 speak.v.03 Agent -2 Theme -1
+De Titanic zonk in 1912.	vehicle.n.01 Name "Titanic" sink.v.04 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1912
+Wiens schoenen zijn dit?	person.n.01 Name ? shoe.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+Ik woon dichtbij de dijk.	person.n.01 EQU speaker live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now location.n.01 APX +1 dike.n.02
+Is mijn uitleg duidelijk?	time.n.08 EQU now person.n.01 EQU speaker explanation.n.01 Creator -1 clear.a.01 Time -3 AttributeOf -1
+Wat is de wortel van 100?	entity.n.01 EQU ? be.v.06 Theme -1 Co-Theme +1 square_root.n.01 Of +1 number.n.02 EQU 100
+Tom houdt van Emmentaler.	male.n.02 Name "Tom" like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now emmentaler.n.01
+Hij werkt in een lommerd.	male.n.02 work.v.02 Agent -1 Time +1 Location +2 time.n.08 EQU now pawnshop.n.01
+Hij is jong en vrijgezel.	male.n.02 time.n.08 EQU now young.a.01 Time -1 Value + AttributeOf -2 CONTINUATION <1 time.n.08 EQU now single.a.04 AttributeOf -4 Time -1
+Ik verkies slappe koffie.	person.n.01 EQU speaker prefer.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now weak.a.02 AttributeOf +1 coffee.n.01
+Heeft u een kredietkaart?	have.v.04 Time +1 Pivot +2 Theme +3 time.n.08 EQU now person.n.01 EQU hearer credit_card.n.01
+Ik luisterde naar muziek.	person.n.01 EQU speaker listen.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now music.n.01
+Ik ben achttien jaar oud.	person.n.01 EQU speaker time.n.08 EQU now quantity.n.01 EQU 18 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+De zonsopgang breekt aan.	dawn.n.01 break.v.16 Theme -1 Time +1 time.n.08 EQU now
+Ik gaf het aan mijn mama.	person.n.01 EQU speaker give.v.03 Agent -1 Time +1 Theme +2 Recipient +4 time.n.08 TPR now entity.n.01 person.n.01 EQU speaker person.n.01 Role +1 mommy.n.01 Of -2
+Hij is even groot als ik.	male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU speaker
+Tom scoorde een doelpunt.	male.n.02 Name "Tom" score.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now goal.n.04
+Iedereen applaudisseerde.	NEGATION <1 person.n.01 NEGATION <1 applaud.v.01 Agent -1 Time +1 time.n.08 TPR now
+Ze huilde bittere tranen.	female.n.02 shed.v.02 Source -1 Time +1 Theme +3 time.n.08 TPR now bitter.a.04 AttributeOf +1 tear.n.01
+John is goed in wiskunde.	male.n.02 Name "John" time.n.08 EQU now good.a.08 AttributeOf -2 Time -1 Theme +1 mathematics.n.01
+Een spons neemt water op.	NEGATION <1 sponge.n.01 NEGATION <1 absorb.v.01 Goal -1 Theme +1 water.n.01
+Wie heeft radium ontdekt?	person.n.01 Name ? radium.n.01 discover.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+Hij is niet langer dan ik.	male.n.02 NEGATION <1 time.n.08 EQU now tall.a.01 AttributeOf -2 Time -1 Degree +1 more.r.01 Theme -3 Co-Theme +1 person.n.01 EQU speaker
+Hoe hoog is de Matterhorn?	tall.a.01 Value ? Time +1 AttributeOf +2 time.n.08 EQU now mountain.n.01 Name "Matterhorn"
+Ik kan jullie niet helpen.	person.n.01 EQU speaker NEGATION <1 POSSIBILITY <1 person.n.01 EQU hearer help.v.01 Agent -2 Beneficiary -1
+Ze verbrandden het papier.	person.n.01 burn.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now paper.n.01
+Ik groeide op in dat huis.	person.n.01 EQU speaker grow_up.v.01 Patient -1 Time +1 Location +2 time.n.08 TPR now location.n.01 STI +1 house.n.01
+Mijn camera is waterdicht.	person.n.01 EQU speaker camera.n.01 User -1 time.n.08 EQU now waterproof.a.01 AttributeOf -2 Time -1
+Vier maal vijf is twintig.	number.n.02 EQU 4 times.n.02 Theme -1 Co-Theme +1 number.n.02 EQU 5 be.v.06 Theme -2 Co-Theme +1 number.n.02 EQU 20
+Niemand woont in dit huis.	NEGATION <1 person.n.01 live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now house.n.01
+Ik heb de appel opgegeten.	person.n.01 EQU speaker apple.n.01 eat.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+Bob is populair op school.	male.n.02 Name "Bob" time.n.08 EQU now popular.a.01 Stimulus -2 Time -1 Context +1 school.n.06
+Tom zegt dat hij bezig is.	male.n.02 Name "Tom" say.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 male.n.02 ANA -3 busy.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+Mijn horloge was gestolen.	person.n.01 EQU speaker watch.n.01 User -1 time.n.08 TPR now steal.v.01 Theme -2 Time -1
+Tom is een vriend van mij.	male.n.02 Name "Tom" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 friend.n.01 Of +1 person.n.01 EQU speaker
+Zij heeft niet geluisterd.	female.n.02 NEGATION <1 listen.v.02 Agent -1 Time +1 time.n.08 TPR now
+Ik zal jou dit boek geven.	person.n.01 EQU speaker time.n.08 TSU now person.n.01 EQU hearer book.n.02 give.v.03 Agent -4 Time -3 Recipient -2 Theme -1
+Hij sprong in het zwembad.	male.n.02 jump.v.01 Theme -1 Time +1 Destination +2 time.n.08 TPR now swimming_pool.n.01
+Dit medicijn smaakt bitter.	medicine.n.02 taste.v.04 Theme -1 Time +1 Attribute +2 time.n.08 EQU now bitter.a.06 AttributeOf -3
+Ik ben allergisch voor vis.	person.n.01 EQU speaker time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 fish.n.02
+Waar zijn de parkeermeters?	location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now parking_meter.n.01
+Momenteel werk ik in Tokio.	time.n.08 EQU now work.v.02 Time -1 Time +1 Agent +2 Location +3 time.n.08 EQU now person.n.01 EQU speaker city.n.01 Name "Tokio"
+Onze school is 80 jaar oud.	person.n.01 Sub speaker school.n.01 User -1 time.n.08 EQU now quantity.n.01 EQU 80 year.n.01 Quantity -1 old.a.02 Theme -4 Time -3 Value -1
+Tom is een ex-gedetineerde.	male.n.02 Name "Tom" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now time.n.08 TPR now person.n.01 Role +1 con.n.02 Time -2
+Mama heeft de tafel gedekt.	person.n.01 Role +1 mom.n.01 table.n.02 spread.v.04 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+Italië versloeg Kazachstan.	team.n.01 Name "Italië" beat.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now team.n.01 Name "Kazachstan"
+Hij klaagde over de herrie.	male.n.02 complain.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now noise.n.01
+Beverly werkte voor WEDCOR.	female.n.02 Name "Beverly" work.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now company.n.01 Name "WEDCOR"
+Deze student is Amerikaans.	person.n.01 Role +1 student.n.01 time.n.08 EQU now be.v.03 Attribute -3 Time -1 Source +1 country.n.02 Name "america"
+De haas bloedt aan het oor.	hare.n.01 bleed.v.01 Patient -1 Time +1 Source +2 time.n.08 EQU now ear.n.01
+Tom is de ketchup vergeten.	male.n.02 Name "Tom" ketchup.n.01 forget.v.04 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+Guus Hiddink is Nederlands.	male.n.02 Name "Guus Hiddink" time.n.08 EQU now be.v.03 Theme -2 Time -1 Source +1 country.n.02 Name "netherlands"
+Hij is niet dommer dan jij.	male.n.02 NEGATION <1 time.n.08 EQU now dumb.a.01 AttributeOf -2 Time -1 Degree +1 more.r.01 Theme -3 Co-Theme +1 person.n.01 EQU hearer
+Waar zijn de reddingsboten?	location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now lifeboat.n.01
+Ik was gewend aan de hitte.	person.n.01 EQU speaker time.n.08 TPR now used_to.a.01 Agent -2 Time -1 Theme +1 heat.n.02
+De oorlog duurde twee jaar.	war.n.01 last.v.01 Theme -1 Time +1 Value +3 time.n.08 TPR now quantity.n.01 EQU 2 year.n.01 Quantity -1
+Niemand kan hem overtreffen.	NEGATION <1 person.n.01 POSSIBILITY <1 male.n.02 surpass.v.02 Theme -2 Co-Theme -1
+Ik kijk naar kunstschaatsen.	person.n.01 EQU speaker watch.v.03 Agent -1 Time +1 Theme +2 time.n.08 EQU now figure_skating.n.01
+Hoeveel inwoners heeft Irak?	person.n.01 Quantity ? Role +1 inhabitant.n.01 have.v.02 Theme -2 Time +1 Pivot +2 time.n.08 EQU now country.n.02 Name "Irak"
+Wie is de Hongaarse premier?	person.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now country.n.02 Name "hungary" person.n.01 Source -1 Role +1 prime_minister.n.02
+Misschien heb ik overdreven.	POSSIBILITY <1 person.n.01 EQU speaker exaggerate.v.01 Agent -1 Time +1 time.n.08 TPR now
+Ze bezit tweeduizend boeken.	female.n.02 own.v.01 Pivot -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 2000 book.n.02 Quantity -1
+Mayuko kwam de kamer binnen.	female.n.02 Name "Mayuko" enter.v.01 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01
+Het restaurant was niet vol.	restaurant.n.01 NEGATION <1 time.n.08 TPR now full.a.01 AttributeOf -2 Time -1
+De kamer was propvol mensen.	room.n.01 time.n.08 TPR now packed.a.01 AttributeOf -2 Time -1 Theme +1 person.n.01
+Mijn ouders komen uit China.	person.n.01 EQU speaker person.n.01 Role +1 parent.n.01 Of -2 come.v.08 Theme -2 Time +1 Location +2 time.n.08 EQU now country.n.02 Name "China"
+Spreken ze in Canada Engels?	speak.v.03 Time +1 Agent +2 Location +3 Theme +4 time.n.08 EQU now person.n.01 country.n.02 Name "Canada" english.n.01
+Ik ben naar Nagasaki gegaan.	person.n.01 EQU speaker city.n.01 Name "Nagasaki" go.v.01 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+Alles wat hij zegt, is waar.	CONDITION <1 entity.n.01 EQU +1 entity.n.01 male.n.02 say.v.01 Topic -2 Agent -1 Time +1 time.n.08 EQU now CONSEQUENCE <1 time.n.08 EQU now true.a.01 AttributeOf -5 Time -1
+Dit is een bericht voor hun.	entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now message.n.01 Destination +1 person.n.01
+Maar het heelal is oneindig.	universe.n.01 time.n.08 EQU now infinite.a.01 AttributeOf -2 Time -1
+Een dolfijn is een zoogdier.	NEGATION <1 dolphin.n.02 NEGATION <1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now mammal.n.01
+Hij is allergisch voor stof.	male.n.02 time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 dust.n.01
+Mary draagt een plastic jurk.	female.n.02 Name "Mary" wear.v.01 Agent -1 Time +1 Theme +3 time.n.08 EQU now plastic.n.01 dress.n.01 MadeOf -1
+Zij fronste haar wenkbrouwen.	female.n.02 wrinkle.v.03 Agent -1 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 brow.n.02 PartOf -1
+Deze weg is niet heel veilig.	road.n.01 NEGATION <1 time.n.08 EQU now very.r.01 safe.a.01 AttributeOf -3 Time -2 Degree -1
+Wie schilderde "De Schreeuw"?	person.n.01 Name ? paint.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now painting.n.01 Name "De Schreeuw"
+Mijn computer is vastgelopen.	person.n.01 EQU speaker computer.n.01 User -1 freeze.v.01 Patient -1 Time +1 time.n.08 TPR now
+Deze vogel is een kwikstaart.	bird.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now wagtail.n.01
+Ik woon momenteel in Kunming.	person.n.01 EQU speaker live.v.01 Theme -1 Time +1 Time +2 Location +3 time.n.08 EQU now time.n.08 EQU now city.n.01 Name "Kunming"
+Tom denkt dat ik jaloers ben.	male.n.02 Name "Tom" think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU speaker jealous.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+Het is tien minuten voor elf.	time.n.08 EQU now EQU +1 time.n.08 ClockTime 10:50
+Tom en Mary spelen tikkertje.	male.n.02 Name "Tom" entity.n.01 Sub -1 Sub +1 female.n.02 Name "Mary" play.v.01 Agent -2 Time +1 Theme +2 time.n.08 EQU now tag.n.04
+Waar is Adolf Hitler geboren?	location.n.01 Name ? time.n.08 TPR now male.n.02 Name "Adolf Hitler" bear.v.02 Location -3 Time -2 Patient -1
+Betty vermoordde haar moeder.	female.n.02 Name "Betty" kill.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 person.n.01 Role +1 mother.n.01 Of -2
+Amerika schafte slavernij af.	state.n.04 Name "Amerika" do_away_with.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now slavery.n.02
+Oscar Chisini stierf in 1967.	male.n.02 Name "Oscar Chisini" die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1967
+De wind waait uit het oosten.	wind.n.01 blow.v.02 Theme -1 Time +1 Source +2 time.n.08 EQU now east.n.05
+Ze voegde melk bij de koffie.	female.n.02 add.v.01 Agent -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now milk.n.01 coffee.n.01
+Ik heb met mijn baas geslapen.	person.n.01 EQU speaker person.n.01 EQU speaker person.n.01 Role +1 boss.n.01 Of -2 sleep_with.v.01 Agent -4 Co-Agent -2 Time +1 time.n.08 TPR now
+Zij waren geboren in Thailand.	person.n.01 time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 country.n.02 Name "Thailand"
+Ze heeft ongeveer 2000 boeken.	female.n.02 have.v.01 Pivot -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 APX 2000 book.n.02 Quantity -1
+Je horloge ligt op het bureau.	person.n.01 EQU hearer watch.n.01 User -1 lie.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now desk.n.01
+Mary masseerde mijn schouders.	female.n.02 Name "Mary" massage.v.01 Agent -1 Time +1 Experiencer +3 time.n.08 TPR now person.n.01 EQU speaker shoulder.n.01 PartOf -1
+Dagbladet is een Noorse krant.	company.n.01 Name "Dagbladet" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now country.n.02 Name "norway" newspaper.n.02 Location -1
+Ze is verslaafd aan Farmville.	female.n.02 time.n.08 EQU now hooked.a.02 Experiencer -2 Time -1 Stimulus +1 software.n.01 Name "Farmville"
+Mijn huis staat op een heuvel.	person.n.01 EQU speaker house.n.01 User -1 be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now hill.n.01
+Als het regent, komt hij niet.	NEGATION <1 entity.n.01 rain.v.01 EQU -1 Time +1 time.n.08 EQU now CONSEQUENCE <1 come.v.02 Time +1 Theme +2 time.n.08 TSU now male.n.02
+De blauwe rozen zijn erg mooi.	blue.a.01 rose.n.01 Colour -1 time.n.08 EQU now very.r.01 beautiful.a.01 AttributeOf -3 Time -2 Degree -1
+Hij speelde piano en zij zong.	male.n.02 play.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now piano.n.01 CONTINUATION <1 female.n.02 sing.v.01 Agent -1 Time +1 time.n.08 TPR now
+Waar overleed Irving Mitchell?	location.n.01 Name ? die.v.01 Location -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Irving Mitchell"
+Het dak van mijn huis is rood.	roof.n.01 PartOf +2 person.n.01 EQU speaker house.n.01 User -1 time.n.08 EQU now red.a.01 ColourOf -4 Time -1
+Bill werd gedood door die man.	male.n.02 Name "Bill" time.n.08 TPR now kill.v.01 Patient -2 Time -1 Agent +1 man.n.01
+Hij vertaalt mijn zinnen nooit.	male.n.02 NEGATION <1 translate.v.01 Agent -1 Time +1 Patient +3 time.n.08 EQU now person.n.01 EQU speaker sentence.n.01 Creator -1
+Mary is tijd aan het verliezen.	female.n.02 Name "Mary" time.n.08 EQU now time.n.02 waste.v.01 Agent -3 Time -2 Asset -1
+Tom is allergisch voor pinda's.	male.n.02 Name "Tom" time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 peanut.n.01
+De trein ging 500 mijl per uur.	train.n.01 go.v.01 Theme -1 Time +1 Value +4 time.n.08 TPR now quantity.n.01 EQU 500 mile.n.01 Quantity -1 division.n.11 Theme -1 Co-Theme +1 hour.n.01 Quantity 1
+Gloeilampen stralen warmte uit.	lightbulb.n.01 emit.v.02 Source -1 Time +1 Theme +2 time.n.08 EQU now heat.n.01
+Hughes was getrouwd met Gracia.	male.n.02 Name "Hughes" time.n.08 TPR now married.a.01 AttributeOf -2 Time -1 Theme +1 female.n.02 Name "Gracia"
+Ik had een vreselijke maagpijn.	person.n.01 EQU speaker have.v.16 Experiencer -1 Time +1 Stimulus +3 time.n.08 TPR now bad.a.03 AttributeOf +1 stomachache.n.01
+Wie heeft de bijbel geschreven?	person.n.01 Name ? book.n.01 Name "bijbel" write.v.01 Agent -2 Result -1 Time +1 time.n.08 TPR now
+Tom gebruikte een tandenstoker.	male.n.02 Name "Tom" use.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now toothpick.n.01
+Hij werd 10.000 dollar betaald.	male.n.02 time.n.08 TPR now quantity.n.01 EQU 10000 dollar.n.01 Quantity -1 pay.v.01 Recipient -4 Time -3 Asset -1
+Welke taal spreken ze in de VS?	language.n.01 EQU ? speak.v.03 Theme -1 Time +1 Agent +2 Location +3 time.n.08 EQU now person.n.01 country.n.02 Name "VS"
+Tom stompte hem in het gezicht.	male.n.02 Name "Tom" punch.v.01 Agent -1 Time +1 Patient +2 Location +3 time.n.08 TPR now male.n.02 ANA -3 face.n.01
+China is veel groter dan Japan.	country.n.02 Name "China" time.n.08 EQU now measure.n.02 Quantity + big.a.01 AttributeOf -3 Time -2 Degree +1 more.r.01 Theme -4 Value -2 Co-Theme +1 country.n.02 Name "Japan"
+Tom duwde Maria van de klif af.	male.n.02 Name "Tom" push.v.01 Agent -1 Time +1 Theme +2 Source +3 time.n.08 TPR now female.n.02 Name "Maria" cliff.n.01
+Is deze zitplaats gereserveerd?	time.n.08 EQU now seat.n.01 reserved.a.01 Time -2 AttributeOf -1
+Hij klopte op de gesloten deur.	male.n.02 knock.v.02 Agent -1 Time +1 Patient +3 time.n.08 TPR now closed.a.01 AttributeOf +1 door.n.01
+Ze is blij met haar nieuwe jurk.	female.n.02 time.n.08 EQU now pleased.a.01 Experiencer -2 Time -1 Stimulus +3 female.n.02 ANA -3 new.a.01 AttributeOf +1 dress.n.01 User -2
+Mary werd ontvoerd door piraten.	female.n.02 Name "Mary" time.n.08 TPR now kidnap.v.01 Theme -2 Time -1 Agent +1 person.n.01 Role +1 pirate.n.02
+Iedereen behalve Tom glimlachte.	NEGATION <1 person.n.01 NEQ +1 male.n.02 Name "Tom" NEGATION <1 smile.v.01 Agent -2 Time +1 time.n.08 TPR now
+Dick speelde piano en Lucy zong.	male.n.02 Name "Dick" play.v.07 Agent -1 Time +1 Theme +2 time.n.08 TPR now piano.n.01 CONTINUATION <1 female.n.02 Name "Lucy" sing.v.02 Agent -1 Time +1 time.n.08 TPR now
+Ik kan mijn horloge niet vinden.	person.n.01 EQU speaker NEGATION <1 POSSIBILITY <1 person.n.01 EQU speaker watch.n.01 User -1 find.v.03 Agent -3 Theme -1
+Ik mag hem omdat hij eerlijk is.	person.n.01 EQU speaker like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 EXPLANATION <1 male.n.02 ANA -1 honest.a.03 AttributeOf -1 Time +1 time.n.08 EQU now
+Kieslowski is een filmregisseur.	male.n.02 Name "Kieslowski" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 director.n.03
+Hij heeft zijn snor afgeschoren.	male.n.02 male.n.02 ANA -1 mustache.n.01 PartOf -1 shave.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+Accardo componeerde 24 Caprices.	male.n.02 Name "Accardo" compose.v.02 Agent -1 Time +1 Result +3 time.n.08 TPR now quantity.n.01 EQU 24 capriccio.n.01 Quantity -1
+Je kan niet op dat eiland wonen.	NEGATION <1 person.n.01 NEGATION <1 NEGATION <1 POSSIBILITY <1 island.n.01 live.v.01 Theme -2 Location -1
+Mijn vrouw houdt van appeltaart.	person.n.01 EQU speaker person.n.01 Role +1 wife.n.01 Of -2 love.v.01 Experiencer -2 Time +1 Stimulus +2 time.n.08 EQU now apple_pie.n.01
+Hij werd verkozen tot president.	male.n.02 time.n.08 TPR now elect.v.01 Theme -2 Time -1 Result +1 person.n.01 Role +1 president.n.03
+Leloir is geboren in Argentinië.	male.n.02 Name "Leloir" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 country.n.02 Name "Argentinië"
+Jim begeleidde haar op de piano.	male.n.02 Name "Jim" accompany.v.03 Agent -1 Time +1 Theme +2 Instrument +3 time.n.08 TPR now female.n.02 piano.n.01
+Carl Smith stierf op 8 augustus.	male.n.02 Name "Carl Smith" die.v.01 Patient -1 Time +1 Time +3 time.n.08 TPR now time.n.08 DayOfMonth 8 EQU +1 time.n.08 MonthOfYear 8
+We hebben een half dozijn eieren.	person.n.01 Sub speaker have.v.01 Pivot -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+Anna Politkovskaja werd vermoord.	female.n.02 Name "Anna Politkovskaja" time.n.08 TPR now murder.v.01 Patient -2 Time -1
+Hij vloog van London naar Parijs.	male.n.02 fly.v.01 Theme -1 Time +1 Source +2 Destination +3 time.n.08 TPR now city.n.01 Name "London" city.n.01 Name "Parijs"
+Onze klas bestaat uit 40 jongens.	person.n.01 Sub speaker class.n.02 Part -1 consist.v.04 Theme -1 Time +1 Attribute +3 time.n.08 EQU now quantity.n.01 EQU 40 boy.n.01 Quantity -1
+Wat is de voornaam van Milosevic?	entity.n.01 EQU ? be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now first_name.n.01 Bearer +1 male.n.02 Name "Milosevic"
+Overstromingen verwoesten Europa.	flood.n.01 ravage.v.02 Causer -1 Time +1 Patient +2 time.n.08 EQU now continent.n.01 Name "Europa"
+Tom is door een tijger opgegeten.	male.n.02 Name "Tom" time.n.08 EQU now tiger.n.02 eat.v.01 Patient -3 Time -2 Agent -1
+Ik ben niet trots op mijn gedrag.	person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now proud.a.01 Experiencer -2 Time -1 Stimulus +2 person.n.01 EQU speaker behaviour.n.02 User -1
+Bestaan er pitloze watermeloenen?	exist.v.01 Time +1 EQU +2 Theme +4 time.n.08 EQU now entity.n.01 seedless.a.01 AttributeOf +1 watermelon.n.02
+Rusland is bang voor het systeem.	state.n.03 Name "Rusland" time.n.08 EQU now fear.v.02 Experiencer -2 Time -1 Stimulus +1 system.n.02
+Ik mag Tom, omdat hij eerlijk is.	person.n.01 EQU speaker like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "Tom" EXPLANATION <1 male.n.02 ANA -1 honest.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+Het zal meer dan 10.000 yen zijn.	entity.n.01 time.n.08 TSU now quantity.n.01 MOR +1 quantity.n.01 EQU 10000 yen.n.02 Quantity -2 cost.v.01 Theme -5 Time -4 Value -1
+Minton werd geboren in Australië.	female.n.02 Name "Minton" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 country.n.02 Name "Australië"
+Waar staat de afkorting ETA voor?	entity.n.01 Name ? stand_for.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now abbreviation.n.01 EQU +1 word.n.01 EQU "ETA"
+De toeristen bezoeken het museum.	person.n.01 Role +1 tourist.n.01 visit.v.01 Agent -2 Time +1 Theme +2 time.n.08 EQU now museum.n.01
+Tom schreef zijn naam op het bord.	male.n.02 Name "Tom" write.v.07 Agent -1 Time +1 Theme +3 Destination +4 time.n.08 TPR now male.n.02 ANA -3 name.n.01 Bearer -1 blackboard.n.01
+Ik heb zojuist uw brief ontvangen.	person.n.01 EQU speaker just.r.03 person.n.01 EQU hearer letter.n.01 Creator -1 receive.v.01 Agent -4 Manner -3 Theme -1 Time +1 time.n.08 TPR now
+Ik spreek Engels, Frans en Spaans.	person.n.01 EQU speaker speak.v.03 Agent -1 Time +1 Theme +4 time.n.08 EQU now english.n.01 french.n.01 entity.n.01 Sub -2 Sub -1 Sub +1 spanish.n.01
+In welke stad is het Prado Museum?	city.n.01 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now museum.n.01 Name "Prado Museum"
+Bill heeft de misdaad niet begaan.	male.n.02 Name "Bill" NEGATION <1 crime.n.01 commit.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+De dokter onderzocht de patiënten.	person.n.01 Role +1 doctor.n.01 examine.v.02 Agent -2 Time +1 Theme +2 time.n.08 TPR now person.n.01 Role +1 patient.n.01
+Saddam Hoessein vlucht naar de VS.	male.n.02 Name "Saddam Hoessein" flee.v.01 Theme -1 Time +1 Destination +2 time.n.08 EQU now country.n.02 Name "VS"
+Waarom ging Jane naar het station?	reason.n.01 EQU ? go.v.01 Causer -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now female.n.02 Name "Jane" station.n.01
+Onze trein vertrekt om half negen.	person.n.01 Sub speaker train.n.01 User -1 leave.v.01 Theme -1 Time +1 Time +2 time.n.08 TSU now time.n.08 ClockTime 20:30
+Tom zei dat het een noodgeval was.	male.n.02 Name "Tom" say.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 entity.n.01 emergency.n.01 be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 TPR now
+Hij werd beschuldigd van diefstal.	male.n.02 time.n.08 TPR now accuse.v.01 Theme -2 Time -1 Attribute +1 theft.n.01
+Deze kaas heeft een scherpe smaak.	cheese.n.01 have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now sharp.a.08 AttributeOf +1 taste.n.01
+Er zijn zes mensen, inclusief hem.	entity.n.01 be.v.01 EQU -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 6 person.n.01 Quantity -1 Sub +1 male.n.02
+Mayuko ontwierp haar eigen kleding.	female.n.02 Name "Mayuko" design.v.03 Agent -1 Time +1 Result +3 time.n.08 TPR now female.n.02 ANA -3 clothes.n.01 User -1
+"Sophie's World" is een bestseller.	book.n.01 Name "Sophie's World" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now best_seller.n.01
+Zijn nieuwe auto is wonderbaarlijk.	male.n.02 new.a.01 AttributeOf +1 car.n.01 User -2 time.n.08 EQU now wonderful.a.01 AttributeOf -2 Time -1
+Wie is bestuursvoorzitter van Fiat?	person.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 president.n.01 Of +1 company.n.01 Name "Fiat"
+Pierce woont aan de E. 28th Street.	male.n.02 Name "Pierce" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now way.n.06 Name "E. 28th Street"
+Mijn vader is een beetje ouderwets.	person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 time.n.08 EQU now measure.n.02 Quantity - old-fashioned.a.01 Theme -4 Time -2 Value -1
+Jullie zijn heel schattige jongens.	person.n.01 EQU hearer be.v.01 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now very.r.01 cute.a.01 Degree -1 AttributeOf +1 boy.n.01
+Cristiani vermoordde zes jezuïeten.	male.n.02 Name "Cristiani" kill.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 6 person.n.01 Quantity -1 Role +1 jesuit.n.01
+Ik transpireerde onder mijn oksels.	person.n.01 EQU speaker perspire.v.01 Source -1 Time +1 Location +2 time.n.08 TPR now location.n.01 SZN +2 person.n.01 EQU speaker armpit.n.01 PartOf -1
+Bij welke groep hoorde John Lennon?	group.n.01 Name ? belong.v.05 Goal -1 Time +1 Theme +2 time.n.08 TPR now male.n.02 Name "John Lennon"
+Fastfood is zeer populair in Japan.	fast_food.n.01 time.n.08 EQU now very.r.01 popular.a.01 AttributeOf -3 Time -2 Degree -1 Location +1 country.n.02 Name "Japan"
+De telefoon rinkelde herhaaldelijk.	telephone.n.01 ring.v.01 Theme -1 Time +1 time.n.08 TPR now
+De vergadering duurde tot vijf uur.	meeting.n.01 last.v.01 Theme -1 Time +1 Finish +2 time.n.08 TPR now time.n.08 ClockTime 17:00
+Mijn vriend houdt van chocolade-ijs.	person.n.01 EQU speaker person.n.01 Role +1 friend.n.01 Of -2 like.v.02 Experiencer -2 Time +1 Stimulus +2 time.n.08 EQU now chocolate_ice_cream.n.01
+Ons vliegtuig vloog boven de wolken.	person.n.01 Sub speaker plane.n.01 User -1 fly.v.01 Theme -1 Time +1 Location +2 time.n.08 TPR now location.n.01 SZP +1 cloud.n.02
+Niemand heeft het probleem opgelost.	NEGATION <1 person.n.01 problem.n.02 solve.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+Ze schonken geld aan het Rode Kruis.	person.n.01 donate.v.01 Agent -1 Time +1 Theme +2 Recipient +3 time.n.08 TPR now money.n.01 organization.n.01 Name "Rode Kruis"
+De Everglades is 75 kilometer breed.	park.n.01 Name "Everglades" time.n.08 EQU now quantity.n.01 EQU 75 kilometer.n.01 Quantity -1 wide.a.01 Theme -4 Time -3 Value -1
+Tom woont sinds drie jaar in Boston.	male.n.02 Name "Tom" live.v.01 Theme -1 Time +1 Duration +3 Location +4 time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 city.n.01 Name "Boston"
+Welke vereniging leidt Hope Holcomb?	association.n.01 Name ? lead.v.07 Theme -1 Time +1 Agent +2 time.n.08 EQU now female.n.02 Name "Hope Holcomb"
+Iemand heeft mijn paspoort gestolen.	person.n.01 person.n.01 EQU speaker passport.n.02 User -1 steal.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+Nancy Ianiero werd gedood in Mexico.	female.n.02 Name "Nancy Ianiero" time.n.08 TPR now kill.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Mexico"
+Hij werd door een tijger verslonden.	male.n.02 time.n.08 TPR now tiger.n.02 devour.v.04 Time -2 Patient -3 Agent -1 Time +1 time.n.08 TPR now
+Het comité bestaat uit twaalf leden.	committee.n.01 consist.v.04 Theme -1 Time +1 Attribute +3 time.n.08 EQU now quantity.n.01 EQU 12 person.n.01 Quantity -1 Role +1 member.n.01
+De Kanchenjunga is 8.586 meter hoog.	mountain.n.01 Name "Kanchenjunga" time.n.08 EQU now quantity.n.01 EQU 8586 meter.n.01 Quantity -1 high.a.02 Theme -4 Time -3 Value -1
+Waar hebben jullie de jongen gezien?	location.n.01 EQU ? person.n.01 EQU hearer boy.n.01 see.v.01 Location -3 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+Voor welk bedrijf werkt Sid Gregory?	company.n.01 Name ? work.v.02 Co-Agent -1 Time +1 Agent +2 time.n.08 EQU now male.n.02 Name "Sid Gregory"
+Nelson Beavers werkte voor Eurofins.	male.n.02 Name "Nelson Beavers" work.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now company.n.01 Name "Eurofins"
+Hoeveel kinderen heeft Anthony Quinn?	child.n.02 Quantity ? have.v.01 Theme -1 Time +1 Pivot +2 time.n.08 EQU now male.n.02 Name "Anthony Quinn"
+Zijn speech was een regelrechte ramp.	male.n.02 speech.n.01 Creator -1 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now unmitigated.a.01 AttributeOf +1 disaster.n.01
+Hij maakte een boekenplank voor haar.	male.n.02 make.v.06 Agent -1 Time +1 Product +2 Beneficiary +3 time.n.08 TPR now bookshelf.n.01 female.n.02
+Het eiland ligt ten westen van Japan.	island.n.01 lie.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now west.n.08 Of +1 country.n.02 Name "Japan"
+Het sneeuwde van maandag tot vrijdag.	entity.n.01 snow.v.01 Time +1 EQU -1 Start +2 Finish +3 time.n.08 TPR now time.n.08 DayOfWeek monday time.n.08 DayOfWeek friday
+Wie regisseerde "North by Northwest"?	person.n.01 Name ? direct.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now movie.n.01 Name "North by Northwest"
+John haalde een sleutel uit zijn zak.	male.n.02 Name "John" take.v.04 Agent -1 Time +1 Theme +2 time.n.08 TPR now key.n.01 Source +2 male.n.02 ANA -4 pocket.n.01 User -1
+Ik heb de radio gerepareerd voor hem.	person.n.01 EQU speaker radio.n.02 fix.v.01 Agent -2 Patient -1 Time +1 Beneficiary +2 time.n.08 TPR now male.n.02
+PM verwierf drie Russische fabrieken.	company.n.01 Name "PM" acquire.v.01 Agent -1 Time +1 Theme +4 time.n.08 TPR now quantity.n.01 EQU 3 location.n.01 Name "russia" factory.n.01 Quantity -2 Source -1
+Franz Liszt leefde van 1811 tot 1886.	male.n.02 Name "Franz Liszt" live.v.01 Theme -1 Time +1 Start +2 Finish +3 time.n.08 TPR now time.n.08 YearOfCentury 1811 time.n.08 YearOfCentury 1886
+Mijn grootvader werd in 1920 geboren.	person.n.01 EQU speaker person.n.01 Role +1 grandfather.n.01 Of -2 time.n.08 TPR now time.n.08 YearOfCentury 1920 bear.v.02 Patient -4 Time -2 Time -1
+Hij vertrekt naar school om zeven uur.	male.n.02 leave.v.01 Theme -1 Time +1 Destination +2 Time +3 time.n.08 TSU now school.n.02 time.n.08 ClockTime 07:00
+Ik hoorde een geluid in de slaapkamer.	person.n.01 EQU speaker hear.v.01 Experiencer -1 Time +1 Stimulus +2 Location +3 time.n.08 TPR now noise.n.01 bedroom.n.01
+Marilyn Monroe stierf 33 jaar geleden.	female.n.02 Name "Marilyn Monroe" die.v.01 Patient -1 Time +1 Time +4 time.n.08 TPR now quantity.n.01 EQU 33 year.n.01 Quantity -1 TAB now time.n.08 TAB -1
+Ik heb dat telefoonummer opgeschreven.	person.n.01 EQU speaker telephone_number.n.01 write_down.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+Een alligator heeft zijn arm afgerukt.	alligator.n.02 male.n.02 arm.n.01 PartOf -1 snap_off.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+Het uitzicht vanaf de top is erg mooi.	view.n.02 Source +1 summit.n.02 time.n.08 EQU now very.r.01 nice.a.01 AttributeOf -4 Time -2 Degree -1
+De Falklandoorlog vond plaats in 1982.	war.n.01 Name "Falklandoorlog" take_place.v.01 Theme -1 Time +1 EQU +2 Time +3 time.n.08 TPR now entity.n.01 time.n.08 YearOfCentury 1982
+De bank leende hem vijfhonderd dollar.	bank.n.02 loan.v.01 Agent -1 Time +1 Recipient +2 Theme +4 time.n.08 TPR now male.n.02 quantity.n.01 EQU 500 dollar.n.01 Quantity -1
+België is niet zo groot als Frankrijk.	country.n.02 Name "België" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 big.a.01 AttributeOf -3 Time -2 Degree -1 country.n.02 Name "Frankrijk"
+In Alaska wonen miljoenen wilde dieren.	state.n.01 Name "Alaska" live.v.01 Location -1 Time +1 Theme +4 time.n.08 EQU now quantity.n.01 MOR 2000000 wild.a.02 AttributeOf +1 animal.n.01 Quantity -2
+Roemenië stuurde 730 troepen naar Irak.	state.n.03 Name "Roemenië" send.v.01 Agent -1 Time +1 Theme +3 Destination +4 time.n.08 TPR now quantity.n.01 EQU 730 troop.n.05 Quantity -1 country.n.02 Name "Irak"
+Tony Blair behoort tot de Labourpartij.	male.n.02 Name "Tony Blair" belong.v.05 Theme -1 Time +1 Pivot +2 time.n.08 EQU now party.n.01 Name "Labourpartij"
+In welke stad is Jorge Machado geboren?	city.n.01 Name ? time.n.08 TPR now male.n.02 Name "Jorge Machado" bear.v.02 Location -3 Time -2 Patient -1
+Hij had zijn hemd binnenste buiten aan.	male.n.02 have_on.v.01 Agent -1 Time +1 Theme +3 Manner +4 time.n.08 TPR now male.n.02 ANA -3 shirt.n.01 User -1 inside_out.r.01
+Mijn broer werkt in een benzinestation.	person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 work.v.02 Agent -2 Time +1 Location +2 time.n.08 EQU now gas_station.n.01
+De temperatuur daalde met enkele graden.	temperature.n.01 fall.v.02 Theme -1 Time +1 Value +2 time.n.08 TPR now degree_celsius.n.01 Quantity +
+We hebben een nieuwe wasmachine gekocht.	person.n.01 Sub speaker new.a.01 AttributeOf +1 washing_machine.n.01 buy.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+Placebo werkte samen met Marilyn Manson.	musical_organization.n.01 Name "Placebo" collaborate.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 Name "Marilyn Manson"
+Vladislav Listjev is in Moskou vermoord.	male.n.02 Name "Vladislav Listjev" time.n.08 TPR now city.n.01 Name "Moskou" murder.v.01 Patient -3 Time -2 Location -1
+O.J. Simpson werd beschuldigd van moord.	male.n.02 Name "orenthal james simpson" time.n.08 TPR now accuse.v.01 Theme -2 Time -1 Attribute +1 murder.n.01
+Mary kocht een microscoop voor zichzelf.	female.n.02 Name "Mary" buy.v.01 Agent -1 Time +1 Theme +2 Beneficiary +3 time.n.08 TPR now microscope.n.01 female.n.02 ANA -4
+Hij luisterde naar muziek op zijn kamer.	male.n.02 listen.v.01 Experiencer -1 Time +1 Stimulus +2 Location +4 time.n.08 TPR now music.n.01 male.n.02 ANA -4 room.n.01 User -1
+De misdadiger vluchtte uit de gevangenis.	person.n.01 Role +1 criminal.n.01 escape.v.01 Theme -2 Time +1 Source +2 time.n.08 TPR now prison.n.01
+De mensen in Brazilië waren trots op hem.	person.n.01 Location +1 country.n.02 Name "Brazilië" time.n.08 TPR now proud.a.01 Experiencer -3 Time -1 Stimulus +1 male.n.02
+Er staan fouten in deze telefoonrekening.	entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +3 time.n.08 EQU now error.n.07 phone_bill.n.01
+Meneer Suzuki is een goede wetenschapper.	mr.n.01 male.n.02 Name "Suzuki" Title -1 be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now great.a.02 AttributeOf +2 person.n.01 Role +1 scientist.n.01
+Deze muziek is populair bij jonge mensen.	music.n.01 time.n.08 EQU now popular.a.01 Stimulus -2 Time -1 Experiencer +2 young.a.01 Value + person.n.01 Attribute -1
+Ik kocht het voor ongeveer twaalf dollar.	person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 Asset +4 time.n.08 TPR now entity.n.01 quantity.n.01 APX 12 dollar.n.01 Quantity -1
+Mijn auto is uitgerust met een cd-speler.	person.n.01 EQU speaker car.n.01 User -1 time.n.08 EQU now equip.v.01 Recipient -2 Time -1 Theme +1 cd_player.n.01
+Hij heeft 1000 yen betaald voor dit boek.	male.n.02 quantity.n.01 EQU 1000 yen.n.02 Quantity -1 pay.v.01 Agent -3 Asset -1 Time +1 Theme +2 time.n.08 TPR now book.n.01
+Tom schepte op over zijn nieuwe telefoon.	male.n.02 Name "Tom" brag.v.01 Agent -1 Time +1 Theme +4 time.n.08 TPR now male.n.02 ANA -3 new.a.05 AttributeOf +1 phone.n.01 User -2
+Kraft heeft Celestial Seasonings verkocht.	company.n.01 Name "Kraft" company.n.01 Name "Celestial Seasonings" sell.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+De Amerikaanse Burgeroorlog begon in 1861.	war.n.01 Name "Amerikaanse Burgeroorlog" start.v.02 Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1861
+Ze kocht een woordenboek voor haar zuster.	female.n.02 buy.v.01 Agent -1 Time +1 Theme +2 Beneficiary +4 time.n.08 TPR now dictionary.n.01 female.n.02 ANA -4 person.n.01 Role +1 sister.n.01 Of -2
+Alfred Nobel is de uitvinder van dynamiet.	male.n.02 Name "Alfred Nobel" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 inventor.n.01 Result +1 dynamite.n.01
+Spartan Air Lines nam United Airways over.	company.n.01 Name "Spartan Air Lines" acquire.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now company.n.01 Name "United Airways"
+Mijn oom is mager, maar mijn tante is dik.	person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 time.n.08 EQU now slim.a.01 AttributeOf -3 Time -1 CONTRAST <1 person.n.01 EQU speaker person.n.01 Role +1 aunt.n.01 Of -2 time.n.08 EQU now fat.a.01 AttributeOf -3 Time -1
+Rosa Montero is een heel bijzondere vrouw.	female.n.02 Name "Rosa Montero" be.v.01 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now very.r.01 special.a.01 Degree -1 AttributeOf +1 woman.n.01
+Hij vertrok ongeveer tien minuten geleden.	male.n.02 leave.v.01 Theme -1 Time +1 Time +4 time.n.08 TPR now quantity.n.01 APX 10 minute.n.01 Quantity -1 TAB now time.n.08 TAB -1
+Extreem harde muziek onderbrak hun gesprek.	extremely.r.01 loud.a.01 Degree -1 Value + AttributeOf +1 music.n.01 interrupt.v.03 Causer -1 Time +1 Patient +3 time.n.08 TPR now person.n.01 conversation.n.01 Creator -1
+Onze heteluchtballon steeg op naar de hemel.	person.n.01 Sub speaker hot-air_balloon.n.01 User -1 rise.v.01 Theme -1 Time +1 Destination +2 time.n.08 TPR now sky.n.01
+Het is waar dat ze jong is, maar ze is wijs.	entity.n.01 time.n.08 EQU now true.a.01 Time -1 Proposition >1 EQU -2 CONTINUATION <0 female.n.02 young.a.01 Value + AttributeOf -1 Time +1 time.n.08 EQU now
+Een dollar is gelijk aan honderd dollarcent.	dollar.n.01 Quantity 1 time.n.08 EQU now equal.a.01 Theme -2 Time -1 Co-Theme +1 cent.n.01 Quantity 100
+Buenos Aires is de hoofdstad van Argentinië.	city.n.01 Name "Buenos Aires" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now capital.n.03 PartOf +1 state.n.04 Name "Argentinië"
+Ik kan luidruchtige kinderen niet verdragen.	person.n.01 EQU speaker NEGATION <1 POSSIBILITY <1 noisy.a.01 AttributeOf +1 child.n.01 stand.v.05 Experiencer -3 Stimulus -1
+De Macdonough verliet Hawaii op 10 augustus.	vehicle.n.01 Name "Macdonough" leave.v.01 Theme -1 Time +1 Source +2 Time +4 time.n.08 TPR now island.n.01 Name "Hawaii" time.n.08 DayOfMonth 10 EQU +1 time.n.08 MonthOfYear 8
+Ik kocht een fototoestel voor dertig dollar.	person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 Asset +4 time.n.08 TPR now camera.n.01 quantity.n.01 EQU 30 dollar.n.01 Quantity -1
+General Dynamics verliest 374 miljoen dollar.	company.n.01 Name "General Dynamics" lose.v.07 Agent -1 Time +1 Asset +3 time.n.08 EQU now quantity.n.01 EQU 374000000 dollar.n.01 Quantity -1
+Twee criminelen ontsnapten uit de gevangenis.	quantity.n.01 EQU 2 person.n.01 Quantity -1 Role +1 criminal.n.01 escape.v.01 Theme -2 Time +1 Source +2 time.n.08 TPR now prison.n.01
+De man stak een sigaret op met een aansteker.	man.n.01 light.v.04 Agent -1 Time +1 Product +2 Instrument +3 time.n.08 TPR now cigarette.n.01 lighter.n.02
+Ibrahim Sofu werd vermoord door Metin Kaplan.	male.n.02 Name "Ibrahim Sofu" time.n.08 TPR now murder.v.01 Patient -2 Time -1 Agent +1 male.n.02 Name "Metin Kaplan"
+Edison heeft de elektrische lamp uitgevonden.	male.n.02 Name "Edison" electric_lamp.n.01 invent.v.01 Agent -2 Result -1 Time +1 time.n.08 TPR now
+Antieke vloerkleden zijn bijzonder waardevol.	antique.a.01 AttributeOf +1 carpet.n.01 time.n.08 EQU now especially.r.01 valuable.a.01 AttributeOf -3 Time -2 Degree -1
+Welk bedrijf is door Nicholas Brady opgericht?	company.n.01 Name ? time.n.08 EQU now male.n.02 Name "Nicholas Brady" found.v.01 Theme -3 Time -2 Agent -1
+Hij werd gediskwalificeerd na een valse start.	male.n.02 time.n.08 TPR now disqualify.v.02 Theme -2 Time -1 Causer +2 false.a.03 AttributeOf +1 start.n.08
+Texas Instruments produceert mobiele telefoons.	organization.n.01 Name "Texas Instruments" produce.v.02 Agent -1 Time +1 Result +2 time.n.08 EQU now cellular_telephone.n.01
+Het eerste vliegtuig vloog 12 seconden in 1903.	airplane.n.01 Order 1 fly.v.01 Theme -1 Time +1 Duration +3 Time +4 time.n.08 TPR now quantity.n.01 EQU 12 second.n.01 Quantity -1 time.n.08 YearOfCentury 1903
+Hij was erg bang toen hij deze grote slang zag.	male.n.02 time.n.08 TPR now very.r.01 scared.a.01 Experiencer -3 Time -2 Degree -1 male.n.02 ANA -4 big.a.01 Value + snake.n.01 Attribute -1 see.v.01 Experiencer -3 TIN -4 Stimulus -1 Time +1 time.n.08 TPR now
+Het vliegtuig landde op het vliegveld in Narita.	airplane.n.01 land.v.01 Theme -1 Time +1 Destination +2 Location +3 time.n.08 TPR now airport.n.01 city.n.01 Name "Narita"
+Welk bedrijf wordt geleid door Michael J. Davis?	company.n.01 Name ? time.n.08 EQU now lead.v.07 Theme -2 Time -1 Agent +1 male.n.02 Name "michael james davis"
+Tom plakte een handgeschreven briefje op de deur.	male.n.02 Name "Tom" stick.v.01 Agent -1 Time +1 Theme +3 Destination +4 time.n.08 TPR now handwrite.v.01 Result +1 sign.n.02 door.n.01
+Romano Prodi wint de Italiaanse voorverkiezingen.	male.n.02 Name "Romano Prodi" win.v.01 Agent -1 Time +1 Theme +3 time.n.08 EQU now country.n.02 Name "italy" primary.n.01 Location -1
+Tegen welk schip botste de olietanker "New World"?	ship.n.01 Name ? crash.v.03 Patient -1 Time +1 Theme +2 time.n.08 TPR now oil_tanker.n.01 Name "New World"
+Zijn oudere zuster is ouder dan mijn oudste broer.	male.n.02 old.a.01 Degree +1 more.r.01 person.n.01 Attribute -2 Role +1 sister.n.01 Of -4 time.n.08 EQU now old.a.01 AttributeOf -3 Time -1 Degree +1 more.r.01 Theme -4 Co-Theme +4 person.n.01 EQU speaker old.a.01 Degree +1 most.r.01 person.n.01 Attribute -2 Role +1 brother.n.01 Of -4
+De film 'Speed' werd geregisseerd door Jan de Bont.	movie.n.01 Name "Speed" movie.n.01 EQU -1 time.n.08 TPR now direct.v.03 Theme -2 Time -1 Agent +1 male.n.02 Name "Jan de Bont"
+Ik zal niet spelen want ik heb mijn enkel verstuikt.	person.n.01 EQU speaker NEGATION <1 time.n.08 TSU now play.v.01 Agent -2 Time -1 EXPLANATION <1 person.n.01 EQU speaker person.n.01 EQU speaker ankle.n.01 PartOf -1 twist.v.10 Experiencer -3 Patient -1 Time +1 time.n.08 TPR now
+Mijn oom heeft twee jaar in Washington D.C. gewoond.	person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 quantity.n.01 EQU 2 year.n.01 Quantity -1 city.n.01 Name "washington, d.c." live.v.01 Theme -5 Duration -2 Location -1 Time +1 time.n.08 TPR now
+Zijn stappen waren duidelijk zichtbaar in de sneeuw.	male.n.02 step.n.09 Creator -1 time.n.08 TPR now clearly.r.04 visible.a.01 AttributeOf -3 Time -2 Manner -1 Location +1 snow.n.02
+Kapitein Scott bereikte Scotteiland in December 1902.	captain.n.01 male.n.02 Name "Scott" Title -1 reach.v.01 Theme -1 Time +1 Goal +2 Time +3 time.n.08 TPR now island.n.01 Name "Scotteiland" time.n.08 MonthOfYear 12 EQU +1 time.n.08 YearOfCentury 1902
+Onze ploeg heeft onze tegenstander met 5-4 verslagen.	person.n.01 Sub speaker team.n.01 Part -1 person.n.01 Sub speaker opponent.n.01 User -1 score.n.03 Value 5-4 defeat.v.01 Agent -4 Co-Agent -2 Extent -1 Time +1 time.n.08 TPR now
+Mijn tandvlees bloedt wanneer ik ook mijn tanden flos.	person.n.01 EQU speaker gum.n.02 PartOf -1 bleed.v.01 Source -1 Time +1 time.n.08 EQU now EXPLANATION <1 person.n.01 EQU speaker person.n.01 EQU speaker tooth.n.01 PartOf -1 floss.v.01 Agent -3 Patient -1 Time +1 time.n.08 EQU now
+De NNSA is de National Nuclear Security Administration.	agency.n.01 Name "NNSA" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now agency.n.01 Name "National Nuclear Security Administration"
+Welke prijs hebben Weinberg, Salam en Glashow gewonnen?	prize.n.01 Name ? male.n.02 Name "Weinberg" male.n.02 Name "Salam" entity.n.01 Sub -2 Sub -1 Sub +1 male.n.02 Name "Glashow" win.v.01 Theme -5 Agent -2 Time +1 time.n.08 TPR now
+Een tsunami raakte de noordoostelijke kust van Hokkaido.	tsunami.n.01 hit.v.05 Agent -1 Time +1 Patient +3 time.n.08 TPR now northeastern.a.01 AttributeOf +1 coast.n.01 PartOf +1 island.n.01 Name "Hokkaido"
+De lucht die we inademen bestaat uit zuurstof en stikstof.	air.n.01 person.n.01 breathe.v.01 Theme -2 Agent -1 Time +1 time.n.08 EQU now consist.v.04 Theme -4 Time +1 Attribute +3 time.n.08 EQU now oxygen.n.01 entity.n.01 Sub -1 Sub +1 nitrogen.n.01
+Michael Crichton is de auteur van het boek 'Jurassic Park'.	male.n.02 Name "Michael Crichton" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 author.n.01 Of +1 book.n.01 Name "Jurassic Park" book.n.01 EQU -1
+Saad Hariri werd verkozen tot minister-president van Libanon.	male.n.02 Name "Saad Hariri" time.n.08 TPR now elect.v.01 Theme -2 Time -1 Result +1 prime_minister.n.01 Of +1 country.n.02 Name "Libanon"
+Wie is de leider van de Algerijnse Gewapende Islamitische Groep?	person.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 leader.n.01 PartOf +2 country.n.02 Name "algeria" military_unit.n.01 Name "Gewapende Islamitische Groep" Source -1
+De kinderen pakten hun schaatsen en gingen richting de bevroren vijver.	child.n.01 take.v.04 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 ice_skate.n.01 User -1 CONTINUATION <1 make.v.28 Agent -5 Time +1 Destination +3 time.n.08 TPR now frozen.a.01 AttributeOf +1 pond.n.01

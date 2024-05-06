@@ -1,0 +1,4 @@
+僕らは待った。	person.n.01 Sub speaker wait.v.01 Theme -1 Time +1 time.n.08 TPR now
+トムは恐れない。	NEGATION <1 male.n.02 Name "トム" afraid.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+私たちはその湖で泳いだ。	person.n.01 Sub speaker lake.n.01 swim.v.01 Theme -2 Location -1 Time +1 time.n.08 TPR now
+彼は画家だ。	male.n.02 person.n.01 Role +1 painter.n.01 be.v.01 Theme -3 Co-Theme -2 Time +1 time.n.08 EQU now

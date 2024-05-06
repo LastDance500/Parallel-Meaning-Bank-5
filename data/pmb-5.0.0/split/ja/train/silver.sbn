@@ -1,0 +1,5808 @@
+p66/d2641
+そのバスは混んでいた。
+bus.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 で.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p44/d2793
+彼は甘いものが好きだ。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 like.v.01 Stimulus -1 Time +1 time.n.08 EQU now
+
+p04/d1869
+彼は荷物を下に置いた。
+male.n.02 luggage.n.01 entity.n.01 put.v.01 Agent -3 Goal -2 Asset -1 Time +1 time.n.08 TPR now
+
+p16/d1764
+それはとても私には出来ない。
+entity.n.01 person.n.01 EQU speaker beyond.v.01 Theme -2 Value -1
+
+p25/d3498
+合言葉?
+password.v.01
+
+p50/d2900
+彼は、私が話を終える前に電話を切った。
+male.n.02 person.n.01 EQU speaker 話.n.01 finish.v.01 Theme -2 Value -1 Time +1 EPR +3 time.n.08 EQU now up.n.01 hang_up.v.03 Theme -6 Value -1 Time +1 time.n.08 TPR now
+
+p25/d2854
+君を永遠に愛します。
+person.n.01 EQU speaker love.v.01 Stimulus -1 Time +1 time.n.08 EQU now CONTINUATION <0 entity.n.01 に.v.01 Proposition <1 Topic -1 Time +1 time.n.08 TSU now
+
+p10/d0781
+わたしは週に一度泳ぎます。
+person.n.01 EQU speaker 1.v.01 Frequency -1 CONTINUATION <0 entity.n.01 に.v.01 Proposition <1 Topic -1
+
+p78/d1706
+彼らは、産業を勉強します。
+person.n.01 industry.n.01 study.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+
+p37/d1495
+私は駅へ行った。
+person.n.01 EQU speaker station.n.01 go.v.01 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+
+p55/d2671
+彼は素手で鉄の棒を曲げられる。
+male.n.02 POSSIBILITY <1 hand.n.01 iron.n.01 rod.n.01 Attribute -1 bend.v.01 Agent -4 Agent -3 Theme -1
+
+p22/d2893
+正門前には、まだ人の姿もない。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 entity.n.01 Participant -1 ない.v.01 Participant -3 Theme -1
+
+p66/d3418
+彼の仕事は完成している。
+entity.n.01 Creator +1 male.n.02 work.n.02 Participant -2 完成.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p10/d1896
+私は夕食を作った。
+person.n.01 EQU speaker supper.n.01 make.v.15 Agent -2 Product -1 Time +1 time.n.08 TPR now
+
+p62/d0949
+私たちの学校は男子より女子の方が多い。
+entity.n.01 User +1 person.n.01 Sub speaker school.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 than.v.01
+
+p33/d3056
+彼は眼鏡を外した。
+male.n.02 glasses.n.01 外し.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p60/d2744
+私たちは車に乗り込んだ。
+person.n.01 Sub speaker car.n.01 get_into.v.02 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+
+p65/d3249
+私のペンを使うな。
+entity.n.01 User +1 person.n.01 EQU speaker pen.n.01 Participant -2 use.v.01 Asset -1
+
+p66/d3514
+平和はとても大切です。
+peace.n.01 great.r.01 importance.v.01 Theme -2 Attribute -1
+
+p15/d2686
+そのかわいそうなネコはトラックにひかれた。
+cat.n.01 truck.n.01 ひか.v.01 Theme -2 Value -1
+
+p88/d2105
+この池には以前蛙がたくさんいたものだった。
+pond.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 い.v.01 Theme -1
+
+p36/d2451
+彼の名前が名簿の最初に載っている。
+male.n.02 name.n.01 Bearer -1 名簿.n.01 entity.n.01 ContentOf -1 載っ.v.01 Theme -3 Location -1
+
+p32/d2121
+その袋は大きかった。おまけに重かった。
+entity.n.01 大きかっ.v.01 Theme -1 CONTINUATION <1 entity.n.01 重かっ.v.01 Theme -1
+
+p34/d2657
+負けた・・・。
+負け.v.01 Time +1 time.n.08 TPR now
+
+p12/d0877
+旧友に招待された。
+entity.n.01 invite.v.02 Theme -1 Time +1 time.n.08 TPR now
+
+p02/d2404
+私は酔っていない。
+person.n.01 EQU speaker 酔っ.v.01 Theme -1
+
+p42/d3315
+肉屋は肉をあきなう。
+person.n.01 Role +1 肉屋.n.01 meat.n.01 あきなう.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p21/d1403
+彼は１０分前に出発した。
+male.n.02 number.n.02 EQU 10 minute.n.01 Co-Theme -1 Theme +1 TAB now entity.n.01 time.n.08 TAB -2 TPR now leave.v.01 Theme -5 Time -1 time.n.08 EQU -2
+
+p62/d2472
+あなたが私を助けてくださるならば、その仕事を引き受けます。
+person.n.01 EQU hearer person.n.01 EQU speaker help.v.01 Agent -2 Beneficiary -1 work.n.01 accept.v.03 Theme -1 Time +1 time.n.08 TSU now
+
+p23/d1823
+問題でも起きたのか。
+問題.n.01 起き.v.01 Participant -1 Time +1 Participant +2 time.n.08 TPR now entity.n.01
+
+p58/d3155
+私は新しいミシンを買った。
+person.n.01 EQU speaker new.a.01 sewing_machine.n.01 Attribute -1 buy.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p13/d1855
+動くな！
+NEGATION <1 freeze.v.01
+
+p49/d1910
+彼女はいつも黒い服を着ている。
+female.n.02 black.n.01 ColourOf -1 EXPLANATION <1 entity.n.01 dress.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p68/d2999
+来い！
+come.v.01
+
+p22/d1892
+郵便局は町の中心部にある。
+post_office.n.01 town.n.01 center.n.01 PartOf -1 ContentOf +1 in.n.01 located.a.01 Theme -4 Location -2 Time +1 time.n.08 EQU now
+
+p80/d0792
+山の山頂は雪でおおわれている。
+mountain.n.01 summit.n.02 PartOf -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 snow.n.02 で.v.01 Proposition >1 Topic -1 CONTINUATION <0 おおわれ.v.01
+
+p09/d0882
+午後二時です。
+entity.n.01 です.v.01 Theme -1
+
+p67/d1765
+凧は鳥のような速さで空に舞い上がった。
+kite.n.03 entity.n.01 舞い上がっ.v.01 Theme -2 Value -1 CONTINUATION <0 bird.n.01 swiftness.n.01 PartOf -1 で.v.01 Proposition <1 Topic -1
+
+p41/d2041
+祖母は耳が遠い、つまり、耳が少し不自由なのだ。
+entity.n.01 不自由.v.01 Theme -1 EXPLANATION <1 entity.n.01 だ.v.01 Theme -1 CONTRAST <3 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 遠い.v.01 Theme -1
+
+p49/d2530
+クーデターは慎重に遂行された。
+クーデター.n.01 慎重.n.01 遂行.v.01 Theme -2 Manner -1 Agent +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p73/d0958
+あなたの名前は？
+person.n.01 EQU hearer name.n.01 Participant -1 は.a.01 Theme -1
+
+p04/d0843
+彼は年を取っている。
+male.n.02 old.a.01 取っ.v.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p10/d0846
+彼女の顔は幸せで輝いていた。
+female.n.02 face.n.02 Participant -1 happiness.n.01 radiant.v.01 Participant -2 Theme -1 Time +1 time.n.08 TPR now
+
+p28/d3064
+私は結婚のことで姉に相談した。
+entity.n.01 User +1 person.n.01 EQU speaker entity.n.01 相談.v.01 Theme -3 Value -1 CONTINUATION <0 marriage.n.01 entity.n.01 Participant -1 で.v.01 Proposition <1 Topic -1
+
+p07/d0824
+私は冷凍野菜は買わずに、いつも生野菜を買います。
+person.n.01 EQU speaker は.v.01 Proposition >2 Topic -1 CONTINUATION <0 buy.v.01 Time +1 time.n.08 EQU now CONTINUATION <0 frozen.a.05 vegetable.n.01 Attribute -1 は.v.01 Proposition <1 Topic -1 entity.n.01 NEGATION <1 time.n.01 NEGATION <1 buy.v.01 Theme -2 Time +1 time.n.08 EQU now terra_incognita.n.01 EQU -4 Participant -3
+
+p03/d2078
+彼は全く自制心がない。
+male.n.02 自制心.n.01 ない.a.01 Participant -2 Theme -1
+
+p47/d0957
+量より質が重要だ。
+entity.n.01 important.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+
+p73/d0914
+本気？
+seriously.v.01
+
+p05/d3301
+喜んで！
+entity.n.01 で.v.01 Theme -1
+
+p83/d0839
+彼は銀行預金が相当ある。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 相当.v.01 Theme -1
+
+p37/d0852
+僕はレストランの食事には飽き飽きしている。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 restaurant.n.01 eat.v.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 飽き飽き.v.01
+
+p28/d2890
+その老人は生きる意欲をなくした。
+entity.n.01 live.v.01 Theme +1 entity.n.01 lose.v.01 Agent -3 Theme -2 Time +1 time.n.08 TPR now
+
+p02/d3068
+彼女は数年間フランス語を勉強している。
+female.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 measure.n.02 Quantity - year.n.01 Proposition >1 Topic -1 CONTINUATION <0 french.n.01 study.v.04 Theme -1
+
+p80/d2055
+違う。うまく言えない。
+違う.v.01 CONTINUATION <1 言え.v.01
+
+p44/d3456
+俺はアル中だ。俺はヤク中だ。俺はゲイだ。俺は天才だ。
+俺.n.01 アル中.v.01 Theme -1 CONTINUATION <1 俺.n.01 ヤク中.v.01 Theme -1 CONTINUATION <1 俺.n.01 ゲイ.v.01 Theme -1 CONTINUATION <1 俺.n.01 天才.v.01 Theme -1
+
+p27/d2613
+彼は死にかけていた。
+male.n.02 死に.v.01 Theme -1 かけ.v.01 Causer -2 PartOf -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p45/d3001
+彼は頭痛がした。
+male.n.02 頭痛.n.01 し.v.01 Participant -2 Theme -1 Time +1 time.n.08 TPR now
+
+p16/d1844
+これはポケット型の辞書だ。
+this.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 pocket.n.01 dictionary.n.01 Participant -1 be.v.01 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p12/d3095
+この本は我々に役にたつ。
+book.n.01 use.n.01 great.a.01 Theme -2 Value -1 CONTINUATION <0 person.n.01 Sub speaker に.v.01 Proposition <1 Topic -1
+
+p31/d1675
+交通渋滞が１時間続いた。
+交通渋滞.n.01 last.v.01 Theme -1 CONTINUATION <0 number.n.02 EQU 1 hour.n.01 Proposition <1 Topic -1 Time +1 time.n.08 TPR now
+
+p22/d2118
+君はもう寝たほうがいい。
+person.n.01 EQU hearer は.v.01 Proposition >1 Topic -1 CONTINUATION <0 time.n.08 EQU now 寝.v.01 Time +1 Theme +2 time.n.08 TPR now entity.n.01 いい.v.01 Time -4 Theme -1
+
+p68/d2225
+近頃彼にしばしば会う。
+male.n.02 lately.v.01 Theme -1
+
+p23/d2691
+あたりは静かだ。
+entity.n.01 be.a.01 Theme -1 NEGATION <1 all.n.01 NEGATION <1 terra_incognita.n.01 EQU -2 Participant -1
+
+p73/d2516
+彼は息子に相当の財産を残した。
+male.n.02 entity.n.01 fortune.n.01 Participant -1 male.v.01 Theme -3 Value -1 CONTINUATION <0 entity.n.01 に.v.01 Proposition <1 Topic -1
+
+p78/d1912
+へいにペンキを塗る必要はなかった。
+entity.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 なかっ.v.01 Theme -1
+
+p50/d0823
+私は病気だったので家にいた。
+person.n.01 EQU speaker entity.n.01 い.v.01 Theme -2 Value -1 CONTINUATION <0 time.n.08 TPR now entity.n.01 で.v.01 Time -2 Proposition <1 Topic -1
+
+p94/d2452
+金を盗め。
+money.n.01 steal.v.01 Theme -1
+
+p97/d0827
+政府はこれらの法規を廃止すべきである。
+NECESSITY <1 government.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 regulation.n.01 Participant -1 廃止.v.01 Theme -1
+
+p22/d2865
+その橋は長い間使われていない。
+bridge.n.01 entity.n.01 time.n.01 use.v.01 Asset -3 Attribute -2 Participant -1 Experiencer +1 out.r.01
+
+p00/d3422
+もし僕が君だったら、そんなことはしないよ。
+person.n.01 EQU speaker person.n.01 EQU hearer be.v.01 Theme -2 Co-Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 TSU now CONTINUATION <0 entity.n.01 は.v.01 Proposition <1 Topic -1
+
+p78/d2477
+この機械が使えないのです。
+machine.n.01 use.v.01 Asset +1 entity.n.01 entity.n.01 です.v.01 Theme -4 Participant -2 Participant -1
+
+p31/d3545
+私は彼に百ドル借りている。
+person.n.01 EQU speaker male.n.02 ContentOf +1 に.n.01 number.n.02 EQU i owe.v.03 Agent -4 Theme -3 Beneficiary -1 Time +1 time.n.08 EQU now
+
+p73/d2825
+彼は付き合いにくい。
+male.n.02 にくい.v.01 Theme -1
+
+p73/d2261
+このセーターを着てごらんなさい。
+NECESSITY <1 sweater.n.01 wear.v.01 Theme -1
+
+p08/d1991
+すまない。
+NEGATION <1 すま.v.01
+
+p55/d2815
+とても寒かったので、彼らは家にいた。
+寒かっ.v.01 EXPLANATION <1 person.n.01 entity.n.01 い.v.01 Theme -2 Value -1
+
+p36/d2448
+その知らせはひどく彼女を心配させた。
+知らせ.n.01 ひどく.r.01 female.n.02 心配.v.01 Theme -1 せ.v.01 Causer -4 Manner -3 Patient -2 Result -1 Time +1 time.n.08 TPR now
+
+p09/d2150
+新聞によれば明日は雪だそうです。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 です.v.01 Theme -1
+
+p48/d2385
+隣の人とは仲良くすべきだ。
+NECESSITY <1 entity.n.01 entity.n.01 Participant -1 仲良く.v.01 Theme -1
+
+p41/d0910
+その両親は息子に期待しすぎだ。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 Role +1 son.n.01 に.v.01 Proposition >1 Topic -2 CONTINUATION <0 expect.v.01 Time +1 time.n.08 TPR now
+
+p61/d0780
+医者は患者たちを診察した。
+person.n.01 Role +1 doctor.n.01 person.n.01 Role +1 patient.n.01 examine.v.02 Agent -4 Theme -2 Time +1 time.n.08 TPR now
+
+p27/d3023
+彼は１２歳です。彼は年のわりには背が高いのです。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 です.v.01 Theme -1 CONTINUATION <3 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 高い.v.01 Theme +1 entity.n.01 です.v.01 Theme -3 Value -1
+
+p02/d3018
+素晴らしい。
+marvellous.a.01
+
+p62/d1851
+彼は２年前に細君に死なれた。
+male.n.02 number.n.02 EQU 2 year.n.01 Co-Theme -1 Theme +1 entity.n.01 person.n.01 Role +1 細君.n.01 死な.v.01 Beneficiary -6 Time -4 Theme -2 Time +1 time.n.08 TPR now
+
+p30/d2486
+カナダ人がおので木を切り倒した。
+人.n.01 おの.n.01 tree.n.01 切り倒し.v.01 Agent -3 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+
+p03/d2584
+探偵小説はおもしろい。
+detective_story.n.01 amusing.a.01 AttributeOf -1
+
+p37/d2056
+おじは今香港に滞在している。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 stay.v.01
+
+p00/d2910
+たくさんの虫が野原で鳴いている。
+measure.n.02 Quantity "たくさん" insect.n.01 EQU -1 field.n.01 chirp.v.01 Agent -2 Location -1
+
+p12/d3449
+私が彼女にそれを説明します。
+person.n.01 EQU speaker entity.n.01 explain.v.01 Agent -2 Theme -1 CONTINUATION <0 female.n.02 に.v.01 Proposition <1 Topic -1 Time +1 time.n.08 TSU now
+
+p78/d1563
+彼女には息子が七人いる。
+female.n.02 have.v.01 Proposition >1 Pivot -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 Role +1 son.n.01 number.n.02 EQU 7 いる.v.01 Theme -3 Quantity -1
+
+p32/d2948
+私は８時に朝食を取った。
+person.n.01 EQU speaker time.n.08 ClockTime 08:00 TPR now breakfast.n.01 eat.v.02 Agent -3 Time -2 Patient -1 time.n.08 EQU -3
+
+p40/d1520
+その大統領は、若い頃農園主であった。
+person.n.01 Role +1 president.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 young.a.01 CONTINUATION <2 entity.n.01 entity.n.01 で.v.01 Participant -2 Proposition <2 Topic -1
+
+p40/d0815
+私の時計はとても正確だ。
+person.n.01 EQU speaker watch.n.01 User -1 very.r.01 accurate.a.01 AttributeOf -2 Degree -1 Time +1 time.n.08 EQU now
+
+p95/d0797
+この返事が彼を怒らせた。
+answer.n.01 male.n.02 angry.a.01 Theme -2 Value -1
+
+p81/d3435
+今度の英語の試験の成績はよかった。
+entity.n.01 english.n.01 exam.n.01 entity.n.01 Participant -3 Participant -2 Participant -1 very.a.01 Theme -1
+
+p11/d3375
+妻のひっきりなしの愚痴話には本当にいらいらする。
+entity.n.01 entity.n.01 Participant -1 entity.n.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 いらいら.v.01 Theme -1
+
+p00/d3054
+部屋はとても寒い。火が消えてしまった。
+entity.n.01 とても.v.01 Theme -1 CONTINUATION <1 火.n.01 消え.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p72/d3470
+その恐ろしい事故で数十人が負傷した。
+terrible.r.01 accident.n.01 Attribute -1 measure.n.02 Quantity 24 person.n.01 ContentOf -1 負傷.v.01 Context -3 Theme -1
+
+p70/d2588
+その男の子は友達を臆病者と言って馬鹿にした。
+boy.n.01 PartOf +1 entity.n.01 person.n.01 Role +1 friend.n.01 entity.n.01 言っ.v.01 Theme -3 Participant -1 entity.n.01 し.v.01 Theme -7 Value -1
+
+p05/d1902
+もし車が故障したら、歩きます。
+walk.v.01 CONTRAST <1 car.n.01 故障.v.01 Theme -1 Time +1 time.n.08 TSU now
+
+p88/d2505
+それはほとんど問題にならない。
+NEGATION <1 entity.n.01 difference.n.01 なら.v.01 Theme -2 Value -1
+
+p52/d1587
+あのレストランに行くのはもうやめようよ。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 restaurant.n.01 go.v.01 Theme -1
+
+p32/d1680
+彼の庶民的な経歴は前任者のそれと似ている。
+male.n.02 庶民的.v.01 Theme +1 経歴.n.01 Theme -2 前任者.n.01 background.n.01 似.a.01 Theme -3 Value -1 Time +1 time.n.08 EQU now terra_incognita.n.01 Theme -4 EQU -3
+
+p70/d2211
+日本経済は当時、前例のない好況にあった。
+日本経済.n.01 好況.n.01 あっ.v.01 Theme -2 Value -1 CONTRAST <1 前例.n.01 ない.v.01 Theme -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p07/d0954
+彼は人参が嫌いです。
+male.n.02 人参.n.01 hate.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p25/d3319
+全部観客が立ち上がって拍手し始めた。
+applaud.v.01 CONTRAST <1 whole.n.01 audience.n.01 Attribute -1 立ち上がっ.v.01 Theme -1
+
+p10/d3475
+これを読みなさい。
+entity.n.01 読み.v.01 Theme -1
+
+p74/d1443
+赤いネクタイを買いました。
+red.a.01 tie.n.01 Colour -1 buy.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p22/d2839
+１０００円かそこらで買えますよ。
+number.n.02 EQU 1000 か.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 で.v.01 Proposition >1 Topic -1 CONTINUATION <0 買え.v.01
+
+p35/d2375
+その氷はとても厚い。
+ice.n.02 very.r.01 thick.a.01 Attribute -2 Degree -1
+
+p51/d0817
+私はこの帽子が嫌いです。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 hat.n.01 嫌い.v.01 Theme -1
+
+p03/d2626
+議長は突然辞職した。
+person.n.01 Role +1 chairman.n.01 out_of_the_blue.r.01 辞職.v.01 Agent -3 Manner -1 Time +1 time.n.08 TPR now
+
+p27/d1439
+その泥棒は罪を認めた。
+thief.n.01 guilt.n.01 admit.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p35/d1741
+新聞は世界の出来事をたえず知らせてくれる。
+newspaper.n.01 world.n.02 event.n.01 Participant -1 知らせ.v.01 Agent -3 Theme -1
+
+p22/d2419
+時計を修理してもらった。
+watch.n.01 ContentOf +1 を.n.01 entity.n.01 し.v.01 Theme -1 have.v.01 Agent -4 Theme -2 Recipient -1 Time +1 time.n.08 TPR now
+
+p01/d0840
+彼は犬に骨をやった。
+male.n.02 dog.n.01 bone.n.01 give.v.03 Agent -3 Theme -2 Recipient -1 Time +1 time.n.08 TPR now
+
+p05/d1558
+国連憲章は１９４５年に署名された。
+国連憲章.n.01 time.n.08 YearOfCentury "XXXX" TPR now sign.v.02 Destination -2 Time -1 Agent +1 entity.n.01 time.n.08 EQU -3
+
+p42/d2535
+君は馬鹿に違いない。
+person.n.01 EQU hearer fool.n.01 違い.v.01 Theme -2 Value -1
+
+p55/d1374
+国会は近く解散するだろう。
+diet.n.01 解散.v.01 Theme -1 Time +1 time.n.08 TSU now TSU now time.n.08 EQU -1
+
+p88/d3058
+彼は雑草をぬいて捨てた。
+male.n.02 entity.n.01 ぬい.v.01 Theme -2 Value -1
+
+p34/d1732
+いい顔になってきたね。
+entity.n.01 なっ.v.01 Theme -1
+
+p27/d3136
+私は少しもお腹がすいていません。
+person.n.01 EQU speaker entity.n.01 も.v.01 Participant -2 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 お腹.n.01 すい.v.01 Theme -1
+
+p72/d0779
+雨の場合私は行かない。
+entity.n.01 entity.n.01 Participant -1 person.n.01 EQU speaker go.v.01 Participant -2 Theme -1
+
+p44/d2173
+彼はテニスがかなり下手だ。
+tennis.n.01 rather.r.04 Theme -1 CONTINUATION <0 male.n.02 は.v.01 Participant +1 Proposition <1 Topic -1 entity.n.01
+
+p47/d2050
+彼は左腕を骨折した。
+male.n.02 entity.n.01 break.v.57 Experiencer -2 Patient -1 Time +1 time.n.08 TPR now
+
+p75/d3140
+その老人は餓死した。
+entity.n.01 餓死.v.01 Theme -1
+
+p33/d1488
+私はそのゲームはとても面白いと思った。
+game.n.01 very.r.01 exciting.a.01 AttributeOf -2 Degree -1 CONTINUATION <0 person.n.01 EQU speaker find.v.01 Proposition <1 Agent -1 Time +1 time.n.08 TPR now
+
+p60/d0924
+彼は風邪を引いていたが、仕事に出かけた。
+male.n.02 cold.n.01 have.v.16 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now work.n.06 go.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p11/d2218
+私が妊娠した？
+person.n.01 EQU speaker 妊娠.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p00/d0839
+彼は泳げる。
+male.n.02 泳げる.v.01 Agent -1 Time +1 time.n.08 EQU now
+
+p83/d0884
+彼は医者ではありません。
+NEGATION <1 male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 Role +1 doctor.n.01 で.v.01 Theme -2
+
+p61/d2987
+食事した。
+meal.v.01 Time +1 time.n.08 TPR now
+
+p43/d2815
+鳥が翼をはばたかせた。
+bird.n.01 wing.n.01 はばたか.v.01 Theme -1 せ.v.01 Agent -3 Theme -2 Recipient -1 Time +1 time.n.08 TPR now
+
+p04/d2146
+彼は上機嫌だった。
+male.n.02 merry.a.01 Theme -1 Time +1 time.n.08 TPR now
+
+p48/d3512
+古い建物を取り壊すことに決めた。
+entity.n.01 decide.v.01 Goal -1 Time +1 time.n.08 TPR now CONTRAST <1 building.n.01 取り壊す.v.01 Theme -1
+
+p01/d2077
+考え直してください。
+考え直し.v.01 Manner +1 please.r.01
+
+p55/d2204
+私は全く勉強しなかった。
+NEGATION <1 person.n.01 EQU speaker study.v.05 Agent -1 Time +1 time.n.08 TPR now
+
+p11/d2702
+私達は彼に時計を贈呈した。
+person.n.01 Sub speaker male.n.02 Destination +1 to.n.01 watch.n.01 present.v.01 Agent -4 Result -3 Patient -1 Time +1 time.n.08 TPR now
+
+p89/d3536
+食べ物！
+food.v.01
+
+p20/d2259
+その詩人はたくさんの詩を書いた。
+person.n.01 Role +1 poet.n.01 measure.n.02 Quantity + poem.n.01 Quantity -1 write.v.01 Agent -4 Result -1 Time +1 time.n.08 TPR now
+
+p28/d1652
+夜空に星がきらきら輝いていた。
+sky.n.01 ContentOf +1 に.n.01 star.n.01 輝い.v.01 Theme -3 Value -1 Time +1 time.n.08 TPR now
+
+p26/d2070
+マスクをした男性二人が銀行を襲った。
+マスク.n.01 し.v.01 Value -1 Theme +1 man.n.01 Attribute +1 old.a.01 Value +1 measure.n.02 Quantity 2 Unit +1 year.n.01 bank.n.01 rob.v.01 Agent -5 Source -1 Time +1 time.n.08 TPR now
+
+p36/d2050
+私はおよそ５０ドル払った。
+person.n.01 EQU speaker buck.n.02 Quantity 50 pay.v.01 Agent -2 Asset -1 Time +1 time.n.08 TPR now
+
+p42/d2628
+総理は辞職しなければならなかった。
+NECESSITY <1 person.n.01 Role +1 minister.n.01 辞職し.v.01 Theme -2 Time +1 time.n.08 TPR now
+
+p99/d3298
+今朝ひょっこり旧友に会った。
+entity.n.01 会っ.v.01 Theme -1
+
+p08/d2005
+私の腕はまだ痛む。
+person.n.01 EQU speaker arm.n.01 Theme -1 hurt.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p05/d2020
+俺の勝ちー！
+person.n.01 EQU speaker の.v.01 Theme -1 Agent +1 win.v.01
+
+p52/d2471
+酸性土を灰で中和する。
+entity.n.01 entity.n.01 中和.v.01 Theme -2 Agent -1
+
+p07/d2140
+雨が降っていたのでタクシーに乗った。
+entity.n.01 rain.v.01 EQU -1 Time +1 time.n.08 TPR now TPR now time.n.08 EQU -1 taxi.n.01 take.v.09 Theme -1 Time +1 time.n.08 TPR now
+
+p50/d1912
+私は少し酔っている。
+person.n.01 EQU speaker drunk.a.01 Theme -1 Time +1 time.n.08 EQU now
+
+p10/d3384
+いい加減、成長して！
+いい加減.v.01 EXPLANATION <1 成長.v.01
+
+p10/d1716
+うちの母は隣の人があまり好きではない。
+person.n.01 Role +1 neighbor.n.01 entity.n.01 Participant -2 あまり.v.01 Theme -1 CONTINUATION <0 entity.n.01 Of +1 person.n.01 Sub speaker entity.n.01 Participant -2 は.v.01 Agent +1 Proposition <1 Topic -1 care.n.01
+
+p69/d3516
+母はサンドイッチを紙に包んでくれた。
+entity.n.01 sandwich.n.01 paper.n.01 wrap.v.01 Agent -3 Result -2 Patient -1 Time +1 time.n.08 TPR now
+
+p67/d2676
+タクシーは１台も止まらなかった。
+taxi.n.01 止まら.v.01 Theme -1 CONTINUATION <0 person.n.01 person.n.01 MadeOf -1 も.v.01 Proposition <1 Topic -1
+
+p98/d1547
+運転者はシートベルトをしめるように指導された。
+person.n.01 Role +1 driver.n.01 指導.v.01 Theme -2 CONTRAST <1 entity.n.01 しめる.v.01 Theme -1
+
+p82/d2424
+彼は時々家族で外食した。
+male.n.02 family.n.01 外食.v.01 Theme -2 Instrument -1
+
+p33/d2850
+どうしてそんなに怒っているの。
+angry.v.01 CONTINUATION <0 entity.n.01 に.v.01 Participant +2 Proposition <1 Topic -1 Time +1 time.n.08 EQU now entity.n.01
+
+p10/d0791
+その薬が彼女の命を救った。
+medicine.n.02 entity.n.01 PartOf +1 female.n.02 life.n.01 Participant -2 save.v.01 Agent -4 Patient -1 Time +1 time.n.08 TPR now
+
+p29/d2011
+新聞によると彼が自殺したようだ。
+newspaper.n.01 Source +1 to.n.01 according.a.02 Topic -2 male.n.02 自殺.v.01 Theme -1
+
+p00/d3337
+テニスをしよう。１０時３０分にコートを予約してあるから。
+entity.n.01 し.v.01 Theme -1 CONTINUATION <1 entity.n.01 entity.n.01 Participant -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 予約.v.01 Theme -1
+
+p28/d3147
+彼は学校でもっと一生懸命しなかったことを後悔している。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 school.n.01 work.v.01 Location -1 Time +1 time.n.08 TPR now
+
+p83/d0802
+ウッドさんには息子がいませんでした。
+NEGATION <1 entity.n.01 person.n.01 Role +1 son.n.01 い.v.01 Theme -3 Value -2
+
+p53/d3476
+盗難車が駐車場で発見された。
+盗難車.n.01 parking_lot.n.01 find.v.01 Value -2 Location -1 Theme +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p02/d1703
+砂漠の真ん中で私たちの車はガス欠になった。
+desert.n.01 middle.n.01 PartOf -1 person.n.01 Sub speaker 車.n.01 User -1 ガス欠.n.01 なっ.v.01 Participant -4 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p00/d3178
+彼は５時に帰った。
+male.n.02 entity.n.01 帰っ.v.01 Agent -2 Location -1 Time +1 time.n.08 TPR now
+
+p41/d0920
+もし万一雨が降れば、彼はこないでしょう。
+万一.v.01 CONTINUATION <0 entity.n.01 rain.v.01 EQU -1 Time +1 time.n.08 EQU now male.n.02 は.v.01 Proposition <1 Topic -1 Time +1 time.n.08 TSU now
+
+p55/d1854
+私がまだ生きているのは、私の主治医のおかげだ。
+person.n.01 EQU speaker alive.a.01 AttributeOf -1 EXPLANATION <1 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 EQU speaker person.n.01 Role +1 doctor.n.01 entity.n.01 Participant -3 Participant -2 だ.v.01 Theme -1
+
+p49/d1842
+彼は仕事にたいへん熱中している。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 work.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 熱中.v.01
+
+p01/d2355
+君はいたずらっ子だ。
+person.n.01 EQU hearer EQU now EQU +1 いたずらっ子.n.01
+
+p42/d2748
+たくさんの人々がバスを待っていました。
+entity.n.01 person.n.01 EQU -1 bus.n.01 待っ.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p27/d3550
+すなわち彼はそれをしたくないのだ。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 だ.v.01 Participant -2 Theme -1
+
+p10/d2140
+朝食を抜きました。
+breakfast.n.01 skip.v.02 Agent -1 Time +1 time.n.08 TPR now
+
+p50/d2916
+彼女は疲れていたのでリンゴの木によりかかった。
+female.n.02 疲れ.v.01 apple_tree.n.01 entity.n.01 Participant -1 よりかかっ.v.01 Theme -4 Value -1
+
+p00/d0894
+ムアンマル・カダフィは無傷で脱出した。
+person.n.01 Name "ムアンマル・カダフィ" escape.v.01 脱出.v.01 Theme -2 Participant -1 Time +1 time.n.08 TPR now
+
+p03/d0784
+ボブはこの問題すべてに答えられる。
+male.n.02 Name "ボブ" POSSIBILITY <1 NEGATION <1 question.n.01 entity.n.01 PartOf -1 NEGATION <1 answer.v.01 Agent -3 Theme -1
+
+p93/d2123
+踊り続けて。
+dance.v.01
+
+p44/d2158
+警察は強盗を逮捕した。
+police.n.01 person.n.01 Role +1 burglar.n.01 arrest.v.01 Agent -3 Patient -2 Time +1 time.n.08 TPR now
+
+p92/d2129
+犬はネコを木の上まで追い詰めた。
+dog.n.01 cat.n.01 tree.n.01 entity.n.01 Participant -1 chase.v.01 Agent -4 Theme -3 Destination -1 Time +1 time.n.08 TPR now
+
+p33/d2615
+赤ん坊は泣きやんだ。
+baby.n.01 cry.v.01 Agent -1 stop.v.01 Causer -2 PartOf -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p19/d3364
+キャー！
+say.v.01 Agent speaker Theme +1 yike.n.01
+
+p41/d1745
+会合は午後五時に始まった。
+meeting.n.01 entity.n.01 begin.v.01 Theme -2 Time -1 Time +1 time.n.08 TPR now
+
+p97/d2241
+ギターが欲しいです。
+guitar.n.01 want.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p15/d2099
+彼らは泥棒を木に縛り付けた。
+person.n.01 は.n.01 person.n.01 Role +1 ContentOf +2 thief.n.01 を.n.01 tree.n.01 ContentOf +1 に.n.01 tie.v.01 Agent -7 Result -5 Patient -2 Time +1 time.n.08 TPR now terra_incognita.n.01 EQU -9 ContentOf -8
+
+p12/d1463
+突然雨が降り出した。
+突然.r.01 雨.n.01 降り.v.01 Theme -1 start.v.04 Manner -3 Causer -2 PartOf -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p54/d3142
+先生は彼女に、大学について多くの情報を与えた。
+person.n.01 Role +1 teacher.n.01 female.n.02 about.v.01 Participant -1 measure.n.02 Quantity + information.n.01 Participant -1 give.v.04 Theme -6 Value -1 Time +1 time.n.08 TPR now
+
+p83/d2657
+突然計画が変更された。
+plan.n.01 change.v.01 Patient -1
+
+p79/d0832
+猫は椅子の上で寝ている。
+cat.n.01 sleep.v.01 Agent -1 CONTINUATION <0 chair.n.01 entity.n.01 Participant -1 で.v.01 Proposition <1 Topic -1 Time +1 time.n.08 EQU now
+
+p01/d2470
+私は先生に怒られた。
+person.n.01 EQU speaker person.n.01 Role +1 teacher.n.01 怒ら.v.01 Value -3 Location -2 Theme +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p49/d1669
+君は生のカキは食べれますか。
+person.n.01 EQU hearer entity.n.01 oyster.n.01 Theme -1 eat.v.01 Agent -3 Patient -1
+
+p23/d2003
+次の便にキャンセルの席がございます。
+entity.n.01 flight.n.01 Participant -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 seat.n.01 Participant -1 ござい.v.01 Theme -1
+
+p33/d2145
+彼女はひどく泣いた。
+female.n.02 bitterly.r.02 weep.v.01 Agent -2 Manner -1 Time +1 time.n.08 TPR now
+
+p33/d2930
+二時十五分前です。
+entity.n.01 です.v.01 Theme -1
+
+p60/d0912
+彼女の婚約者は、彼女にとても大きな指輪を贈った。
+entity.n.01 Of +1 female.n.02 person.n.01 Participant -2 Role +1 fiance.n.01 very.r.01 Attribute +1 Theme +2 big.a.01 ring.n.08 give.v.08 Theme -5 Value -1 Time +1 time.n.08 TPR now CONTINUATION <0 female.n.02 に.v.01 Proposition <1 Topic -1
+
+p23/d2079
+判ってきた。
+判っ.v.01 Time +1 time.n.08 TPR now
+
+p18/d1510
+彼女は彼の家柄のために彼と結婚した。
+female.n.02 male.n.02 marry.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 male.n.02 entity.n.01 Bearer -1 entity.n.01 PartOf -1 entity.n.01 PartOf -1 に.v.01 Proposition <1 Topic -1
+
+p02/d2256
+いいなあ。
+いい.v.01
+
+p04/d2526
+多分、だめだったろう。
+POSSIBILITY <1 NEGATION <1 だっ.v.01
+
+p50/d0872
+彼のコンサートは最高だった。
+male.n.02 concert.n.01 Creator -1 最高.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p76/d3118
+彼が彼女に恋をしているというのは本当だ。
+male.n.02 true.a.01 AttributeOf -1 CONTINUATION <0 female.n.02 entity.n.01 し.v.01 Result -2 Patient -1 Agent +1 entity.n.01 entity.n.01 は.v.01 Participant -2 Proposition <1 Topic -1
+
+p29/d2256
+その切符は金曜日の公演には使えなかった。
+ticket.n.01 使え.v.01 Theme -1 CONTINUATION <0 entity.n.01 entity.n.01 Participant -1 は.v.01 Proposition <1 Topic -1
+
+p40/d3294
+ウイスキーは紅茶とよく合う。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 tea.n.01 Causer +1 with.n.01 well.a.01 Manner -2
+
+p80/d2524
+富があっても、彼は満足していない。
+NEGATION <1 entity.n.01 あっ.v.01 Theme -1 male.n.02 content.a.01 Experiencer -1
+
+p87/d1640
+電車が来るよ！
+train.n.01 come.v.01 Theme -1
+
+p14/d0876
+私はその電話番号を書き留めた。
+person.n.01 EQU speaker telephone_number.n.01 書き留め.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p77/d2973
+私は貧乏です。
+person.n.01 EQU speaker 貧乏.v.01 Theme -1
+
+p03/d2453
+町は火事で全焼した。
+town.n.01 fire.n.01 全焼.v.01 Experiencer -2 し.v.01 Topic -3 Causer -2 Recipient -1 Time +1 time.n.08 TPR now
+
+p78/d2592
+この報道はまだ確かではない。
+entity.n.01 yet.a.01 Theme -1 Participant +1 entity.n.01
+
+p21/d1705
+超臭いよ。
+超臭い.v.01
+
+p01/d2862
+彼女の髪は白くなってきた。
+female.n.02 hair.n.01 Theme -1 白く.v.01 Theme -1 なっ.v.01 Topic -2 Recipient -1 Time +1 time.n.08 TPR now
+
+p53/d3219
+彼の兵士は彼を怖れ敬っていた。
+entity.n.01 Of +1 male.n.02 person.n.01 Participant -2 Role +1 soldier.n.01 male.n.02 敬っ.v.01 Theme -3 Value -1
+
+p19/d2980
+彼は居眠りをした。
+male.n.02 居眠り.n.01 し.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p10/d2801
+パスポートを見せて下さい。
+NECESSITY <1 パスポート.n.01 show.v.01 Patient -1
+
+p23/d2311
+私はこのラケットを２０％引きで買った。
+entity.n.01 entity.n.01 引き.v.01 Theme -2 Value -1 CONTINUATION <0 number.n.02 EQU 20 percent.v.01 Proposition <1 Topic -1
+
+p56/d2959
+アフリカゾウはアジアゾウより毛が少ない。
+african_elephant.n.01 indian_elephant.n.01 hair.n.01 少.v.01 Participant -3 Co-Theme -2 Theme -1
+
+p70/d2732
+彼のことはまったく知りません。
+male.n.02 entity.n.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 まったく.v.01 Time +1 time.n.08 EQU now
+
+p69/d0808
+警察はその政治家が自分の部屋で死んでいるのを見つけた。
+police.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 Role +1 politician.n.02 entity.n.01 User +1 male.n.02 room.n.01 Participant -2 entity.n.01 entity.n.01 entity.n.01 find.v.01 Location -4 Attribute -3 Agent -8 Participant -2 Theme -1 Time +1 time.n.08 TPR now
+
+p54/d1426
+２０１１年の最初の月の利益も１００万円を越えました。
+entity.n.01 entity.n.01 Participant -1 month.n.01 Participant -1 entity.n.01 Participant -1 も.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 越え.v.01 Theme -1
+
+p20/d3515
+少年の頃私は探偵小説を読みふけっていた。
+boy.n.01 entity.n.01 Participant -1 person.n.01 EQU speaker detective_story.n.01 PartOf +1 entity.n.01 read.v.01 Participant -4 Theme -3 Value -2 Experiencer +1 Time +2 addicted.a.01 time.n.08 TPR now
+
+p59/d2368
+ロープにしっかり捕まりなさい。
+rope.n.01 hold.v.01 Agent -1
+
+p03/d1824
+あ、雪だ！
+雪.n.01 だ.v.01 Theme -1
+
+p53/d1940
+畏まりました。
+まし.v.01
+
+p25/d2046
+犬は泳げます。
+dog.n.01 泳げ.v.01 Theme -1
+
+p83/d2210
+カリフォルニアの警察官が、一台の車を止めさせ、運転手にこう伝えた。
+location.n.01 Name "カリフォルニア" 警察官.n.01 Theme -1 entity.n.01 car.n.01 Theme -1 止め.v.01 Theme -1 driver.n.01 こう.v.01 Theme -5 Value -1 Time +1 time.n.08 TPR now
+
+p08/d1552
+私はだましたことで彼をとがめた。
+person.n.01 EQU speaker male.n.02 accuse.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now CONTINUATION <0 cheat.v.01 Source +1 entity.n.01 で.v.01 Proposition <1 Topic -1
+
+p49/d1795
+手紙はタイプで打っていたが、今はワープロを使う。
+use.v.01 CONTINUATION <0 letter.n.01 word_processor.n.01 use.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now CONTINUATION <0 entity.n.01 で.v.01 Proposition <2 Topic -1 entity.n.01 は.v.01 Proposition <1 Topic -1
+
+p62/d1984
+コンピューターは現代の生活に大きな影響を及ぼしている。
+computer.n.01 entity.n.01 life.n.01 Participant -1 great.r.01 entity.n.01 及ぼし.v.01 Theme -5 Co-Theme -3 Attribute -2 Value -1
+
+p20/d2070
+３時半です。
+entity.n.01 です.v.01 Theme -1
+
+p85/d3003
+このレモンは新鮮だ。
+lemon.n.01 fresh.a.01 Theme -1 Time +1 time.n.08 EQU now
+
+p04/d1608
+彼は私といっしょに腹を立てた。
+male.n.02 person.n.01 EQU speaker entity.n.01 Participant -1 entity.n.01 立て.v.01 Agent -4 Result -2 Patient -1
+
+p42/d2784
+彼は一年前に死んだ。
+male.n.02 number.n.02 EQU 1 year.n.01 Co-Theme -1 Theme +1 TAB now entity.n.01 time.n.08 TAB -2 TPR now die.v.01 Patient -5 Time -1 time.n.08 EQU -2
+
+p60/d2940
+店員はその荷物にラベルをつけた。
+person.n.01 Role +1 clerk.n.01 baggage.n.01 label.n.04 つけ.v.01 Agent -4 Destination -2 Theme -1 Time +1 time.n.08 TPR now
+
+p67/d3054
+飛び越えろ！
+飛び.v.01 Participant +1 entity.n.01
+
+p20/d2128
+車が木にぶつかった。
+car.n.01 tree.n.01 ContentOf +1 に.n.01 bump.v.01 Agent -3 Destination -2 Time +1 time.n.08 TPR now
+
+p97/d0792
+その湖の水はとても冷たい。
+lake.n.01 water.n.01 PartOf -1 cold.a.01 AttributeOf -1
+
+p57/d2961
+私にはモダンジャズは分からない。
+NEGATION <1 person.n.01 EQU speaker modern_jazz.n.01 分から.v.01 Experiencer -2 Stimulus -1
+
+p01/d2797
+声の調子は怒りや皮肉を示すことがある。
+entity.n.01 entity.n.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 ある.v.01 Theme -1
+
+p13/d1992
+トムは猫を飼っていない。けれども犬を飼っているのですよね？
+NEGATION <1 male.n.02 Name "トム" 猫.n.01 飼っ.v.01 Theme -2 Value -1 CONTINUATION <1 entity.n.01 飼っ.v.01 Theme -1 Participant +2 entity.n.01 entity.n.01 Participant -1
+
+p42/d3386
+トラベラーズチェックをなくしてしまいました。
+トラベラーズチェック.n.01 なくし.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p25/d0922
+私は戸を修理してもらった。
+person.n.01 EQU speaker door.n.01 repair.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p09/d2234
+納豆はねばねばしている。
+natto.n.01 ねばねば.r.01 し.v.01 Theme -2 Manner -1 Time +1 time.n.08 EQU now
+
+p39/d2027
+警察はその金を取っちゃうだけで、おそらく持ち主なんか探さないよ。
+police.n.01 money.n.01 take.v.01 Participant -2 Theme -1 EXPLANATION <1 NEGATION <1 POSSIBILITY <1 owner.v.01 EXPLANATION <1 entity.n.01 なんか.v.01 Participant -1
+
+p12/d2101
+彼女は彼を嫌っていた。
+female.n.02 male.n.02 hate.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+
+p02/d2896
+私はあなたの事が分かっている。
+person.n.01 EQU speaker person.n.01 EQU hearer 事.n.01 Theme -1 understand.v.01 Experiencer -3 Stimulus -1 Time +1 Time +2 time.n.08 TPR now time.n.08 EQU now
+
+p74/d1617
+私達は村人に食物を供給した。
+person.n.01 Sub speaker food.n.01 供給.v.01 Theme -2 Value -1 CONTINUATION <0 villager.n.01 に.v.01 Proposition <1 Topic -1
+
+p93/d0772
+君には音楽の才能がある。
+person.n.01 EQU hearer music.n.01 entity.n.01 Participant -1 have.v.01 Pivot -3 Theme -1 Time +1 time.n.08 EQU now
+
+p90/d3361
+君を見ると君のお父さんの事が思い出される。
+person.n.01 EQU hearer 見る.v.01 Theme -1 entity.n.01 User +1 person.n.01 EQU hearer person.n.01 Role +1 father.n.01 事.n.01 Theme -4 Theme -2 思い出さ.v.01 Value -1 Theme +1 entity.n.01
+
+p28/d0840
+彼は砂糖を入れないコーヒーが好きだ。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 with.a.01 Theme -1
+
+p30/d1753
+気持ちがいい日だなぁ。
+entity.n.01 いい.v.01 Theme +1 day.n.01 be.v.01 Theme -3 Co-Theme -1 Time +1 Attribute +2 time.n.08 EQU now lovely.r.01
+
+p21/d0818
+私はそれを忘れた。
+person.n.01 EQU speaker entity.n.01 forget.v.03 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p23/d3128
+その男は腰に拳銃をさげていた。
+man.n.01 hip.n.01 entity.n.01 wear.v.01 Agent -3 Result -2 Patient -1 Time +1 time.n.08 TPR now
+
+p94/d3176
+僕は家にいるよ。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 stay.v.01 Location -1 Time +1 time.n.08 TSU now
+
+p22/d0944
+その警官は泥棒を追跡した。
+person.n.01 Role +1 policeman.n.01 person.n.01 Role +1 burglar.n.01 chase.v.01 Agent -4 Theme -2 Time +1 time.n.08 TPR now
+
+p50/d0820
+私は困惑した。
+person.n.01 EQU speaker 困惑.v.01 Theme -1
+
+p66/d1691
+異議あり！
+say.v.01 Participant +2 Agent speaker Theme +1 objection.n.01 entity.n.01
+
+p42/d3003
+９時まであと５分だ。
+entity.n.01 だ.v.01 Theme -1
+
+p78/d1683
+その走者はうまいスタートをした。
+person.n.01 Role +1 runner.n.01 good.r.01 entity.n.01 Attribute -1 し.v.01 Theme -4 Value -1
+
+p25/d2688
+ほとんど誰も彼女の言うことを信じなかった。
+person.n.01 female.n.02 entity.n.01 believe.v.01 Participant -3 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+
+p66/d2850
+皿は半時間で洗えます。
+dish.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 Quantity 0.5 洗え.v.01 Context -1
+
+p82/d0819
+私は帰らないわ。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 Time +1 time.n.08 EQU now CONTINUATION <0 NEGATION <1 帰ら.v.01
+
+p71/d1662
+彼らは言い争いをした。
+person.n.01 entity.n.01 し.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p42/d2474
+その学生は先生を侮辱した。
+person.n.01 Role +1 student.n.01 person.n.01 Role +1 teacher.n.01 侮辱し.v.01 Agent -4 Patient -2 Time +1 time.n.08 TPR now
+
+p10/d3115
+彼は釣りが好きだ。
+male.n.02 fish.v.02 like.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p00/d3237
+彼女の左の膝頭に小さなバンドエイドが見えた。
+band_aid.n.01 see.v.01 Stimulus -1 Time +1 time.n.08 TPR now CONTRAST <1 entity.n.01 PartOf +1 female.n.02 entity.n.01 entity.n.01 Participant -3 Participant -1 Location +1 on.n.01 small.a.02 Value + AttributeOf -2
+
+p97/d2965
+町はその時以来ずいぶん変わった。
+town.n.01 entity.n.01 entity.n.01 entity.v.01 Theme -3 Participant -2 Start -1 Time +1 time.n.08 TPR now
+
+p22/d2883
+昨日は気温が零下５度に下がった。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 temperature.n.01 number.n.02 EQU 5 下がっ.v.01 Theme -2 Value -1
+
+p90/d1869
+そのシャツは私には大きい。
+shirt.n.01 person.n.01 EQU speaker large.a.01 Theme -2 Value -1
+
+p12/d1810
+新年が近づいた。
+新年.n.01 近づい.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p29/d2065
+会社の利益は飛躍的に増加した。
+company.n.01 profit.n.01 Theme -1 飛躍的に.a.01 増加.v.01 Theme -2 Manner -1 Time +1 time.n.08 TPR now
+
+p64/d2654
+友達の援助を当てにするな。
+person.n.01 Role +1 friend.n.01 entity.n.01 Participant -2 entity.n.01 する.v.01 Theme -2 Value -1
+
+p84/d2007
+彼女はたくさんハンカチを持っている。
+female.n.02 handkerchief.n.01 have.v.01 Pivot -2 Theme -1 Time +1 time.n.08 EQU now
+
+p50/d0794
+すべてのバスは満員です。
+bus.n.01 NEGATION <1 all.n.01 NEGATION <1 は.v.01 Proposition >1 Topic -2 terra_incognita.n.01 EQU -3 Participant -2 CONTINUATION <0 entity.n.01 です.v.01 Theme -1
+
+p16/d3153
+熱意は移る。
+enthusiasm.n.01 contagious.v.01 Attribute -1 Time +1 time.n.08 EQU now
+
+p27/d2376
+こんな時間に食べたら太るぞ。
+time.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 eat.v.01
+
+p18/d2674
+したくない。
+NEGATION <1 し.v.01
+
+p34/d1764
+彼の教え子の中に、その問題が解けた者は一人もいなかった。
+NEGATION <1 male.n.02 教え子.n.01 SubOf -1 entity.n.01 Theme -1 problem.n.01 solve.v.01 Theme -1 Time +1 Agent +2 time.n.08 TPR now TPR now 者.n.01 entity.n.01 い.v.01 Participant -6 Time -3 Theme -2 Participant -1 time.n.08 EQU -4
+
+p12/d3548
+誰でも間違う事はある。
+事.n.01 ある.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p17/d3018
+稲妻が走るたびに、犬はベッドの下に隠れた。
+entity.n.01 flash.v.01 Theme -1 Time +1 time.n.08 TPR now entity.n.01 dog.n.01 bed.n.01 entity.n.01 Participant -1 hide.v.02 Participant -4 Theme -3 Value -1 Time +1 time.n.08 TPR now
+
+p50/d3332
+私たちは海で泳いだ。
+person.n.01 Sub speaker sea.n.01 swim.v.01 Theme -2 Location -1 Time +1 time.n.08 TPR now
+
+p34/d3299
+母親が病気のその少女は今日欠席している。
+entity.n.01 time.n.08 TIN +2 day.n.03 TCT now day.n.03 EQU -1 absent.a.01 AttributeOf -4 Time -3 CONTINUATION <0 entity.n.01 girl.n.01 Participant -1 は.v.01 Proposition <1 Topic -1
+
+p34/d3525
+商人はその政治家に贈賄した。
+person.n.01 Role +1 merchant.n.01 person.n.01 Role +1 politician.n.02 bribe.v.01 Agent -4 Patient -2 Time +1 time.n.08 TPR now
+
+p78/d2934
+兵士たちが建物を占拠した。
+soldier.n.01 entity.n.01 PartOf -1 building.n.01 occupy.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+
+p54/d1695
+彼は午前８時に起きました。
+male.n.02 morning.n.01 PartOf +1 Time +2 time.n.08 ClockTime 08:00 at.n.01 起き.v.01 Theme -4 Time -3
+
+p54/d2355
+承知しました。
+all_right.v.01
+
+p87/d0817
+私はその事故と全く関係なかった。
+accident.n.01 全く.v.01 Theme -1 CONTINUATION <0 person.n.01 EQU speaker は.v.01 Proposition <1 Topic -1 Time +1 time.n.08 TPR now TPR now time.n.08 EQU -1
+
+p06/d1446
+ジョーンズ氏は奥さんが作ったスープの味見をしている。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 make.v.39 Attribute -1 Time +1 Agent +3 time.n.08 TPR now soup.n.01 taste.v.02 Participant -1 し.v.01 Theme -1
+
+p25/d1995
+彼等は自宅を明るい黄色に塗った。
+person.n.01 自宅.n.01 entity.n.01 paint.v.02 Agent -3 Patient -2 Agent -1 Time +1 time.n.08 TPR now
+
+p40/d0844
+彼らはあの大きな木の陰に腰を下ろした。
+person.n.01 tree.n.01 shade.n.01 Causer -1 Location +1 in.n.01 腰.n.01 下ろし.v.01 Agent -5 Result -3 Patient -1 Time +1 time.n.08 TPR now
+
+p85/d1980
+彼には随分長いこと会っていない。
+NEGATION <1 male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 こと.v.01
+
+p00/d3430
+彼女は商売を成功させた。
+female.n.02 商売.n.01 success.v.01 Theme -1 さ.v.01 Topic -2 Recipient -1 せ.v.01 Agent -4 Theme -3 Recipient -1 Time +1 time.n.08 TPR now
+
+p41/d0799
+この絵を描いたとき、私は２３歳でした。
+picture.n.02 paint.v.01 Patient -1 Time +1 TIN +3 time.n.08 TPR now person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 number.n.02 EQU 23 be.a.01 Theme -1
+
+p01/d0809
+犬が猫を追いかけていた。
+dog.n.01 cat.n.01 追い.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p07/d0882
+花粉症です。
+花粉症.n.01 です.v.01 Theme -1
+
+p32/d1671
+１９４１年に戦争が起こった。
+time.n.08 YearOfCentury 1941 TAB now TPR now time.n.08 TAB -1 war.n.01 起こっ.v.01 Time -3 Time -2 Theme -1 time.n.08 EQU -4
+
+p98/d2668
+電話がないのは不便なことだ。
+entity.n.01 不便.v.01 Theme -1 CONTINUATION <0 entity.n.01 は.v.01 Proposition <1 Topic -1 NEGATION <1 not.n.01 terra_incognita.n.01 EQU -2 Participant -1 EXPLANATION <3 entity.n.01 だ.v.01 Theme -1
+
+p60/d2309
+伊藤先生は生徒達を一生懸命勉強させた。
+person.n.01 Name "伊藤先生" person.n.01 Role +1 生徒達.n.01 hard.r.01 work.v.01 Agent -3 Manner -1 make.v.01 Causer -5 Patient -4 Result -1 Time +1 time.n.08 TPR now
+
+p44/d0783
+マリアは彼の名前も電話番号も知らなかった。
+entity.n.01 Bearer +1 male.n.02 name.n.01 Participant -2 も.v.01 Proposition >2 Topic -1 CONTINUATION <0 entity.n.01 知ら.v.01 Theme -1 CONTINUATION <0 entity.n.01 も.v.01 Proposition <1 Topic -1
+
+p40/d2293
+彼らは昨日外務大臣に会った。
+person.n.01 entity.n.01 meet.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p90/d3041
+皿洗いを命じられて彼女は口をとがらせた。
+be.a.01 Theme +1 female.n.02 entity.n.01 とがらせ.v.01 Theme -2 Value -1 CONTRAST <1 dish.n.01 PartOf +1 entity.n.01 tell.v.04 Recipient -2
+
+p53/d3504
+バスが止まったが、誰も降りなかった。
+bus.n.01 stop.v.01 Theme -1 Time +1 time.n.08 TPR now person.n.01 降り.v.01 Participant -1
+
+p73/d2730
+階段を上がる。
+stairs.n.01 climb.n.03 Path -1
+
+p78/d3048
+その水は油で汚くなった。
+water.n.01 oil.n.01 foul.v.01 Theme -2 Agent -1
+
+p32/d1636
+私達は昨年その山に登った。
+person.n.01 Sub speaker the.v.01 Theme +1 mountain.n.01 climb.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p19/d0840
+彼はサングラスをかけている。
+male.n.02 entity.n.01 かけ.v.01 Theme -2 Value -1
+
+p94/d0815
+私の部屋にたくさんの本がある。
+entity.n.01 User +1 person.n.01 EQU speaker room.n.01 Participant -2 Location +1 in.n.01 measure.n.02 Quantity ? book.n.01 Participant -1 there.a.01 Agent -4 Theme -1
+
+p46/d1796
+その痩せた男は膝を曲げて日陰で少し休んだ。
+thin.a.01 AttributeOf +1 man.n.01 knee.n.01 male.v.01 Theme -2 Value -1 Time +3 日陰.n.01 休ん.v.01 Theme -4 Participant -1 Time +2 time.n.08 TPR now time.n.08 TPR now
+
+p21/d0913
+私はチョコレートアイスクリームが好きです!
+person.n.01 EQU speaker チョコレートアイスクリーム.n.01 like.v.03 Participant -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p80/d2637
+この問題を解くのに２時間かかった。
+NEGATION <1 of.n.01 NEGATION <1 に.v.01 Proposition >2 Topic -1 CONTINUATION <0 problem.n.02 solve.v.01 Theme -1 CONTINUATION <0 couple.n.03 hour.n.01 Proposition <1 Topic -1
+
+p00/d1603
+彼の頭脳の働きは活発だった。
+male.n.02 brain.n.01 function.n.01 PartOf -2 PartOf -1 active.a.01 Theme -1 Time +1 time.n.08 TPR now
+
+p37/d1475
+私は誘惑に負けて煙草を吸い始めた。
+person.n.01 EQU speaker entity.n.01 負け.v.01 Value -1 Theme +1 cigarette.n.01 smoke.v.01 Agent -4 Patient -1
+
+p47/d2477
+死ね！
+死ね.v.01
+
+p10/d0775
+気のせいだよ。
+entity.n.01 entity.n.01 Participant -1 だ.v.01 Theme -1
+
+p60/d3380
+彼は上着のチャックを掛けた。
+male.n.02 jacket.n.01 zip.n.01 PartOf -1 掛け.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p75/d2637
+痛!
+say.v.01 Agent speaker Theme +1 ow.n.01
+
+p28/d2219
+彼は毎朝犬を散歩させる。
+male.n.02 犬.n.01 walk.v.01 Theme -1 せる.v.01 Causer -3 Patient -2 Result -1 Time +1 time.n.08 EQU now
+
+p39/d1878
+彼女は目をこすった。
+female.n.02 eye.n.01 こすっ.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p88/d2561
+雪がとけはじめた。
+snow.n.01 とけ.v.01 Theme -1
+
+p31/d0793
+その学校は１６５０年に設立された。
+school.n.01 time.n.08 YearOfCentury 1650 TPR now establish.v.02 Theme -2 Time -1 Agent +1 entity.n.01 time.n.08 EQU -3
+
+p24/d2039
+意見が一致している。
+agree.n.01 一致.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p27/d0826
+女王万歳。
+女王.v.01
+
+p02/d1581
+彼女は彼の言いなりだ。
+female.n.02 male.n.02 言いなり.n.01 Participant -1 だ.v.01 Theme -3 Value -1 Time +1 time.n.08 EQU now
+
+p35/d2371
+午後八時です。
+午後八時.v.01
+
+p42/d3530
+彼女は議長に話しかけた。
+female.n.02 person.n.01 Role +1 ContentOf +2 chairperson.n.01 に.n.01 話しかけ.v.01 Theme -4 Value -3 Time +1 time.n.08 TPR now
+
+p57/d0782
+もし金があれば、それが買えるのに。
+money.n.01 have.v.01 Patient -1 entity.n.01 買える.v.01 Theme -1
+
+p00/d1869
+この通りは車の流れが絶えない。
+NEGATION <1 on.n.01 車.n.01 entity.n.01 PartOf -1 絶え.v.01 Location -3 Theme -1
+
+p66/d0794
+すごい！
+say.v.01 Agent speaker Theme +1 wow.n.01
+
+p42/d3385
+私の家の庭には昔菜園があった。
+私.n.01 家.n.01 Theme -1 庭.n.01 Theme -1 菜園.n.01 あっ.v.01 Participant -2 Theme -1 Time +1 time.n.08 TPR now
+
+p47/d3005
+みんな幸せだ。
+NEGATION <1 person.n.01 NEGATION <1 happy.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+
+p24/d2303
+彼は私を脅迫した。
+male.n.02 person.n.01 EQU speaker blackmail.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+
+p49/d1738
+私の自転車が盗まれた。
+person.n.01 EQU speaker bicycle.n.01 Owner -1 steal.v.01 Theme -1 Agent +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p92/d2297
+試合が始まるとすぐ雨が降り始めた。
+game.n.01 entity.n.01 rain.n.01 entity.v.01 Participant -2 Theme -1 始め.v.01 Theme -4
+
+p04/d3122
+弁護士はたくさんの依頼人を持っている。
+person.n.01 Role +1 lawyer.n.01 measure.n.02 Quantity ? person.n.01 Participant -1 Role +1 client.n.01 have.v.01 Pivot -5 Theme -2 Time +1 time.n.08 EQU now
+
+p44/d2364
+母は私に無理矢理勉強させた。
+person.n.01 Role +1 母.n.01 person.n.01 EQU speaker 無理矢理.r.01 勉強.v.01 Theme -2 Manner -1 make.v.01 Causer -5 Patient -3 Result -1 Time +1 time.n.08 TPR now
+
+p78/d1787
+彼女は母親によく似ている。
+よく.v.01 EXPLANATION <1 female.n.02 entity.n.01 似.v.01 Theme -2 Value -1
+
+p11/d1606
+午後5時にマンハッタンでタクシーを捕まえるのは、ほぼ不可能です。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 impossible.a.02 CONTRAST <3 entity.n.01 Time +1 at.n.01 に.v.01 Proposition >1 Topic -2 CONTINUATION <0 entity.n.01 cab.n.03 in.v.01 Location -2 Location -1
+
+p96/d2583
+切符を拝見いたします。
+ticket.n.01 拝見.v.01 Theme -1
+
+p60/d3170
+議会は解散した。
+parliament.n.01 解散.v.01 Theme -1
+
+p49/d0954
+彼はその騒音に不平を言った。
+male.n.02 noise.n.01 complaint.n.03 say.v.01 Agent -3 Stimulus -2 Theme -1 Time +1 time.n.08 TPR now
+
+p94/d3272
+彼は作家というよりむしろ先生です。
+male.n.02 という.v.01 Theme -1 EXPLANATION <1 より.v.01 EXPLANATION <1 むしろ.v.01
+
+p29/d2744
+箱の中に沢山の道具がある。
+box.n.01 entity.n.01 Participant -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 tool.n.01 EQU -1 there.a.01 Theme -1
+
+p87/d3490
+最近私は別のアパートに引っ越した。
+recently.r.01 person.n.01 EQU speaker entity.n.01 apartment.n.01 Participant -1 Recipient +1 to.n.01 move.v.01 Manner -5 Theme -4 Value -2 Time +1 time.n.08 TPR now
+
+p37/d2540
+車は電柱にぶつかった。
+car.n.01 telephone_pole.n.01 hit.v.02 Agent -2 Destination -1 Time +1 time.n.08 TPR now
+
+p00/d1484
+１メートルは１ヤードとは完全に同等ではない。
+a.n.01 meter.n.01 ContentOf -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 a.n.01 yard.n.01 ContentOf -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 entity.n.01 equivalent.a.01 Experiencer -1
+
+p98/d3113
+ボートをこいでいる女の子は私のいとこだ。
+boat.n.01 row.v.01 Theme -1 Time +1 Agent +2 time.n.08 EQU now girl.n.01 EQU now EQU +2 person.n.01 EQU speaker いとこ.n.01 Theme -1
+
+p41/d1634
+卵を割らなければオムレツは作れない。
+NEGATION <1 egg.n.01 割ら.v.01 Theme -1 NEGATION <2 not.n.01 作れ.v.01 Theme -1
+
+p50/d1606
+彼女は自分の行動の説明をするように求められた。
+female.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 female.n.02 EQU -2 entity.n.01 Creator -1 conduct.n.01 entity.n.01 Participant -2 Participant -1 する.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p41/d2395
+彼は２７０ポンドの体重です。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 number.n.02 EQU 270 entity.n.01 Participant -1 です.v.01 Theme -1
+
+p81/d1876
+泳ぐことはやさしい。
+swim.v.01 Theme +1 entity.n.01 easy.a.01 AttributeOf -2
+
+p99/d2340
+何かが起こった。
+entity.n.01 happen.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p40/d2843
+私は彼に家を塗らせた。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 male.n.02 house.n.01 paint.v.02 Agent -2 Theme -1
+
+p13/d3491
+近頃は多くの人がアレルギーを持っている。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 measure.n.02 Quantity + person.n.01 Participant -1 entity.n.01 with.v.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p25/d2915
+このスープは魚の味がする。
+soup.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 fish.n.02 entity.n.01 Attribute -1 する.v.01 Theme -1
+
+p08/d0911
+私はチョコレートが好きです。
+person.n.01 EQU speaker chocolate.n.02 like.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p35/d2463
+群集は妊娠中絶に抗議した。
+群集.n.01 妊娠中絶.n.01 protest.v.02 Agent -2 Beneficiary -1 Time +1 time.n.08 TPR now
+
+p48/d1597
+彼はハンマーでくぎを打ち込んだ。
+male.n.02 hammer.n.02 nail.n.02 drive_in.v.03 Agent -3 Instrument -2 Theme -1 Time +1 time.n.08 TPR now
+
+p20/d2434
+この冬に飽きたから、春にすぐ来てほしい！
+winter.n.01 be.a.01 Theme -1 すぐ.v.01 EXPLANATION <1 spring.n.01 来.v.01 Theme -1
+
+p21/d3148
+犬が彼女の足をかんだ。
+dog.n.01 female.n.02 leg.n.01 Theme -1 bite.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+
+p72/d2135
+私たちは誰もその質問に答えられなかった。
+person.n.01 Sub speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 person.n.01 も.v.01 Proposition >1 Topic -1 Manner +1 Time +2 able.r.01 time.n.08 TPR now CONTINUATION <0 question.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 answer.v.01
+
+p76/d2365
+その木にはたくさんのオレンジがなっている。
+tree.n.01 entity.n.01 orange.n.01 Participant -1 なっ.v.01 Theme -3 Value -1
+
+p10/d2725
+それは壊れている。
+entity.n.01 broken.a.01 AttributeOf -1
+
+p01/d0881
+月曜日が嫌い。
+entity.n.01 hate.v.01 Experiencer -1 Time +1 time.n.08 EQU now
+
+p37/d2925
+財布に物入れすぎだよ。
+wallet.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 入れ.v.01 Theme +1 entity.n.01 だ.v.01 Theme -1
+
+p20/d0786
+なんて言った？
+なん.v.01 Time +1 time.n.08 TPR now
+
+p39/d1879
+私は彼女をしっかり抱きしめた。
+person.n.01 EQU speaker female.n.02 tightly.r.01 Theme -2 Value -1
+
+p20/d0920
+彼は私から金を取った。
+male.n.02 person.n.01 EQU speaker money.n.01 steal.v.01 Agent -3 Source -2 Theme -1 Time +1 time.n.08 TPR now
+
+p37/d3291
+絶対！
+absolutely.v.01
+
+p43/d2090
+ハローウィンおめでとう。
+ハローウィン.v.01
+
+p61/d1398
+盗みを働く者は罰せられて当然だ。
+NEGATION <1 who.n.01 NEGATION <1 entity.n.01 punishment.v.01 Theme -2 Value -1 られ.v.01 Theme -3
+
+p60/d1415
+それは君の決めることだ。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 EQU hearer の.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 be.a.01 Theme -1
+
+p20/d2999
+世界中の多くの学生が英語を学んでいる。
+world.n.02 Location +1 around.n.01 measure.n.02 Quantity + EQU -2 person.n.01 Theme -1 Role +1 student.n.01 english.n.01 study.v.04 Agent -3 Topic -1
+
+p65/d0846
+彼女は２度のフライングで失格した。
+female.n.02 失格.v.01 Theme -1 CONTINUATION <0 number.n.02 EQU 2 entity.n.01 Participant -1 で.v.01 Proposition <1 Topic -1
+
+p15/d2061
+私にはその意味がわからない。
+NEGATION <1 person.n.01 ContentOf +1 EQU speaker に.n.01 meaning.n.01 わ.v.01 Theme -3 Value -1
+
+p22/d3342
+これは私のコートで、あれが父のです。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 User +1 person.n.01 EQU speaker coat.n.01 Participant -2 で.v.01 Proposition >2 Topic -1 CONTINUATION <0 entity.n.01 です.v.01 Theme -1 CONTINUATION <0 entity.n.01 の.v.01 Proposition <1 Topic -1
+
+p07/d0796
+ご協力に対し、前もってお礼を申し上げます。
+entity.n.01 advance.v.01 Proposition >1 Topic -1 CONTINUATION <0 前もっ.v.01
+
+p46/d1974
+それは十分ではありません。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 entity.n.01 で.v.01 Theme -1
+
+p32/d2956
+書き始めなさい。
+NECESSITY <1 start.v.01
+
+p27/d2261
+避妊をしています。
+避妊.n.01 し.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p28/d1651
+彼は一生を教育に捧げた。
+male.n.02 life.n.06 education.n.01 捧げ.v.01 Agent -3 Result -2 Patient -1 Time +1 time.n.08 TPR now
+
+p63/d2262
+１ドルは１００セントに等しい。
+dollar.n.01 Quantity 1 cent.n.01 Quantity 100 ContentOf +1 に.n.01 equal.a.01 Theme -3 Value -2 Time +1 time.n.08 EQU now
+
+p04/d3385
+私は喫茶店でコーヒーを１杯飲みました。
+person.n.01 EQU speaker coffee.n.01 飲み.v.01 Theme -2 Value -1 CONTINUATION <0 coffee_shop.n.01 entity.n.01 杯.v.01 Location -2 Proposition <1 Topic -1
+
+p17/d0849
+彼女は世界で最も優れたバレリーナのひとりです。
+female.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 world.n.04 person.n.01 Role +1 ballerina.n.01 number.n.02 Participant -2 EQU 1 be.v.02 Source -4 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p40/d1951
+彼は駐車違反で５千円の罰金を科せられた。
+male.n.02 entity.n.01 entity.n.01 Participant -1 科せ.v.01 Theme -3 Value -1 CONTINUATION <0 park.v.01 PartOf +1 entity.n.01 で.v.01 Proposition <1 Topic -2
+
+p66/d0838
+彼はリーズ大学の英語の教授です。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 english.n.01 person.n.01 Participant -2 Of -1 Role +1 professor.n.01 be.v.01 Co-Theme -2 Time +1 time.n.08 EQU now
+
+p41/d1595
+あごが痛い。
+あご.n.01 hurt.a.01 Patient -1
+
+p39/d0813
+私たちの列車は８時半に出発する。
+person.n.01 EQU speaker train.n.01 User -1 time.n.08 ClockTime 20:30 leave.v.01 Theme -2 Time -1
+
+p00/d3250
+この鶏は近頃ちっとも卵を産まない。
+hen.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 ちっとも.v.01 Theme +1 egg.n.02 lay.v.04 Result -1
+
+p09/d2111
+君には前途がある。
+person.n.01 EQU hearer は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 ある.v.01 Theme -1
+
+p63/d2370
+誤りを直せ。
+error.n.01 entity.n.01 correct.v.01 Theme -2 Value -1
+
+p58/d0767
+説明もできないよ。
+NEGATION <1 entity.n.01 can.v.01 Participant -1
+
+p57/d3106
+彼の仕事は申し分がない。
+entity.n.01 Creator +1 male.n.02 work.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 ない.v.01 Theme -1
+
+p00/d3325
+私はいつも６時に起きます。
+NEGATION <1 entity.n.01 PartOf +1 time.n.08 ClockTime 06:00 Time +1 at.n.01 NEGATION <1 に.v.01 Proposition >1 Topic -3 CONTINUATION <0 person.n.01 EQU speaker 起き.v.01 Theme -1
+
+p37/d0937
+どこで食べたい？
+location.n.02 EQU ? で.v.01 Proposition >1 Topic -1 CONTINUATION <0 eat.v.01
+
+p26/d2110
+彼は化学が不得手だ。
+male.n.02 chemistry.n.01 不得手.v.01 Theme -2 Value -1
+
+p22/d0805
+あなたは狂ってる。
+あなた.n.01 crazy.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+
+p16/d2716
+年月が経った。
+entity.n.01 pass.v.01 Patient -1 Time +1 time.n.08 TPR now
+
+p98/d2186
+私は傘をなくした。
+person.n.01 EQU speaker entity.n.01 lose.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p79/d0791
+その男は殺人を犯した。
+man.n.01 murder.n.01 commit.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p70/d1846
+そのねじまわしを私は、友人から借りた。
+screwdriver.n.01 person.n.01 EQU speaker person.n.01 Role +1 friend.n.01 borrow.v.01 Theme -4 Agent -3 Source -2 Time +1 time.n.08 TPR now
+
+p36/d2508
+彼女が部屋に帰ってみると、ダイヤの指輪は消えていた。
+female.n.02 room.n.01 return.v.01 Agent -2 Location -1 diamond.n.01 ring.n.01 Participant -1 go.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p77/d2293
+私、菜々です。山内秀樹の娘です。
+entity.n.01 です.v.01 Theme -1 CONTINUATION <1 entity.n.01 entity.n.01 Participant -1 です.v.01 Theme -1
+
+p16/d3488
+演技はじめ！
+say.v.01 Participant +2 Agent speaker Theme +1 action.n.01 entity.n.01
+
+p64/d2777
+その町の東の方に古い城があった。
+town.n.01 east.n.05 Of -1 entity.n.01 Participant -1 castle.n.02 あっ.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p55/d1529
+天然資源に富む国は世界にたくさんはない。
+天然資源.n.01 富む.v.01 Value -1 Time +1 Theme +2 time.n.08 EQU now 国.n.01 world.n.04 ない.a.01 Agent -2 Theme -1
+
+p71/d2401
+その仕事は毎月５０万円になる。
+job.n.01 male.n.02 なる.v.01 Theme -2 Value -1
+
+p34/d2670
+ラッシュアワーの交通渋滞で、到着が２時間遅れてしまった。
+entity.n.01 traffic_jam.n.01 Participant -1 で.v.01 Proposition >2 Topic -1 CONTINUATION <0 arrival.n.02 遅れ.v.01 Theme -1 CONTINUATION <0 number.n.02 EQU 2 hour.n.01 Proposition <1 Topic -1
+
+p29/d2017
+グレアム・グリーンは私のお気に入りの作家です。
+person.n.01 Name "グレアム・グリーン" person.n.01 EQU speaker entity.n.01 person.n.01 Experiencer -2 Theme -1 Role +1 author.n.01 です.v.01 Theme -5 Value -2
+
+p29/d1728
+彼は決してうそつきではない。
+NEGATION <1 male.n.02 うそつき.n.01 で.v.01 Theme -2 Co-Theme -1
+
+p55/d2979
+私は母ほど早く起きません。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 entity.n.01 ほど.v.01 Proposition >1 Topic -1 Time +1 time.n.08 EQU now CONTINUATION <0 entity.n.01 起き.v.01 Theme -1
+
+p21/d0943
+彼はクレジットカードで支払った。
+male.n.02 クレジットカード.n.01 pay.v.01 Agent -2 Instrument -1 Time +1 time.n.08 TPR now
+
+p37/d0872
+彼はその人に本をあげた。
+male.n.02 person.n.01 book.n.02 give.v.01 Agent -3 Recipient -2 Theme -1 Time +1 time.n.08 TPR now
+
+p28/d2411
+私はあなたに同意しない。
+person.n.01 EQU speaker person.n.01 EQU hearer 同意.v.01 Theme -2 Value -1
+
+p83/d2075
+おしぼりをもう一本ください。
+entity.n.01 another.a.01 Theme -1
+
+p30/d3342
+彼は財布を盗まれた。
+male.n.02 財布.n.01 盗ま.v.01 Participant -2 Theme -1 Agent +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p24/d3055
+時計の修理をしている。
+clock.n.01 fix.v.01 Theme -1 し.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p42/d3328
+彼らは全然勇敢ではなかった。
+NEGATION <1 person.n.01 brave.v.01 Attribute -1 Time +1 time.n.08 TPR now
+
+p15/d1901
+私たちはお互いに愛し合っています。
+entity.n.01 お.n.01 互い.n.01 愛し.v.01 Participant -3 Theme -1 terra_incognita.n.01 PartOf -3 EQU -2
+
+p13/d2526
+彼の手紙は彼女を怒らせた。
+entity.n.01 Creator +1 male.n.02 letter.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 female.n.02 angry.a.01 Experiencer -1
+
+p15/d2333
+歯医者に行ってその歯を抜いてもらった方がよい。
+entity.n.01 よい.v.01 Theme -1 CONTRAST <1 tooth.n.01 抜い.v.01 Theme -1 CONTRAST <3 person.n.01 Role +1 dentist.n.01 go.v.01 Theme -2
+
+p56/d1499
+我々のこの国では石油は不足していません。
+person.n.01 Sub speaker country.n.01 Participant -1 Location +1 in.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 NEGATION <1 oil.n.03 不足.v.01 Theme -1
+
+p62/d1657
+彼女はドアをノックした。
+female.n.02 door.n.01 knock.v.02 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+
+p55/d2909
+私は息子の潔白を信じています。
+person.n.01 EQU speaker entity.n.01 entity.n.01 Participant -1 that.v.01 Theme -3 Value -1
+
+p50/d1438
+私は自分の仕事に興味を失った。
+person.n.01 EQU speaker entity.n.01 User +1 person.n.01 EQU speaker work.n.01 Participant -2 entity.n.01 lose.v.01 Agent -5 Result -2 Patient -1 Time +1 time.n.08 TPR now
+
+p29/d1605
+スプーンがありません。
+NEGATION <1 スプーン.n.01 there.v.01 Theme -1
+
+p14/d0880
+五月五日は彼の誕生日だ。
+entity.n.01 月.n.01 Co-Theme -1 Theme +1 entity.n.01 male.n.02 birthday.n.01 Owner -1 だ.v.01 Theme -4 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p73/d3195
+その劇は終わった。
+show.n.01 end.v.01 Attribute -1 Time +1 time.n.08 TPR now
+
+p28/d3145
+ほぼ一週間雨が降り続いている。
+a.n.01 week.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 降り.v.01 Theme -1
+
+p08/d2599
+私達は神様を信じます。
+person.n.01 Sub speaker god.n.01 believe.v.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p31/d3494
+あなたは私より活力がある。
+person.n.01 EQU hearer は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 EQU speaker entity.n.01 have.a.01 Co-Theme -2 Theme -1
+
+p64/d2671
+一両日中にお知らせします。
+entity.n.01 知ら.v.01 Stimulus -1
+
+p17/d0812
+三島由紀夫は１９７０年に自殺した。
+person.n.01 Name "三島由紀夫" time.n.08 YearOfCentury 1970 TPR now 自殺.v.01 Agent -2 Agent -1 Time -1 time.n.08 EQU -2
+
+p12/d2085
+もうすぐ六時です。
+time.n.08 TSU now 六時.v.01 Time -1
+
+p17/d3003
+私は昨日その本を買った。
+person.n.01 EQU speaker book.n.02 buy.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p22/d2780
+電気の発見は無数の発明を生んだ。
+electricity.n.01 discovery.n.01 PartOf -1 entity.n.01 invention.n.01 Participant -1 生ん.v.01 Theme -3 Value -1
+
+p16/d1902
+テントを組み立てるのに３０分かかった。
+entity.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 かかっ.v.01 Theme -1 CONTRAST <3 entity.n.01 組み立てる.v.01 Theme -1
+
+p37/d1600
+彼女は頼りにできるよ。
+female.n.02 entity.n.01 can.a.01 Agent -2 Theme -1
+
+p04/d3286
+どう？来ない？
+どう.v.01 CONTINUATION <1 来.v.01
+
+p34/d2716
+見つけた！
+find.v.01 Time +1 time.n.08 TPR now
+
+p66/d2121
+冷蔵庫は食品の腐敗を防ぐ。
+refrigerator.n.01 food.n.01 entity.n.01 Participant -1 from.v.01 Theme -3 Value -1
+
+p18/d2325
+彼はそれを知らないほど愚かではない。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 ほど.v.01
+
+p50/d2584
+彼女が入院して一ヶ月になる。
+入院.v.01 Theme +1 entity.n.01 ヶ.v.01 Proposition >2 Topic -1 CONTINUATION <0 female.n.02 なる.v.01 Theme -1 CONTINUATION <0 entity.n.01 に.v.01 Proposition <1 Topic -1
+
+p87/d3088
+彼は農場を買う金がなかった。
+money.n.01 なかっ.v.01 Theme -1 Time +1 time.n.08 TPR now CONTRAST <1 male.n.02 farm.n.01 buy.v.01 Agent -2 Theme -1
+
+p75/d1846
+酔っ払った男がベンチで寝ていた。
+drunken.a.01 Attribute +1 man.n.01 ベンチ.n.01 sleep.v.01 Agent -3 Location -1 Time +1 time.n.08 TPR now
+
+p62/d0865
+すごいぞ！
+すごい.v.01
+
+p77/d1458
+悲しい。
+sad.v.01
+
+p07/d1640
+あなたはあの泣いている男の子を知っていますか。
+person.n.01 EQU hearer cry.v.01 Theme +2 entity.n.01 entity.n.01 Participant -1 know.v.01 Experiencer -4 Stimulus -1 Time +1 time.n.08 EQU now
+
+p70/d2394
+私は無実だ。
+person.n.01 EQU speaker 無実.v.01 Theme -1
+
+p32/d1658
+１９９９年４月１日より地下鉄運賃が値上げになります。
+entity.n.01 entity.n.01 Participant -1 より.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 be.a.01 Agent -2 Theme -1 Time +1 time.n.08 TSU now
+
+p08/d3343
+今日の天気予報はあたった。
+entity.n.01 天気予報.n.01 Participant -1 あたっ.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p51/d2796
+その会議にはたくさんの人が出席していた。
+conference.n.01 measure.n.02 Quantity + person.n.01 Quantity -1 attend.v.01 Goal -3 Theme -1 Time +1 time.n.08 TPR now
+
+p64/d2894
+コーヒーが好きです。
+coffee.n.01 love.v.01 Stimulus -1 Time +1 time.n.08 EQU now
+
+p40/d1505
+彼は政治に関心が無い。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 politics.n.01 entity.n.01 無い.v.01 Theme -2 Value -1
+
+p34/d3378
+テーブルの上にワインが１本あります。
+table.n.01 entity.n.01 Participant -1 に.v.01 Proposition >2 Topic -1 CONTINUATION <0 entity.n.01 there.a.01 Theme -1 CONTINUATION <0 a.n.01 本.v.01 Proposition <1 Topic -1
+
+p22/d2521
+私にはその本を読むのが難しい。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 難しい.v.01 Theme -1
+
+p58/d3076
+警官隊がデモ隊に多数の催涙弾を投げた。
+警官隊.n.01 protester.n.02 measure.n.02 Quantity "多数" 催涙弾.n.01 Theme -1 throw.v.01 Stimulus -4 Result -3 Experiencer -1 Time +1 time.n.08 TPR now
+
+p03/d2264
+彼女は私を知っている。
+female.n.02 person.n.01 EQU speaker know.v.04 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p73/d2524
+私はあなたの帽子を見つけた。
+person.n.01 EQU speaker person.n.01 EQU hearer cap.n.01 Theme -1 find.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p07/d2278
+船を離れろ。
+ship.n.01 離れろ.a.01 Theme -1
+
+p93/d2401
+老人に新しいことは無理だ。
+entity.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 new.a.01 AttributeOf +1 entity.n.01 無理.v.01 Theme -1
+
+p64/d0813
+私たちはテムズ川の土手を歩きました。
+entity.n.01 entity.n.01 bank.n.01 PartOf -1 walk.v.01 Theme -3 Value -1 Time +1 time.n.08 TPR now
+
+p47/d2593
+男はライターでたばこに火をつけた。
+man.n.01 lighter.n.02 たばこ.n.01 火.n.01 つけ.v.01 Agent -4 Agent -3 Result -2 Patient -1 Time +1 time.n.08 TPR now
+
+p30/d0867
+夏は終わった。
+summer.n.01 終わっ.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p30/d2006
+君はみんなの意表をついたね。
+surprise.v.02 NEGATION <1 person.n.01 NEGATION <1 person.n.01 EQU hearer つい.v.01 Theme -3 Participant -1 Time +1 time.n.08 TPR now terra_incognita.n.01 EQU -5 Participant -4
+
+p27/d2115
+囚人は刑務所の塀の下に穴を掘った。
+person.n.01 Role +1 prisoner.n.01 prison.n.01 entity.n.01 entity.n.01 Participant -2 Participant -1 hole.n.01 dig.v.02 Agent -6 Result -2 Beneficiary -1 Time +1 time.n.08 TPR now
+
+p47/d3311
+彼らはキリスト教徒です。
+person.n.01 person.n.01 Role +1 キリスト教徒.n.01 です.v.01 Theme -3 Value -2
+
+p02/d2073
+私は高校生です。
+person.n.01 EQU speaker 高校生.v.01 Theme -1
+
+p55/d3125
+このナイフはあまり切れない。
+NEGATION <1 entity.n.01 will.a.01 Theme -1
+
+p93/d0808
+健康のほうがもっと大事でしょう。
+entity.n.01 entity.n.01 Participant -1 more.a.01 Theme -1 Degree +1 Attribute +2 more.r.01 Theme -2 important.r.01
+
+p29/d3466
+王は敵軍を壊滅させた。
+person.n.01 Role +1 king.n.01 person.n.01 Role +1 enemy.n.01 壊滅.v.01 Theme -2 せ.v.01 Agent -5 Patient -3 Result -1 Time +1 time.n.08 TPR now
+
+p84/d3250
+この帽子はあなたには大きすぎる。
+hat.n.01 big.a.01 AttributeOf -1 CONTINUATION <0 person.n.01 EQU hearer は.v.01 Proposition <1 Topic -1
+
+p13/d2072
+思っていたほど魚は釣れなかった。
+思っ.v.01 fish.n.01 なかっ.v.01 Theme -1
+
+p96/d2259
+裁判官は、その囚人が無罪だと結論をくだした。
+person.n.01 Role +1 judge.n.01 person.n.01 Role +1 prisoner.n.01 innocent.a.01 AttributeOf -2 entity.n.01 conclude.v.03 Agent -6 Topic -1 Time +1 time.n.08 TPR now
+
+p61/d0937
+私は徹夜しました。
+person.n.01 EQU speaker 徹夜.v.01 Theme -1
+
+p60/d1402
+私の夢は先生になることです。
+entity.n.01 PartOf +1 person.n.01 EQU speaker dream.n.01 Participant -2 person.n.01 Role +1 teacher.n.01 become.v.01 Patient -3 Result -2
+
+p36/d3158
+箱の中のりんごの一部が腐っていた。
+box.n.01 entity.n.01 Participant -1 entity.n.01 Participant -1 entity.n.01 Participant -1 rotten.a.02 AttributeOf -1 Time +1 time.n.08 TPR now
+
+p15/d3358
+お世辞がお上手ね。
+お世辞.n.01 お上手.v.01 Theme -1
+
+p00/d1594
+私には金が必要だった。
+person.n.01 EQU speaker money.n.01 need.v.02 Participant -2 Theme -1 Time +1 time.n.08 TPR now
+
+p38/d2955
+私はすでに封筒をもっている。
+person.n.01 EQU speaker already.n.01 封筒.n.01 NEQ -1 have.v.01 Pivot -3 Theme -1 Time +1 time.n.08 EQU now
+
+p80/d0854
+良い子でたいへん丈夫なのですよ。
+entity.n.01 です.v.01 Theme -1 CONTRAST <1 たいへん.v.01 CONTINUATION <0 entity.n.01 で.v.01 Proposition <1 Topic -1 Attribute +1 strong.a.01
+
+p39/d2104
+どの記者も、自分の書いた記事をただちに送信した。
+NEGATION <1 entity.n.01 PartOf +1 person.n.01 Role +1 reporter.n.01 NEGATION <1 entity.n.01 Creator +1 ContentOf +2 male.n.02 の.n.01 書い.v.01 Value -3 Time +1 Theme +2 time.n.08 TPR now story.n.01 送信.v.01 Theme -9 Value -1
+
+p09/d2574
+よく聞きなさい。
+listen.v.01
+
+p18/d3290
+私は赤いスポーツカーを買った。
+person.n.01 EQU speaker sports_car.n.01 buy.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p85/d2138
+英語は世界の言語である。
+english.n.01 world.n.01 language.n.01 Theme -1 で.v.01 Participant -3 Theme -1 Time +1 time.n.08 EQU now
+
+p03/d1816
+私はロックが好きです。
+person.n.01 EQU speaker rock_music.n.01 love.v.01 Experiencer -2 Stimulus -1
+
+p25/d2444
+彼の講演は聴衆を深く感動させた。
+male.n.02 speech.n.01 Creator -1 person.n.01 Role +1 audience.n.01 深く.r.01 感動.v.01 Theme -3 Manner -1 せ.v.01 Causer -5 Patient -4 Result -1 Time +1 time.n.08 TPR now
+
+p53/d2109
+嫌だ！
+no.v.01
+
+p78/d1487
+次の駅で列車を乗り換えなさい。
+entity.n.01 station.n.01 Participant -1 entity.n.01 乗り換え.v.01 Location -2 Theme -1
+
+p35/d1919
+誰も知らなかった。
+NEGATION <1 person.n.01 know.v.01 Participant -1 Time +1 time.n.08 TPR now
+
+p50/d1678
+政府は農民に新税を課した。
+government.n.01 farmer.n.01 new_tax.n.01 impose.v.03 Agent -3 Recipient -2 Theme -1 Time +1 time.n.08 TPR now
+
+p04/d1656
+スーツを着て彼は目立っていた。
+male.n.02 目立っ.v.01 Theme -1 Time +1 time.n.08 TPR now CONTRAST <1 entity.n.01 male.n.02 Theme -1
+
+p32/d1837
+私は彼から百円借りている。
+person.n.01 EQU speaker 借り.v.01 Theme -1 CONTINUATION <0 male.n.02 number.n.02 EQU 100 円.v.01 Location -2 Proposition <1 Topic -1 Time +1 time.n.08 EQU now
+
+p20/d2348
+多くの木が台風で倒された。
+measure.n.02 Quantity + tree.n.01 Quantity -1 typhoon.n.01 倒さ.v.01 Theme -2 Causer -1 Causer +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p80/d2005
+旅行者は、そのナイトクラブでむしり取られた。
+entity.n.01 むしり取ら.v.01 Theme -1 CONTINUATION <0 entity.n.01 で.v.01 Proposition <1 Topic -1
+
+p99/d3442
+小さな女の子たちが森の中で踊っている。
+little.a.01 girl.n.01 PartOf +1 entity.n.01 wood.n.02 entity.n.01 Participant -1 dance.v.02 Attribute -5 Theme -4 Location -1
+
+p40/d2517
+カラオケが大嫌い。
+karaoke.n.01 hate.v.01 Stimulus -1 Time +1 time.n.08 EQU now
+
+p98/d3105
+私は少年が金庫からお金を盗んだことを許してやった。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 for.v.01 Theme -1
+
+p26/d1531
+１ヶ月１５万円では生活できない。
+a.n.01 entity.n.01 Participant -1 Quantity 150000 Location +1 on.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 NEGATION <1 can.v.01
+
+p85/d1746
+ちょっと失礼。
+ちょっと.v.01
+
+p07/d1537
+我々は彼の作品と彼女の作品を較べた。
+person.n.01 Sub speaker entity.n.01 Creator +1 male.n.02 work.n.02 entity.n.01 Creator +1 female.n.02 work.n.02 Participant -5 Co-Agent -3 Participant -2 compare.v.01 Agent -7 Theme -1 Time +1 time.n.08 TPR now
+
+p67/d2562
+彼は、妻が気に入ったので、その家を購入した。
+male.n.02 person.n.01 Role +1 妻.n.01 気.n.01 入っ.v.01 Theme -3 Value -1 Time +1 time.n.08 TPR now TPR now house.n.01 buy.v.01 Agent -7 Time -2 Theme -1 time.n.08 EQU -3
+
+p85/d3147
+分かった。
+okay.v.01
+
+p89/d0924
+今朝私達が見た男の人はグリーンさんでした。
+私達.n.01 see.v.01 Stimulus -1 Time +1 Experiencer +3 time.n.08 TPR now TPR now man.n.01 人.n.01 Theme -1 person.n.01 Name "グリーン" ContentOf +1 さん.n.01 be.v.01 Time -5 Theme -3 Value -2 time.n.08 EQU -6
+
+p55/d3077
+心停止の患者を応急処置で生かした。
+entity.n.01 person.n.01 Participant -1 Role +1 patient.n.01 entity.n.01 生かし.v.01 Theme -3 Participant -1
+
+p61/d0951
+目くそ鼻くそを笑う。
+目くそ.n.01 鼻くそ.n.01 笑う.v.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p49/d1992
+この辺りの風景はとても美しい。
+entity.n.01 scenery.n.01 Participant -1 very.a.01 Theme -1 Attribute +1 beautiful.r.01
+
+p14/d0954
+彼女は明かりをつけた。
+female.n.02 light.n.02 つけ.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p76/d0780
+以前恐ろしい怪物が住んでいた。
+time.n.08 TPR now entity.n.01 live.v.01 Time -2 Theme -1
+
+p60/d2268
+私はあの店で赤いセーターを買った。
+person.n.01 EQU speaker shop.n.01 red.a.01 sweater.n.01 Colour -1 buy.v.01 Agent -4 Source -3 Theme -1 Time +1 time.n.08 TPR now
+
+p97/d0789
+それは卵くらいの大きさです。
+entity.n.01 entity.n.01 entity.n.01 EQU -1 です.v.01 Participant -3 Theme -1
+
+p64/d2139
+誰も死ななかった。
+NEGATION <1 person.n.01 die.v.01 Participant -1 Time +1 time.n.08 TPR now
+
+p44/d0785
+パパは、テレビを地下室に持ってきたの。
+male.n.02 entity.n.01 entity.n.01 bring_down.v.01 Agent -3 Result -2 Patient -1 Time +1 Participant +2 time.n.08 TPR now entity.n.01
+
+p00/d3018
+彼はきっと試合に勝つはずだ。
+male.n.02 bound.r.01 match.n.01 win.v.01 Theme +1 entity.n.01 だ.v.01 Theme -5 Manner -4 Participant -3 Value -1
+
+p06/d0951
+眠い！
+眠い.v.01
+
+p00/d1843
+君を見るといつでも僕は喜びでいっぱいになる。
+person.n.01 EQU speaker entity.n.01 なる.v.01 Theme -2 Value -1 CONTINUATION <0 person.n.01 EQU hearer see.v.08 Stimulus -1 Time +1 time.n.08 EQU now joy.n.01 で.v.01 Proposition <1 Topic -1
+
+p32/d2912
+彼女は私を不誠実だと非難した。
+female.n.02 person.n.01 EQU speaker 不誠実.a.01 Theme -1 非難.v.01 Participant -3 Topic -2 Recipient -1 Time +1 time.n.08 TPR now
+
+p91/d3369
+彼は手紙を書く。
+male.n.02 letter.n.01 write.v.01 Agent -2 Result -1 Time +1 time.n.08 EQU now
+
+p73/d1691
+私達が泊まったホテルはとても快適だった。
+person.n.01 Sub speaker comfortable.a.01 AttributeOf -1 CONTINUATION <0 泊まっ.v.01 Theme +1 hotel.n.01 は.v.01 Proposition <1 Topic -1 Time +1 time.n.08 TPR now
+
+p28/d2354
+その殺人犯はまだ逮捕されていない。
+NEGATION <1 person.n.01 Role +1 murderer.n.01 arrest.n.02 Theme -2
+
+p00/d0824
+私は卵を少しとミルクを少し買いました。
+person.n.01 EQU speaker egg.n.02 entity.v.01 Quantity -1 milk.n.01 まし.v.01 Theme -4 Value -1
+
+p35/d1511
+父はハーバード大学を卒業した。
+person.n.01 Role +1 父.n.01 organization.n.01 Name "ハーバード大学" 卒業.v.01 Agent -3 Source -1 Time +1 time.n.08 TPR now
+
+p30/d2321
+彼は旅行が大好きだ。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 love.v.01 Stimulus -1 Time +1 time.n.08 EQU now
+
+p45/d1729
+太った男はあわててタクシーに乗り込んだ。
+太っ.a.01 Theme +1 man.n.01 あわて.v.01 Experiencer -1 Stimulus +2 Time +3 cab.n.01 乗り込ん.v.01 Agent -3 Theme -1 time.n.08 TPR now
+
+p00/d2069
+あらしの勢いが弱まった。
+storm.n.01 abate.v.02 Of -1 弱まっ.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p83/d1687
+バスの中で見知らぬ人が私に話しかけた。
+bus.n.01 entity.n.01 Participant -1 entity.n.01 entity.n.01 person.n.01 EQU speaker 話しかけ.v.01 Location -4 Participant -3 Theme -2 Value -1
+
+p00/d1462
+すべての人間は死ぬ。トムは人間である。ゆえにトムは死ぬ。
+entity.n.01 entity.n.01 Participant -1 死ぬ.v.01 Theme -1 CONTINUATION <1 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 で.v.01 Theme -1 CONTINUATION <3 entity.n.01 死ぬ.v.01 Theme -1
+
+p76/d1817
+犬がテーブルの周りを歩いている。
+dog.n.01 table.n.01 entity.n.01 Participant -1 walk.v.01 Theme -3 Value -1 Time +1 time.n.08 EQU now
+
+p76/d2434
+彼はこの作品が一番優れている。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 work.n.01 優れ.v.01 Theme -1
+
+p47/d1589
+私の父は非常に古い自動車に乗っている。
+entity.n.01 Of +1 person.n.01 EQU speaker entity.n.01 Participant -2 old.a.01 Value + AttributeOf +1 car.n.01 drive.v.01 Agent -3 Theme -1 Time +1 time.n.08 EQU now CONTINUATION <0 entity.n.01 に.v.01 Proposition <1 Topic -1
+
+p28/d2276
+老人が車にひかれた。
+entity.n.01 car.n.01 ひか.v.01 Theme -2 Value -1
+
+p78/d2695
+彼女は運命を受け入れるしかなかった。
+NEGATION <1 female.n.02 fate.n.01 受け入れる.v.01 Theme -2 Value -1
+
+p00/d2417
+釣りに行った。
+fish.v.02 go.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p51/d2827
+私は足を伸ばした。
+person.n.01 EQU speaker leg.n.01 stretch_out.v.03 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p04/d2291
+現在－１０℃です。
+entity.n.01 です.v.01 Theme -1
+
+p86/d2138
+私は船が海に沈むのを見た。
+entity.n.01 see.v.01 Stimulus -1 Time +1 time.n.08 TPR now CONTRAST <1 person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 ship.n.01 sea.n.01 Location +1 in.n.01 sink.v.04 Theme -3 Value -2
+
+p94/d3127
+間違えて手袋を裏返しにはめてしまった。
+entity.n.01 entity.n.01 put_on.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p08/d2876
+彼は学校が嫌いだった。
+male.n.02 school.n.06 hate.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+
+p23/d3208
+その痩せた男は神社の影で少し休んだ。
+痩せ.a.01 Theme +1 man.n.01 shrine.n.01 shade.n.01 Causer -1 休ん.v.01 Theme -3 Location -1 Time +1 time.n.08 TPR now
+
+p82/d1689
+驚いたことに、私の財布がなくなっていた。
+驚い.v.01 EXPLANATION <1 entity.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 User +1 person.n.01 EQU speaker entity.n.01 Participant -2 go.v.01 Theme -1 Time +1 time.n.08 TPR now TPR now time.n.08 EQU -1
+
+p24/d2288
+私はあなたを信じていない。
+person.n.01 EQU speaker person.n.01 EQU hearer believe.v.01 Experiencer -2 Stimulus -1
+
+p48/d1553
+危険な時には赤ランプが点きます。
+danger.n.01 Theme +1 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 red.a.01 lamp.n.01 Colour -1 点き.v.01 Theme -1
+
+p12/d2595
+葵さんはダンスをします。
+entity.n.01 dance.v.02 し.v.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p08/d2732
+トラックが道の真ん中に止まっていた。
+truck.n.01 road.n.01 middle.n.01 PartOf -1 Location +1 in.n.01 stand.v.03 Theme -4 Value -2 Time +1 time.n.08 TPR now
+
+p12/d1447
+このりんごは甘い。
+apple.n.01 sweet.a.01 AttributeOf -1
+
+p13/d3126
+彼はたちまちそれを平らげた。
+male.n.02 entity.n.01 平らげ.v.01 Theme -2 Value -1
+
+p04/d2327
+目覚し時計が鳴らなかったので寝過ごしてしまった。
+entity.n.01 鳴ら.v.01 Theme -1 oversleep.v.01 Time +1 time.n.08 TPR now
+
+p73/d2143
+彼女はめったに外出しない。
+NEGATION <1 female.n.02 めった.n.01 外出し.v.01 Theme -2 Value -1
+
+p12/d0912
+木の葉は十月に落ち始める。
+entity.n.01 entity.n.01 落ち.v.01 Theme -2 Value -1
+
+p31/d2165
+１時間かそこらで帰ってきます。
+number.n.02 EQU 1 か.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 back.r.01 Stimulus -1
+
+p53/d1744
+新聞は世論を反映する。
+newspaper.n.01 entity.n.01 reflect.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p57/d2768
+ひとつの誤解から多くの争いが生じる。
+entity.n.01 misunderstanding.n.02 Participant -1 measure.n.02 Quantity + quarrel.n.01 Participant -1 生じる.v.01 Participant -3 Theme -1
+
+p28/d3002
+これがごく最近私の蔵書に加わった本です。
+this.n.01 entity.n.01 entity.n.01 User +1 person.n.01 EQU speaker library.n.01 Participant -2 acquisition.v.01 Theme -5 Attribute -4 Value -1 entity.n.01 be.v.01 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p38/d3468
+彼女は彼が大嫌いです。
+female.n.02 male.n.02 大嫌い.v.01 Participant -2 Theme -1 Time +1 time.n.08 EQU now
+
+p10/d0864
+目が痛いです。
+eye.n.01 痛い.a.01 Theme -1
+
+p28/d3183
+とある冬の日、彼女と出会った。
+winter.n.01 day.n.01 Participant -1 female.n.02 出会っ.v.01 Participant -2 Theme -1
+
+p06/d2173
+僕のクラスでリンダよりかわいい女の子はいない。
+entity.n.01 User +1 person.n.01 EQU speaker class.n.01 Participant -2 entity.n.01 girl.n.01 い.v.01 PartOf -3 Co-Theme -2 Theme -1
+
+p14/d2913
+スープをかき混ぜなさい。
+soup.n.01 かき混ぜ.v.01 Theme -1
+
+p10/d3146
+列車は脱線した。
+train.n.01 脱線.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p59/d2048
+恋人たちはたくさんの手紙を交わした。
+lover.n.01 measure.n.02 Quantity + letter.n.01 Quantity -1 exchange.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p11/d1564
+彼女の美しさが彼の注意を引いた。
+entity.n.01 Of +1 female.n.02 entity.n.01 Participant -2 entity.n.01 PartOf +1 male.n.02 attention.n.01 Participant -2 draw.v.01 Agent -4 Patient -1 Time +1 time.n.08 TPR now
+
+p55/d2926
+私が持っているのは本だけです。
+person.n.01 EQU speaker all.v.01 Theme -1 CONTINUATION <0 have.a.01 Theme +1 entity.n.01 は.v.01 Proposition <1 Topic -1
+
+p32/d3498
+くそっ。
+shit.v.01
+
+p50/d2190
+血が彼の傷口から流れた。
+blood.n.01 male.n.02 wound.n.01 Experiencer -1 run.v.06 Theme -3 Source -1 Time +1 time.n.08 TPR now
+
+p61/d3472
+ねずみがかじって壁に穴をあけた。
+rat.n.01 chew.v.01 Time +1 Patient +2 time.n.08 TPR now wall.n.01 entity.n.01 あけ.v.01 Agent -5 Result -2 Patient -1
+
+p15/d2678
+私は旅行が好きです。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 travel.v.01 enjoy.v.01 Stimulus -1 Time +1 time.n.08 EQU now
+
+p80/d1640
+彼の目はヒョウの様だ。
+entity.n.01 PartOf +1 male.n.02 eye.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 Participant -1 だ.v.01 Theme -1
+
+p29/d3441
+日本人は部屋に入るとき靴を脱ぎます。
+shoe.n.01 脱ぎ.v.01 Theme -1 CONTRAST <1 person.n.01 Source +1 location.n.01 Name "japan" when.v.01 Time -2 CONTINUATION <0 entity.n.01 に.v.01 Proposition <1 Topic -1
+
+p38/d2589
+フランクリンは常識があるので有名だった。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 ある.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p01/d3461
+早く家に帰って来なさい。
+entity.n.01 home.v.01 Theme -1
+
+p73/d0905
+私はフィンランド人なのに、スウェーデン語も話せる。
+person.n.01 EQU speaker フィンランド人.v.01 Theme -1 entity.n.01 speak.v.03 Theme -1 Time +1 time.n.08 EQU now
+
+p06/d2917
+これを電子レンジに入れて下さい。
+entity.n.01 put.v.01 Goal -1 CONTINUATION <0 entity.n.01 に.v.01 Proposition <1 Topic -1
+
+p01/d2845
+彼女は私をうそつきだと非難した。
+female.n.02 person.n.01 EQU speaker うそつき.v.01 Theme -1 accuse.v.01 Participant -3 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p73/d2425
+私たちに歌を歌ってよ。
+NECESSITY <1 person.n.01 Sub speaker song.n.01 sing.v.01 Theme -2 Value -1
+
+p16/d1825
+彼女はパーティーでワインを２杯飲んだ。
+female.n.02 wine.n.01 drink.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now CONTINUATION <0 party.n.04 number.n.02 EQU 2 杯.v.01 Context -2 Proposition <1 Topic -1
+
+p63/d3023
+漕ぎ続けて。
+漕ぎ.v.01
+
+p84/d1716
+オウムは人の声をまねることができる。
+entity.n.01 can.a.01 Theme -1 CONTRAST <1 parrot.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 voice.n.02 Participant -1 mimic.v.01 Theme -1
+
+p38/d1673
+すみません、番号を間違えました。
+entity.n.01 wrong.a.01 AttributeOf -1
+
+p24/d0812
+散歩はどうだった？
+walk.n.01 how.n.01 Name ? be.a.01 Theme -2 Location -1
+
+p42/d2719
+彼女は車の運転ができる。
+female.n.02 car.n.01 drive.n.01 Theme -1 can.a.01 Participant -3 Theme -1
+
+p27/d1990
+車を盗まれた。
+car.n.01 盗ま.v.01 Theme -1 Agent +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p36/d0791
+その返事は私をいらいらさせた。
+answer.n.01 person.n.01 EQU speaker いらいら.a.01 Theme -1 せ.v.01 Causer -3 Patient -2 Result -1 Time +1 time.n.08 TPR now
+
+p00/d2340
+彼はゲイです。
+male.n.02 EQU now EQU +1 entity.n.01
+
+p53/d3371
+睡眠と栄養は健康に絶対不可欠である。
+sleep.n.01 entity.n.01 Participant -1 は.v.01 Proposition >2 Topic -1 CONTINUATION <0 絶対.v.01 CONTINUATION <0 entity.n.01 に.v.01 Attribute +1 Proposition <1 Topic -1 entity.n.01
+
+p55/d1401
+その遺体の身元は頬のほくろで確認された。
+dead_body.n.01 entity.n.01 Participant -1 確認.v.01 Theme -1 CONTINUATION <0 cheek.n.01 entity.n.01 Participant -1 で.v.01 Proposition <1 Topic -1 Time +1 time.n.08 TPR now
+
+p88/d1626
+やったよ。
+do.v.01 Time +1 time.n.08 TPR now
+
+p41/d3052
+その人の人柄は友を見ればわかる。
+entity.n.01 by.v.01 Theme -1 CONTINUATION <0 entity.n.01 man.n.01 entity.n.01 Participant -1 は.v.01 Participant -3 Proposition <1 Topic -1 know.v.01 Time +1 time.n.08 TPR now
+
+p06/d2611
+あなたは走る。
+あなた.n.01 run.v.01 Agent -1 Time +1 time.n.08 EQU now
+
+p09/d1514
+聞きなさい。
+聞き.v.01
+
+p78/d0944
+彼は一番背が高い少年です。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 高い.v.01 Theme -1
+
+p97/d3150
+気色悪いー！
+disgust.v.01 Participant +1 entity.n.01
+
+p85/d3483
+君のドレスはとても素敵だ。
+entity.n.01 User +1 person.n.01 EQU hearer dress.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 be.a.01 Theme -1
+
+p04/d2848
+何か落ちましたよ。
+entity.n.01 drop.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p67/d3082
+そんな悪い習慣は廃止すべきだ。
+NECESSITY <1 evil.r.01 custom.n.01 Attribute -1 廃止.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p40/d2797
+出て行け！
+get.v.01
+
+p88/d0778
+猿が木に登るのは簡単だ。
+entity.n.01 easy.a.01 EQU -1 CONTRAST <1 entity.n.01 entity.n.01 climb.v.01 Agent -2 Theme -1
+
+p22/d2345
+行きたくない人は行くに及びません。
+NEGATION <1 want.v.01 PartOf +1 entity.n.01 entity.n.01 entity.n.01 及び.v.01 Participant -4 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p00/d0819
+私はママにそれをあげた。
+person.n.01 EQU speaker person.n.01 Role +1 ママ.n.01 entity.n.01 give.v.03 Agent -4 Beneficiary -3 Theme -1 Time +1 time.n.08 TPR now
+
+p30/d0856
+私は猫が好きだ。
+person.n.01 EQU speaker cat.n.01 like.v.02 Participant -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p93/d3060
+でも、手紙を書いてよね。
+entity.n.01 write.v.02 Agent -1 Time +1 time.n.08 TSU now
+
+p28/d2828
+お前、酔っぱらってるよ！
+酔っぱらっ.v.01 Time +1 time.n.08 EQU now
+
+p53/d3194
+私は彼を馬鹿にした。
+person.n.01 EQU speaker male.n.02 entity.n.01 make.v.01 Asset -3 Product -2 Beneficiary -1 Time +1 time.n.08 TPR now
+
+p09/d3512
+お前には関係ない。
+NEGATION <1 person.n.01 EQU hearer concern.v.01 Experiencer -1
+
+p58/d2476
+彼は上流階級の人だ。
+male.n.02 upper_class.n.01 人.n.01 Pivot -1 だ.v.01 Co-Theme -3 Theme -1 Time +1 time.n.08 EQU now
+
+p50/d2025
+たくさんの人が彼を待っていた。
+entity.n.01 person.n.01 EQU -1 male.n.02 待っ.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p78/d1942
+私はベッドの下にかくれた。
+person.n.01 EQU speaker bed.n.01 entity.n.01 Participant -1 かくれ.v.01 Theme -3 Value -1
+
+p28/d1645
+その本を机の上に置いてくれ。
+book.n.01 put.v.01 Goal -1 CONTINUATION <0 desk.n.01 entity.n.01 Participant -1 に.v.01 Proposition <1 Topic -1
+
+p28/d1660
+私は今彼女の名前を思い出せない。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 User +1 female.n.02 name.n.01 Participant -2 recall.v.01 Participant -4 Theme -1
+
+p56/d1539
+近所におもちゃ屋があります。
+neighborhood.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 there.a.01 Theme -1
+
+p02/d1539
+晴れてきた。かさを持ってくる必要がなかったな。
+晴れ.v.01 CONTINUATION <1 entity.n.01 なかっ.v.01 Theme -1 CONTRAST <1 entity.n.01 持っ.v.01 Theme -1
+
+p40/d2679
+彼女は夜、学校に通っている。
+female.n.02 school.n.03 attend.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+
+p27/d2598
+だれでもみんな音楽を愛する。
+NEGATION <1 だれでもみんな.n.01 NEGATION <1 music.n.01 love.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p18/d1880
+私は誰も殺さなかった。
+person.n.01 も.v.01 Proposition >1 Topic -1 CONTINUATION <0 kill.v.01 CONTINUATION <2 person.n.01 EQU speaker は.v.01 Proposition <2 Topic -1 Time +1 time.n.08 TPR now
+
+p83/d1464
+彼は行動の自由がほとんどなかった。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 action.n.01 freedom.n.01 Participant -1 little.a.01 AttributeOf -1 Time +1 time.n.08 TPR now TPR now time.n.08 EQU -1
+
+p34/d2851
+あれが私のです。
+entity.n.01 be.v.01 Co-Theme -1 CONTINUATION <0 person.n.01 EQU speaker の.v.01 Proposition <1 Topic -1
+
+p28/d0816
+私は、かつてレストランで働いていた。
+person.n.01 EQU speaker time.n.08 TPR now TPR now restaurant.n.01 work.v.02 Agent -3 Time -2 Location -1 time.n.08 EQU -3
+
+p25/d0817
+私はお金が全くない。
+person.n.01 EQU speaker money.n.01 ない.a.01 Agent -2 Theme -1
+
+p75/d2660
+１９５８年、その記念碑は広島平和公園に建てられた。
+entity.n.01 entity.n.01 build.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p98/d1583
+負けない！
+NEGATION <1 lose.v.01 Time +1 time.n.08 EQU now
+
+p06/d0910
+雨は５日間も降り続いた。
+rain.n.01 rain.n.01 Theme -1 CONTINUATION <0 number.n.02 EQU 5 も.v.01 Proposition <1 Topic -1
+
+p25/d1986
+私は彼の手紙を走り読みした。
+person.n.01 EQU speaker male.n.02 letter.n.01 Creator -1 走り読み.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p10/d2762
+机の下から猫が出てきた。
+desk.n.01 entity.n.01 Participant -1 cat.n.01 appear.v.01 Source -2 Theme -1 Time +1 time.n.08 TPR now
+
+p05/d2956
+私達の吸っている空気は酸素と窒素からできている。
+person.n.01 breathe.v.01 Theme -1 Agent +1 air.n.01 oxygen.n.01 entity.n.01 Sub -1 Sub +1 窒素.n.01 ContentOf +1 から.n.01 でき.v.01 Theme -5 Value -3
+
+p79/d1647
+君は、彼の申し出を断るべきだった。
+person.n.01 EQU hearer は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NECESSITY <1 entity.n.01 Creator +1 male.n.02 offer.n.01 Participant -2 refuse.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p44/d2127
+耳が痛いのです。
+entity.n.01 entity.n.01 です.v.01 Theme -2 Value -1 CONTINUATION <0 ø.v.01 Proposition <1 Pivot +1 entity.n.01
+
+p97/d3194
+火事の場合、階段を使いなさい。
+fire.n.01 stairs.n.01 EQU -1 use.v.01 Asset -1
+
+p60/d0809
+公園にはたくさんの動物がいます。
+entity.n.01 entity.n.01 animal.n.01 Participant -1 い.v.01 Theme -3 Value -1
+
+p23/d1899
+母が急死した後、父が一人きりで私の世話をしてくれた。
+person.n.01 Role +1 father.n.01 person.n.01 EQU speaker 世話.n.01 Participant -1 し.v.01 Theme -4 Value -1 CONTINUATION <0 entity.n.01 で.v.01 Proposition <1 Topic -1 CONTINUATION <2 person.n.01 Role +1 母.n.01 急死.v.01 Theme -2 Time +1 ESU +3 time.n.08 TPR now TPR now entity.n.01 人.v.01 Proposition <1 Time -2 Topic -1 time.n.08 EQU -3
+
+p01/d2058
+その会は土曜日の午前１０時半に開かれます。
+meeting.n.01 hold.v.03 Theme -1 CONTINUATION <0 entity.n.01 entity.n.01 Participant -1 entity.n.01 に.v.01 Participant -2 Proposition <1 Topic -1 Time +1 time.n.08 TSU now
+
+p73/d0856
+私はペンを１０本持っています。
+pen.n.01 number.n.02 EQU 10 entity.n.01 have.v.01 Patient -3 Quantity -2 Participant -1 EXPLANATION <1 person.n.01 EQU speaker てい.v.01 Participant -1
+
+p36/d2856
+政府はそうした古い規則を廃止すべきだ。
+government.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NECESSITY <1 old.a.02 regulation.n.01 廃止.v.01 Attribute -2 Theme -1
+
+p47/d1854
+ワニが犬を食べた。
+crocodile.n.01 dog.n.01 eat.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+
+p56/d3044
+私は動物園へ行った。
+person.n.01 EQU speaker zoo.n.01 go.v.01 Theme -2 Destination -1 Time +1 time.n.08 TPR now
+
+p06/d0948
+了解しました。
+understand.v.01 Time +1 time.n.08 TPR now
+
+p68/d3305
+彼は電車の中で、態と私の足を踏みました。
+male.n.02 train.n.01 entity.n.01 Participant -1 entity.n.01 entity.n.01 PartOf +1 person.n.01 EQU speaker entity.n.01 Participant -3 Participant -2 踏み.v.01 Theme -7 Location -5 Value -1
+
+p59/d2447
+僕はとてもうれしい。
+person.n.01 EQU speaker so.a.01 Theme -1 Manner +1 うれしい.r.01
+
+p22/d2209
+私はあなたのことを心配している。
+person.n.01 EQU speaker person.n.01 EQU hearer entity.n.01 Participant -1 心配.v.01 Theme -3 Value -1 Time +1 time.n.08 EQU now
+
+p70/d3190
+すべて私の責任です。
+entity.n.01 User +1 person.n.01 EQU speaker entity.n.01 Participant -2 です.v.01 Theme -1
+
+p61/d2212
+フロントの番号は一番です。
+entity.n.01 number.n.01 Participant -1 一番.v.01 Theme -1
+
+p46/d1487
+警察は少女を殺害した男を逮捕した。
+police.n.01 girl.n.01 殺害.v.01 Value -1 Time +1 Theme +2 time.n.08 TPR now TPR now man.n.01 arrest.v.01 Agent -5 Time -2 Patient -1 time.n.08 EQU -3
+
+p04/d1672
+多くの学生がアルバイトを探しています。
+measure.n.02 Quantity ? person.n.01 Participant -1 Role +1 student.n.01 entity.n.01 探し.v.01 Theme -3 Value -1
+
+p94/d2556
+映画は良かったですか。
+movie.n.01 良かっ.v.01 Theme -1 Participant +1 entity.n.01
+
+p55/d0813
+私たちはがけのふちに立った。
+entity.n.01 cliff.n.01 entity.n.01 PartOf -1 立っ.v.01 Theme -3 Value -1
+
+p76/d1716
+ブタはある特性を人間と共有している。
+pig.n.01 entity.n.01 human_beings.n.01 Co-Theme +1 with.n.01 share.v.01 Agent -4 Result -3 Patient -2
+
+p69/d2945
+この歌の名前はオンリー・ユーです。
+song.n.01 name.n.01 Bearer -1 オンリー・ユー.n.01 EQU "オンリー・ユー" です.v.01 Theme -2 Co-Theme -1
+
+p30/d2086
+彼女は試した。
+female.n.02 try.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p81/d3147
+私は彼に警告したが、彼はその警告を無視した。
+person.n.01 EQU speaker male.n.02 warn.v.01 Agent -2 Recipient -1 Time +1 time.n.08 TPR now male.n.02 ANA -3 warning.n.01 ignore.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p90/d2854
+彼女は１９９０年７月１７日の午前６時に生まれた。
+female.n.02 生まれ.v.01 Theme -1 CONTINUATION <0 entity.n.01 entity.n.01 entity.n.01 Time -1 entity.n.01 Participant -1 Time +1 at.n.01 に.v.01 Participant -5 Proposition <1 Topic -2
+
+p53/d1419
+私は１９４０年５月３１日に生まれた。
+person.n.01 EQU speaker 生まれ.v.01 Theme -1 CONTINUATION <0 entity.n.01 entity.n.01 entity.n.01 Time -1 に.v.01 Participant -3 Proposition <1 Topic -1
+
+p78/d1571
+虫歯は１本もありません。
+NEGATION <1 cavity.n.01 は.v.01 Proposition >1 Topic -1 Time +1 time.n.08 EQU now CONTINUATION <0 entity.n.01 have.v.01 Patient -1
+
+p52/d2713
+彼は火を踏み消した。
+male.n.02 fire.n.04 stamp_out.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+
+p46/d2167
+彼は垣根を飛び越えた。
+male.n.02 hedge.n.01 飛び越え.v.01 Theme -2 Value -1
+
+p09/d2598
+水は光を反射する。
+water.n.01 light.n.01 reflect.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+
+p36/d3442
+彼女は私に対し敵対的だ。
+female.n.02 person.n.01 EQU speaker hostile.a.01 Theme -2 Experiencer -1
+
+p12/d3346
+私たちは米をつくっている。
+person.n.01 Sub speaker rice.n.02 cultivate.v.01 Agent -2 Product -1 Time +1 time.n.08 EQU now
+
+p78/d1488
+私はバスを待っています。
+person.n.01 EQU speaker bus.n.01 待っ.v.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p25/d2894
+警察は彼女を無理やり白状させた。
+person.n.01 Role +1 police.n.01 female.n.02 無理やり.r.01 白状.v.01 Theme -2 Manner -1 せ.v.01 Causer -5 Patient -3 Result -1 Time +1 time.n.08 TPR now
+
+p00/d2360
+私たちは見つけた。
+person.n.01 Sub speaker find.v.03 Agent -1 Time +1 time.n.08 TPR now
+
+p80/d0870
+その知らせを聞いてとてもうれしかった。
+news.n.01 hear.v.02 Theme -1 Time +1 time.n.08 TPR now
+
+p78/d3210
+日本人は１９４１年１２月７日パールハーバーを襲撃した。
+person.n.01 Source +1 country.n.02 Name "japan" entity.n.01 on.n.01 entity.n.01 Time -1 entity.n.01 attack.v.01 Participant -4 Agent -6 Participant -2 Patient -1 Time +1 time.n.08 TPR now
+
+p45/d3055
+この部屋は縦１２フィート横２４フィートあります。
+room.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 by.n.01 entity.n.01 Duration -1 Quantity 12 24.v.01 Proposition >1 Topic -1 CONTINUATION <0 あり.v.01
+
+p44/d2443
+ネコは掃除機が大嫌い。
+cat.n.01 vacuum.n.04 abhor.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p94/d3109
+たばこは健康に害がある。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 health.n.01 entity.n.01 ある.v.01 Theme -2 Value -1
+
+p70/d1436
+私は今香港にいます。
+person.n.01 EQU speaker geological_formation.n.01 Name "香港" be.v.01 Theme -2 Location -1 Time +1 time.n.08 EQU now
+
+p01/d2421
+私、夕食を作ったのよ。
+person.n.01 EQU speaker dinner.n.01 cook.v.02 Agent -2 Product -1 Time +1 time.n.08 TPR now
+
+p74/d3409
+彼女の行儀作法は良家の子女のそれではない。
+entity.n.01 Creator +1 female.n.02 entity.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 lady.n.01 entity.n.01 entity.n.01 Creator -2 Participant -1 で.v.01 Theme -1
+
+p70/d2499
+彼は十字を切った。
+male.n.02 entity.n.01 切っ.v.01 Theme -2 Value -1
+
+p22/d2309
+それを机の上に戻して置きなさい。
+entity.n.01 back.a.01 Theme -1 CONTINUATION <0 desk.n.01 entity.n.01 Participant -1 に.v.01 Proposition <1 Topic -1
+
+p15/d0811
+今年の夏は寒かった。
+entity.n.01 summer.n.01 PartOf -1 寒かっ.v.01 Theme -1
+
+p74/d2844
+彼だけがその手紙を読んだ。
+male.n.02 entity.n.01 the.v.01 Theme +1 letter.n.01 read.v.01 Participant -4 Agent -3 Source -1 Time +1 time.n.08 TPR now
+
+p32/d1912
+彼女は怠け者たちを軽蔑する。
+female.n.02 怠け者.n.01 軽蔑.n.01 する.v.01 Agent -3 Result -2 Patient -1 Time +1 time.n.08 EQU now
+
+p33/d0795
+ジュディーさんはみんなに親切です。
+entity.n.01 NEGATION <1 person.n.01 NEGATION <1 kind.a.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p29/d2685
+帝国の逆襲。
+entity.n.01 の.v.01 Patient -1 Result +1 逆襲.n.01
+
+p01/d1899
+彼女には２人の姉妹があり、２人は京都に住んでいる。
+entity.n.01 entity.n.01 住ん.v.01 Theme -2 Value -1 CONTRAST <1 entity.n.01 entity.n.01 entity.n.01 Participant -1 あり.v.01 Theme -3 Value -1
+
+p11/d1930
+彼はバイオリンが上手ですね。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 Role +1 violinist.n.01 good.a.08 AttributeOf -2
+
+p27/d1900
+犬は男に噛みついた。
+dog.n.01 man.n.01 ContentOf +1 に.n.01 噛みつい.v.01 Agent -3 Patient -2 Time +1 time.n.08 TPR now
+
+p44/d1502
+彼らの唇は触れ合った。
+entity.n.01 Creator +1 person.n.01 lip.n.01 Participant -2 触れ合っ.v.01 Theme -1
+
+p18/d2435
+彼女はピーマンが大嫌いだ。
+female.n.02 green_pepper.n.01 hate.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p20/d2984
+牛を飼育する。
+cattle.n.01 飼育.v.01 Theme -1
+
+p50/d0958
+彼は帽子をかぶっている。
+male.n.02 hat.n.01 かぶっ.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+
+p95/d2182
+どうか電灯を消して下さい。
+please.r.01 light.n.01 Theme -1 消し.v.01 Theme -1 Theme +1 please.r.01
+
+p18/d3197
+誰かが答えた。
+person.n.01 answer.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p37/d0865
+退屈しちゃったよ。
+speaker.v.01
+
+p05/d2703
+私の乗った列車は６時に出発して１０時にそこへ着いた。
+person.n.01 ContentOf +1 EQU speaker の.n.01 乗っ.v.01 Value -2 Time +1 Theme +6 time.n.08 TPR now train.n.01 time.n.08 ClockTime 18:00 Time +1 at.n.01 leave.v.01 Value -3 Location -2 Theme +1 time.n.08 ClockTime 22:00 Time +1 TPR now at.n.01 そこ.n.01 arrive.v.01 Location -3 Time -3 Location -1 time.n.08 EQU -4
+
+p10/d3290
+クモは大嫌いです。
+spider.n.01 abhor.v.01 Experiencer -1
+
+p76/d2410
+近頃は多くの人が花粉症持ちだ。
+measure.n.02 Quantity + person.n.01 EQU -1 花粉症.v.01 Theme -1 CONTINUATION <0 entity.n.01 は.v.01 Participant +1 Proposition <1 Topic -1 entity.n.01
+
+p71/d1608
+彼女は毎朝牛乳を一ビン飲みます。
+female.n.02 milk.n.01 飲み.v.01 Theme -2 Value -1 CONTINUATION <0 a.n.01 bottle.n.02 Proposition <1 Topic -1
+
+p37/d2412
+違うんだ。
+違う.v.01 EXPLANATION <1 entity.n.01 だ.v.01 Theme -1
+
+p32/d3061
+今、これは俺の町だ。
+this.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 User +1 person.n.01 EQU speaker city.n.01 Participant -2 be.v.01 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p80/d3422
+その本には黒いカバーがかかっていた。
+book.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 black.a.01 ColourOf +1 entity.n.01 かかっ.v.01 Theme -1
+
+p62/d1986
+私は電話もかけなかった。
+NEGATION <1 person.n.01 EQU speaker call.n.01 かけ.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p42/d2612
+キツネは穴があいた木の中へ隠れた。
+fox.n.01 ContentOf +1 は.n.01 tree.n.01 entity.n.01 Theme -1 hide.v.02 Agent -4 Location -1 CONTRAST <1 穴.n.01 ContentOf +1 が.n.01 あい.v.01 Theme -2 Time +1 time.n.08 TPR now TPR now time.n.08 EQU -1
+
+p01/d3421
+それらの方言におけるこの語形の分布に注意が向けられなければならない。
+entity.n.01 dialect.n.01 Participant -1 に.v.01 Proposition >2 Topic -1 CONTINUATION <0 attention.n.03 向け.v.01 Theme -1 CONTINUATION <0 entity.n.01 distribution.n.02 PartOf -1 に.v.01 Proposition <1 Topic -1 なら.v.01
+
+p90/d1532
+彼は別のトラックにいるんです。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 Participant -1 いる.v.01 Location -1
+
+p29/d1753
+彼女は先天的な無口です。
+female.n.02 先天的な.a.01 無口.a.01 Theme -2 Attribute -1
+
+p61/d0926
+私はコーヒーを２杯飲んだ。
+person.n.01 EQU speaker coffee.n.01 drink.v.01 Agent -2 Patient -1 CONTINUATION <0 number.n.02 EQU 2 杯.v.01 Proposition <1 Topic -1 Time +1 time.n.08 TPR now
+
+p31/d3417
+彼はコーヒーに少し砂糖を加えた。
+male.n.02 coffee.n.01 Co-Patient +1 to.n.01 sugar.n.01 add.v.01 Agent -4 Result -3 Patient -1 Time +1 time.n.08 TPR now
+
+p68/d3193
+アメリカの学校では男子の運動選手は女子に人気がある。
+person.n.01 Source +1 country.n.02 Name "america" school.n.01 Participant -2 Context +1 in.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 boy.n.01 entity.n.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 girl.n.01 entity.n.01 ある.v.01 Theme -2 Value -1
+
+p66/d1846
+彼女は日付を数字で書いた。
+female.n.02 entity.n.01 entity.n.01 write.v.01 Agent -3 Result -2 Participant -1 Time +1 time.n.08 TPR now
+
+p17/d3469
+地震が大地を揺すった。
+earthquake.n.01 ground.n.01 shake.v.01 Causer -2 Patient -1 Time +1 time.n.08 TPR now
+
+p20/d0850
+彼女は薔薇を栽培した。
+female.n.02 薔薇.n.01 grow.v.07 Agent -2 Result -1 Time +1 time.n.08 TPR now
+
+p89/d3118
+私の妻は外で食事をするのが好きなので、料理をする必要がない。
+person.n.01 EQU speaker person.n.01 Theme -1 Role +1 wife.n.01 entity.n.01 eat_out.v.01 する.a.01 Theme -1 Agent +1 entity.n.01 like.v.02 Participant -4 Stimulus -1 Time +1 time.n.08 EQU now cook.v.01 する.v.01 Theme -9 Value -1 EXPLANATION <1 entity.n.01 ない.a.01 Theme -1
+
+p48/d3095
+いいえ。
+いいえ.v.01
+
+p03/d2327
+スミスさんは英語を話さないのでしょう。
+entity.n.01 not.a.01 Theme -1 CONTRAST <1 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 english.n.01 speak.v.03 Theme -1
+
+p09/d3556
+私は英語を教える。
+person.n.01 EQU speaker 英語.n.01 教える.v.01 Theme -2 Value -1
+
+p22/d2875
+私は彼に時計を修理させた。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 male.n.02 watch.n.01 修理.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p42/d2680
+彼はまもなく戻ってきます。
+male.n.02 まもなく.r.01 戻っ.v.01 Theme -2 Manner -1
+
+p28/d2117
+町の人々は地震に大変驚いた。
+townsfolk.n.01 entity.n.01 Participant -1 earthquake.n.01 大変.v.01 Theme -2 Value -1
+
+p88/d3520
+これは彼の車です。
+this.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 User +1 male.n.02 car.n.01 Participant -2 be.v.01 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p12/d3353
+彼は上京するたびに私たちの家に泊まる。
+male.n.02 entity.n.01 entity.n.01 Participant -1 泊まる.v.01 Theme -3 Value -1 CONTINUATION <0 entity.n.01 に.v.01 Proposition <1 Topic -1
+
+p14/d0958
+君の言ったことはまったくナンセンスだ。
+person.n.01 EQU hearer の.v.01 Proposition >1 Topic -1 CONTINUATION <0 say.v.01 Time +1 Topic +2 time.n.08 TPR now entity.n.02 EQU ? は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 だ.v.01 Theme -1
+
+p63/d1950
+君の行動は君の信条と矛盾している。
+entity.n.01 Creator +1 person.n.01 EQU hearer behavior.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 Creator +1 person.n.01 EQU hearer principle.n.01 Participant -2 Theme +1 with.n.01 conflict.v.01 Theme -2
+
+p88/d1915
+彼を見ると祖父を思い出します。
+male.n.02 see.v.01 Stimulus -1 Time +1 time.n.08 EQU now entity.n.01 think.v.01 Experiencer -1 Time +1 time.n.08 EQU now
+
+p10/d0895
+ラジオによると、明日は雨になるそうです。
+radio.n.01 によると.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 will.a.01 Theme -1
+
+p83/d3473
+彼は眼鏡をかけていた。
+male.n.02 entity.n.01 かけ.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p72/d2539
+公園の中央に池がある。
+park.n.02 middle.n.01 PartOf -1 Location +1 in.n.01 pond.n.01 there.v.01 Location -3 Theme -1 Time +1 time.n.08 EQU now
+
+p28/d2791
+彼は警官を見て逃げた。
+male.n.02 person.n.01 Role +1 policeman.n.01 see.v.01 Experiencer -3 Stimulus -2 Time +1 time.n.08 TPR now
+
+p00/d1998
+食べた
+eat.v.02 Time +1 time.n.08 TPR now
+
+p64/d3214
+そのアパートには３つの小さな部屋と風呂がついている。
+アパート.n.01 number.n.02 EQU 3 small.a.01 room.n.01 Attribute -1 entity.n.01 Quantity -3 Sub -1 Sub +1 bath.n.06 つい.v.01 Theme -6 Value -2
+
+p22/d2950
+彼は私の意見に同意しました。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 EQU speaker entity.n.01 Participant -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 同意.v.01
+
+p59/d1427
+王は人民を抑圧した。
+person.n.01 Role +1 king.n.01 entity.n.01 oppress.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p32/d3234
+彼は私に何かささやいた。
+male.n.02 person.n.01 ContentOf +1 EQU speaker に.n.01 何か.n.01 ささやい.v.01 Agent -4 Recipient -3 Theme -1 Time +1 time.n.08 TPR now
+
+p55/d2530
+私に手を振っている男の人は私のおじだ。
+NEGATION <1 who.n.01 NEGATION <1 person.n.01 EQU speaker entity.n.01 wave.v.01 Agent -3 Result -2 Patient -1 man.n.01 entity.n.01 User +1 person.n.01 EQU speaker person.n.01 Participant -2 Role +1 uncle.n.01 だ.v.01 Theme -9 Value -2 terra_incognita.n.01 EQU -10 Participant -6
+
+p19/d1688
+大丈夫ですよ。
+大丈夫.v.01
+
+p03/d1832
+その飛行機は毎時５００キロの速さで飛ぶ。
+airplane.n.01 number.n.02 EQU 500 entity.n.01 速さ.n.01 Value -1 で.a.01 Participant -4 Quantity -3 Theme -1
+
+p00/d1801
+彼は英語はもちろんのこと、スペイン語も話せる。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 english.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 spanish.n.01 Participant -1 NEQ +1 even.n.01 話せる.v.01 Theme -2
+
+p31/d1523
+村の東に接して湖がある。
+village.n.02 east.n.05 Of -1 on.v.01 Value -1 Theme +1 lake.n.01 there.a.01 Theme -1
+
+p29/d2780
+少年は妹のおもちゃを取ってしまった。
+person.n.01 Role +1 boy.n.01 person.n.01 Role +1 妹.n.01 おもちゃ.n.01 Owner -2 取っ.v.01 Agent -5 Theme -1 Time +1 time.n.08 TPR now
+
+p04/d2514
+彼をクビにした。
+male.n.02 sack.v.02 し.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p43/d2025
+この地域はきわめて孤立している。
+area.n.01 extremely.r.02 isolated.a.06 Theme -2 Degree -1 Time +1 time.n.08 EQU now
+
+p88/d1783
+私のジーンズは洗うと縮んだ。
+entity.n.01 User +1 person.n.01 EQU speaker jean.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 wash.n.07 entity.n.01 だ.v.01 Theme -2 Value -1
+
+p10/d3492
+万事上手くいってます。
+NEGATION <1 thing.n.01 NEGATION <1 いっ.v.01 Theme -1
+
+p37/d0853
+明日はクリスマスだ。
+entity.n.01 entity.n.01 だ.v.01 Theme -2 Value -1
+
+p28/d2005
+僕は天文学が大好きだよ。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 astronomy.n.01 love.v.01 Stimulus -1 Time +1 time.n.08 EQU now
+
+p30/d0793
+その学生たちは全員英語を勉強しています。
+person.n.01 Role +1 学生たち.n.01 english.n.01 study.v.04 Agent -3 Theme -1
+
+p12/d2634
+突然敵の爆弾が雨あられと我々に降り注いだ。
+all_of_a_sudden.r.01 person.n.01 Role +1 enemy.n.01 bomb.n.01 Participant -2 rain.n.01 speaker.v.01 Sub -1 降り注い.v.01 Manner -6 Theme -3
+
+p84/d3229
+木が浮く。
+wood.n.01 float.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p42/d3532
+彼は詩人なんていうものでは決してない。
+male.n.02 なんて.v.01 Theme -1 EXPLANATION <1 いう.v.01 Participant +1 entity.n.01
+
+p10/d3200
+この自転車に油をさしなさい。
+bicycle.n.01 oil.v.01 さし.v.01 Participant -2 Theme -1 Time +1 time.n.08 EQU now
+
+p22/d2991
+フロスト氏はその地位につく資格がある。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 ある.v.01 Theme -1
+
+p92/d3321
+彼は米を栽培しています。
+male.n.02 entity.n.01 grow.v.01 Agent -2 Product -1 Time +1 time.n.08 EQU now
+
+p29/d2707
+私は無礼だった。
+person.n.01 EQU speaker impolite.a.01 AttributeOf -1 Time +1 time.n.08 TPR now
+
+p16/d2739
+４０人が出席していた。
+number.n.02 EQU 40 attend.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p41/d3088
+彼は読むことも書くこともできない。
+NEGATION <1 entity.n.01 can.a.01 Theme -1 CONTRAST <1 male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 write.v.01 Agent -2 Participant -1
+
+p77/d2140
+彼はこの問題の鍵を握っている。
+male.n.02 problem.n.01 key.n.01 Participant -1 hold.v.01 Agent -3 Theme -1 Time +1 time.n.08 EQU now
+
+p40/d1506
+みんなは嘘をつく。
+NEGATION <1 person.n.01 NEGATION <1 lie.v.05 lie.v.05 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p93/d1877
+それ以来彼はだらしない生活をしてきた。
+entity.n.01 life.n.01 し.v.01 Theme -2 Value -1
+
+p11/d1499
+やっと二人になれたね。
+entity.n.01 entity.n.01 Participant -1 Attribute +1 alone.r.01 be.a.01 Theme -2
+
+p69/d3108
+モダンジャズは私の趣味に合わない。
+NEGATION <1 モダンジャズ.n.01 person.n.01 EQU speaker taste.n.01 Participant -1 合わ.v.01 Theme -3 Value -1
+
+p22/d3126
+彼の奥さんはどんな人？
+entity.n.01 Of +1 male.n.02 person.n.01 Participant -2 Role +1 wife.n.01 どんな.v.01 Theme -2 Participant +1 entity.n.01
+
+p11/d2456
+壊れていないなら直すな。
+NEGATION <1 broken.v.01 EXPLANATION <1 なら.v.01
+
+p81/d2953
+彼は土地をたくさん持っている。
+male.n.02 land.n.01 たくさん.v.01 Theme -2 Value -1
+
+p00/d0821
+私は自炊に慣れている。
+person.n.01 EQU speaker 自炊.n.01 慣れ.v.01 Theme -2 Value -1
+
+p27/d2182
+私は韓国語を話します。
+person.n.01 EQU speaker person.n.01 Source +1 korean.n.02 Name "korean" speak.v.03 Agent -3 Theme -2
+
+p50/d2859
+もしリンゴのように見えてリンゴのような味だったら、それは多分リンゴです。
+entity.n.01 の.v.01 Proposition >1 Topic -1 CONTINUATION <0 look.v.01 Time +1 time.n.08 EQU now CONTINUATION <2 entity.n.01 だっ.v.01 Proposition <2 Topic -1 CONTINUATION <3 entity.n.01 の.v.01 Proposition <1 Topic -1 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 POSSIBILITY <1 entity.n.01 be.v.01 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p17/d2184
+母親の忠告なら友人の助言よりも大切だ。
+ø.v.01 Proposition >1 Participant +3 Agent +6 person.n.01 Role +1 mother.n.01 advice.n.01 Participant -2 person.n.01 Role +1 friend.n.01 entity.n.01 Participant -2 CONTINUATION <0 entity.n.01 advice.v.01 User -1
+
+p93/d1769
+私はズボンのしわをアイロンで伸ばした。
+person.n.01 EQU speaker pants.n.03 entity.n.01 Participant -1 out.v.01 Theme -3 Value -1 CONTINUATION <0 entity.n.01 で.v.01 Proposition <1 Topic -1
+
+p31/d0830
+地球は自転する。
+earth.n.01 rotate.v.01 Agent -1 Time +1 time.n.08 EQU now
+
+p04/d2490
+向こうへ行け！
+entity.n.01 へ.v.01 Proposition >1 Topic -1 CONTINUATION <0 get.v.01
+
+p16/d1774
+夏が来た。
+summer.n.01 come.v.01 Theme -1
+
+p52/d3187
+そのチームの選手は各自めいめいのバットを持っている。
+team.n.01 entity.n.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 entity.n.01 PartOf +2 entity.n.01 bat.n.05 Participant -1 NEGATION <1 持っ.v.01 Theme -3
+
+p25/d1895
+靴捨てちゃった。
+entity.n.01 捨て.v.01 Proposition >1 Topic -1 CONTINUATION <0 speaker.v.01
+
+p33/d0838
+彼はほこりに対してアレルギーを起こす。
+male.n.02 ほこり.n.01 アレルギー.n.01 起こす.v.01 Experiencer -3 Stimulus -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p31/d1995
+猟師は熊を撃った。
+person.n.01 Role +1 hunter.n.01 bear.n.01 shoot.v.02 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+
+p27/d2279
+その煙突はレンガの造りだ。
+chimney.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 brick.n.01 entity.n.01 Participant -1 だ.v.01 Theme -1
+
+p88/d2914
+息子は母親に質問した。
+person.n.01 Role +1 son.n.01 person.n.01 Role +1 母親.n.01 質問.v.01 Theme -4 Value -2 Time +1 time.n.08 TPR now
+
+p52/d3246
+母親が、彼の看護にあたってる。
+entity.n.01 male.n.02 care.n.01 Theme -1 あたっ.v.01 Theme -3 Value -1
+
+p78/d2874
+赤い屋根の家が見えました。
+red.a.01 entity.n.01 Colour -1 house.n.01 Participant -1 see.v.01 Stimulus -1 Time +1 time.n.08 TPR now
+
+p06/d1643
+もう真夜中だ。
+entity.n.01 だ.v.01 Theme -1
+
+p53/d2396
+フェアに行こうぜ。
+entity.n.01 行こ.v.01 Theme -1 Participant +1 entity.n.01
+
+p49/d2914
+僕も『戦争と平和』は読んでません。
+person.n.01 EQU speaker も.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 entity.n.01 で.v.01 Theme -1
+
+p60/d0911
+彼は口ひげをそり落とした。
+male.n.02 mustache.n.01 shave.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p43/d2036
+通常、私は８時４０分に出動する。
+person.n.01 EQU speaker 出動.v.01 Theme -1 CONTINUATION <0 entity.n.01 entity.n.01 Time -1 に.v.01 Proposition <1 Topic -1
+
+p38/d2460
+外見で人を判断するな。
+entity.n.01 man.n.01 judge.v.01 Participant -2 Theme -1
+
+p40/d0897
+頂上からの景色は最高だね。
+summit.n.02 PartOf +1 entity.n.01 view.n.02 Theme -2 entity.n.01 だ.v.01 Participant -2 Theme -1
+
+p21/d3254
+どっちの脚が痛むの？
+entity.n.02 EQU ? leg.n.01 Theme -1 hurt.v.01 Patient -1 Time +1 time.n.08 EQU now
+
+p16/d1542
+彼らはヘリコプターで救出された。
+person.n.01 helicopter.n.01 救出.v.01 Value -2 Instrument -1 Theme +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p35/d1567
+みんなが彼の失策を笑った。
+NEGATION <1 person.n.01 NEGATION <1 male.n.02 error.n.01 Creator -1 laugh.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p73/d0818
+私はパソコンを修理してもらいました。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 repair.v.01 Patient -1 Time +1 time.n.08 TPR now
+
+p34/d1972
+私たちは互いに助け合った。
+person.n.01 Sub speaker entity.n.01 help.v.01 Agent -2 Beneficiary -1 Time +1 time.n.08 TPR now
+
+p18/d3536
+彼女は歯を抜いてもらった。
+彼女.n.01 tooth.n.01 pull.v.15 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p55/d0848
+彼女は昨日自殺した。
+female.n.02 time.n.08 TIN +2 day.n.03 TCT now day.n.03 TAB -1 自殺.v.01 Theme -4 Time -3
+
+p07/d2963
+彼女は多くの辛い思いを経験してきた。
+female.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 measure.n.02 Quantity ? entity.n.01 Participant -1 have.a.01 Theme -1
+
+p81/d2669
+この車は時速６０キロで走っている。
+number.n.02 EQU 60 で.v.01 Proposition >1 Topic -1 CONTINUATION <0 go.v.01 CONTINUATION <2 car.n.01 は.v.01 Proposition <2 Topic -1 Time +1 time.n.08 EQU now
+
+p50/d2976
+彼は正しいと思う。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 think.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p86/d3475
+彼は五階までエレベーターに乗った。
+male.n.02 entity.n.01 floor.n.02 ContentOf -1 entity.n.01 take.v.09 Agent -4 Destination -2 Theme -1 Time +1 time.n.08 TPR now
+
+p41/d3442
+もっと早く出発するべきだった。
+depart.v.01 Time +1 time.n.08 TPR now EXPLANATION <1 する.v.01 EXPLANATION <1 should.v.01
+
+p24/d2860
+雪は、４日間も降り続いた。
+snow.n.01 number.n.02 EQU 4 day.n.02 Co-Theme -1 Theme +1 entity.n.01 降り.v.01 Theme -4 続い.v.01 Causer -5 Participant -3 PartOf -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p73/d0835
+彼の野球生活はその時終わった。
+male.n.02 baseball_life.n.01 Participant -1 entity.n.01 then.n.01 終わっ.v.01 Participant -3 Participant -2 Theme -1 Time +1 time.n.08 TPR now
+
+p30/d2726
+彼女は自分を嫌う。
+female.n.02 female.n.02 ANA -1 hate.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p78/d2252
+彼らはゆっくり前進した。
+person.n.01 slowly.r.01 前進.v.01 Theme -2 Manner -1
+
+p44/d2386
+僕は野球やテニスやサッカーのような屋外スポーツが好きだ。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 baseball.n.01 tennis.n.01 Participant -1 soccer.n.01 entity.n.01 Participant -2 Participant -1 屋外.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 like.v.02 Stimulus -1 Time +1 time.n.08 EQU now
+
+p50/d3050
+この道はいつも多くの車が通る。
+road.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 NEGATION <1 entity.n.01 PartOf +1 measure.n.02 Quantity + NEGATION <1 通る.v.01 Theme -3 terra_incognita.n.03 EQU -4 EQU -3
+
+p78/d1493
+彼は英語がほとんど話せません。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 POSSIBILITY <1 english.n.01 little.a.01 AttributeOf -1
+
+p09/d2639
+私たちは彼の邪魔をした。
+person.n.01 Sub speaker male.n.02 disturb.v.04 Participant -1 し.v.01 Theme -3 Value -1 Time +1 time.n.08 TPR now
+
+p40/d0833
+彼がまたそのレースに勝った。
+male.n.02 race.n.01 win.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p28/d3226
+彼女の話では彼は来ないそうだ。
+female.n.02 entity.n.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 male.n.02 come.v.02 Theme -1
+
+p63/d1588
+生年月日は１９６０年２月１４日です。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 entity.n.01 Participant -2 Time -1 entity.n.01 です.v.01 Participant -2 Theme -1
+
+p06/d3543
+ドローシーは職場にいない。
+entity.n.01 office.n.01 い.v.01 Theme -2 Value -1
+
+p60/d1746
+その少女は大きな赤い帽子をかぶっていた。
+girl.n.01 large.r.01 hat.n.01 have_on.v.01 Agent -3 Attribute -2 Theme -1 Time +1 time.n.08 TPR now
+
+p22/d3318
+猫は暗闇で目が見えると気がついた。
+cat.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 dark.n.01 entity.n.01 見える.v.01 Location -2 Theme -1 entity.n.01 つい.v.01 Theme -1
+
+p08/d0882
+卵は嫌いです。
+egg.n.02 dislike.v.01 Stimulus -1 Time +1 time.n.08 EQU now
+
+p47/d2096
+彼女は服にアイロンをかけた。
+female.n.02 dress.n.01 iron.n.04 かけ.v.01 Agent -3 Goal -2 Theme -1 Time +1 time.n.08 TPR now
+
+p07/d2327
+風邪をひいて熱がある。
+entity.n.01 ある.v.01 Theme -1 CONTRAST <1 cold.n.01 ひい.v.01 Theme -1
+
+p46/d2743
+ミニスカートがまた流行している。
+miniskirt.n.01 流行.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p02/d2070
+彼は来ると約束したが、来なかった。
+male.n.02 entity.n.01 promise.v.01 Theme -1 Time +1 time.n.08 TPR now come.v.02 Theme -4
+
+p40/d1848
+彼は彼女に親切だ。
+male.n.02 female.n.02 kind.a.01 AttributeOf -2 Beneficiary -1 Time +1 time.n.08 EQU now
+
+p05/d1901
+電車は丁度出たところだ。
+train.n.01 丁度.r.01 left.v.01 Time +1 Theme +2 time.n.08 TPR now ところ.n.01 だ.v.01 Theme -5 Manner -4 Value -1
+
+p43/d2503
+母はそのミルクの味を見た。
+person.n.01 Role +1 母.n.01 milk.n.01 taste.v.03 Theme -1 見.v.01 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+
+p01/d0816
+母はいつも忙しい。
+NEGATION <1 いつも.n.01 NEGATION <1 person.n.01 Role +1 母.n.01 busy.a.01 AttributeOf -3 Participant -2
+
+p78/d2614
+彼は毎日エンジンのテストをする。
+male.n.02 engine.n.01 test.n.01 Participant -1 する.v.01 Theme -3 Value -1
+
+p38/d2616
+祖母は裏庭で雑草を抜いていた。
+person.n.01 Role +1 grandmother.n.01 backyard.n.01 weed.n.01 pull_up.v.04 Agent -4 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p57/d3296
+我々は彼の車に乗り込んで海岸へ行った。
+sea.n.01 go.v.01 Destination -1 Time +1 time.n.08 TPR now CONTRAST <1 person.n.01 Sub speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 User +1 male.n.02 car.n.01 Participant -2 乗り込ん.v.01 Theme -1
+
+p60/d1855
+私の祖母は骨粗鬆症を患っている。
+person.n.01 EQU speaker person.n.01 Of -1 Role +1 grandmother.n.01 osteoporosis.n.01 suffer.v.02 Experiencer -3 Stimulus -1 Time +1 time.n.08 EQU now
+
+p40/d1678
+首相は憲章に署名した。
+person.n.01 Role +1 the.n.01 憲章.n.01 署名.v.01 Theme -3 Value -1 Time +1 time.n.08 TPR now
+
+p15/d0774
+橋のしたは暗かった。
+bridge.n.01 entity.n.01 Participant -1 暗かっ.v.01 Theme -1
+
+p31/d2470
+コーヒーの方が好きです。
+coffee.n.01 entity.n.01 Participant -1 prefer.v.01 Stimulus -1
+
+p74/d0781
+ラジオをつけなさい。
+NECESSITY <1 radio.n.01 turn_on.v.01 Theme -1
+
+p87/d2619
+彼は手にペンを持っていた。
+male.n.02 entity.n.01 Location +1 in.n.01 pen.n.01 hold.v.02 Agent -4 Path -3 Theme -1 Time +1 time.n.08 TPR now
+
+p72/d1999
+泥棒は宝石を盗んで逃げた。
+person.n.01 Role +1 thief.n.01 entity.n.01 entity.n.01 逃げ.v.01 Theme -4 Value -2 Participant -1
+
+p31/d2101
+私たちはその家をみどり色に塗った。
+person.n.01 Sub speaker house.n.01 entity.n.01 paint.v.02 Agent -3 Patient -2 Agent -1 Time +1 time.n.08 TPR now
+
+p00/d2506
+彼はいないだろう。
+POSSIBILITY <1 NEGATION <1 male.n.02 out.v.01 Attribute -1
+
+p73/d1789
+その赤ちゃんは眠った。
+baby.n.01 sleep.n.01 Value -1 Time +1 time.n.08 TPR now
+
+p54/d1423
+もう一度？
+again.v.01
+
+p48/d2468
+その２人の男は握手した。
+entity.n.01 Quantity 2 man.n.01 Quantity -1 握手.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p17/d1476
+私はあなたを助けた。
+person.n.01 EQU speaker person.n.01 EQU hearer rescue.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p61/d2593
+我々は生きるために食べる。
+person.n.01 Sub speaker so.n.01 eat.v.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p00/d1536
+彼は貧しい。
+male.n.02 poor.a.02 AttributeOf -1
+
+p62/d3118
+私が彼に与えた金合計１万ドルになる。
+person.n.01 EQU speaker number.n.02 EQU 10000 なる.v.01 Theme -2 Value -1 CONTINUATION <0 male.n.02 give.v.03 Value -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01 合計.v.01 Proposition <1 Topic -1
+
+p88/d2771
+おじさんから古いトヨタ車をもらった。
+from.v.01 EXPLANATION <1 toyota.n.01 PartOf +1 entity.n.01 get.v.01 Result -2 Time +1 time.n.08 TPR now
+
+p76/d0840
+彼は私に実例をあたえてくれた。
+male.n.02 person.n.01 EQU speaker example.n.01 an.v.01 Agent -3 Result -2 Patient -1
+
+p31/d2559
+１時３５分くらいに駅に着きます。
+entity.n.01 station.n.01 at.v.01 Participant -2 Location -1 Time +1 time.n.08 EQU now
+
+p27/d3311
+私の叔父は肺ガンで死んだ。
+person.n.01 EQU speaker person.n.01 Theme -1 Role +1 uncle.n.01 肺ガン.n.01 die.v.01 Theme -3 Causer -1 Time +1 time.n.08 TPR now
+
+p21/d0820
+私は古いランプを買った。
+person.n.01 EQU speaker 古い.r.01 lamp.n.02 Attribute -1 buy.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p64/d1836
+その話は友達から聞いた。
+entity.n.01 から.v.01 Theme -1
+
+p26/d2728
+バスは北へ向かっていた。
+bus.n.01 north.n.04 head.v.01 Theme -2 Path -1 Time +1 time.n.08 TPR now
+
+p88/d3441
+誰かが笑った。
+person.n.01 laugh.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p77/d0808
+劇場には大勢の観衆がいました。
+theater.n.01 Location +1 in.n.01 entity.n.01 audience.n.01 Participant -1 be.v.03 EQU -4 Theme -1 Time +1 time.n.08 TPR now
+
+p61/d1850
+ミツバチは蜂蜜をつくる。
+bee.n.01 honey.n.01 make.v.01 Agent -2 Product -1 Time +1 time.n.08 EQU now
+
+p00/d1962
+誰が勝ったの？
+person.n.01 CONTRAST <1 person.n.02 EQU ? win.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p25/d2020
+彼女の夫は刑務所に入っている。
+entity.n.01 Of +1 female.n.02 person.n.01 Participant -2 Role +1 husband.n.01 prison.n.01 in.v.01 Theme -3 Value -1
+
+p69/d3010
+それは彼女の性格の表れだ。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 Of +1 female.n.02 person.n.01 Role +1 character.n.01 entity.n.01 Participant -4 PartOf -2 だ.v.01 Theme -1
+
+p96/d3104
+僕はお父さんが帰ってくる前に眠ってしまった。
+person.n.01 EQU speaker person.n.01 Role +1 お父さん.n.01 帰っ.v.01 Theme -2 EPR +1 asleep.v.01 Attribute -4 Time +1 time.n.08 TPR now
+
+p56/d2630
+私は花粉アレルギーだ。
+person.n.01 EQU speaker 花粉アレルギー.n.01 だ.v.01 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+
+p02/d1961
+彼女は英語を教えている。
+female.n.02 english.n.01 teach.v.01 Agent -2 Theme -1
+
+p58/d3167
+彼女は簡素なドレスを着ていた。
+female.n.02 simple.a.01 AttributeOf +1 dress.n.01 wear.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p31/d1834
+ブラスバンドが行進曲を３曲演奏した。
+brass_band.n.01 行進曲.n.01 number.n.02 EQU 3 演奏.v.01 Theme -3 Value -2 Quantity -1 Time +1 time.n.08 TPR now
+
+p73/d0954
+彼女の父親は日本人だ。
+female.n.02 person.n.01 Participant -1 Role +1 father.n.01 person.n.01 Source +1 location.n.01 Name "japan" だ.v.01 Participant -4 Theme -2
+
+p73/d2978
+雨が降りはじめた。
+rain.n.01 drop.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p37/d1530
+彼は本を読んでいる。
+male.n.02 book.n.01 read.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p05/d2913
+実のところ物価は毎週上昇している。
+上昇.v.01 CONTINUATION <0 price.n.01 は.v.01 Proposition <1 Topic -1 Time +1 time.n.08 EQU now
+
+p67/d1730
+このクラスには１５人の男子と２８人の女子がいる。
+class.n.01 number.n.02 EQU 15 boy.n.01 Quantity -1 entity.n.01 Sub -1 Sub +2 number.n.02 EQU 28 girl.n.02 Quantity -1 consist.v.01 Theme -6 Attribute -3 Time +1 time.n.08 EQU now
+
+p33/d2427
+彼らのうち誰も出席していない。
+NEGATION <1 NEGATION <1 person.n.01 entity.n.01 SubOf -1 entity.n.01 ContentOf -1 NEGATION <1 出席.v.01 Theme -1
+
+p97/d2807
+彼は私たちに一言も言わなかった。
+NEGATION <1 person.n.01 Sub speaker word.n.01 も.v.01 Recipient -2 Proposition >1 Topic -1 Time +1 time.n.08 TPR now CONTINUATION <0 male.n.02 say.v.01 Topic -1
+
+p02/d0820
+私は偶然電車の中で旧友に出会った。
+person.n.01 EQU speaker train.n.01 on.n.01 Theme -1 旧友.n.01 upon.v.01 Agent -4 Location -2 Co-Agent -1 Time +1 time.n.08 TPR now
+
+p02/d2799
+彼女に兄弟はいない。
+NEGATION <1 female.n.02 person.n.01 Role +1 兄弟.n.01 い.v.01 Theme -3 Value -2
+
+p93/d1771
+もうすぐ授業が再開する。
+time.n.08 TSU now class.n.01 再開.v.01 Time -2 Theme -1
+
+p09/d2345
+彼らは重税に悩まされた。
+person.n.01 重税.n.01 悩ま.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p28/d3017
+私は彼が新製品について説明するのを聞いた。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 male.n.02 entity.n.01 entity.n.01 listen.v.01 Agent -3 Participant -2 Topic -1 Time +1 time.n.08 TPR now
+
+p24/d2214
+変更した？
+change.v.01 Time +1 time.n.08 TPR now
+
+p47/d1499
+彼は若者に大変人気がある。
+entity.n.01 ある.v.01 Theme -1 CONTRAST <1 male.n.02 entity.n.01 Context +1 in.n.01 大変.v.01 Theme -3 Value -2
+
+p99/d2296
+禁煙を勧めます。
+entity.n.01 advise.v.01 Recipient -1 Time +1 time.n.08 TPR now
+
+p10/d3512
+私はまったく泳げない。
+NEGATION <1 person.n.01 EQU speaker 泳げ.v.01 Agent -1
+
+p28/d3422
+日本語と中国語の漢字の発音はとても違いますね。
+person.n.01 Source +1 location.n.01 Name "japan" entity.n.01 Sub -2 Sub +3 person.n.01 Source +1 location.n.01 Name "china" kanji.n.01 Participant -2 pronunciation.n.01 Participant -4 very.a.01 Theme -1 Attribute +1 different.r.01
+
+p16/d2980
+彼は歌い始めた。
+male.n.02 sing.v.02 Agent -1 start.v.01 Causer -2 PartOf -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p05/d2419
+彼はその村の全ての人に知られている。
+male.n.02 village.n.01 entity.n.01 entity.n.01 Participant -2 Participant -1 know.v.01 Theme -4 Value -1 Time +1 time.n.08 TPR now
+
+p50/d2664
+彼は約束に縛られている。
+male.n.02 promise.n.01 縛ら.v.01 Theme -2 Value -1
+
+p41/d2163
+彼女は泣いている男の子にキスをしてなだめた。
+tear.n.01 Patient +1 entity.n.01 boy.n.01 entity.n.01 し.v.01 Agent -3 Result -2 Patient -1 た.v.01 Theme +1 entity.n.01 EXPLANATION <1 female.n.02 away.v.01 Theme -2 Value -1
+
+p14/d2570
+私達は、昼食を食べ終えた。
+person.n.01 Sub speaker lunch.n.01 食べ.v.01 Agent -2 Patient -1 終え.v.01 PartOf -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p57/d2676
+電話があったよ。
+電話.n.01 あっ.v.01 Topic -1 Time +1 time.n.08 TPR now
+
+p45/d2965
+他人を軽蔑すべきでない。
+NEGATION <1 NECESSITY <1 entity.n.01 軽蔑.v.01 Theme -1
+
+p94/d1862
+つい先ほど君のお父さんに会いました。
+つい.r.01 Time +1 Co-Theme +3 time.n.08 TPR now TPR now person.n.01 EQU hearer person.n.01 Theme -1 Role +1 ContentOf +2 father.n.01 に.n.01 meet.v.01 EQU -6 time.n.08 EQU -6
+
+p36/d3330
+ヴァンホーン家は裕福だった。
+ヴァンホーン家.n.01 rich.a.01 be.v.01 Theme -2 Attribute -1 Time +1 time.n.08 TPR now
+
+p07/d2369
+彼はホームランをかっ飛ばした。
+male.n.02 home_run.n.01 かっ飛ばし.v.01 Theme -2 Value -1
+
+p30/d0809
+言語が好きです。
+language.n.01 like.v.02 Stimulus -1 Time +1 time.n.08 EQU now
+
+p02/d2868
+机の上にあるワープロは父の物です。
+desk.n.01 entity.n.01 Participant -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 ある.v.01 Theme +1 word_processor.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 Participant -1 word_processor.n.01 User -1
+
+p22/d2250
+喫煙は健康に悪い。
+smoking.n.01 entity.n.01 bad.a.01 Theme -2 Value -1
+
+p10/d2888
+私は一生懸命働くのに慣れている。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 hard.r.01 work.v.01 Manner -1 entity.n.01 に.v.01 Agent -2 Proposition >1 Topic -1 CONTINUATION <0 慣れ.v.01
+
+p70/d2023
+私の１１年の人生で最悪の日だったわ。
+entity.n.01 User +1 person.n.01 EQU speaker entity.n.01 Quantity 11 life.n.03 Participant -3 Participant -1 entity.n.01 day.n.01 Participant -1 be.v.01 Location -3 Co-Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 EQU now
+
+p50/d0850
+病気はまだ初期の段階です。
+disease.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 still.n.01 entity.n.01 NEQ -1 stage.n.01 Participant -1 です.v.01 Theme -1
+
+p28/d2540
+彼らはダーウィンの進化論に反対した。
+person.n.01 person.n.01 Name "ダーウィン" 進化論.n.01 Creator -1 ContentOf +1 に.n.01 oppose.v.01 Agent -4 Patient -2 Time +1 time.n.08 TPR now
+
+p15/d0902
+電話がまた鳴っても、無視するつもりだ。
+phone.n.01 again.a.01 Theme -1 する.v.01 EXPLANATION <1 entity.n.01 だ.v.01 Theme -1
+
+p47/d3058
+船は強風を受けて疾走した。
+ship.n.01 疾走.v.01 Theme -1 CONTRAST <1 entity.n.01 受け.v.01 Theme -1
+
+p06/d2114
+多くの生徒がその本を買った。
+measure.n.02 Quantity ? person.n.01 Participant -1 Role +1 student.n.01 the.v.01 Theme +1 book.n.01 buy.v.01 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+
+p99/d3256
+私の兄は技師です。
+entity.n.01 Of +1 person.n.01 EQU speaker person.n.01 Participant -2 Role +1 brother.n.01 be.v.01 Co-Theme -2 Time +1 time.n.08 EQU now
+
+p10/d0907
+彼は悲嘆にくれた。
+male.n.02 悲嘆.n.01 くれ.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p04/d2429
+彼は今朝からずっと詩を書いている。
+male.n.02 entity.n.01 ずっと.r.01 poem.n.01 write.v.01 Agent -4 Start -3 Manner -2 Result -1 Time +1 time.n.08 EQU now
+
+p14/d3200
+私たちはドアを緑に塗った。
+person.n.01 Sub speaker door.n.01 entity.n.01 paint.v.02 Agent -3 Patient -2 Agent -1 Time +1 time.n.08 TPR now
+
+p44/d2835
+あの歌手は、一般大衆に人気がある。
+person.n.01 Role +1 singer.n.01 一般大衆.n.01 popular.a.01 ある.v.01 Participant -2 Theme -4 Value -1 Time +1 time.n.08 EQU now
+
+p92/d2126
+正解！
+correct.v.01
+
+p34/d3432
+父はその結果に満足だった。
+entity.n.01 result.n.01 満足.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p65/d2510
+彼が天才であることは誰の目にも明らかだ。
+entity.n.01 は.v.01 Proposition >2 Topic -1 CONTINUATION <0 male.n.02 clear.a.01 Stimulus -1 CONTINUATION <0 entity.n.01 NEGATION <1 person.n.01 NEGATION <1 も.v.01 Proposition <3 Topic -2 terra_incognita.n.01 EQU -3 Participant -2 CONTINUATION <3 person.n.01 Role +1 genius.n.01 で.v.01 Proposition <5 Topic -2 Time +1 time.n.08 EQU now
+
+p11/d1852
+ここから駅まで約１マイルです。
+entity.n.01 station.n.01 entity.n.01 be.v.01 Participant -3 Destination -2 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p28/d2953
+何種類もの花がもうすぐ咲くでしょう。
+measure.n.02 Quantity ? flower.n.01 Participant -1 すぐ.v.01 Theme -1 Time +1 time.n.08 TSU now
+
+p80/d3050
+彼女はちょうどさらを洗い終わりました。
+female.n.02 ちょうど.r.01 dish.n.01 洗い.v.01 Agent -3 Patient -1 finish.v.01 Manner -3 PartOf -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p37/d0817
+私はケーキが大好きだった。
+person.n.01 EQU speaker cake.n.03 fond.a.03 Experiencer -2 Stimulus -1 Time +1 time.n.08 TPR now
+
+p10/d3495
+彼女は後ろを振り向いた。
+female.n.02 entity.n.01 look.v.01 Agent -2 Participant -1 Time +1 time.n.08 TPR now
+
+p00/d2642
+その本の主題はアメリカ独立戦争である。
+book.n.01 entity.n.01 PartOf -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 で.v.01 PartOf -2 Theme -1
+
+p50/d2610
+公園には黒い髪の綺麗な女の子が一人ありました。
+park.n.02 Location +1 in.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 black.a.01 ColourOf +1 hair.n.01 beautiful.a.01 AttributeOf +1 woman.n.01 Participant -2 there.a.01 Theme -1
+
+p62/d2531
+彼女は彼のプロポーズを断った。
+female.n.02 entity.n.01 User +1 male.n.02 entity.n.01 Participant -2 refuse.v.01 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+
+p12/d1928
+私達は歩き始めた。
+person.n.01 Sub speaker start.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p44/d3237
+彼は家の近くに住んでいる。
+male.n.02 house.n.01 near.n.01 Theme -1 live.v.01 Theme -3 Location -1 Time +1 time.n.08 EQU now
+
+p15/d2020
+私の趣味は読書だ。
+entity.n.01 PartOf +1 person.n.01 EQU speaker hobby.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 read.v.01 be.a.01 Theme -1
+
+p60/d3155
+風が炎をあおり立てた。
+wind.n.01 flame.n.01 fan.v.04 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p32/d3389
+ジョーダンさんは議長だ。
+entity.n.01 Title +1 mr.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 chairperson.n.01 だ.v.01 Theme -1
+
+p32/d1648
+私はこれからは英語を一生懸命勉強します。
+person.n.01 EQU speaker entity.n.01 english.n.01 一生懸命.r.01 study.v.01 Agent -4 Participant -3 Theme -2 Manner -1
+
+p60/d1872
+それは値段は安いが、その反面品質がよくない。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 price.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 the.v.01 Attribute -1 NEGATION <1 entity.n.01 good.a.01 AttributeOf -1
+
+p32/d2753
+彼は新聞を読んでいた。
+male.n.02 newspaper.n.01 read.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p07/d1662
+川の始まるところが、水源である。
+river.n.01 entity.n.01 Participant -1 水源.v.01 Theme -1
+
+p26/d1603
+あなたは５時に帰宅した。
+person.n.01 EQU hearer entity.n.01 帰宅.v.01 Theme -2 Location -1 Time +1 time.n.08 TPR now
+
+p24/d2549
+彼女は急いで部屋を掃除した。
+entity.n.01 entity.n.01 room.n.01 clean.v.01 Agent -3 Destination -2 Theme -1 Time +1 time.n.08 TPR now
+
+p85/d1753
+その湖には魚が豊富にいる。
+lake.n.01 Location +1 in.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 fish.n.01 measure.n.02 Quantity + be.v.03 EQU -2 Theme -1 Time +1 time.n.08 EQU now
+
+p38/d2407
+私は彼女に5ドル払った。
+person.n.01 EQU speaker female.n.02 dollar.n.01 Quantity 5 pay.v.01 Agent -3 Recipient -2 Asset -1 Time +1 time.n.08 TPR now
+
+p01/d0875
+その部屋に入ると、彼女がピアノを弾いていた。
+room.n.01 入る.v.01 Theme -1 female.n.02 piano.n.01 play.v.03 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p33/d3298
+オペラは７時に始まります。
+opera.n.01 entity.n.01 start.v.02 Theme -2 Agent -1
+
+p26/d1904
+それは赤川太郎によって書かれた。
+entity.n.01 person.n.01 Name "赤川太郎" write.v.02 Product -2 Agent -1 Agent +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p44/d0801
+ガラスは砂から作られる。
+glass.n.01 sand.n.01 make.v.18 Value -2 Material -1 Theme +1 entity.n.01
+
+p28/d3197
+ダンは知らない人と近づきになるのがうまい。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 Participant -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 うまい.v.01 Participant -2 Theme -1
+
+p37/d0776
+皆が笑った。
+NEGATION <1 person.n.01 NEGATION <1 laugh.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p28/d3216
+彼は私より背が高くない。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 person.n.01 EQU speaker entity.n.01 any.v.01 Co-Theme -2 Theme -1
+
+p85/d0851
+母は私の誕生日のケーキにろうそくを１３本立てた。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 Of +1 person.n.01 EQU speaker birthday.n.01 cake.n.03 Participant -3 Participant -1 entity.n.01 13.v.01 Result -2 Patient -1 Agent +1 entity.n.01 立て.v.01 Theme -1
+
+p89/d1798
+必要の前に法律はない。
+necessity.n.01 entity.n.01 Participant -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 entity.n.01 は.v.01 Theme -1
+
+p17/d3025
+彼は株でかなり儲けている。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 stock_market.n.01 かなり.v.01 Source -1
+
+p46/d3339
+その質問に答えられるのは君だけだ。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 POSSIBILITY <1 question.n.01 に.v.01 Participant +1 Proposition >1 Topic -1 person.n.01 PartOf +1 EQU hearer entity.n.01 CONTINUATION <0 answer.v.01
+
+p06/d1924
+彼の事は忘れなさい。
+NECESSITY <1 male.n.02 male.n.01 Participant -1 forget.v.01 Theme -1
+
+p06/d1428
+劉暁波は中国人です。
+person.n.01 Name "劉暁波" person.n.01 Source +1 country.n.02 Name "china" です.v.01 Theme -3 Value -2
+
+p25/d1509
+まだ決めてないです。
+undecided.v.01 Time +1 time.n.08 TPR now
+
+p27/d0835
+彼の事務所は町の中心部に位置している。
+male.n.02 office.n.01 Theme -1 town.n.01 中心部.n.01 PartOf -1 位置.v.01 Theme -3 Value -1
+
+p83/d0852
+毎年交通事故で亡くなる老人が多い。
+交通事故.n.01 亡くなる.v.01 Time +1 Theme +2 time.n.08 EQU now old.a.01 多い.v.01 Causer -4 Theme -1
+
+p98/d3255
+アスピリン、ペニシリン、サルファ剤にアレルギーです。
+aspirin.n.01 PartOf +1 penicillin.n.01 PartOf +1 entity.n.01 に.v.01 Proposition >1 Topic -3 CONTINUATION <0 entity.n.01 be.a.01 Theme -1
+
+p00/d0856
+彼は誰？
+male.n.02 person.n.01 Theme -1
+
+p28/d2428
+私は日本語が話せない。
+NEGATION <1 person.n.01 EQU speaker japanese.n.02 speak.v.03 Agent -2 Theme -1
+
+p60/d2178
+私は７時半に朝食を食べた。
+person.n.01 EQU speaker time.n.08 ClockTime 07:30 TPR now breakfast.n.01 have.v.06 Agent -3 Time -2 Patient -1 time.n.08 EQU -3
+
+p05/d2861
+少女たちのめいめいは人形を抱いている。
+girl.n.01 PartOf +1 entity.n.01 entity.n.01 Participant -2 doll.n.01 in.v.01 Theme -2 Value -1
+
+p02/d2957
+やったね！
+do.v.01 Time +1 time.n.08 TPR now
+
+p05/d3248
+連絡をちょうだい。
+entity.n.01 ちょうだい.v.01 Theme -1
+
+p52/d1856
+パンやミルクはよい食べ物だ。
+bread.n.01 milk.n.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 good.r.01 food.n.01 だ.v.01 Attribute -2 Theme -1
+
+p99/d1836
+ジョンを信用していいよ。彼は決して君を失望させないから。
+entity.n.01 信用.v.01 Theme -1 CONTINUATION <1 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 失望.v.01 Theme -1
+
+p86/d0823
+私は明日彼に会うつもりです。
+person.n.01 EQU speaker entity.n.01 see.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p14/d3318
+この小説は退屈だ。
+novel.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 be.a.01 Theme -1
+
+p30/d3369
+駅までタクシーで２０分かかるでしょう。
+entity.n.01 taxi.n.01 number.n.02 EQU 20 かかる.v.01 Destination -3 Instrument -2 Quantity -1 Time +1 time.n.08 TSU now
+
+p50/d1728
+町の真ん中で火災が発生した。
+city.n.01 middle.n.01 PartOf -1 fire.n.01 発生.v.01 Location -2 Theme -1 Time +1 time.n.08 TPR now
+
+p22/d2746
+彼女は突然笑い出した。
+female.n.02 all_of_a_sudden.r.01 laugh.v.01 Agent -2 begin.v.01 Causer -3 Manner -2 PartOf -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p83/d2406
+分かる。
+分かる.v.01 Time +1 time.n.08 EQU now
+
+p91/d2620
+彼は無礼な返事をした。
+male.n.02 無礼.v.01 Theme +1 reply.n.01 make.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p64/d1728
+私たちは彼の仕事を援助した。
+person.n.01 Sub speaker male.n.02 business.n.01 Participant -1 male.n.01 User -1 aid.v.01 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+
+p01/d1778
+助けて！
+help.v.01
+
+p01/d3423
+あなたにあげる物があります。
+entity.n.01 have.a.01 Theme -1 CONTRAST <1 person.n.01 EQU hearer に.v.01 Proposition >1 Topic -1 CONTINUATION <0 give.v.01
+
+p59/d2732
+長い髪のあの少女はジュディさんです。
+hair.n.01 girl.n.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 さん.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p48/d0851
+壁に時計が掛かっている。
+wall.n.01 Location +1 on.n.01 clock.n.01 there.a.01 Agent -3 Theme -1
+
+p52/d2924
+もう食べれないよ。
+NEGATION <1 eat.v.01
+
+p19/d0838
+彼はピアノを弾いていた。
+male.n.02 piano.n.01 play.v.03 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p49/d3199
+あの黒いのは私のです。
+entity.v.01 Participant +3 entity.n.01 User +1 person.n.01 EQU speaker entity.n.01 Participant -2 CONTINUATION <0 entity.n.01 entity.n.01 は.v.01 Participant -2 Proposition <1 Topic -1
+
+p21/d0875
+この家には誰も住んでいない。
+house.n.01 NEGATION <1 person.n.01 live.v.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p60/d2468
+彼女はチョコも大好きだ。
+female.n.02 chocolate.n.02 love.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p34/d2998
+私たちは幸福です。
+person.n.01 Sub speaker 幸福.n.01 be.v.01 Theme -2 Value -1
+
+p29/d2038
+その会は十時に終わった。
+party.n.04 entity.n.01 end.v.01 Theme -2 Time -1 Time +1 time.n.08 TPR now
+
+p05/d2735
+私は上手に泳ぐことができます。
+POSSIBILITY <1 entity.n.01 can.a.01 Theme -1 CONTRAST <1 person.n.01 EQU speaker entity.n.01 swim.v.01 Theme -2 Value -1
+
+p45/d0803
+イースターおめでとう。
+entity.n.01 おめでとう.v.01 Participant -1
+
+p48/d3417
+ほらバスがきましたよ。
+bus.n.01 come.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p52/d2098
+彼女はおじさんに会った。
+彼女.n.01 person.n.01 Role +1 uncle.n.01 meet.v.01 Agent -3 Co-Agent -2 Time +1 time.n.08 TPR now
+
+p17/d1900
+溺れかけている男は大声で助けを求めた。
+溺れ.v.01 Theme +1 man.n.01 entity.n.01 help.n.01 for.v.01 Theme -3 Agent -2 Value -1
+
+p33/d3507
+明朝７時に起こしてくれ。
+morning.n.01 PartOf +1 Time +2 time.n.08 ClockTime 07:00 at.n.01 に.v.01 Proposition >1 Topic -3 CONTINUATION <0 起こし.v.01
+
+p15/d0820
+私は結婚しています。
+person.n.01 EQU speaker married.a.01 Attribute -1 Time +1 time.n.08 EQU now
+
+p45/d2618
+どこ？
+location.v.01
+
+p38/d1880
+電気消してもいい？
+消し.v.01
+
+p81/d3517
+書く紙を一枚ください。
+paper.n.01 ください.v.01 Theme -1 CONTINUATION <0 entity.n.01 sheet.v.01 Proposition <1 Topic -1
+
+p23/d3544
+これは机です。
+this.n.01 desk.n.01 be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p38/d1615
+彼は学校に行かずに家にいた。
+male.n.02 entity.n.01 stay.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now NEGATION <1 school.n.01 go.v.01 Theme -1
+
+p42/d3034
+彼は私の従兄弟ではありません。
+NEGATION <1 male.n.02 person.n.01 EQU speaker person.n.01 Theme -1 Role +1 cousin.n.01 で.v.01 Participant -4 Theme -2
+
+p41/d1861
+バスの中で偶然友達に会った。
+bus.n.01 entity.n.01 Participant -1 entity.n.01 会っ.v.01 Location -2 Theme -1
+
+p07/d2126
+しかし君はそこにいない。
+NEGATION <1 entity.n.01 person.n.01 EQU hearer location.n.01 い.v.01 Participant -3 Theme -2 Value -1
+
+p23/d2365
+彼らは穴を掘っている。
+person.n.01 hole.n.02 掘っ.v.01 Agent -2 Result -1 Time +1 time.n.08 EQU now
+
+p85/d3022
+私は１週間前に、免許を更新してもらった。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 week.n.01 Co-Theme -1 Theme +1 entity.n.01 に.v.01 Proposition >1 Topic -2 CONTINUATION <0 entity.n.01 更新.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p15/d0875
+乾杯！
+say.v.01 Agent speaker Theme +1 cheer.n.01
+
+p63/d2650
+彼は私が到着する前に死んだ。
+male.n.02 person.n.01 EQU speaker arrival.v.01 Theme -1 die.v.01 Patient -3 Time +1 time.n.08 TPR now
+
+p08/d1749
+この庭にはバラの花がたくさんある。
+garden.n.01 Location +1 in.n.01 rose.n.01 entity.n.01 Participant -1 たくさん.v.01 Theme -4 Value -1
+
+p02/d3173
+赤ん坊が泣いている。
+baby.n.01 cry.a.01 Theme -1 Time +1 time.n.08 EQU now
+
+p32/d0779
+英語の授業の間、私たちは先生の話を聞いた。
+english.n.01 lesson.n.01 Participant -1 entity.n.01 Participant -1 entity.n.01 person.n.01 Role +1 teacher.n.01 entity.n.01 Participant -2 listen.v.01 Time -5 Theme -4 Value -1 Time +1 time.n.08 TPR now
+
+p42/d0834
+彼には子供がいません。
+NEGATION <1 male.n.02 child.n.01 any.v.01 Theme -2 Value -1
+
+p40/d0955
+入ってます。
+occupied.a.01
+
+p20/d1466
+山に雪が降ると谷は寒くなります。
+mountain.n.01 entity.n.01 降る.v.01 Location -2 Theme -1 valley.n.01 なり.v.01 Theme -1
+
+p01/d0958
+こんにちは。
+say.v.01 Agent speaker Theme +1 こんにちは.n.01
+
+p25/d2381
+地下鉄に乗ろう。
+subway.n.01 乗ろ.v.01 Theme -1 Time +1 time.n.08 TSU now
+
+p84/d3339
+私はそのかんを開ける物がない。
+NEGATION <1 entity.n.01 ない.v.01 Theme -1 CONTRAST <1 person.n.01 EQU speaker entity.n.01 open.v.01 Agent -2 Patient -1
+
+p97/d2924
+手つないでもいい？
+つない.v.01 EXPLANATION <1 でもいい.v.01
+
+p00/d0798
+この文章を暗記するのに２時間かかった。
+sentence.n.01 memorize.v.01 Topic -1 CONTINUATION <0 entity.n.01 hour.n.01 Proposition <1 Topic -1 CONTINUATION <2 entity.n.01 に.v.01 Proposition <1 Topic -1
+
+p18/d0919
+列車は一時間に５００マイルの速度で走った。
+entity.n.01 に.v.01 Proposition >2 Topic -1 CONTINUATION <0 train.n.01 走っ.v.01 Theme -1 CONTINUATION <0 entity.n.01 entity.n.01 Quantity 500 Participant -1 で.v.01 Proposition <1 Topic -1
+
+p48/d0955
+ありがとう！
+say.v.01 Agent speaker Theme +1 thanks.n.01
+
+p74/d0808
+警察官が私を呼び止めた時、時速１２０キロで走っていた。
+entity.n.01 走っ.v.01 Theme -1 CONTINUATION <0 person.n.01 EQU speaker 呼び止め.v.01 Value -1 Theme +1 entity.n.01 number.n.02 EQU 120 entity.n.01 で.v.01 Time -3 Quantity -2 Proposition <1 Topic -1
+
+p40/d2417
+私はもう父の援助を受けていない。
+person.n.01 EQU speaker time.n.08 EQU now entity.n.01 entity.n.01 Stimulus -1 受け.v.01 Theme -4 Time -3 Value -1
+
+p04/d2421
+アンデルセンも犬を恐がった。
+entity.n.01 dog.n.01 of.v.01 Theme -2 Value -1
+
+p89/d2137
+私は今朝、新宿駅で山田氏に会った。
+person.n.01 EQU speaker entity.n.01 Title +1 mr.n.01 see.v.01 Experiencer -3 Stimulus -2 Time +1 time.n.08 TPR now CONTINUATION <0 entity.n.01 entity.n.01 で.v.01 Participant -2 Proposition <1 Topic -1
+
+p42/d3437
+それはぴったりの番号だ。
+entity.n.01 entity.n.01 number.n.01 Participant -1 be.a.01 Participant -3 Theme -1
+
+p01/d2762
+彼はかつて彼女を愛していた。
+male.n.02 time.n.08 TPR now TPR now female.n.02 love.v.03 Experiencer -3 Time -2 Stimulus -1 time.n.08 EQU -3
+
+p42/d3378
+彼はその政党の主導権をにぎった。
+male.n.02 political_party.n.01 leadership.n.01 PartOf -1 assume.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p36/d2853
+みんな笑った。
+NEGATION <1 person.n.01 NEGATION <1 smile.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p04/d2010
+彼はよく夜更かしをする。
+male.n.02 夜更かし.n.01 する.v.01 Agent -2 Topic -1 Time +1 time.n.08 EQU now
+
+p05/d0848
+彼女は花を摘んだ。
+female.n.02 flower.n.01 pick.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p14/d2354
+僕は歌い続けた。
+person.n.01 EQU speaker sing.v.02 Agent -1 continue.v.01 Causer -2 PartOf -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p50/d2364
+彼女はフットワークがいいね。
+female.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 good.a.01 AttributeOf -1
+
+p08/d1499
+その島を訪れるたびに、私は自然の美しさに感銘を受けた。
+person.n.01 EQU speaker nature.n.03 entity.n.01 beauty.n.01 感銘.n.01 be.v.01 Agent -5 Result -4 Creator -3 Participant -2 Patient -1 Time +1 time.n.08 TPR now CONTRAST <1 the.n.01 island.n.01 visit.v.01 Theme -2 Destination -1
+
+p25/d2263
+私の言うことを誰も信じなかった。
+NEGATION <1 person.n.01 も.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 EQU speaker entity.n.02 Participant -1 EQU ? believe.v.01 Stimulus -1
+
+p08/d3384
+私は彼の提案を丁寧に断り、電話を切った。
+person.n.01 EQU speaker entity.n.01 Creator +1 male.n.02 entity.n.01 Participant -2 entity.n.01 断り.v.01 Theme -2 Manner -1 entity.n.01 hang_up.v.01 Theme -7 Value -1 Time +1 time.n.08 TPR now
+
+p08/d0838
+彼はなんでもしゃべってしまいそうです。
+male.n.02 entity.n.01 も.v.01 Participant -2 Proposition >1 Topic -1 CONTINUATION <0 しゃべっ.v.01
+
+p20/d2898
+ビールを飲むのはやめている。
+entity.n.01 やめ.v.01 Theme -1 CONTRAST <1 beer.n.01 drink.v.01 Patient -1
+
+p83/d2177
+私はこの箱を切れなかった開けない。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 not.a.01 Theme -1
+
+p37/d3167
+彼女は飲食には何の楽しみもなかった。
+female.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 Participant -1 なかっ.v.01 Theme -1
+
+p39/d2783
+私は死が怖い。
+person.n.01 EQU speaker death.n.01 怖い.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p06/d2347
+これ使って。
+NECESSITY <1 use.n.01
+
+p02/d0829
+早く来い。
+早く.v.01
+
+p25/d2407
+それはあなたの決心次第だ。
+entity.n.01 entity.n.01 User +1 person.n.01 EQU hearer entity.n.01 Participant -2 だ.v.01 Theme -4 Value -1
+
+p70/d2224
+私はたくさんの鉛筆を持っている。
+person.n.01 EQU speaker entity.n.01 pencil.n.01 Participant -1 have.v.01 Pivot -3 Theme -1 Time +1 time.n.08 EQU now
+
+p05/d2674
+犬の代わりに猫を飼いたい。
+NEGATION <1 dog.n.01 instead.n.01 Theme -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 cat.n.01 keep.v.07 Theme -1
+
+p04/d0767
+これらのフォームのアカウントを私はもってません。
+NEGATION <1 person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 Time +1 time.n.08 EQU now CONTINUATION <0 entity.n.01 forum.n.01 Participant -1 entity.n.01 Participant -1 have.v.01 Patient -1
+
+p29/d2669
+あなたの妹はいつも自分の夫のことで文句ばかり言っている。
+entity.n.01 User +1 person.n.01 EQU hearer person.n.01 Of -2 Role +1 sister.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 entity.n.01 Of +1 female.n.02 entity.n.01 Participant -2 entity.n.01 Theme -1 で.v.01 Proposition >1 Topic -1 CONTINUATION <0 言っ.v.01
+
+p14/d3314
+犬にボールを投げてやったら、口で捕まえた。
+dog.n.01 ball.n.01 throw.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now entity.n.01 捕まえ.v.01 Instrument -1
+
+p85/d0785
+パーティーには１００人以上が参加していた。
+entity.n.01 number.n.02 EQU 100 person.n.01 Co-Theme -1 Theme +1 entity.n.01 present.a.02 Theme -4 Value -2 Time +1 time.n.08 TPR now
+
+p66/d2638
+私は30代未婚の愚かな負け犬女です。
+person.n.01 EQU speaker number.n.02 EQU "30" 代.n.01 Co-Theme -1 Theme +1 未婚.n.01 be.v.01 Co-Theme +1 woman.n.01 Theme -3 です.v.01 Participant -6 Theme -1
+
+p29/d3284
+私は教授と１時３０分に会う約束がある。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 an.n.01 Co-Agent -2 Time -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 会う.v.01 Theme +1 appointment.n.02 have.v.01 Patient -1 Time +1 time.n.08 EQU now
+
+p23/d0952
+彼の記憶喪失は物理的な記憶障害というよりは心理的な障害である。
+entity.n.01 Creator +1 male.n.02 memory.n.01 Participant -2 PartOf +1 entity.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 物理的.v.01 Theme +1 entity.n.01 障害.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 心理的.v.01 Theme +1 entity.n.01 で.v.01 Theme -1
+
+p42/d2735
+彼女は徹夜するのに慣れている。
+female.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 に.v.01 Participant -2 Proposition >1 Topic -1 CONTINUATION <0 used.v.01
+
+p50/d2722
+この先何が起こるか誰もわからない。
+entity.n.02 EQU ? know.v.01 Stimulus -1 Time +1 time.n.08 EQU now NEGATION <1 entity.n.01 person.n.01 も.v.01 Participant -2 Proposition >1 Topic -1 CONTINUATION <0 わから.v.01
+
+p50/d2706
+彼女は帰宅の途中金を奪われた。
+female.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 home.n.01 entity.n.01 Participant -1 rob.v.01 Source -1 Time +1 time.n.08 TPR now
+
+p22/d3090
+今日は誰とも話したくないんだ。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 も.v.01 Proposition >1 Topic -1 CONTINUATION <0 talk.v.01
+
+p60/d1822
+その町は海岸から２マイル離れたところにある。
+town.n.01 away.r.05 Theme +1 entity.n.01 ある.v.01 Theme -3 Value -1 CONTINUATION <0 coast.n.01 number.n.02 EQU 2 mile.n.01 Co-Theme -2 Proposition <1 Topic -1
+
+p78/d1747
+蚊の群れが彼を追った。
+entity.n.01 entity.n.01 Participant -1 male.n.02 追っ.v.01 Theme -2 Value -1
+
+p01/d3039
+カナダ人に生まれたかった。
+person.n.01 Source +1 location.n.01 Name "カナダ人" bear.v.02 Stimulus -2
+
+p12/d2563
+封筒に切手を貼りなさい。
+entity.n.01 stamp.n.01 stick.v.01 Destination -2 Patient -1
+
+p38/d1555
+彼はカナダ人の女性と結婚した。
+male.n.02 person.n.01 Source +1 country.n.02 Name "canada" girl.n.01 Attribute -2 marry.v.01 Agent -4 Co-Agent -1 Time +1 time.n.08 TPR now
+
+p61/d2448
+たくさんの友人が見送りにやってきた。
+entity.n.01 person.n.01 Participant -1 Role +1 friend.n.01 entity.n.01 come.v.01 Agent -3 Topic -1 Time +1 time.n.08 TPR now
+
+p32/d2784
+この歌は好きじゃないな。
+song.n.01 ない.v.01 Theme -1
+
+p37/d2710
+そのダイヤは１８７３年に、ある少年によって発見された。
+entity.n.01 discover.v.01 Agent -1 Time +1 time.n.08 TPR now CONTRAST <1 diamond.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 boy.n.01 Time -1
+
+p82/d3546
+くそっ！
+fuck.v.01
+
+p19/d0913
+私は日本語の教師です。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 Source +1 location.n.01 Name "japan" person.n.01 Participant -2 Role +1 teacher.n.01 be.v.01 Co-Theme -2 Time +1 time.n.08 EQU now
+
+p07/d3182
+その音に赤ん坊はおびえた。
+noise.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 baby.n.01 frighten.v.01 Experiencer -1 Time +1 time.n.08 TPR now
+
+p30/d0794
+スミス先生は私に英語を教えてくれます。
+person.n.01 Name "スミス先生" person.n.01 ContentOf +1 EQU speaker に.n.01 english.n.01 teach.v.01 Agent -4 Recipient -3 Theme -1
+
+p57/d1889
+彼はチョコレートケーキが好きだ。
+male.n.02 chocolate_cake.n.01 fond.a.03 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p46/d1630
+私たちはホテルに午後５時にチェックインした。
+entity.n.01 チェックイン.v.01 Theme -1 CONTINUATION <0 hotel.n.01 午後.v.01 Value -1 Theme +1 entity.n.01 Location +1 at.n.01 に.v.01 Proposition <1 Topic -2
+
+p10/d0828
+声をだして読みなさい。
+声.n.01 だし.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p01/d1487
+クラスには４５人生徒がいる。
+entity.n.01 number.n.02 EQU 45 person.n.01 Role +1 student.n.01 いる.v.01 Theme -4 Quantity -3 Value -2
+
+p44/d3280
+コーヒーが飲みたい。
+coffee.n.01 drink.v.01 Patient -1
+
+p58/d2655
+彼は眠っている。
+male.n.02 asleep.a.01 AttributeOf -1
+
+p18/d2997
+彼は髪を切ってもらった。
+male.n.02 hair.n.01 cut.v.32 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p00/d2252
+彼は降参した。
+male.n.02 give_in.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p21/d1936
+俺は犬のフンなんてかたづけたくない。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 dog.n.01 entity.n.01 Participant -1 なんて.v.01 Proposition >1 Topic -1 CONTINUATION <0 want.v.01
+
+p45/d1619
+この教会は12世紀に建てられた。
+church.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 century.n.01 Time +1 TPR now in.n.01 build.v.01 Product -2 Time -2 time.n.08 EQU -3
+
+p66/d1538
+彼の運命は定まった。
+male.n.02 doom.n.01 User -1 seal.v.01 Goal -1 Time +1 time.n.08 TPR now
+
+p24/d2455
+私はきのうこのプリンターを買った。
+person.n.01 EQU speaker printer.n.02 buy.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p83/d2719
+スパゲッティのソースにバジルを加えるのが好きです。
+entity.n.01 like.v.01 Stimulus -1 Time +1 time.n.08 EQU now CONTRAST <1 spaghetti.n.01 sauce.n.01 Participant -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 add.v.01 Patient -1
+
+p25/d2312
+待ってあげる。
+待っ.v.01 Time +1 time.n.08 TSU now
+
+p23/d2247
+彼女は迷子になった男の子を探しまわった。
+female.n.02 lost.n.01 なっ.v.01 Value -1 Time +1 Theme +2 time.n.08 TPR now TPR now 男の子.n.01 探し.v.01 Theme -5 Time -2 Value -1 time.n.08 EQU -3
+
+p00/d1855
+アルベルト・アインシュタインの相対性理論は、世界で最も有名な法則である。
+entity.n.01 theory_of_relativity.n.01 Participant -1 PartOf +1 entity.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 world.n.01 famous.r.01 entity.n.01 be.v.01 Location -3 Attribute -2 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p00/d2270
+グラスとお皿は割れていた。
+glasses.n.03 entity.n.01 Sub -1 Sub +1 お皿.n.01 broken.v.01 Patient -2 Time +1 time.n.08 TPR now
+
+p75/d0825
+手紙を忘れずにポストに入れてください。
+letter.n.01 remember.v.01 Theme -1 post.n.01 ContentOf +1 to.n.01 入れ.v.01 Theme -2
+
+p73/d2593
+もう十分よ！
+enough.v.01 Manner +1 enough.r.01
+
+p73/d1638
+例を一つ示してください。
+example.n.01 一つ.v.01 Theme -1
+
+p86/d3421
+振り向いて。
+振り向い.v.01
+
+p22/d1871
+彼は三日前に出発した。
+male.n.02 number.n.02 EQU 3 日.n.01 Co-Theme -1 Theme +1 TAB now entity.n.01 time.n.08 TAB -2 TPR now leave.v.01 Theme -5 Time -1 time.n.08 EQU -2
+
+p58/d0837
+彼はその列の中にいた。
+male.n.02 queue.n.01 中.n.01 PartOf -1 be.v.03 Theme -3 Location -1 Time +1 time.n.08 TPR now
+
+p67/d2223
+彼の英語の能力は平均以上だ。
+entity.n.01 Creator +1 male.n.02 english.n.01 Participant -2 ability.n.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 be.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p41/d1759
+雨が降り止んだ。
+rain.n.01 降り.v.01 Theme -1 止ん.v.01 Causer -2 PartOf -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p98/d0850
+父は壁を白く塗った。
+person.n.01 Role +1 dad.n.01 wall.n.01 white.a.01 ColourOf -3 Attribute -1
+
+p29/d2775
+お腹が一杯になると胃が痛みます。
+entity.n.01 一杯に.v.01 Theme -1 なる.v.01 Agent -2 Theme -1 entity.n.01 痛み.v.01 Theme -1
+
+p59/d3125
+彼は成功した。
+male.n.02 make.v.01 Attribute -1 Time +1 time.n.08 TPR now
+
+p05/d2205
+彼女は正しいことをした。
+entity.n.01 entity.n.02 EQU ? do.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p27/d2560
+その軍隊は十分な武器を持っていた。
+army.n.01 entity.v.01 Theme +1 weapon.n.01 have.v.01 Pivot -3 Theme -1 Time +1 time.n.08 TPR now
+
+p29/d0805
+あなたは何人家族ですか。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 Bearer +1 person.n.01 EQU hearer 家族.v.01 Theme -2 です.v.01 Theme -3
+
+p37/d2197
+あの猫をごらんなさい。それはブラウンさんの猫です。
+entity.n.01 ごらん.v.01 Theme -1 CONTINUATION <1 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 Participant -1 です.v.01 Theme -1
+
+p36/d1405
+大海にはたくさん魚がいる。
+大海.n.01 fish.n.01 いる.v.01 Location -2 Theme -1 Time +1 time.n.08 EQU now
+
+p53/d2051
+彼らはお祭りを中止した。
+person.n.01 お祭り.n.01 cancel.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p54/d0835
+彼の逃亡の試みはうまくいった。
+entity.n.01 Creator +1 male.n.02 entity.n.01 attempt.n.01 Participant -3 Participant -1 successful.r.01 いっ.v.01 Theme -2 Attribute -1
+
+p22/d2247
+私は六時に起きることにしている。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 起きる.v.01 Theme +1 entity.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 し.v.01
+
+p46/d1540
+ベルは正午に鳴る。
+bell.n.01 time.n.08 ClockTime 12:00 ring.v.03 Theme -2 Time -1 Time +1 time.n.08 EQU now
+
+p23/d2774
+その年とった男はバスを降りた。
+old.n.01 old.v.01 Value -1 Theme +1 man.n.01 bus.n.01 降り.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p88/d2537
+水がゴーグルの中に漏れ込んでいる。サイズが合っていないようだ。
+entity.n.01 entity.n.01 entity.n.01 Participant -1 漏れ込ん.v.01 Theme -3 Value -1 CONTINUATION <1 entity.n.01 合っ.v.01 Theme -1
+
+p77/d2577
+噂は結局本当だった。
+rumor.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 本当.v.01
+
+p94/d1596
+私はそれを新聞で読んだ。
+person.n.01 EQU speaker this.n.01 newspaper.n.01 read.v.01 Agent -3 Source -2 Participant -1 Time +1 time.n.08 TPR now
+
+p30/d2819
+彼は父親の代理をした。
+male.n.02 person.n.01 Role +1 父親.n.01 substitute.n.01 Theme -2 し.v.01 Theme -4 Co-Theme -1 Time +1 time.n.08 TPR now
+
+p77/d2155
+雪が降った。
+snow.v.01 it.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p02/d2785
+個体発生は系統発生を繰り返す。
+個体.n.01 PartOf +1 発生.n.01 系統.n.01 PartOf +1 発生.n.01 繰り返す.v.01 Theme -4 Value -2 Time +1 time.n.08 EQU now
+
+p54/d1866
+この質問は決してやさしくない。
+NEGATION <1 question.n.03 easy.a.01 AttributeOf -1
+
+p78/d1409
+ここに週刊誌が１冊あります。
+location.n.01 に.v.01 Proposition >2 Topic -1 CONTINUATION <0 entity.n.01 あり.v.01 Theme -1 CONTINUATION <0 a.n.01 冊.v.01 Proposition <1 Topic -1
+
+p13/d2089
+落ち着いて。
+relax.v.01
+
+p28/d2934
+疲れていたので、彼女は早く寝た。
+疲れ.v.01 female.n.02 寝.v.01 Theme -1
+
+p44/d2832
+うそを言うな。
+うそ.n.01 tell.v.01 Recipient -1
+
+p17/d3440
+誰もが彼を愛している。
+NEGATION <1 誰も.n.01 NEGATION <1 male.n.02 love.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p39/d3147
+ホテルは部屋代として私に８０００円請求した。
+hotel.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 room.n.01 として.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 EQU speaker に.v.01 Proposition >1 Topic -1 CONTINUATION <0 number.n.02 EQU 8000 yen.n.02 Proposition >1 Topic -1 CONTINUATION <0 charge.v.03 Time +1 time.n.08 TPR now
+
+p58/d1761
+彼はサイモンとガーファンクルのメドレーを歌った。
+male.n.02 ContentOf +1 は.n.01 musical_organization.n.01 Name "サイモンとガーファンクル" hit.n.03 Theme -1 ContentOf +1 を.n.01 sing.v.01 Agent -5 Theme -2 Time +1 time.n.08 TPR now
+
+p86/d1591
+昼食を取らなかったので、お腹がすいています。
+lunch.n.01 eat.v.01 Patient -1 entity.n.01 be.a.01 Theme -1
+
+p23/d1909
+急がないと雨が降ってくるよ。
+rain.n.01 drop.v.01 Theme -1 Time +1 time.n.08 TSU now NEGATION <1 hurry.v.01 PartOf +1 ない.n.01 terra_incognita.n.01 EQU -4 Participant -2
+
+p39/d3306
+僕は君の力量を信じている。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 EQU hearer entity.n.01 Participant -1 believe.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p23/d1801
+私は今夜、あなたと一緒にいるでしょう。
+person.n.01 EQU hearer いる.v.01 Theme -1 CONTINUATION <0 entity.n.01 に.v.01 Proposition <1 Topic -1 CONTINUATION <2 person.n.01 EQU speaker は.v.01 Proposition <1 Topic -1 Time +1 time.n.08 TSU now
+
+p29/d0808
+ようこそ！
+ようこそ.v.01
+
+p33/d3166
+彼女はちいさな金のスプーンで紅茶をかき回した。
+female.n.02 gold.n.03 スプーン.n.01 MadeOf -1 tea.n.01 かき回し.v.01 Agent -4 Participant -2 Patient -1 Time +1 time.n.08 TPR now
+
+p94/d2253
+僕は事故を処理した。
+person.n.01 EQU speaker accident.n.01 処理.v.01 Theme -2 Value -1
+
+p65/d2500
+その贈り物はインディアンを非常に喜ばせた。
+gift.n.01 は.v.01 Proposition >2 Topic -1 CONTINUATION <0 entity.n.01 delight.v.01 Experiencer -1 Time +1 time.n.08 TPR now CONTINUATION <0 entity.n.01 に.v.01 Proposition <1 Topic -1
+
+p06/d3386
+気楽なやつだな。
+気楽.n.01 やつ.n.01 だ.v.01 Theme -2 Participant -1
+
+p03/d3020
+私は母に白い服をつくってもらった。
+dress.n.01 つくっ.v.01 Theme -1 CONTRAST <1 person.n.01 EQU speaker entity.n.01 white.a.01 ColourOf -2 Attribute -1
+
+p81/d2546
+少女は教室の隅ですすり泣いていた。
+girl.n.01 schoolroom.n.01 corner.n.03 PartOf -1 sob.v.01 Agent -3 Agent -1 Time +1 time.n.08 TPR now
+
+p04/d3033
+野球人でこれほど神格化された男もいない。
+NEGATION <1 野球人.n.01 this.n.01 ほど.v.01 Participant -2 Proposition >1 Topic -1 CONTINUATION <0 神格化.v.01 Theme +1 Value +2 entity.n.01 man.n.01 い.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p11/d1734
+彼女に電話をかけたのですが、お話し中でした。
+female.n.02 entity.n.01 かけ.v.01 Result -2 Patient -1 Agent +1 entity.n.01 entity.n.01 entity.n.01 be.a.01 Participant -3 Theme -2 Participant -1
+
+p55/d2974
+この古い規則は廃止すべきだ。
+NECESSITY <1 old.a.02 rule.n.01 Attribute -1 廃止.v.01 Theme -1
+
+p23/d1618
+私は時々テレビを見る。
+person.n.01 EQU speaker テレビ.n.01 watch.v.03 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+
+p30/d0866
+出席します。
+attend.v.01
+
+p26/d3184
+古いつぼが掘り出された。
+古い.r.01 つぼ.n.01 Attribute -1 掘り出さ.v.01 Theme -1 Agent +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p34/d2944
+私は毎晩１１時に寝る。
+person.n.01 EQU speaker 寝る.v.01 Theme -1 CONTINUATION <0 time.n.08 ClockTime 23:00 entity.n.01 に.v.01 Participant -2 Proposition <1 Topic -1
+
+p00/d1522
+その扉は今開きかけている。
+door.n.01 time.n.08 EQU now open.v.01 Theme -2 かけ.v.01 Causer -3 Time -2 PartOf -1 Time +1 time.n.08 EQU now EQU now time.n.08 EQU -1
+
+p45/d3401
+この川にはマスが多い。
+river.n.01 マス.n.01 abound.v.01 Location -2 Theme -1 Time +1 time.n.08 EQU now
+
+p03/d0922
+その公園は市の中央に位置している。
+park.n.02 city.n.01 center.n.01 PartOf -1 位置.v.01 Theme -3 Value -1
+
+p14/d2077
+私たちは野球をしました。
+person.n.01 Sub speaker 野球.n.01 し.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p98/d2621
+私はこれらのレコードのどれも好きではない。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 record.n.02 entity.n.01 Participant -2 SubOf -1 も.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 で.v.01 Theme -1
+
+p45/d3093
+あの歌は若い人達に非常に人気がある。
+song.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 ある.v.01 Theme -2 Value -1
+
+p03/d1451
+多くの本を読むことが大切です。
+entity.n.01 大切.v.01 Theme -1 CONTRAST <1 measure.n.02 Quantity ? book.n.01 Participant -1 read.v.01 Stimulus -1
+
+p92/d3273
+ギャングたちは銀行から数千ドルを奪った。
+gangster.n.01 entity.n.01 PartOf -1 entity.n.01 rob.v.01 Agent -2 Source -1 Time +1 time.n.08 TPR now CONTINUATION <0 bank.n.02 から.v.01 Proposition <1 Topic -1
+
+p95/d2362
+地下鉄は、市街電車よりはやい。
+subway.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 than.v.01
+
+p65/d2721
+金の必要を感じる。
+money.n.01 entity.n.01 Theme -1 感じる.v.01 Theme -1
+
+p13/d2851
+涙が彼女の頬に流れた。
+tear.n.01 entity.n.01 PartOf +1 female.n.02 entity.n.01 Participant -2 down.v.01 Theme -4 Value -1
+
+p06/d1504
+彼女は１７歳です。
+female.n.02 number.n.02 EQU 17 be.v.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p40/d1587
+彼は息子を心から愛している。
+male.n.02 entity.n.01 deep.n.01 Theme -2 Value -1 CONTINUATION <0 affection.n.01 から.v.01 Proposition <1 Topic -1
+
+p55/d2236
+駅はホテルの西の方にある。
+station.n.01 hotel.n.01 west.n.08 entity.n.01 Of -2 Participant -1 ある.v.01 Theme -4 Value -1
+
+p14/d0951
+彼女は３１歳だ。
+female.n.02 number.n.02 EQU 31 be.v.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p78/d1626
+御家族のことを教えてください。
+family.n.01 entity.n.01 Participant -1 tell.v.01 Recipient -1
+
+p50/d3310
+その知らせをお聞きして大変喜ばしく存じます。
+entity.n.01 聞き.v.01 Theme -1 EXPLANATION <1 be.v.01
+
+p17/d2526
+劇場に行く途中でヨウコにあった。
+theater.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 to.v.01 Destination +1 entity.n.01 entity.n.01 meet.v.01 Participant -2 Co-Theme -1 Time +1 time.n.08 TPR now
+
+p43/d1964
+彼はやすりで錆を落とした。
+male.n.02 entity.n.01 落とし.v.01 Theme -2 Value -1 CONTINUATION <0 entity.n.01 で.v.01 Proposition <1 Topic -1
+
+p07/d1954
+雨は激しく降った。
+it.n.01 heavily.r.01 rain.v.01 EQU -2 Manner -1 Time +1 time.n.08 TPR now
+
+p84/d0792
+その作家がそのおとぎ話を私達の母語に翻訳した。
+person.n.01 Role +1 author.n.01 the.v.01 Theme +1 entity.n.01 entity.n.01 mother_tongue.n.01 Participant -1 into.v.01 Agent -6 Result -3 Patient -1
+
+p25/d2034
+これ見たことある？
+see.v.01 Time +1 Participant +2 Time +3 time.n.08 TPR now entity.n.01 time.n.08 EQU now
+
+p53/d2590
+火は消防士が到着する前に、隣の建物へ広がってしまった。
+fire.n.01 person.n.01 Role +1 fireman.n.01 到着.v.01 Theme -2 EPR +4 next.n.01 build.n.01 Theme -1 Destination +1 to.n.01 広がっ.v.01 Theme -7 Value -2 Time +1 time.n.08 TPR now
+
+p52/d0839
+彼は質素な生活を送った。
+male.n.02 simple.a.01 AttributeOf +1 life.n.01 live.v.01 Agent -3 Theme -1 Time +1 time.n.08 TPR now
+
+p80/d3201
+その制服は私たちの制服と異なっている。
+uniform.n.01 entity.n.01 User +1 person.n.01 Sub speaker entity.n.01 PartOf -2 異なっ.v.01 Theme -4 Value -1
+
+p51/d2550
+わけは聞かないで。
+reason.n.02 EQU ? 聞か.v.01 Theme -1 Participant +1 entity.n.01
+
+p44/d1488
+宙返りするジェットコースターに乗ったら、気持ち悪くなっちゃった。
+entity.n.01 乗っ.v.01 Theme -1 なっ.v.01
+
+p41/d2561
+あれは私のペンではありません。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 entity.n.01 User +1 person.n.01 EQU speaker pen.n.01 Participant -2 で.v.01 Theme -1
+
+p05/d3020
+彼女はフランス人だ。
+female.n.02 person.n.01 Source +1 location.n.01 Name "フランス人" be.v.01 Theme -3 Attribute -2
+
+p50/d0779
+映画は１０時から始まる。
+movie.n.01 time.n.08 ClockTime 22:00 start.v.01 Theme -2 Time -1 Time +1 time.n.08 EQU now
+
+p03/d2079
+彼女はまだ未成年だ。
+female.n.02 EQU now EQU +1 未成年.n.01
+
+p40/d0868
+恋は本来盲目である。
+love.n.01 entity.n.01 ある.v.01 Theme -2 Participant -1 Time +1 time.n.08 EQU now
+
+p19/d3522
+私は海で休暇を過ごしました。
+person.n.01 EQU speaker beach.n.01 vacation.n.01 spend.v.01 Agent -3 Destination -2 Duration -1 Time +1 time.n.08 TPR now
+
+p56/d2732
+看護婦は体温計で彼の体温を計った。
+person.n.01 Role +1 nurse.n.01 entity.n.01 entity.n.01 Creator +1 male.n.02 temperature.n.01 Participant -2 take.v.24 Agent -6 Instrument -4 Theme -1 Time +1 time.n.08 TPR now
+
+p02/d3100
+カウチポテトには、私はなりたくない。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 EQU speaker want.v.01 Theme -1
+
+p24/d3126
+私の父は教師ではなく医者です。
+entity.n.01 Of +1 person.n.01 EQU speaker person.n.01 Participant -2 Role +1 father.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 person.n.01 Role +1 teacher.n.01 で.v.01 Theme -2
+
+p23/d2383
+私たちは大都市に住んでいる。
+person.n.01 Sub speaker entity.n.01 live.v.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p77/d3198
+自由の女神の右腕の長さは12.8mである。
+artifact.n.01 Name "自由の女神" 右腕.n.01 long.a.02 PartOf -2 Theme -1 number.n.02 EQU 12.8 で.a.01 Agent -2 Theme -1
+
+p73/d2679
+僕の猫がぬれている。
+person.n.01 EQU speaker cat.n.01 Participant -1 wet.a.01 Attribute -1 Time +1 time.n.08 EQU now
+
+p24/d3123
+選挙の結果出てくるにつれ、皆テレビにかじりついた。
+election.n.01 出.v.01 NEGATION <1 entity.n.01 PartOf +1 entity.n.01 NEGATION <1 entity.n.01 つれ.v.01 Theme -3 かじり.v.01 Theme -6 Value -4 Participant -2
+
+p63/d1476
+我々の関係は徐々に冷えていくようだ。
+person.n.01 Sub speaker entity.n.01 Participant -1 entity.n.01 冷え.v.01 Theme -2 Value -1
+
+p90/d2744
+棚にアルバムがある。
+entity.n.01 entity.n.01 there.a.01 Agent -2 Theme -1
+
+p42/d3353
+彼女が何を言ったかなんて気にするな。
+female.n.02 entity.n.02 EQU ? say.v.01 Agent -2 Topic -1 Time +1 time.n.08 TPR now なんて.v.01 EXPLANATION <1 entity.n.01 する.v.01 Theme -1
+
+p04/d1721
+彼女はダイエットをしている。
+female.n.02 ダイエット.n.01 し.v.01 Theme -2 Value -1 Time +1 time.n.08 EQU now
+
+p21/d2344
+突然雨が降り始めた。
+突然.r.01 雨.n.01 fall.v.05 Theme -1 begin.v.01 Manner -3 Causer -2 PartOf -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p67/d3299
+税関では長い列が出来ているだろう。
+entity.n.01 Location +1 at.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 entity.n.01 entity.n.01 出来.v.01 Attribute -2 Theme -1 Time +1 time.n.08 TSU now
+
+p34/d2292
+誰がやめるの？
+person.n.02 EQU ? quit.v.01 Agent -1 Time +1 Participant +2 time.n.08 TPR now entity.n.01
+
+p46/d2275
+ドアには手書きのメモが貼ってあった。
+door.n.01 Location +1 on.n.01 entity.n.01 note.n.01 Participant -1 on.v.01 Theme -4 Value -1
+
+p42/d3542
+金で自由は買えない。
+NEGATION <1 money.n.01 freedom.n.01 買え.v.01 Location -2 Theme -1
+
+p70/d2048
+彼はラテン語の勉強に夢中になっている。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 latin.n.01 study.n.06 Theme -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 なっ.v.01 Theme -1
+
+p32/d2805
+彼らはリンゴ、みかん、卵などを売っている。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 apple.n.01 PartOf +1 orange.n.01 PartOf +1 egg.n.02 PartOf +1 entity.n.01 sell.v.01 Theme -4 Time +1 time.n.08 EQU now
+
+p42/d3332
+猫はネズミを捕まえました。
+cat.n.01 rat.n.01 catch.v.04 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p55/d2965
+このテキストは易しい英語で書かれている。
+english.n.01 write.v.01 Theme -1 CONTRAST <1 textbook.n.01 simple.a.01 AttributeOf -1
+
+p35/d2733
+私たちが住んでいた家は取り壊された。
+house.n.01 取り壊さ.v.01 Theme -1 CONTRAST <1 entity.n.01 live.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p66/d0854
+両手をあげろ！
+hand.n.01 up.v.01 Attribute -1
+
+p68/d2708
+僕はこのテニスの試合に勝てるという確信がある。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 tennis_match.n.01 Participant -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 ある.v.01 Theme -1
+
+p03/d2574
+私の姿を見ると彼は逃げた。
+person.n.01 EQU speaker entity.n.01 Participant -1 see.v.01 Stimulus -1 Time +1 time.n.08 TPR now male.n.02 逃げ.v.01 Theme -1
+
+p60/d1940
+この探検には、お金がかかる。
+expedition.n.01 お金.n.01 かかる.v.01 Theme -2 Pivot -1 Time +1 time.n.08 EQU now
+
+p14/d2461
+払わせてください。
+pay.v.01
+
+p16/d3508
+面白い。
+interesting.v.01
+
+p02/d3275
+私は東京駅で電車を乗り換えた。
+person.n.01 EQU speaker entity.n.01 entity.n.01 乗り換え.v.01 Theme -3 Time -2 Value -1
+
+p17/d3087
+彼女は体中が痛んでいた。
+female.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 ache.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p75/d2320
+彼は吹奏楽団に所属しています。
+male.n.02 entity.n.01 to.v.01 Theme -2 Value -1
+
+p34/d2902
+近日中に彼女にまた会うことになっている。
+entity.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 female.n.02 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 again.a.01 Theme +1 entity.n.01 なっ.v.01 Theme -1
+
+p54/d3137
+信じられない！
+られ.v.01 Participant +1 entity.n.01
+
+p25/d2270
+君は彼を見くびっている。
+person.n.01 EQU hearer male.n.02 見くびっ.v.01 Theme -2 Value -1
+
+p19/d1903
+あなたは美しい蝶々です。
+person.n.01 EQU hearer beautiful.r.01 butterfly.v.01 Theme -2 Attribute -1
+
+p56/d2766
+彼女にはいつも母親が同伴している。
+female.n.02 person.n.01 Role +1 mother.n.01 accompany.v.04 Theme -3 Agent -2 Time +1 time.n.08 EQU now
+
+p00/d2280
+酔った。
+酔っ.v.01 Time +1 time.n.08 TPR now
+
+p27/d2034
+その事故が交通の混乱の原因となった。
+accident.n.01 traffic.n.01 confusion.n.01 entity.n.01 Participant -2 Participant -1 なっ.v.01 Theme -4 Value -1
+
+p27/d2192
+警察は、群衆を解散させた。
+person.n.01 Role +1 police.n.01 person.n.01 Role +1 crowd.n.01 解散.v.01 Theme -2 せ.v.01 Causer -5 Patient -3 Result -1 Time +1 time.n.08 TPR now
+
+p00/d3454
+賛成です。
+agree.v.01 Time +1 time.n.08 EQU now
+
+p42/d3138
+暴動が治まった。
+riot.n.01 治まっ.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p35/d0913
+彼女は日本人女性です。
+female.n.02 女性.n.01 です.v.01 Theme -2 Value -1
+
+p83/d2448
+私の家の前に公園があります。
+entity.n.01 User +1 person.n.01 EQU speaker house.n.01 Participant -2 front.n.01 PartOf -1 park.n.01 there.a.01 Context -2 Theme -1
+
+p46/d2788
+彼には素晴らしいユーモアのセンスがある。
+male.n.02 great.a.01 AttributeOf +1 entity.n.01 humour.n.01 Participant -1 ある.v.01 Theme -4 Value -1
+
+p10/d2133
+彼は動物が好きだ。
+male.n.02 animal.n.01 love.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p40/d2598
+彼は彼女を愛している。彼女も彼を愛している。
+male.n.02 female.n.02 love.v.01 Experiencer -2 Stimulus -1 CONTINUATION <1 female.n.02 ANA -2 NEQ +1 too.n.01 male.n.02 ANA -5 love.v.01 Experiencer -3 Stimulus -1
+
+p92/d3235
+木こりは木を斧で切り倒す。
+person.n.01 Role +1 woodcutter.n.01 tree.n.01 ax.n.01 fell.v.01 Agent -4 Patient -2 Instrument -1 Time +1 time.n.08 EQU now
+
+p42/d3401
+彼女はあなたを憎んでいる。
+female.n.02 person.n.01 EQU hearer 憎ん.v.01 Theme -2 Value -1
+
+p06/d1600
+株式市場は暴落した。
+stock_market.n.01 tumble.v.08 Theme -1 Time +1 time.n.08 TPR now
+
+p02/d3156
+時間があれば電話します。
+time.n.01 that.v.01 Theme -1 電話.v.01 Time +1 time.n.08 TSU now
+
+p50/d2036
+この物語には偶然が多いです。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 多い.v.01 Theme -1
+
+p73/d2775
+彼女は野球の試合について友人達とおしゃべりをした。
+entity.n.01 baseball_game.n.01 entity.n.01 Participant -1 about.n.01 person.n.01 Topic -1 Role +1 friend.n.01 entity.n.01 Co-Agent -2 し.v.01 Theme -7 Participant -5 Value -1
+
+p90/d1422
+フクロウは昼間寝ていて夜間活動する。
+entity.n.01 寝.v.01 Theme -1
+
+p49/d0914
+聞いて！
+listen.v.01
+
+p51/d1958
+駐車違反で６０００円の罰金をとられた。
+駐車違反.n.01 number.n.02 EQU 6000 fine.v.01 Theme -1 とら.v.01 Location -3 Value -1 Theme +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p28/d3208
+彼女は彼の隣の席にそっと座った。
+female.n.02 male.n.02 entity.n.01 Participant -1 seat.n.01 Participant -1 そっと.v.01 Theme -4 Value -1 Time +1 time.n.08 TSU now
+
+p27/d0852
+僕はまったく疲れていない。
+NEGATION <1 person.n.01 EQU speaker tired.a.01 Experiencer -1
+
+p64/d3032
+彼は言語学の研究に没頭している。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 linguistics.n.01 study.n.06 Theme -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 没頭.v.01
+
+p78/d2884
+彼らはそのニュースを聞いて驚いた。
+person.n.01 news.n.01 hear.v.01 Experiencer -2 Stimulus -1
+
+p31/d1404
+何かアレルギーはありますか？
+アレルギー.n.01 あり.v.01 Theme -1
+
+p73/d0792
+その子は犬に石を投げた。
+entity.n.01 dog.n.01 Destination +1 at.n.01 stone.n.01 throw.v.01 Stimulus -4 Result -3 Experiencer -1 Time +1 time.n.08 TPR now
+
+p29/d0785
+パンを２こ買った。
+bread.n.01 買っ.v.01 Theme -1 CONTINUATION <0 number.n.02 EQU 2 こ.v.01 Proposition <1 Topic -1
+
+p86/d2001
+私は空港で友達に会った。
+person.n.01 EQU speaker airport.n.01 友達.n.01 meet.v.02 Agent -3 Location -2 Co-Agent -1 Time +1 time.n.08 TPR now
+
+p60/d0796
+これらの雲は白い羊の群れのように見える。
+entity.n.01 cloud.n.02 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 sheep.n.01 entity.n.01 Sub -1 Sub +2 flock.n.03 entity.n.01 Participant -1 見える.v.01 Theme -3
+
+p99/d0804
+あなたは自分のハンカチを落としました。
+person.n.01 EQU hearer entity.n.01 User +1 person.n.01 EQU hearer handkerchief.n.01 Participant -2 drop.v.01 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+
+p14/d2120
+万歳！
+万歳.v.01
+
+p84/d1977
+この川は美しい。
+river.n.01 beautiful.a.01 AttributeOf -1
+
+p03/d1977
+良い結果が予想される。
+good.r.01 result.n.01 Attribute -1 prospect.v.01 Theme -1
+
+p81/d1454
+彼女は金持ちの老人と結婚した。
+female.n.02 entity.n.01 entity.n.01 Participant -1 marry.v.01 Agent -3 Co-Agent -1 Time +1 time.n.08 TPR now
+
+p68/d2723
+我々は京都まで行った。
+person.n.01 Sub speaker far.a.01 Manner -1 Time +1 time.n.08 TPR now
+
+p73/d2249
+月が沈んだ。
+moon.n.01 沈ん.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p98/d1739
+彼女は話題を変えた。
+female.n.02 subject.n.01 change.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p28/d2829
+濡れてもかまわない。
+NEGATION <1 かまわ.v.01
+
+p30/d1848
+我々はロビンフッドの伝説を良く知っている。
+person.n.01 Sub speaker entity.n.01 legend.n.01 PartOf -1 知っ.v.01 Theme -3 Value -1
+
+p06/d2155
+跳べ！
+jump.v.01
+
+p65/d1676
+君は仕事に遅刻したね。
+person.n.01 EQU hearer work.n.01 遅刻.v.01 Theme -2 Value -1
+
+p13/d1979
+彼女は手紙を引き裂いた。
+female.n.02 letter.n.01 引き裂い.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+
+p54/d2489
+犬は人間の最良の友です。
+dog.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 man.n.01 entity.n.01 Participant -1 entity.n.01 Participant -1 です.v.01 Theme -1
+
+p02/d1492
+今朝は空気が多少冷たい。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 air.n.01 多少.v.01 Theme -1 Attribute +1 cold.r.01
+
+p39/d3305
+彼は上着を掛けた。
+male.n.02 coat.n.01 hang_up.v.02 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p13/d2121
+私は写真をあまりとらなかった。
+NEGATION <1 person.n.01 EQU speaker photo.n.01 take.v.16 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p22/d2488
+そんなふるまいをするなんていかにも彼らしい。
+entity.n.01 も.v.01 Proposition >1 Topic -1 CONTINUATION <0 male.n.02 entity.v.01 Theme -1 CONTRAST <3 entity.n.01 する.v.01 Theme -1
+
+p61/d0774
+急に３匹の犬が私たちの前に現れた。
+all_of_a_sudden.r.02 number.n.02 EQU 3 dog.n.01 Theme -1 person.n.01 Sub speaker entity.n.01 User -1 Theme +1 in.n.01 appear.v.02 Manner -6 Theme -4 Value -2 Time +1 time.n.08 TPR now
+
+p17/d2338
+その通り！
+exactly.v.01 Participant +1 entity.n.01
+
+p15/d2786
+僕のおごりですよ。
+entity.n.01 Creator +1 person.n.01 EQU speaker entity.n.01 Participant -2 です.v.01 Theme -1
+
+p13/d2426
+たまたまその列車は雪のため遅れた。
+train.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 snow.n.01 account.n.01 Theme -1 遅れ.v.01 Theme -1
+
+p00/d1936
+私の時計は一分か二分進んでいるかもしれません。
+entity.n.01 User +1 person.n.01 EQU speaker watch.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 or.v.01 Proposition >1 Topic -1 CONTINUATION <0 number.n.02 EQU 2 entity.n.01 で.v.01 Quantity -2 Proposition >1 Topic -1 CONTINUATION <0 いる.v.01
+
+p53/d2316
+私が帰宅する前に雨が降り始めた。
+person.n.01 EQU speaker 帰宅.v.01 Theme -1 する.v.01 Topic -2 Recipient -1 Time +1 EPR +3 time.n.08 EQU now rain.n.01 rain.v.01 EQU -1 Time +1 time.n.08 TPR now
+
+p25/d2164
+私は大阪駅に行きます。
+person.n.01 EQU speaker entity.n.01 go.v.01 Theme -2 Value -1
+
+p68/d3207
+その牧場には牛が５００頭ばかりいる。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 ばかり.v.01 Participant -1
+
+p52/d1681
+突然悲鳴が聞こえた。
+all_at_once.r.01 entity.n.01 PartOf -1 hear.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p97/d2669
+列車は事故のため遅れた。
+train.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 EQU -1 遅れ.v.01 Theme -1
+
+p28/d2795
+彼は起こったことをすべて書き留めた。
+male.n.02 NEGATION <1 起こっ.v.01 Theme +1 entity.n.01 entity.n.01 ContentOf -1 NEGATION <1 書き留め.v.01 Theme -4 Value -1
+
+p10/d3047
+１年前、彼に車の運転ができていたらよかったのに。
+entity.n.01 year.n.01 Co-Theme -1 Theme +1 entity.n.01 male.n.02 car.n.01 entity.n.01 Participant -1 could.a.01 Participant -5 Agent -3 Theme -1
+
+p06/d2322
+その老人は子ギツネをわなから放してやった。
+old_man.n.01 little.a.03 Value + fox.n.01 Attribute -1 trap.n.01 free.v.01 Agent -4 Theme -2 Source -1 Time +1 time.n.08 TPR now
+
+p09/d3532
+韜晦するな！
+する.v.01
+
+p43/d2409
+彼女は彼に憧れている。
+female.n.02 male.n.02 adore.v.01 Experiencer -2 Stimulus -1
+
+p87/d1889
+彼女は食事の後片付けをした。
+female.n.02 食事.n.01 後片付け.v.01 Theme -2 Time +1 Value +2 time.n.08 TPR now entity.n.01 Theme -3
+
+p01/d0928
+万物は流転する。
+NEGATION <1 entity.n.01 NEGATION <1 流転.v.01 Theme -1
+
+p40/d2558
+その日はいい天気だった。
+day.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 天気.v.01
+
+p31/d1619
+私は今朝7時に起きた。
+person.n.01 EQU speaker entity.n.01 ContentOf +1 に.n.01 起き.v.01 Theme -3 Value -2 Time +1 time.n.08 TPR now
+
+p78/d2453
+兄は私より２歳年上だ。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 EQU speaker number.n.02 EQU 2 year.n.01 Co-Theme -1 Theme +1 entity.n.01 だ.v.01 Co-Theme -4 Theme -2
+
+p19/d0837
+彼はすでに承諾していた。
+male.n.02 承諾.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p24/d2780
+その台風は多くの家を破壊した。
+typhoon.n.01 measure.n.02 Quantity + house.n.01 EQU -1 destroy.v.01 Causer -3 Patient -1 Time +1 time.n.08 TPR now
+
+p42/d2846
+不整脈があります。
+不整脈.n.01 have.v.01 Patient -1
+
+p35/d3270
+そのめんどりは５個の卵をかえした。
+めんどり.n.01 number.n.02 EQU "５個" egg.n.01 Quantity -1 かえし.v.01 Agent -3 Patient -1 Time +1 time.n.08 TPR now
+
+p79/d3331
+風が少しある。
+wind.n.01 some.v.01 Theme -1
+
+p30/d2483
+彼女はブラインドを引きおろした。
+female.n.02 ブラインド.n.01 引きおろし.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p00/d2293
+彼女は３年間ずっと日記をつけている。
+female.n.02 number.n.02 EQU 3 ずっと.r.01 日記.n.01 つけ.v.01 Agent -4 Theme -3 Manner -2 Theme -1 Time +1 time.n.08 EQU now
+
+p28/d2777
+彼は断じて紳士などではない。
+NEGATION <1 male.n.02 紳士.v.01 Theme +1 entity.n.01 で.v.01 Co-Theme -3 Theme -1
+
+p71/d2278
+海の近くに住んでいるのが、彼女は泳げない。
+beach.n.01 entity.n.01 Participant -1 に.v.01 Proposition >2 Topic -1 CONTINUATION <0 entity.n.01 swim.v.01 Theme -1 CONTINUATION <0 entity.n.01 entity.n.01 は.v.01 Theme -2 Proposition <1 Topic -1
+
+p53/d2688
+風邪は伝染する。
+cold.n.01 伝染.v.01 Theme -1
+
+p80/d2079
+彼女は息子に多額のお金を残して亡くなった。
+female.n.02 entity.n.01 money.n.01 Participant -1 leave.v.10 Theme -3 Value -1 Time +1 time.n.08 TPR now CONTINUATION <0 entity.n.01 に.v.01 Proposition <1 Topic -1
+
+p39/d1805
+ひどい目に遭ったよ。
+entity.n.01 entity.n.01 have.v.01 Participant -2 Patient -1 Time +1 time.n.08 TPR now
+
+p40/d0828
+雪の中に彼の足跡がはっきりとついていた。
+snow.n.02 entity.n.01 Participant -1 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 Creator +1 male.n.02 entity.n.01 Participant -2 つい.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p69/d0920
+彼女は先生をとても尊敬している。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 Role +1 teacher.n.01 respect.v.01 Stimulus -2 Time +1 time.n.08 EQU now
+
+p59/d2673
+私は彼と付き合ってもおもしろくない。
+person.n.01 EQU speaker male.n.02 付き合っ.v.01 Theme -1 おもしろく.v.01 Theme -3
+
+p02/d1949
+喉が痛い。
+喉.n.01 hurt.v.01 Patient -1
+
+p30/d2439
+許して。
+許し.v.01
+
+p57/d2592
+私はアコーデオンをひいた。
+person.n.01 EQU speaker entity.n.01 ひい.v.01 Theme -2 Value -1
+
+p72/d1452
+私はその当時ほんの７歳の少女にすぎませんでした。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 でし.v.01 Theme -1
+
+p05/d1527
+あなたが昨日会った男性はブラウン氏です。
+person.n.01 EQU hearer 会っ.v.01 Value -1 Time +1 Theme +2 time.n.08 TPR now man.n.01 person.n.01 Name "ブラウン" Title +1 mr.n.01 です.v.01 Theme -3 Value -2
+
+p76/d0779
+雨に降られてぬれた。
+rain.n.01 ContentOf +1 に.n.01 降ら.v.01 Theme -2 れ.v.01 Theme -3 Recipient -1 Agent +3 ぬれ.v.01 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+
+p42/d3382
+あなたの時計はみつかった。
+person.n.01 EQU hearer watch.n.01 Theme -1 みつかっ.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p99/d2454
+きれいな鳥が木の上を飛んでいる。
+bird.n.01 tree.n.01 entity.n.01 Participant -1 fly.v.01 Theme -3 Value -1 Time +1 time.n.08 EQU now
+
+p57/d1532
+彼はぜんぜん幸福ではない。
+NEGATION <1 male.n.02 happy.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+
+p67/d2005
+金と私とは他人同士だ。つまり、貧しいのだ。
+entity.n.01 entity.n.01 Participant -1 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 だ.v.01 Theme -1 CONTINUATION <3 entity.n.01 entity.n.01 だ.v.01 Participant -2 Theme -1
+
+p07/d2041
+彼は祖父に教育された。
+male.n.02 entity.n.01 educate.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p16/d3274
+火事だ！
+fire.n.01 だ.v.01 Theme -1
+
+p26/d3369
+当然だよ。
+entity.n.01 だ.v.01 Theme -1
+
+p11/d0850
+彼女は勇ましかった。
+female.n.02 勇ましかっ.a.01 Theme -1 Time +1 time.n.08 TPR now
+
+p33/d0768
+誰も来なかった。
+NEGATION <1 person.n.01 come.v.02 Theme -1 Time +1 time.n.08 TPR now
+
+p87/d0859
+お願いします。
+お願い.v.01
+
+p71/d3012
+今日は暖房器具を使っていません。
+NEGATION <1 entity.n.01 entity.n.01 使っ.v.01 Theme -2 Value -1
+
+p36/d2224
+突然胃に激痛を感じた。
+all_of_a_sudden.r.02 entity.n.01 Manner -1 Location +1 in.n.01 entity.n.01 feel.v.03 Experiencer -3 Stimulus -1 Time +1 time.n.08 TPR now
+
+p23/d2293
+この歌は覚えやすい。
+song.n.01 learn.v.01 Theme -1 Manner +1 easy.r.01
+
+p38/d2162
+彼女が、自殺した理由は知られていない。
+reason.n.01 知ら.v.01 Theme -1 CONTRAST <1 female.n.02 自殺.v.01 Theme -1
+
+p40/d0769
+私は全然納得していない。
+NEGATION <1 person.n.01 EQU speaker convinced.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+
+p36/d0840
+彼は作家です。
+male.n.02 作家.n.01 です.v.01 Theme -2 Value -1
+
+p22/d2415
+私は彼の態度が癪に障った。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 Creator +1 male.n.02 behavior.n.01 Participant -2 entity.n.01 behavior.v.01 Theme -2 Value -1
+
+p24/d0850
+彼は彼女を抱きしめた。
+male.n.02 female.n.02 hug.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now
+
+p55/d2908
+彼女は彼を他の誰かとまちがえた。
+female.n.02 male.n.02 person.n.01 Co-Agent +1 with.n.01 まちがえ.v.01 Agent -4 Result -3 Patient -2
+
+p48/d2510
+これをもらいます。
+this.n.01 もらい.v.01 Theme -1
+
+p02/d1660
+さあ、来たまえ。
+come.v.01
+
+p42/d3358
+その家は大修理をようする。
+house.n.01 大修理.n.01 ようする.v.01 Theme -2 Value -1
+
+p13/d2719
+彼らは墓を掘った。
+person.n.01 grave.n.02 dig.v.02 Agent -2 Result -1 Time +1 time.n.08 TPR now
+
+p00/d1469
+家は全焼した。
+house.n.01 全焼.v.01 Theme -1
+
+p10/d1756
+彼女は土曜日学校に行かなくてもよい。
+female.n.02 よい.v.01 Theme -1 CONTRAST <1 entity.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 go.v.01
+
+p43/d2596
+いいえ？
+いいえ.v.01
+
+p89/d0778
+猿が高い木に登っていく。
+entity.n.01 tree.n.01 up.v.01 Theme -2 Value -1
+
+p94/d1543
+部屋に入る前に靴を脱ぎなさい。
+entity.n.01 に.v.01 Proposition >1 Topic -1 CONTINUATION <0 shoe.n.01 脱ぎ.v.01 Theme -1 CONTRAST <3 room.n.01 into.v.01 Destination -1
+
+p64/d0887
+バカ！
+person.n.01 Role +1 idiot.n.01 entity.a.01 Theme -2
+
+p58/d2856
+もう一回。
+もう.v.01
+
+p73/d2729
+風が彼女の帽子を吹き飛ばした。
+wind.n.01 entity.n.01 User +1 female.n.02 hat.n.01 Participant -2 吹き飛ばし.v.01 Theme -4 Value -1
+
+p52/d1882
+もうちょっと。
+almost.v.01
+
+p00/d2382
+その赤ん坊は一晩中泣き続けた。
+baby.n.01 cry.v.01 Theme -1 keep.v.01 Causer -2 PartOf -1 Time +1 Time +2 time.n.08 EQU now time.n.08 TPR now
+
+p72/d3219
+パーティーには５０人以上の女の子がいた。
+party.n.04 Location +1 at.n.01 number.n.02 EQU 50 entity.n.01 Participant -1 girl.n.01 Participant -1 be.v.03 EQU -5 Theme -1 Time +1 time.n.08 TPR now
+
+p73/d1403
+彼女はあなたの友達だ。
+female.n.02 person.n.01 EQU hearer person.n.01 Participant -1 Role +1 friend.n.01 be.v.01 Participant -4 Co-Theme -2
+
+p97/d2992
+それでは本末転倒だ。
+entity.n.01 本末転倒.n.01 だ.v.01 Participant -2 Theme -1
+
+p94/d3526
+私はスキーが好きだ。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 ski.v.01 fond.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+
+p52/d2755
+私はピザをたらふく食べた。
+person.n.01 EQU speaker pizza.n.01 たらふく.r.01 食べ.v.01 Agent -3 Patient -2 Manner -1 Time +1 time.n.08 TPR now
+
+p67/d2156
+その詩は無名の著者が詠んだ。
+poem.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 person.n.01 Participant -1 Role +1 author.n.01 詠ん.v.01 Theme -2
+
+p59/d1715
+誰にも言ってない。
+NEGATION <1 person.n.01 も.v.01 Proposition >1 Topic -1 CONTINUATION <0 tell.v.01
+
+p42/d2525
+母は私の体温を計った。
+person.n.01 Role +1 mother.n.01 person.n.01 EQU speaker temperature.n.01 Participant -1 take.v.01 Agent -4 Theme -1 Time +1 time.n.08 TPR now
+
+p85/d3201
+私たちの飼っている犬はトラックに轢かれた。
+person.n.01 EQU speaker 飼っ.v.01 Value -1 Theme +1 dog.n.01 truck.n.01 轢か.v.01 Value -2 Location -1 Theme +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p78/d2193
+この道は空港に通じている。
+road.n.01 airport.n.01 Destination +1 to.n.01 lead.v.01 Theme -3 Value -2
+
+p22/d2272
+彼女達は社会的地位の向上を願った。
+woman.n.01 social.r.01 ladder.n.01 Attribute -1 entity.n.01 Participant -1 願っ.v.01 Theme -4 Value -1
+
+p09/d2905
+彼女は彼にキスをした。
+female.n.02 male.n.02 kiss.v.01 し.v.01 Agent -3 Result -2 Patient -1 Time +1 time.n.08 TPR now
+
+p43/d2445
+私はペンを買ったが、なくしてしまった。
+person.n.01 EQU speaker pen.n.01 buy.v.01 Theme -1 Time +1 time.n.08 TPR now TPR now TPR now time.n.08 EQU -1 lose.v.04 Participant -5 Time -1 Time +1 time.n.08 TPR now time.n.08 EQU -3
+
+p60/d1722
+今夜のパーティーで彼は見事にホスト役を演じた。
+entity.n.01 party.n.02 Participant -1 で.v.01 Proposition >2 Topic -1 CONTINUATION <0 male.n.02 entity.n.01 entity.n.01 play.v.01 Agent -3 Participant -2 Theme -1 Time +1 time.n.08 TPR now CONTINUATION <0 entity.n.01 に.v.01 Proposition <1 Topic -1
+
+p45/d0901
+入れ！
+enter.v.01
+
+p40/d0831
+投票は昨日行われた。
+poll.n.01 time.n.08 TIN +2 TPR now day.n.03 TCT now day.n.03 TAB -1 take.v.01 Theme -4 Time -3 Agent +1 entity.n.01 time.n.08 EQU -5
+
+p23/d2075
+私は駅からホテルまでタクシーで行った。
+person.n.01 EQU speaker station.n.01 hotel.n.01 タクシー.n.01 行っ.v.01 Source -3 Agent -4 Destination -2 Agent -1 Time +1 time.n.08 TPR now
+
+p06/d1911
+放っておけ。
+NECESSITY <1 leave.n.02
+
+p00/d3332
+物価が上がった。
+物価.n.01 上がっ.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p28/d3125
+きっと私はこの宿題をします。
+POSSIBILITY <1 person.n.01 EQU speaker 宿題.n.01 し.v.01 Theme -2 Value -1 Time +1 time.n.08 TSU now
+
+p76/d2467
+それはエチケットの問題だ。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 matter.n.01 Participant -1 だ.v.01 Theme -1
+
+p25/d2942
+僕には彼女の言うことが分かった。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 ø.v.01 Proposition >1 Agent +2 female.n.02 entity.n.01 Participant -1 CONTINUATION <0 entity.n.02 EQU ? understand.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p31/d1778
+彼は全然勉強しなかった。
+NEGATION <1 male.n.02 study.v.05 Agent -1 Time +1 time.n.08 TPR now
+
+p28/d3033
+ソ連はわが国に対して強い態度をとった。
+entity.n.01 entity.n.01 attitude.n.01 とっ.v.01 Theme -3 Participant -2 Value -1
+
+p13/d1659
+私は馬が好きです。
+person.n.01 EQU speaker horse.n.01 like.v.03 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p45/d3143
+汽車はまだ着きません。
+NEGATION <1 train.n.01 yet.v.01 Participant -1
+
+p74/d2863
+昨日私たちは通りの雪かきをした。
+person.n.01 Sub speaker street.n.01 entity.n.01 Participant -1 し.v.01 Theme -3 Value -1
+
+p10/d0856
+妊娠しています。
+妊娠.n.01 し.v.01 Theme -1
+
+p59/d2293
+私は旅行する時はいつも現金ではなくトラベラーチェックにしています。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 entity.n.01 PartOf +1 cash.n.01 NEGATION <1 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 person.n.01 EQU speaker entity.n.01 し.v.01 Theme -2 Value -1
+
+p11/d1759
+彼は青いコートを着ている。
+male.n.02 blue.a.01 ColourOf +1 coat.n.01 wear.v.01 Theme -3 Value -1 Time +1 time.n.08 EQU now
+
+p25/d2512
+私は牛乳が飲みたい。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 drink.v.01 Patient -1
+
+p45/d2140
+好奇心から私はその箱を開けた。
+person.n.01 EQU speaker box.n.01 open.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+
+p30/d2389
+彼は女王様にお辞儀をした。
+male.n.02 person.n.01 Role +1 queen.n.02 お辞儀.n.01 し.v.01 Agent -4 Location -3 Theme -1 Time +1 time.n.08 TPR now
+
+p98/d1859
+彼にたずねよう。
+male.n.02 ask.v.01 Recipient -1 Time +1 time.n.08 TSU now
+
+p00/d0775
+規則的に戸外で働く人は不眠症で苦しむことはない。
+sleeplessness.n.01 entity.n.01 は.a.01 Location -2 Theme -1 EXPLANATION <1 規則的.n.01 戸外.v.01 Value -1 Theme +1 人.n.01 ない.a.01 Theme -1
+
+p23/d2041
+以前はこの丘の上に城があった。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 entity.n.01 Participant -1 castle.n.02 あっ.v.01 Theme -2 Value -1
+
+p46/d0767
+おめでとうございます。
+ござい.v.01
+
+p03/d2650
+この車は日本で作られました。
+car.n.01 country.n.02 Name "日本" make.v.06 Product -2 Location -1 Agent +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p81/d3524
+彼は最悪の事態を覚悟した。
+male.n.02 worst.n.01 entity.n.01 Participant -1 覚悟.v.01 Theme -3 Value -1
+
+p17/d3512
+彼女は鶏肉を買った。
+female.n.02 chicken.n.01 buy.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+
+p50/d2290
+その時まで彼は叔父の家に泊まっていた。
+entity.n.01 time.n.01 entity.n.01 Of +1 male.n.02 person.n.01 Role +1 uncle.n.01 entity.n.01 Participant -2 泊まっ.v.01 Participant -7 Location -6 Theme -5 Value -1 Time +1 time.n.08 TPR now TPR now time.n.08 EQU -1
+
+p31/d0917
+君はああいった男たちと交際しないほうがいい。
+person.n.01 EQU hearer は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 entity.n.01 entity.n.01 Theme +1 with.n.01 交際.v.01 Participant -3 Theme -2
+
+p05/d2279
+私は彼と競走した。
+person.n.01 EQU speaker male.n.02 Co-Agent +1 with.n.01 競走.v.01 Theme -3 Value -2
+
+p50/d0857
+雪が降る。
+snow.v.01 it.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p75/d2545
+このバンドの演奏を聞いているの。
+band.n.01 entity.n.01 Participant -1 listen.v.01 Experiencer -1 Time +1 Participant +2 time.n.08 EQU now entity.n.01
+
+p79/d2061
+食べる
+食べる.v.01 Time +1 time.n.08 EQU now
+
+p07/d2505
+私はそうは思いません。
+NEGATION <1 person.n.01 EQU speaker entity.n.01 思い.v.01 Participant -2 Theme -1
+
+p90/d2259
+かわいそうにその老婦人はお金を奪われた。
+money.n.01 奪わ.v.01 Theme -1 CONTINUATION <0 entity.n.01 は.v.01 Proposition <1 Topic -1 Time +1 time.n.08 TPR now
+
+p39/d2856
+昨日は雨が降った。
+entity.n.01 it.n.01 rain.v.01 Participant -2 EQU -1 Time +1 time.n.08 TPR now
+
+p07/d2709
+亡命者は無事国境を越えた。
+entity.n.01 entity.n.01 cross.v.01 Theme -2 Path -1 Time +1 time.n.08 TPR now
+
+p44/d2618
+ボールは地面の上を私に向かってころがった。
+ball.n.01 ground.n.01 entity.n.01 Participant -1 person.n.01 EQU speaker on.v.01 Agent -4 Result -2 Patient -1
+
+p47/d2203
+彼はローソクを吹き消した。
+male.n.02 candle.n.01 吹き消し.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+
+p91/d1691
+日本の若者はロックやジャズが好きです。
+person.n.01 Source +1 location.n.01 Name "japan" entity.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 rock.n.01 jazz.n.01 Participant -1 like.v.01 Attribute -1
+
+p42/d3052
+私だって判らない。
+NEGATION <1 だっ.v.01
+
+p49/d3213
+いたちはその悪臭で知られている。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 entity.n.01 PartOf +1 entity.n.01 NEGATION <1 で.v.01 Proposition >1 Topic -2 CONTINUATION <0 知ら.v.01
+
+p10/d3092
+精一杯やってみなさい。
+精一杯.r.01 try.v.01 Manner -1
+
+p27/d2564
+メアリーは腰を痛めている。物を持ち上げるのが困難である。
+entity.n.01 entity.n.01 痛め.v.01 Theme -2 Value -1 CONTINUATION <1 entity.n.01 困難.v.01 Theme -1 CONTRAST <1 entity.n.01 持ち上げる.v.01 Theme -1
+
+p06/d1421
+バスが遅れたので私はタクシーに乗った。
+bus.n.01 遅れ.v.01 Theme -1 Time +1 time.n.08 TPR now TPR now person.n.01 EQU speaker taxi.n.01 take.v.09 Time -3 Agent -2 Theme -1 time.n.08 EQU -4
+
+p84/d3374
+彼女には貴婦人の風格がある。
+female.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 air.n.01 EQU -1 have.v.01 Patient -1 Time +1 time.n.08 EQU now
+
+p78/d2427
+彼女は時々公園を散歩します。
+female.n.02 entity.n.01 散歩.v.01 Theme -2 Value -1
+
+p54/d2655
+あいつは手強い相手だ。
+あいつ.n.01 formidable.a.01 person.n.01 Attribute -1 Role +1 opponent.n.01 だ.v.01 Co-Theme -4 Theme -2 Time +1 time.n.08 EQU now
+
+p70/d2872
+私のマグカップ取って。
+entity.n.01 User +1 person.n.01 EQU speaker の.v.01 Proposition >1 Topic -2 CONTINUATION <0 取っ.v.01
+
+p76/d3270
+昔は学校の近くに喫茶店があった。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 school.n.02 entity.n.01 Participant -1 coffee_shop.n.01 あっ.v.01 Theme -2 Value -1
+
+p55/d3362
+私たちは７時にちょうしょくをとった。
+person.n.01 Sub speaker time.n.08 ClockTime 07:00 TPR now breakfast.n.01 eat.v.02 Agent -3 Time -2 Patient -1 time.n.08 EQU -3
+
+p38/d1783
+ある意味であなたの言う事は正しい。
+sense.n.01 で.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 の.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 right.a.01 AttributeOf -1
+
+p78/d3026
+気味の悪いeメールが来た。
+speaker.n.01 悪い.r.01 eメール.n.01 Participant -2 PartOf -1 来.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p66/d3049
+君の鍵はどこにあるの？
+entity.n.01 User +1 person.n.01 EQU hearer key.n.01 Participant -2 location.n.02 EQU ? be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p51/d2865
+かぜが治るまでに一ヶ月かかった。
+cold.n.01 治る.v.01 Theme -1 entity.n.01 a.n.01 ヶ.v.01 Participant -2 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 かかっ.v.01 Theme -1
+
+p00/d1987
+彼は妻の死をまだ克服していない。
+NEGATION <1 male.n.02 person.n.01 Role +1 妻.n.01 death.n.01 PartOf -2 克服.v.01 Agent -4 Theme -1
+
+p36/d0771
+君は当地に住んでいるのか。
+person.n.01 EQU hearer は.v.01 Proposition >1 Topic -1 CONTINUATION <0 location.n.01 live.v.01 Value -1 Time +1 Theme +3 time.n.08 EQU now で.v.01 Theme +1 entity.n.01
+
+p19/d1452
+彼は大蔵大臣に任命された。
+male.n.02 minister_of_finance.n.01 appoint.v.02 Theme -2 Result -1 Agent +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p35/d3155
+私の自転車が石にぶつかったとき、前のタイヤがパンクした。
+person.n.01 EQU speaker bicycle.n.01 Owner -1 rock.n.01 hit.v.02 Theme -2 Destination -1 TIN +3 front.n.01 tire.n.01 Theme -1 パンク.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p71/d1627
+母は弟に黄色い傘を買ってやった。
+umbrella.n.01 buy.v.01 Theme -1 Time +1 time.n.08 TPR now CONTRAST <1 entity.n.01 entity.n.01 yellow.a.01 ColourOf -2 Attribute -1
+
+p67/d2140
+また！
+again.v.01
+
+p64/d2631
+彼はテニスが好きではありません。
+NEGATION <1 male.n.02 は.v.01 Proposition >1 Topic -1 Time +1 time.n.08 EQU now CONTINUATION <0 tennis.n.01 like.v.01 Stimulus -1
+
+p10/d3000
+火は燃える。
+fire.n.03 burn.v.04 Causer -1 Time +1 time.n.08 EQU now
+
+p77/d3035
+彼女のポケットはくるみで膨らんでいた。
+entity.n.01 User +1 female.n.02 pocket.n.01 Participant -2 膨らん.v.01 Theme -1 CONTINUATION <0 entity.n.01 で.v.01 Proposition <1 Topic -1 Time +1 time.n.08 TPR now
+
+p10/d2452
+薬は全く効かなかった。
+NEGATION <1 medicine.n.02 help.v.02 Causer -1 Time +1 time.n.08 TPR now
+
+p10/d3151
+それはいいね。
+entity.n.01 cool.a.06 AttributeOf -1
+
+p88/d1482
+彼に電話をしたが話中だった。
+entity.n.01 し.v.01 Theme -1 CONTINUATION <0 male.n.02 に.v.01 Proposition <1 Topic -1 entity.n.01 be.a.01 Theme -1
+
+p37/d2995
+彼女は彼をつねった。
+female.n.02 male.n.02 pinch.v.01 Agent -2 Experiencer -1 Time +1 time.n.08 TPR now
+
+p73/d3334
+私は両親と連絡を取った。
+person.n.01 EQU speaker person.n.01 Role +1 parent.n.01 contact.n.01 Participant -2 take.v.01 Theme -4 Value -1 Time +1 time.n.08 TPR now
+
+p09/d3534
+彼女はピアノの個人教授を受けている。
+female.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 piano.n.01 entity.n.01 Participant -1 受け.v.01 Theme -1
+
+p46/d2839
+さようなら。
+さようなら.v.01
+
+p05/d3136
+ボートがひっくり返った。
+boat.n.01 capsize.v.01 Patient -1 Time +1 time.n.08 TPR now
+
+p92/d3332
+車を洗っている男の人は、ジョーンズさんです。
+car.n.01 wash.v.01 Source -1 Agent +2 man.n.01 entity.n.01 Participant -1 entity.n.01 be.v.01 Theme -2 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p29/d0869
+雹が降っています。
+hail.v.05 entity.n.01 Theme -1
+
+p19/d2496
+私は背が高い。
+person.n.01 EQU speaker be.n.01 tall.a.01 Participant -2 Value + AttributeOf -1
+
+p25/d2472
+牛乳は飲めない。
+NEGATION <1 entity.n.01 飲め.v.01 Theme -1
+
+p51/d2590
+私はお金を盗まれた。
+person.n.01 EQU speaker money.n.01 steal.v.01 Participant -2 Theme -1 Agent +1 Time +2 entity.n.01 time.n.08 TPR now
+
+p47/d1718
+ジャクソンさんは現れなかった。
+NEGATION <1 person.n.01 Name "ジャクソンさん" appear.v.02 Theme -1 Time +1 time.n.08 TPR now
+
+p55/d2220
+あの家は私のものだ。
+house.n.01 person.n.01 EQU speaker もの.n.01 Owner -1 だ.v.01 Co-Theme -3 Theme -1 Time +1 time.n.08 EQU now
+
+p96/d0856
+本当？
+really.v.01
+
+p88/d2483
+疲れてるんでしょ？ 早く寝たら？
+疲れ.v.01 CONTINUATION <1 寝.v.01
+
+p16/d1423
+外は真っ暗だ。
+entity.n.01 entity.n.01 だ.v.01 Theme -2 Value -1
+
+p30/d3368
+私は彼女が歌を歌うのを聞いた。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 female.n.02 song.n.01 sing.v.01 Theme -1 Agent +1 entity.n.01 hear.v.01 Theme -4 Value -1 Time +1 time.n.08 TPR now
+
+p41/d3337
+７時か８時には帰ります。
+time.n.08 ClockTime 19:00 Time +1 by.n.01 or.v.01 Proposition >1 Topic -2 CONTINUATION <0 time.n.08 ClockTime 20:00 Time +1 by.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 帰り.v.01 Time -6 time.n.08 TSU now EQU -7
+
+p42/d2756
+その紙を四つ折りにしなさい。
+paper.n.01 四つ折り.n.01 しなさい.a.01 Agent -2 Theme -1
+
+p03/d1430
+何事も起こらなかった。
+NEGATION <1 entity.n.01 も.v.01 Proposition >1 Topic -1 CONTINUATION <0 happen.v.01 Time +1 time.n.08 TPR now
+
+p80/d1969
+彼は足が速い。
+male.n.02 be.v.01 Proposition >1 Theme -1 Time +1 time.n.08 EQU now CONTINUATION <0 entity.n.01 速い.v.01 Theme -1
+
+p58/d3316
+彼は水たまりを飛び越した。
+male.n.02 puddle.n.02 飛び越し.v.01 Theme -2 Path -1 Time +1 time.n.08 TPR now
+
+p64/d2516
+彼には勇気が欠けている。
+male.n.02 courage.n.01 欠け.v.01 Theme -2 Value -1
+
+p73/d2515
+この箱を片づけなさい。
+NECESSITY <1 box.n.01 tidy.v.01 Theme -1
+
+p00/d2129
+つぼみがほころび始めた。
+つぼみ.n.01 ほころび.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p01/d2439
+その少女はとても青い顔をしていました。
+girl.n.01 pale.a.01 AttributeOf -1 EXPLANATION <1 entity.n.01 し.v.01 Theme -1
+
+p07/d1409
+遊泳禁止。
+NEGATION <1 遊泳.v.01
+
+p10/d0874
+彼は勇敢だった。
+male.n.02 brave.a.01 Theme -1 Time +1 time.n.08 TPR now
+
+p62/d1552
+三郎はテーブルの上に出されたおやつをガッと取った。
+三郎.n.01 table.n.01 出さ.v.01 Theme +1 Time +2 Value +3 entity.n.01 time.n.08 TPR now TPR now sit.v.07 ガッと.r.01 取っ.v.01 Location -6 Theme -7 Time -3 Value -2 Manner -1 time.n.08 EQU -4
+
+p99/d3088
+その丘で殺された男はだれだったのか。
+丘.n.01 kill.v.01 Theme +1 Time +2 Value +3 entity.n.01 time.n.08 TPR now TPR now 男.n.01 be.v.01 Location -5 Time -2 Co-Theme -1 time.n.08 EQU -3
+
+p13/d1853
+彼は怒っている男をなだめようとした。
+man.n.01 な.v.01 Theme -1 CONTINUATION <0 try.v.01 Proposition <1 Participant +1 Agent +2 entity.n.01 entity.n.01
+
+p04/d2865
+私には時間もお金もない。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 time.n.02 or.v.01 Proposition >1 Topic -1 CONTINUATION <0 money.n.02 ない.v.01 Theme -1
+
+p92/d3377
+私は犬が好きだが、妹は猫が好きだ。
+dog.n.01 like.v.01 Stimulus -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU speaker は.v.01 Proposition <1 Topic -1 entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 cat.n.01 like.v.01 Stimulus -1 Time +1 time.n.08 EQU now
+
+p14/d2562
+それは甘い味がした。
+entity.n.01 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 sweet.r.01 entity.n.01 PartOf -1 し.v.01 Theme -1
+
+p00/d2420
+私はめったにラジオを聴きません。
+NEGATION <1 person.n.01 EQU speaker radio.n.01 listen.v.01 Agent -2 Theme -1
+
+p07/d2927
+彼を起こさないでほしい。
+male.n.02 起こさ.v.01 Theme -1 Participant +1 entity.n.01
+
+p81/d1623
+彼は赤信号にも車を止めなかった。
+male.n.02 car.n.01 stop.v.01 Agent -2 Patient -1 CONTINUATION <0 entity.n.01 Stimulus +1 at.n.01 も.v.01 Proposition <1 Topic -2
+
+p51/d3553
+私は何も知りません。
+NEGATION <1 person.n.01 EQU speaker 何.n.01 も.v.01 Participant -2 Proposition >1 Topic -1 CONTINUATION <0 know.v.01
+
+p46/d2734
+私は２２歳の男性です。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 man.n.01 Participant -1 です.v.01 Theme -1
+
+p29/d1843
+どこかで子供が泣いている。
+どこか.n.01 child.n.01 cry.v.02 Location -2 Agent -1 Time +1 time.n.08 EQU now
+
+p28/d2745
+この４年間英語をずっと勉強している。
+number.n.02 EQU 4 year.v.01 Proposition >1 Topic -1 CONTINUATION <0 english.n.01 learn.v.01 Theme -1
+
+p11/d1542
+ある調査によれば、世界の１０億人の人口が貧困で苦しんでいます。
+調査.v.01 EXPLANATION <1 world.n.01 entity.n.01 Participant -1 Quantity "１０" entity.n.01 Participant -1 苦しん.v.01 Theme -1 CONTINUATION <0 poverty.n.01 で.v.01 Proposition <1 Topic -1
+
+p55/d3538
+彼は金髪だ。
+male.n.02 entity.n.01 be.v.01 Theme -2 Value -1
+
+p01/d2267
+スープが温まるまで待ちなさい。
+soup.n.01 till.v.01 Goal -1
+
+p10/d2541
+また後で。
+say.v.01 Agent speaker Theme +1 また後で.n.01
+
+p22/d2390
+その兄弟の間には強い絆がある。
+person.n.01 Role +1 brother.n.01 entity.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 strong.r.01 entity.n.01 Attribute -1 ある.v.01 Theme -1
+
+p01/d2963
+私は笑ってしまった。
+person.n.01 EQU speaker laugh.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p52/d0874
+私は友達がいない。
+person.n.01 EQU speaker は.v.01 Proposition >1 Topic -1 CONTINUATION <0 NEGATION <1 person.n.01 Role +1 friend.n.01 no.a.01 Theme -2
+
+p38/d3374
+彼の冗談はクラス全員を爆笑させた。
+male.n.02 冗談.n.01 Creator -1 クラス全員.n.01 爆笑.v.01 Theme -1 make.v.01 Causer -3 Patient -2 Result -1 Time +1 time.n.08 TPR now
+
+p06/d1503
+やめなさい。
+stop.n.02
+
+p17/d0808
+メリークリスマス！
+メリー.v.01 Participant +1 entity.n.01
+
+p86/d2811
+あの部屋には客が大勢いる。
+room.n.01 Location +1 in.n.01 person.n.01 Role +1 guest.n.01 いる.v.01 Theme -4 Value -2 Time +1 time.n.08 EQU now
+
+p06/d1733
+雨が降っていた。
+it.n.01 rain.v.01 EQU -1 Time +1 time.n.08 TPR now
+
+p75/d1528
+彼女は白い本を脇に抱えていた。
+female.n.02 white.a.01 book.n.01 Colour -1 entity.n.01 under.v.01 Agent -4 Result -2 Patient -1
+
+p30/d2540
+彼女は彼を抱きしめた。
+female.n.02 male.n.02 hug.v.01 Agent -2 Co-Agent -1 Time +1 time.n.08 TPR now
+
+p64/d1756
+私はこの夏２キロ太った。
+person.n.01 EQU speaker 太っ.v.01 Theme -1 CONTINUATION <0 summer.n.01 PartOf +1 number.n.02 EQU 2 kilogram.n.01 Proposition <1 Topic -2
+
+p82/d2401
+私は寝る場所を探した。
+person.n.01 EQU speaker place.n.01 探し.v.01 Theme -2 Value -1
+
+p22/d2355
+先生は私にその文を繰り返させた。
+person.n.01 Role +1 teacher.n.01 は.v.01 Proposition >1 Topic -2 CONTINUATION <0 person.n.01 EQU speaker に.v.01 Proposition >1 Topic -1 CONTINUATION <0 sentence.n.01 repeat.v.01 Theme -1
+
+p07/d2385
+黙れ！
+黙れ.v.01
+
+p19/d3136
+ダンスパーティーで楽しんで下さい。
+entity.n.01 で.v.01 Proposition >1 Topic -1 CONTINUATION <0 enjoy.v.01
+
+p00/d3157
+ここでサインして。
+location.n.01 entity.n.01 し.a.01 Participant -2 Theme -1
+
+p69/d2674
+彼は私に計画の変更を知らせてきた。
+male.n.02 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 person.n.01 EQU speaker に.v.01 Proposition >1 Topic -1 CONTINUATION <0 plan.n.01 entity.n.01 Participant -1 知ら.v.01 Theme -1
+
+p91/d1874
+誰？
+person.v.01
+
+p29/d1784
+３歳の息子の診察の予約をお願いします。
+entity.n.01 entity.n.01 entity.n.01 entity.n.01 Participant -3 Participant -2 Participant -1 願い.v.01 Theme -1
+
+p95/d1700
+これは私の家族の写真です。
+this.n.01 person.n.01 EQU speaker family.n.01 picture.n.01 Theme -2 Theme -1 be.v.01 Theme -4 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p31/d3281
+その牧場は１０エーカーの広さだ。
+pasture.n.01 number.n.02 EQU 10 entity.n.01 Theme -1 だ.v.01 Participant -3 Theme -1
+
+p96/d2590
+ピストルを持った男が彼をせきたてて車に押し込んだ。
+ピストル.n.01 ピストル.n.01 with.v.01 Value -2 Time +2 Theme +4 with.v.01 Value -2 Time +2 Theme +4 time.n.08 TPR now TPR now time.n.08 TPR now man.n.01 man.n.01 male.n.02 male.n.02 せきたて.v.01 Time -6 Theme -4 Value -2 car.n.01 into.v.01 Agent -5 Result -3 Patient -1 Time +2 time.n.08 EQU -9 time.n.08 TPR now
+
+p30/d0792
+その少女は自分の影におびえていた。
+girl.n.01 entity.n.01 shadow.n.01 Participant -1 おびえ.v.01 Theme -3 Value -1 Time +1 time.n.08 TPR now
+
+p09/d0775
+用心しなさい。
+用心.v.01
+
+p77/d2800
+私は赤い新車を持っている。
+person.n.01 EQU speaker 赤い.r.01 new.n.01 PartOf -1 have.v.01 Pivot -3 Theme -1
+
+p34/d1959
+私は彼女に自分のカメラを貸した。
+person.n.01 EQU speaker female.n.02 person.n.01 EQU speaker camera.n.01 Owner -1 lend.v.02 Agent -4 Recipient -3 Theme -1 Time +1 time.n.08 TPR now
+
+p78/d2645
+彼は正しいと私は思います。
+male.n.02 think.v.01 Theme -1 Time +1 time.n.08 EQU now CONTINUATION <0 entity.n.01 person.n.01 Participant -1 EQU speaker は.v.01 Proposition <1 Topic -1
+
+p03/d3542
+私は末っ子です。
+person.n.01 EQU speaker person.n.01 Role +1 末っ子.n.01 です.v.01 Theme -3 Value -2
+
+p81/d0953
+さようなら！
+さようなら.v.01
+
+p72/d2011
+いい案だ！
+good.r.01 plan.n.01 Attribute -1 be.v.01 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p42/d0838
+彼はまったく満足していなかった。
+NEGATION <1 male.n.02 satisfied.a.01 Theme -1 Time +1 time.n.08 TPR now
+
+p57/d3303
+勉強は君のためになる。
+study.n.01 person.n.01 EQU hearer entity.n.01 Participant -1 will.a.01 Agent -3 Theme -1
+
+p18/d1708
+レストランからパーティーの費用２５万円の請求があった。
+restaurant.n.01 から.v.01 Proposition >1 Topic -1 CONTINUATION <0 party.n.04 entity.n.01 entity.n.01 Participant -2 Participant -1 あっ.v.01 Theme -1
+
+p39/d2609
+彼は粘土で鉢をつくった。
+male.n.02 bowl.n.01 つくっ.v.01 Theme -2 Value -1 CONTINUATION <0 entity.n.01 で.v.01 Proposition <1 Topic -1
+
+p07/d3199
+彼らは嘘をついた。
+person.n.01 lie.n.01 つい.v.01 Theme -2 Value -1 Time +1 time.n.08 TPR now
+
+p25/d2695
+彼の行動は時々奇妙だ。
+entity.n.01 Creator +1 male.n.02 behavior.n.01 Participant -2 は.v.01 Proposition >1 Topic -1 CONTINUATION <0 entity.n.01 be.v.01 Co-Theme -1 Time +1 time.n.08 EQU now
+
+p20/d2839
+家に電話して！
+home.n.01 call.v.03 Theme -1
+

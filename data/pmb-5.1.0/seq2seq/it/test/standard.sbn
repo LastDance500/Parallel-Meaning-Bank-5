@@ -1,0 +1,576 @@
+È pigro.	time.n.08 EQU now male.n.02 lazy.a.02 Time -2 AttributeOf -1
+È ovvio.	time.n.08 EQU now entity.n.01 obvious.a.01 Time -2 AttributeOf -1
+Aspetti!	person.n.01 EQU hearer wait.v.01 Theme -1
+È enorme.	time.n.08 EQU now entity.n.01 huge.a.01 Time -2 AttributeOf -1
+Tom urlò.	male.n.02 Name "Tom" yell.v.01 Agent -1 Time +1 time.n.08 TPR now
+Lei provò.	female.n.02 try.v.01 Agent -1 Time +1 time.n.08 TPR now
+Tom esitò.	male.n.02 Name "Tom" hesitate.v.01 Agent -1 Time +1 time.n.08 TPR now
+Ha freddo.	time.n.08 EQU now female.n.02 cold.a.01 Time -2 AttributeOf -1
+Sarà duro.	time.n.08 TSU now entity.n.01 hard.a.01 Time -2 AttributeOf -1
+È testarda.	time.n.08 EQU now female.n.02 stubborn.a.01 Time -2 AttributeOf -1
+È obsoleto.	time.n.08 EQU now entity.n.01 outdated.a.01 Time -2 AttributeOf -1
+Tom lavora.	male.n.02 Name "Tom" work.v.01 Agent -1 Time +1 time.n.08 EQU now
+Sono gialle	time.n.08 EQU now entity.n.01 yellow.a.01 Time -2 ColourOf -1
+Io mangiai.	person.n.01 EQU speaker eat.v.02 Agent -1 Time +1 time.n.08 TPR now
+È corretto.	time.n.08 EQU now entity.n.01 correct.a.01 Time -2 AttributeOf -1
+Tom sorrise.	male.n.02 Name "Tom" grin.v.01 Agent -1 Time +1 time.n.08 TPR now
+È umiliante.	time.n.08 EQU now entity.n.01 humiliating.a.01 Time -2 Stimulus -1
+Tom è forte.	male.n.02 Name "Tom" time.n.08 EQU now strong.a.01 AttributeOf -2 Time -1
+Lui mi odia.	male.n.02 person.n.01 EQU speaker hate.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+È rilevante?	time.n.08 EQU now entity.n.01 relevant.a.01 Time -2 AttributeOf -1
+Tom ballava.	male.n.02 Name "Tom" dance.v.01 Theme -1 Time +1 time.n.08 TPR now
+Sei sessista.	time.n.08 EQU now person.n.01 EQU hearer sexist.a.01 Time -2 AttributeOf -1
+Sono monouso.	time.n.08 EQU now entity.n.01 disposable.a.02 Time -2 AttributeOf -1
+Tom piangeva.	male.n.02 Name "Tom" weep.v.01 Agent -1 Time +1 time.n.08 TPR now
+Un'ape ronza.	NEGATION <1 bee.n.01 NEGATION <1 buzz.v.01 Agent -1
+Non è carina?	NEGATION <1 time.n.08 EQU now female.n.02 cute.a.01 Time -2 AttributeOf -1
+Lui mi sparò.	male.n.02 person.n.01 EQU speaker shoot.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+Tutti ridono.	NEGATION <1 person.n.01 NEGATION <1 laugh.v.01 Agent -1 Time +1 time.n.08 EQU now
+Sono sbronzo.	time.n.08 EQU now person.n.01 EQU speaker drunk.a.01 Time -2 AttributeOf -1
+Questo puzza.	entity.n.01 stink.v.02 Theme -1 Time +1 time.n.08 EQU now
+Tom è geloso.	male.n.02 Name "Tom" time.n.08 EQU now jealous.a.01 Experiencer -2 Time -1
+Come sta Tom?	be.v.01 Attribute ? Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Tom"
+Gemono tutti.	NEGATION <1 person.n.01 NEGATION <1 groan.v.01 Agent -1 Time +1 time.n.08 EQU now
+Io ho fumato.	person.n.01 EQU speaker smoke.v.01 Agent -1 Time +1 time.n.08 TPR now
+Tom è sveglio.	male.n.02 Name "Tom" time.n.08 EQU now awake.a.01 AttributeOf -2 Time -1
+Siete vestiti?	time.n.08 EQU now person.n.01 EQU hearer dressed.a.01 Time -2 Experiencer -1
+Era legittimo.	time.n.08 TPR now entity.n.01 legitimate.a.03 Time -2 AttributeOf -1
+Era rischiosa.	time.n.08 TPR now entity.n.01 risky.a.01 Time -2 AttributeOf -1
+La madre cuce.	person.n.01 Role +1 mother.n.01 sew.v.01 Agent -2 Time +1 time.n.08 EQU now
+Ho telefonato.	person.n.01 EQU speaker phone.v.01 Agent -1 Time +1 time.n.08 TPR now
+È tutto nuovo.	NEGATION <1 entity.n.01 NEGATION <1 time.n.08 EQU now new.a.01 AttributeOf -2 Time -1
+Ken sentì Tom.	male.n.02 Name "Ken" hear.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now male.n.02 Name "Tom"
+Nessuno lo sa.	NEGATION <1 person.n.01 entity.n.01 know.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+Lui è vecchio.	male.n.02 time.n.08 EQU now old.a.01 Time -1 Value + AttributeOf -2
+È irrilevante.	time.n.08 EQU now entity.n.01 irrelevant.a.01 Time -2 AttributeOf -1
+Sto scivolando?	time.n.08 EQU now person.n.01 EQU speaker slip.v.03 Time -2 Theme -1
+Passò mezz'ora.	pass.v.04 Time +1 Duration +3 time.n.08 TPR now quantity.n.01 EQU 0.5 hour.n.01 Quantity -1
+Mi fido di Ken.	person.n.01 EQU speaker trust.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "Ken"
+Io non ho sete.	person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now thirsty.a.02 Experiencer -2 Time -1
+Tom intervenne.	male.n.02 Name "Tom" intervene.v.01 Agent -1 Time +1 time.n.08 TPR now
+L'uccello vola.	bird.n.01 fly.v.01 Theme -1 Time +1 time.n.08 EQU now
+Tom la sentirà.	male.n.02 Name "Tom" person.n.01 EQU hearer hear.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 TSU now
+Swift morì 1745.	male.n.02 Name "Swift" die.v.01 Patient -1 Time +1 time.n.08 YearOfCentury 1745 TPR now time.n.08 EQU -1
+Mary è mancina.	female.n.02 Name "Mary" time.n.08 EQU now left-handed.a.01 AttributeOf -2 Time -1
+Tom ride molto.	male.n.02 Name "Tom" ride.a.01 Theme -1 Frequency +1 time.n.01 Quantity +
+Lei lo pugnalò.	female.n.02 male.n.02 stab.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+Sei analfabeta?	time.n.08 EQU now person.n.01 EQU hearer illiterate.a.01 Time -2 AttributeOf -1
+Qualcuno lo sa.	person.n.01 entity.n.01 know.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+Io chiamai Tom.	person.n.01 EQU speaker call.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now male.n.02 Name "Tom"
+Stavo mentendo.	time.n.08 TPR now person.n.01 EQU speaker lie.v.05 Time -2 Agent -1
+Tom rabbrividì.	male.n.02 Name "Tom" shiver.v.02 Experiencer -1 Time +1 time.n.08 TPR now
+Saranno gelosi.	person.n.01 time.n.08 TSU now jealous.a.01 Experiencer -2 Time -1
+Lei lo perdonò.	female.n.02 male.n.02 forgive.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+Tutti amano Tom.	NEGATION <1 person.n.01 NEGATION <1 love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "Tom"
+Il fuoco brucia.	fire.n.03 burn.v.04 Causer -1 Time +1 time.n.08 EQU now
+Avevate suonato.	person.n.01 EQU hearer play.v.03 Agent -1 Time +1 time.n.08 TPR now
+Mi piaceva Tony.	person.n.01 EQU speaker like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now male.n.02 Name "Tony"
+Il cane è bello.	dog.n.01 time.n.08 EQU now beautiful.a.01 AttributeOf -2 Time -1
+Saltarono tutti.	NEGATION <1 person.n.01 NEGATION <1 jump.v.01 Theme -1 Time +1 time.n.08 TPR now
+Tom fu relegato.	male.n.02 Name "Tom" time.n.08 TPR now ostracise.v.02 Theme -2 Time -1
+Tutti moriranno.	NEGATION <1 person.n.01 NEGATION <1 die.v.01 Patient -1 Time +1 time.n.08 TSU now
+Stava piangendo.	time.n.08 TPR now male.n.02 cry.v.02 Time -2 Agent -1
+La mela è rossa.	apple.n.01 time.n.08 EQU now red.a.01 ColourOf -2 Time -1
+Nessuno ascolta.	NEGATION <1 person.n.01 listen.v.01 Experiencer -1 Time +1 time.n.08 EQU now
+Avevamo ragione.	time.n.08 TPR now person.n.01 EQU speaker right.a.05 Time -2 AttributeOf -1
+Stai sorridendo.	time.n.08 EQU now person.n.01 EQU hearer smile.v.01 Time -2 Agent -1
+La rana gracida.	frog.n.01 croak.v.02 Agent -1 Time +1 time.n.08 EQU now
+Chi fece questa?	person.n.01 Name ? do.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+Ken conosce Tom.	male.n.02 Name "Ken" know.v.04 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "Tom"
+Lui è mio amico.	male.n.02 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 friend.n.01 Of -2
+Loro sono belle.	person.n.01 time.n.08 EQU now beautiful.a.01 AttributeOf -2 Time -1
+Io sono più alto.	person.n.01 EQU speaker time.n.08 EQU now more.r.01 Theme -2 tall.a.01 AttributeOf -3 Time -2 Degree -1
+Tom insultò Mary.	male.n.02 Name "Tom" insult.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now female.n.02 Name "Mary"
+Il cane è bianco.	dog.n.01 time.n.08 EQU now white.a.01 ColourOf -2 Time -1
+Emily è assetata.	female.n.02 Name "Emily" time.n.08 EQU now thirsty.a.02 Experiencer -2 Time -1
+Il piccione tuba.	pigeon.n.01 coo.v.02 Agent -1 Time +1 time.n.08 EQU now
+Le madri cuciono.	person.n.01 Role +1 mother.n.01 sew.v.01 Agent -2 Time +1 time.n.08 EQU now
+Mio padre è alto.	person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 time.n.08 EQU now tall.a.01 Time -1 Value + AttributeOf -3
+Tom sta ballando.	male.n.02 Name "Tom" time.n.08 EQU now dance.v.02 Theme -2 Time -1
+Lei è molto alta.	female.n.02 time.n.08 EQU now very.r.01 tall.a.01 Time -2 Degree -1 Value + AttributeOf -3
+È nato in Africa.	male.n.02 bear.v.02 Patient -1 Time +1 Location +2 time.n.08 TPR now continent.n.01 Name "Africa"
+Io ero rilassato.	person.n.01 EQU speaker time.n.08 TPR now relaxed.a.01 Experiencer -2 Time -1 Time +1 time.n.08 TPR now
+Tony vive a Kobe.	male.n.02 Name "Tony" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Kobe"
+Lui adora i film.	male.n.02 adore.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now movie.n.01
+Sono già bagnato!	time.n.08 EQU now person.n.01 EQU speaker wet.a.01 Time -2 AttributeOf -1
+Tom spense la TV.	male.n.02 Name "Tom" siwtch_off.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now tv.n.02
+Questa è un'arpa.	entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now harp.n.01
+Tom era infelice.	male.n.02 Name "Tom" time.n.08 TPR now unhappy.a.01 Experiencer -2 Time -1
+Il merlo fischia.	blackbird.n.01 whistle.v.01 Agent -1 Time +1 time.n.08 EQU now
+Io sono affamata!	person.n.01 EQU speaker time.n.08 EQU now hungry.a.01 Experiencer -2 Time -1
+Sono sconcertato.	time.n.08 EQU now person.n.01 EQU speaker baffled.a.01 Time -2 Experiencer -1
+Il cane abbaierà.	dog.n.01 bark.v.04 Agent -1 Time +1 time.n.08 TSU now
+Ogni mela è rossa.	NEGATION <1 apple.n.01 NEGATION <1 time.n.08 EQU now red.a.01 ColourOf -2 Time -1
+Stanno scherzando.	person.n.01 time.n.08 EQU now kid.v.02 Agent -2 Time -1
+Sono intelligente.	time.n.08 EQU now person.n.01 EQU speaker intelligent.a.01 Time -2 AttributeOf -1
+Loro sono stanchi.	person.n.01 time.n.08 EQU now tired.a.01 Experiencer -2 Time -1
+Mia madre è bella.	person.n.01 EQU speaker person.n.01 Role +1 mother.n.01 Of -2 time.n.08 EQU now beautiful.a.01 AttributeOf -3 Time -1
+Tom contattò Mary.	male.n.02 Name "Tom" contact.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now female.n.02 Name "Mary"
+Non sono stato io!	NEGATION <1 entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now person.n.01 EQU speaker
+Tom ha applaudito.	male.n.02 Name "Tom" cheer.v.02 Agent -1 Time +1 time.n.08 TPR now
+Marie è cresciuta.	female.n.02 Name "Marie" grow.v.05 Patient -1 Time +1 time.n.08 TPR now
+Il leone ruggisce.	lion.n.01 time.n.08 EQU now roar.n.02 Agent -2 Time -1
+Lei mi ha sparato.	female.n.02 person.n.01 EQU speaker shoot.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+La mucca muggisce.	cow.n.01 moo.v.01 Agent -1 Time +1 time.n.08 EQU now
+Non ero preparato.	person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now prepared.a.01 AttributeOf -2 Time -1
+Chuck è insolente.	male.n.02 Name "Chuck" time.n.08 EQU now insolent.a.01 AttributeOf -2 Time -1
+Anche io sto bene.	person.n.01 person.n.01 NEQ -1 EQU speaker time.n.08 EQU now fine.a.01 AttributeOf -2 Time -1
+Tom è imbarazzato.	male.n.02 Name "Tom" time.n.08 EQU now embarrassed.a.01 AttributeOf -2 Time -1
+Robin Hood è vivo?	male.n.02 Name "Robin Hood" time.n.08 EQU now alive.a.01 AttributeOf -2 Time -1
+Mary odia i ragni.	female.n.02 Name "Mary" NEGATION <1 spider.n.01 NEGATION <1 hate.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+Quello è sarcasmo?	entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now sarcasm.n.01
+La banana è dolce.	banana.n.02 time.n.08 EQU now sweet.a.01 AttributeOf -2 Time -1
+Io sono frenetica!	person.n.01 EQU speaker time.n.08 EQU now frantic.a.01 AttributeOf -2 Time -1
+Chi è Anwar Sadat?	person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Anwar Sadat"
+Mary sfotteva Tom.	female.n.02 Name "Mary" scornful.a.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now male.n.02 Name "Tom"
+Tom spaventa tutti.	male.n.02 Name "Tom" NEGATION <1 person.n.01 NEGATION <1 scare.v.01 Stimulus -2 Experiencer -1 Time +1 time.n.08 EQU now
+Lui fonde del rame.	male.n.02 melt.v.01 Agent -1 Time +1 Material +2 time.n.08 EQU now copper.n.01
+Io mangio una mela.	person.n.01 EQU speaker eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 EQU now apple.n.01
+È piuttosto carina.	time.n.08 EQU now female.n.02 rather.r.02 pretty.a.01 Time -3 AttributeOf -2 Degree -1
+Il lattaio è morto.	person.n.01 Role +1 milkman.n.01 time.n.08 EQU now dead.a.01 AttributeOf -3 Time -1
+Nessuno ci fermerà.	NEGATION <1 person.n.01 person.n.01 Sub speaker stop.v.02 Agent -2 Patient -1 Time +1 time.n.08 TSU now
+Avranno tutti fame.	NEGATION <1 person.n.01 NEGATION <1 time.n.08 TSU now hungry.a.01 Experiencer -2 Time -1
+Io sono sovrappeso.	person.n.01 EQU speaker time.n.08 EQU now overweight.a.01 AttributeOf -2 Time -1
+Tom odia Halloween.	male.n.02 Name "Tom" hate.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now day.n.03 Name "Halloween"
+Questo è personale.	entity.n.01 time.n.08 EQU now personal.a.01 AttributeOf -2 Time -1
+Qual è il suo nome?	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer first_name.n.01 Bearer -1
+Lo sciacallo ulula.	jackal.n.01 howl.v.02 Agent -1 Time +1 time.n.08 EQU now
+Il gatto corse via.	cat.n.01 run_away.v.01 Theme -1 Time +1 time.n.08 TPR now
+L'anatra starnazza.	duck.n.01 quack.v.01 Agent -1 Time +1 time.n.08 EQU now
+Tutti applaudirono.	NEGATION <1 person.n.01 NEGATION <1 applaud.v.01 Agent -1 Time +1 time.n.08 TPR now
+Hanno pagato tutti.	NEGATION <1 person.n.01 NEGATION <1 pay.v.01 Agent -1 Time +1 time.n.08 TPR now
+Quell'uomo è Pedro.	man.n.01 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now male.n.02 Name "Pedro"
+Tom sta scherzando?	male.n.02 Name "Tom" time.n.08 EQU now kid.v.01 Agent -2 Time -1
+Noi abbiamo fatto...	person.n.01 Sub speaker make.v.06 Agent -1 Time +1 Product +2 time.n.08 TPR now entity.n.01
+Il cane sta morendo.	dog.n.01 time.n.08 EQU now die.v.01 Patient -2 Time -1
+Tom sapeva qualcosa.	male.n.02 Name "Tom" know.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now entity.n.01
+Lui è un insegnante?	male.n.02 be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 teacher.n.01
+Siamo impressionati.	time.n.08 EQU now person.n.01 EQU speaker impressed.a.01 Time -2 Experiencer -1
+Ho raccomandato Tom.	person.n.01 EQU speaker recommend.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now male.n.02 Name "Tom"
+Tu stai borbottando.	person.n.01 EQU hearer time.n.08 EQU now babble.v.01 Agent -2 Time -1
+Chi è Aaron Copland?	person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Aaron Copland"
+Una banana è gialla.	NEGATION <1 banana.n.02 NEGATION <1 time.n.08 EQU now yellow.n.01 ColourOf -2 Time -1
+Tom sembra infelice.	male.n.02 Name "Tom" seem.v.01 Theme -1 Time +1 Attribute +2 time.n.08 EQU now unhappy.a.01 Experiencer -3
+Quest'uovo è fresco.	egg.n.02 time.n.08 EQU now fresh.a.01 AttributeOf -2 Time -1
+Loro odiano i ragni.	person.n.01 NEGATION <1 spider.n.01 NEGATION <1 hate.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+Tom non andrà, vero?	male.n.02 Name "Tom" NEGATION <1 go.v.03 Theme -1 Time +1 time.n.08 TSU now
+Tom abbraccia Marie.	male.n.02 Name "Tom" embrace.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 EQU now female.n.02 Name "Marie"
+Il mio gatto abbaia.	person.n.01 EQU speaker cat.n.01 Owner -1 bark.v.04 Agent -1 Time +1 time.n.08 EQU now
+Non è morto nessuno.	NEGATION <1 die.v.01 Time +1 Patient +2 time.n.08 TPR now person.n.01
+Emily sta piangendo.	female.n.02 Name "Emily" time.n.08 EQU now cry.v.02 Agent -2 Time -1
+Anche io ho 17 anni.	person.n.01 EQU speaker old.a.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 17 year.n.01 Quantity -1
+Ha fumato un sigaro.	female.n.02 smoke.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now cigar.n.01
+Come morì Cleopatra?	manner.n.01 EQU ? die.v.01 Manner -1 Time +1 Patient +2 time.n.08 TPR now female.n.02 Name "Cleopatra"
+Abbiamo perso 3 a 0.	person.n.01 Sub speaker lose.v.02 Agent -1 Time +1 Extent +2 time.n.08 TPR now score.n.03 Value 3-0
+Sto andando a Fukui.	time.n.08 EQU now person.n.01 EQU speaker go.v.01 Time -2 Theme -1 Destination +1 city.n.01 Name "Fukui"
+Come morì Eva Peron?	manner.n.01 EQU ? die.v.01 Manner -1 Time +1 Patient +2 time.n.08 TPR now female.n.02 Name "Eva Peron"
+Noi siamo in Italia.	person.n.01 Sub speaker be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now country.n.02 Name "Italia"
+Yana abita a Londra.	female.n.02 Name "Yana" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Londra"
+Lui vive a Yokohama.	male.n.02 live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Yokohama"
+La ciliegia è rossa.	cherry.n.03 time.n.08 EQU now red.a.01 ColourOf -2 Time -1
+Il mio cane è bianco.	person.n.01 EQU speaker dog.n.01 Owner -1 time.n.08 EQU now white.a.01 ColourOf -2 Time -1
+Tom sta imbrogliando.	male.n.02 Name "Tom" time.n.08 EQU now cheat.v.03 Agent -2 Time -1
+Tom arrivò alle 2:30.	male.n.02 Name "Tom" arrive.v.01 Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 ClockTime 14:30
+Lui aveva una figlia.	male.n.02 have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 TPR now person.n.01 Quantity 1 Role +1 daughter.n.01
+Tom sembra indignato.	male.n.02 Name "Tom" appear.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now outraged.a.01 Experiencer -3
+Tom sta ridacchiando.	male.n.02 Name "Tom" time.n.08 EQU now giggle.v.01 Agent -2 Time -1
+Il dolore era atroce.	pain.n.01 time.n.08 TPR now excruciating.a.01 AttributeOf -2 Time -1
+Qualcuno ha chiamato.	person.n.01 call.v.03 Agent -1 Time +1 time.n.08 TPR now
+Michael Jackson morì.	male.n.02 Name "Michael Jackson" die.v.01 Patient -1 Time +1 time.n.08 TPR now
+Bob era molto felice.	male.n.02 Name "Bob" time.n.08 TPR now very.r.01 happy.a.01 Experiencer -3 Time -2 Degree -1
+Tutti hanno qualcosa.	NEGATION <1 person.n.01 NEGATION <1 get.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+Elaine è in ospedale.	female.n.02 Name "Elaine" be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now hospital.n.01
+Mia sorella è famosa.	person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2 time.n.08 EQU now famous.a.01 AttributeOf -3 Time -1
+Mary mi ha fuorviato.	female.n.02 Name "Mary" person.n.01 EQU speaker mislead.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+Io ho un cane grande.	person.n.01 EQU speaker have.v.04 Pivot -1 Time +1 Theme +2 time.n.08 EQU now dog.n.01 Attribute +1 big.a.01 Value +
+Mio fratello è ricco.	person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 time.n.08 EQU now rich.a.01 Theme -3 Time -1
+Lucy lo disse a Mary.	female.n.02 Name "Lucy" entity.n.01 tell.v.02 Agent -2 Theme -1 Time +1 Recipient +2 time.n.08 TPR now female.n.02 Name "Mary"
+Il sospetto confessò.	person.n.01 Role +1 suspect.n.01 confess.v.01 Agent -2 Time +1 time.n.08 TPR now
+Tom è disorganizzato.	male.n.02 Name "Tom" time.n.08 EQU now disorganize.v.01 Theme -2 Time -1
+Walt è un ex soldato.	male.n.02 Name "Walt" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now time.n.08 TPR now person.n.01 Role +1 soldier.n.01 Time -2
+La civetta stridisce.	owl.n.01 hoot.v.02 Agent -1 Time +1 time.n.08 EQU now
+Qualcuno era in casa.	person.n.01 be.v.03 Theme -1 Time +1 Location +2 time.n.08 TPR now house.n.01
+Tom non ha più paura.	male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now scared.a.01 Experiencer -2 Time -1
+Io sono uno stuntman.	person.n.01 EQU speaker be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 stunt_man.n.01
+Quell'uomo è keniota.	man.n.01 time.n.08 EQU now be.v.03 Theme -2 Time -1 Source +1 country.n.02 Name "kenya"
+Quel tipo è un bullo.	guy.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 bully.n.01
+Lui fermentava birra.	male.n.02 brew.v.01 Agent -1 Time +1 Product +2 time.n.08 TPR now beer.n.01
+La lampadina scoppiò.	light_bulb.n.01 burst.v.01 Patient -1 Time +1 time.n.08 TPR now
+L'irlandese risponde.	person.n.01 Source +1 country.n.02 Name "ireland" reply.v.01 Agent -2 Time +1 time.n.08 EQU now
+John abita a New York.	male.n.02 Name "John" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "New York"
+Emily mangiò una mela.	female.n.02 Name "Emily" eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now apple.n.01
+Io sono sempre stanca.	NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU speaker time.n.08 EQU now tired.a.01 Experiencer -2 Time -1
+Lei disegnò un albero.	female.n.02 draw.v.06 Agent -1 Time +1 Result +2 time.n.08 TPR now tree.n.01
+Il mio cognome è Ling.	person.n.01 EQU speaker surname.n.01 Bearer -1 be.v.06 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 EQU "Ling"
+Io vado pazza per lui!	person.n.01 EQU speaker time.n.08 EQU now crazy.a.05 Experiencer -2 Time -1 Stimulus +1 male.n.02
+Io sono un camionista.	person.n.01 EQU speaker be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 truck_driver.n.01
+La frontiera è chiusa.	frontier.n.02 time.n.08 EQU now closed.a.01 AttributeOf -2 Time -1
+Le gocce gocciolavano.	drop.n.01 drip.v.01 Theme -1 Time +1 time.n.08 TPR now
+Il Canada è magnifico!	country.n.02 Name "Canada" time.n.08 EQU now awesome.a.01 AttributeOf -2 Time -1
+Qualcuno sta mentendo.	person.n.01 time.n.08 EQU now lie.v.05 Agent -2 Time -1
+Lui bevette una birra.	male.n.02 drink.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now beer.n.01
+Il ragazzo era stanco.	boy.n.01 time.n.08 TPR now tired.a.01 Experiencer -2 Time -1
+Tom vuole passeggiare.	male.n.02 Name "Tom" want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now walk.v.01 Theme -3
+Lui è più forte di te.	male.n.02 time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 strong.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+Tom sembra pensieroso.	male.n.02 Name "Tom" time.n.08 TPR now thoughtful.a.03 AttributeOf -2 Time -1
+Il tuo sangue è rosso.	person.n.01 EQU hearer blood.n.01 PartOf -1 time.n.08 EQU now red.a.01 ColourOf -2 Time -1
+Mary schiaffeggiò Tom.	female.n.02 Name "Mary" slap.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Tom"
+Il mio cognome è Zhou.	person.n.01 EQU speaker surname.n.01 Bearer -1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 EQU "Zhou"
+Il vento sta ululando.	wind.n.01 time.n.08 EQU now howl.v.03 Theme -2 Time -1
+Lincoln morì nel 1865.	male.n.02 Name "Lincoln" die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1865
+Tom abbattè un albero.	male.n.02 Name "Tom" chop_down.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now tree.n.01
+Il televisore è rotto.	television.n.02 time.n.08 EQU now broken.a.11 AttributeOf -2 Time -1
+Il letto è a 120 euro!	bed.n.01 be.v.13 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 120 euro.n.01 Quantity -1
+Dove si trova Bassora?	location.n.01 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now city.n.01 Name "Bassora"
+La mia vagina è bella!	person.n.01 EQU speaker vagina.n.01 PartOf -1 time.n.08 EQU now beautiful.a.01 AttributeOf -2 Time -1
+Stiamo mangiando mele.	time.n.08 EQU now person.n.01 Sub speaker eat.v.01 Time -2 Agent -1 Patient +1 apple.n.01
+Io sono davvero pigra.	person.n.01 EQU speaker time.n.08 EQU now really.r.04 lazy.a.02 AttributeOf -3 Time -2 Degree -1
+Quello è il Guatemala?	entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now country.n.02 Name "Guatemala"
+Io voglio questa borsa.	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now bag.n.01
+Tom è arrabbiato, vero?	male.n.02 Name "Tom" time.n.08 EQU now angry.a.01 Experiencer -2 Time -1
+È incinta di otto mesi.	time.n.08 EQU now female.n.02 pregnant.a.01 Time -2 AttributeOf -1 Duration +2 quantity.n.01 EQU 8 month.n.02 Quantity -1
+Io ordinai della pizza.	person.n.01 EQU speaker order.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now pizza.n.01
+Venne ricattata da lui.	time.n.08 TPR now female.n.02 blackmail.v.01 Time -2 Patient -1 Agent +1 male.n.02
+La nave sta affondando.	boat.n.01 time.n.08 EQU now sink.v.04 Patient -2 Time -1
+Il festival è gratuito.	festival.n.02 time.n.08 EQU now free.a.03 AttributeOf -2 Time -1
+Tom mangiò il sandwich.	male.n.02 Name "Tom" eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now sandwich.n.01
+La nave sta affondando!	ship.n.01 time.n.08 EQU now sink.v.04 Patient -2 Time -1
+Kim sorrise dolcemente.	female.n.02 Name "Kim" smile.v.02 Agent -1 Time +1 Manner +2 time.n.08 TPR now sweetly.r.01
+Il tuo braccio è rotto.	person.n.01 EQU hearer arm.n.01 PartOf -1 time.n.08 EQU now broken.a.01 AttributeOf -2 Time -1
+Ken non stava correndo.	male.n.02 Name "Ken" NEGATION <1 time.n.08 TPR now run.v.01 Theme -2 Time -1
+Come morì Jerry Garcia?	manner.n.01 EQU ? die.v.01 Manner -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Jerry Garcia"
+Qualcosa sta bruciando.	entity.n.01 time.n.08 EQU now burn.v.01 Patient -2 Time -1
+Betty uccise sua madre.	female.n.02 Name "Betty" kill.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 person.n.01 Role +1 mother.n.01 Of -2
+Tom stava passeggiando.	male.n.02 Name "Tom" time.n.08 TPR now walk.v.01 Theme -2 Time -1
+La ragazza è solitaria.	girl.n.01 time.n.08 EQU now lonely.a.01 AttributeOf -2 Time -1
+Come morì Joseph Smith?	manner.n.01 EQU ? die.v.01 Manner -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Joseph Smith"
+Tutti rispettano Erkin.	NEGATION <1 person.n.01 NEGATION <1 respect.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "Erkin"
+Chi è il capo dell'FBI?	person.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 head.n.04 Of +1 agency.n.01 Name "FBI"
+Leloir nacque Argentina.	male.n.02 Name "Leloir" bear.v.02 Patient -1 Time +1 Location +2 time.n.08 TPR now country.n.02 Name "Argentina"
+Il caprone sta belando.	billy_goat.n.01 time.n.08 EQU now bleat.v.02 Agent -2 Time -1
+Tom è un pochino pazzo.	male.n.02 Name "Tom" time.n.08 EQU now measure.n.02 Quantity - crazy.a.01 AttributeOf -3 Time -2 Value -1
+Anche lui era sorpreso.	male.n.02 time.n.08 TPR now surprised.a.01 Experiencer -2 Time -1
+Emily ha un dizionario?	female.n.02 Name "Emily" have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now dictionary.n.01
+Il ristorante era vuoto.	restaurant.n.01 time.n.08 TPR now empty.a.01 AttributeOf -2 Time -1
+Quella mela è ammaccata.	apple.n.01 time.n.08 EQU now bruise.v.04 Patient -2 Time -1
+Questo è più importante!	entity.n.01 time.n.08 EQU now more.r.01 Theme -2 important.a.01 AttributeOf -3 Time -2 Degree -1
+Io odio il suo cappello.	person.n.01 EQU speaker hate.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now female.n.02 hat.n.01 User -1
+Tom ha abbracciato Mary.	male.n.02 Name "Tom" hug.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now female.n.02 Name "Mary"
+Ha acceso una sigaretta.	female.n.02 light.v.04 Agent -1 Time +1 Patient +2 time.n.08 TPR now cigarette.n.01
+Il treno parte alle sei.	train.n.01 leave.v.01 Theme -1 Time +1 Time +2 time.n.08 TSU now time.n.08 ClockTime 18:00
+Questa mela è più rossa.	apple.n.01 time.n.08 EQU now more.r.01 Theme -2 red.a.01 ColourOf -3 Time -2 Degree -1
+Tom è un bravo tennista.	male.n.02 Name "Tom" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now good.a.08 AttributeOf +2 person.n.01 Role +1 tennis_player.n.01
+Lui è abbastanza timido.	male.n.02 time.n.08 EQU now rather.r.02 shy.a.01 AttributeOf -3 Time -2 Degree -1
+Lucy ha licenziato Mary.	female.n.02 Name "Lucy" fire.v.04 Agent -1 Time +1 Theme +2 time.n.08 TPR now female.n.02 Name "Mary"
+Il cane è verde e bello.	dog.n.01 time.n.08 EQU now green.a.01 ColourOf -2 Time -1 CONTINUATION <1 time.n.08 EQU now beautiful.a.01 AttributeOf -4 Time -1
+Sta aprendo la finestra.	time.n.08 EQU now male.n.02 open.v.01 Time -2 Agent -1 Patient +1 window.n.01
+Io voglio andare a Bali.	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now go.v.01 Theme -3 Destination +1 island.n.01 Name "Bali"
+Nessuno è invulnerabile.	NEGATION <1 person.n.01 time.n.08 EQU now invulnerable.a.01 AttributeOf -2 Time -1
+Io sto ancora piangendo.	person.n.01 EQU speaker time.n.08 EQU now cry.v.02 Agent -2 Time -1
+Molière nacque nel 1622.	male.n.02 Name "Molière" bear.v.02 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1622
+Che cos'è Bausch & Lomb?	entity.n.01 EQU ? be.v.01 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now company.n.01 Name "Bausch & Lomb"
+Sam è un filosofo, vero?	male.n.02 Name "Sam" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 philosopher.n.01
+Il viaggio durò 14 mesi.	voyage.n.01 last.v.01 Theme -1 Time +1 Value +3 time.n.08 TPR now quantity.n.01 EQU 14 month.n.02 Quantity -1
+Ero giovane e innocente.	time.n.08 TPR now time.n.08 TPR now person.n.01 EQU speaker young.a.01 Time -3 AttributeOf -1 innocent.a.01 Time -3 AttributeOf -2
+Come morì Harry Houdini?	manner.n.01 EQU ? die.v.01 Manner -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Harry Houdini"
+Questa è la borsa di Tom?	entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now bag.n.01 User +1 male.n.02 Name "Tom"
+Lei è più anziano di lui.	person.n.01 EQU hearer time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 old.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02
+Chi dipinse i "Girasoli"?	person.n.01 Name ? paint.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now painting.n.01 Name "Girasoli"
+L'Italia non è la Grecia.	country.n.02 Name "Italia" NEGATION <1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now country.n.02 Name "Grecia"
+Attracca la nave al molo.	person.n.01 EQU hearer moor.v.01 Agent -1 Theme +1 Location +2 ship.n.01 pier.n.01
+Chi ha dipinto l' "Urlo"?	person.n.01 Name ? paint.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now painting.n.01 Name "Urlo"
+Tom indossava dei guanti.	male.n.02 Name "Tom" wear.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now glove.n.02
+Come morì Virginia Woolf?	manner.n.01 EQU ? die.v.01 Manner -1 Time +1 Patient +2 time.n.08 TPR now female.n.02 Name "Virginia Woolf"
+Anch'io voglio del manzo.	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now beef.n.02
+Dove nacque Adolf Hitler?	location.n.01 Name ? bear.v.02 Location -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Adolf Hitler"
+Lei è allergica ai gatti.	female.n.02 time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 cat.n.01
+Le sue unghie sono rosse.	female.n.02 nail.n.01 PartOf -1 time.n.08 EQU now red.a.01 ColourOf -2 Time -1
+Millie ama il cioccolato.	female.n.02 Name "Millie" love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now chocolate.n.02
+Questo romanzo mi annoia.	novel.n.01 person.n.01 EQU speaker bore.v.01 Stimulus -2 Experiencer -1 Time +1 time.n.08 EQU now
+Il semaforo non funziona.	traffic_light.n.01 NEGATION <1 work.v.04 Theme -1 Time +1 time.n.08 EQU now
+Il pipistrello stridisce.	bat.n.01 screech.v.01 Agent -1 Time +1 time.n.08 EQU now
+Il prigioniero è fuggito!	person.n.01 Role +1 prisoner.n.01 escape.v.01 Theme -2 Time +1 time.n.08 TPR now
+Taro parla inglese, vero?	male.n.02 Name "Taro" speak.v.03 Agent -1 Time +1 Theme +2 time.n.08 EQU now english.n.01
+La balena è un mammifero.	NEGATION <1 whale.n.02 NEGATION <1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now mammal.n.01
+Quante mele hai comprato?	apple.n.01 Quantity ? person.n.01 EQU hearer buy.v.01 Theme -2 Agent -1 Time +1 time.n.08 TPR now
+Tom è allergico al grano.	male.n.02 Name "Tom" time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 wheat.n.02
+Il lago è molto profondo.	lake.n.01 time.n.08 EQU now very.r.01 deep.a.03 Time -2 Degree -1 Value + AttributeOf -3
+Non sta guardando nessuno.	NEGATION <1 time.n.08 EQU now watch.v.01 Time -1 Agent +1 person.n.01
+Il termometro segna 10 C°.	thermometer.n.01 read.v.08 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 10 degree_celsius.n.01 Quantity -1
+Bilal è più alto di Karam.	male.n.02 Name "Bilal" time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Karam"
+Tom fece un grande lavoro.	male.n.02 Name "Tom" do.v.02 Agent -1 Time +1 Theme +3 time.n.08 TPR now great.a.04 AttributeOf +1 job.n.02
+Lei gli sussurrò qualcosa.	female.n.02 male.n.02 whisper.v.01 Agent -2 Recipient -1 Time +1 Topic +2 time.n.08 TPR now entity.n.01
+Ho chiamato il gatto Tama.	person.n.01 EQU speaker call.v.01 Agent -1 Time +1 Theme +2 Result +3 time.n.08 TPR now cat.n.01 tama.n.01 EQU "Tama"
+Qual è il titolo del film?	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now title.n.02 Bearer +1 movie.n.01
+BSN comprò la  RJR Nabisco.	company.n.01 Name "BSN" buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now company.n.01 Name "RJR Nabisco"
+Lei soffre di osteoporosi.	female.n.02 suffer.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now osteoporosis.n.01
+Noi stiamo andando a casa.	person.n.01 Sub speaker time.n.08 EQU now head.v.01 Theme -2 Time -1 Destination +1 home.n.01
+Lui è un pilota terribile.	male.n.02 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 driver.n.01 terrible.a.02 AttributeOf -1
+Sta scrivendo una lettera.	time.n.08 EQU now male.n.02 write.v.02 Time -2 Agent -1 Result +1 letter.n.01
+Sta studiando agricoltura.	time.n.08 EQU now male.n.02 study.v.02 Time -2 Agent -1 Theme +1 agriculture.n.02
+Le mosche stanno ronzando.	fly.n.01 time.n.08 EQU now buzz.v.01 Agent -2 Time -1
+Il suo discorso mi annoiò.	female.n.02 speech.n.01 Creator -1 person.n.01 EQU speaker bore.v.01 Stimulus -2 Experiencer -1 Time +1 time.n.08 TPR now
+Tom è estremamente timido.	male.n.02 Name "Tom" time.n.08 EQU now extremely.r.02 shy.a.01 AttributeOf -3 Time -2 Degree -1
+La città di Roma è famosa.	city.n.01 EQU +1 city.n.01 Name "Roma" time.n.08 EQU now famous.a.01 AttributeOf -3 Time -1
+Non provochi quella vespa.	person.n.01 EQU hearer NEGATION <1 provoke.v.02 Stimulus -1 Experiencer +1 wasp.n.02
+Nessun sistema è perfetto.	NEGATION <1 system.n.01 time.n.08 EQU now perfect.a.01 AttributeOf -2 Time -1
+Il ragazzo mangiò la mela.	boy.n.01 eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now apple.n.01
+Siamo preoccupati per voi.	time.n.08 EQU now person.n.01 Sub speaker worried.a.01 Time -2 Experiencer -1 Stimulus +1 person.n.01 EQU hearer
+Cercare casa è stressante.	find.v.03 Theme +1 house.n.01 time.n.08 EQU now stressful.a.01 AttributeOf -3 Time -1
+Carl Smith morì l'8 agosto.	male.n.02 Name "Carl Smith" die.v.01 Patient -1 Time +1 Time +3 time.n.08 TPR now time.n.08 DayOfMonth 8 EQU +1 time.n.08 MonthOfYear 8
+Io ho sposato Tom nel 2013.	person.n.01 EQU speaker marry.v.01 Agent -1 Time +1 Co-Agent +2 Time +3 time.n.08 TPR now male.n.02 Name "Tom" time.n.08 YearOfCentury 2013
+La nave era diretta a Kobe.	ship.n.01 time.n.08 TPR now bound.a.06 Theme -2 Time -1 Destination +1 city.n.01 Name "Kobe"
+Una corona e cinquanta øre.	event.v.01 Participant +2 krona.n.01 Quantity 1 entity.n.01 Sub -1 Sub +2 quantity.n.01 EQU 50 ore.n.02 Quantity -1
+Lei mi mostrò il suo album.	female.n.02 person.n.01 EQU speaker show.v.04 Agent -2 Recipient -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 album.n.02 User -1
+Il ghiaccio è molto spesso.	ice.n.02 time.n.08 EQU now very.r.01 thick.a.01 AttributeOf -3 Time -2 Degree -1
+Come morì Charles Bukowski?	manner.n.01 EQU ? die.v.01 Manner -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Charles Bukowski"
+Qualcuno la sta aspettando?	person.n.01 person.n.01 EQU hearer time.n.08 EQU now wait.v.01 Theme -3 Goal -2 Time -1
+Lady Diana è morta a Parigi.	lady.n.03 female.n.02 Name "Diana" Title -1 die.v.01 Patient -1 Time +1 Location +2 time.n.08 TPR now city.n.01 Name "Parigi"
+I terroristi hanno fallito.	person.n.01 Role +1 terrorist.n.01 fail.v.02 Agent -2 Time +1 time.n.08 TPR now
+La Svizzera è un bel paese.	country.n.02 Name "Svizzera" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now beautiful.a.01 AttributeOf +1 country.n.02
+Le mie labbra sono serrate.	person.n.01 EQU speaker lip.n.01 PartOf -1 time.n.08 EQU now sealed.a.02 AttributeOf -2 Time -1
+Nixon nacque in California.	male.n.02 Name "Nixon" bear.v.02 Patient -1 Time +1 Location +2 time.n.08 TPR now state.n.01 Name "California"
+Beverly lavorava per WEDCOR.	female.n.02 Name "Beverly" work.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now company.n.01 Name "WEDCOR"
+Lei vagava per la campagna.	female.n.02 wander.v.01 Theme -1 Time +1 Location +2 time.n.08 TPR now country.n.04
+Ho comprato questa per Tom.	person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 Beneficiary +3 time.n.08 TPR now entity.n.01 male.n.02 Name "Tom"
+Questo CD appartiene a lei.	cd.n.04 belong.v.01 Theme -1 Time +1 Pivot +2 time.n.08 EQU now female.n.02
+Oscar Chisini morì nel 1967.	male.n.02 Name "Oscar Chisini" die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1967
+Qualcuno chiamò la polizia.	person.n.01 call.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now police.n.01
+Stephen Hawking è un fisico.	male.n.02 Name "Stephen Hawking" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 physicist.n.01
+La gente di Madrid è pazza.	person.n.01 Source +1 city.n.01 Name "Madrid" time.n.08 EQU now crazy.a.03 AttributeOf -3 Time -1
+Mary sa parlare giapponese.	female.n.02 Name "Mary" POSSIBILITY <1 speak.v.03 Agent -1 Theme +1 japanese.n.02
+Quel taglio sembra infetto.	cut.n.05 look.v.02 Theme -1 Time +1 Attribute +2 time.n.08 EQU now infected.a.01 AttributeOf -3
+Il Titanic affondò nel 1912.	vehicle.n.01 Name "Titanic" sink.v.04 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1912
+La tovaglia è nell'armadio.	tablecloth.n.01 be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now cabinet.n.01
+Berlinguer subentrò a Natta.	male.n.02 Name "Berlinguer" succeed.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 Name "Natta"
+Chi ha scritto questo libro?	person.n.01 Name ? write.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now book.n.01
+La mia spiegazione è chiara?	person.n.01 EQU speaker explanation.n.01 Creator -1 time.n.08 EQU now clear.a.01 AttributeOf -2 Time -1
+Tom preparò degli spaghetti.	male.n.02 Name "Tom" make.v.39 Agent -1 Time +1 Result +2 time.n.08 TPR now spaghetti.n.01
+Il film è cominciato alle 2.	film.n.01 begin.v.06 Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 ClockTime 14:00
+Mia sorella adora la musica.	person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2 adore.v.01 Experiencer -2 Time +1 Stimulus +2 time.n.08 EQU now music.n.01
+Tom è un pessimo conducente.	male.n.02 Name "Tom" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now terrible.a.02 AttributeOf +2 person.n.01 Role +1 driver.n.01
+Il gatto saltò sull'uccello.	cat.n.01 spring.v.01 Theme -1 Time +1 Destination +2 time.n.08 TPR now bird.n.01
+Tom è estremamente scortese.	male.n.02 Name "Tom" time.n.08 EQU now extremely.r.02 unfriendly.a.02 AttributeOf -3 Time -2 Degree -1
+Ho fatto un viaggio a Tokyo.	person.n.01 EQU speaker take.v.09 Agent -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now trip.n.01 city.n.01 Name "Tokyo"
+Charlie Chaplin è un attore.	male.n.02 Name "Charlie Chaplin" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 actor.n.01
+Come morì George Washington?	manner.n.01 EQU ? die.v.01 Manner -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "George Washington"
+Tom è estremamente infelice.	male.n.02 Name "Tom" time.n.08 EQU now extremely.r.01 unhappy.a.01 Experiencer -3 Time -2 Degree -1
+Anna Politkovskaya fu uccisa.	female.n.02 Name "Anna Politkovskaya" time.n.08 TPR now murder.v.01 Patient -2 Time -1
+Ogni casa aveva un giardino.	NEGATION <1 house.n.01 NEGATION <1 have.v.02 Pivot -1 Time +1 Theme +2 time.n.08 TPR now garden.n.03
+Chi ha composto "Il Messia"?	person.n.01 Name ? compose.v.02 Agent -1 Time +1 Result +2 time.n.08 TPR now music.n.01 Name "Messia"
+Paul è più vigoroso di Marc.	male.n.02 Name "Paul" time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 vigorous.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Marc"
+Questo libro costa 3000 yen.	book.n.02 cost.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 3000 yen.n.02 Quantity -1
+Edison inventò la lampadina.	male.n.02 Name "Edison" invent.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now lightbulb.n.01
+FermiLab ha creato Linux LTS.	company.n.01 Name "FermiLab" create.v.06 Agent -1 Time +1 Result +2 time.n.08 TPR now software.n.01 Name "Linux LTS"
+Il gioco è finito alle nove.	game.n.02 end.v.01 Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 ClockTime 09:00
+Io ho prodotto questa sedia.	person.n.01 EQU speaker make.v.06 Agent -1 Time +1 Result +2 time.n.08 TPR now chair.n.01
+Liisa era stanca del rumore.	female.n.02 Name "Liisa" time.n.08 TPR now sick.a.04 Experiencer -2 Time -1 Stimulus +1 noise.n.02
+Tom sta soffrendo di cancro.	male.n.02 Name "Tom" time.n.08 EQU now suffer.v.02 Experiencer -2 Time -1 Stimulus +1 cancer.n.01
+A me non piace quella donna.	NEGATION <1 person.n.01 EQU speaker like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now woman.n.01
+Abbiamo perso la partita 3-2.	person.n.01 Sub speaker lose.v.02 Agent -1 Time +1 Theme +2 Extent +3 time.n.08 TPR now game.n.02 score.n.03 Value 3-2
+Tom è allergico alla polvere.	male.n.02 Name "Tom" time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 dust.n.01
+Tom potrebbe essere occupato.	male.n.02 Name "Tom" POSSIBILITY <1 busy.a.01 AttributeOf -1
+In altre parole, lui è pigro.	male.n.02 time.n.08 EQU now lazy.a.02 AttributeOf -2 Time -1
+Dan incontrò Linda in chiesa.	male.n.02 Name "Dan" meet.v.08 Agent -1 Time +1 Co-Agent +2 Location +3 time.n.08 TPR now female.n.02 Name "Linda" church.n.02
+Questa corda è robusta, vero?	rope.n.01 time.n.08 EQU now strong.a.01 AttributeOf -2 Time -1
+Bergen è una città norvegese.	city.n.01 Name "Bergen" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now town.n.01 PartOf +1 country.n.02 Name "norway"
+DePrisco fu ucciso in Messico.	male.n.02 Name "DePrisco" time.n.08 TPR now kill.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Messico"
+Mia moglie sembrava sorpresa.	person.n.01 EQU speaker person.n.01 Role +1 wife.n.01 Of -2 look.v.02 Theme -2 Time +1 Attribute +2 time.n.08 TPR now surprised.a.01 AttributeOf -4
+Abbiamo noleggiato una canoa.	person.n.01 Sub speaker rent.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now canoe.n.01
+Mi piacciono i colori chiari.	person.n.01 EQU speaker like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now color.n.01 bright.a.01 AttributeOf -1
+Questo treno parte alle nove.	train.n.01 leave.v.01 Theme -1 Time +1 Time +2 time.n.08 TSU now time.n.08 ClockTime 09:00
+I tuoi genitori mi adoravano.	person.n.01 EQU hearer person.n.01 Role +1 parent.n.01 Of -2 person.n.01 EQU speaker adore.v.01 Experiencer -3 Stimulus -1 Time +1 time.n.08 TPR now
+Chi è Antonia Coello Novello?	person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now female.n.02 Name "Antonia Coello Novello"
+Il computer di Billy è nuovo.	computer.n.01 User +1 male.n.02 Name "Billy" time.n.08 EQU now new.a.01 AttributeOf -3 Time -1
+Pechino è più grande di Roma.	city.n.01 Name "Pechino" time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 big.a.01 AttributeOf -3 Time -2 Degree -1 city.n.01 Name "Roma"
+I miei genitori sono anziani.	person.n.01 EQU speaker person.n.01 Role +1 parent.n.01 Of -2 time.n.08 EQU now aged.a.01 AttributeOf -3 Time -1
+Le bambine ballano nel bosco.	girl.n.02 dance.v.02 Theme -1 Time +1 Location +2 time.n.08 EQU now wood.n.02
+Mia moglie è una brava cuoca.	person.n.01 EQU speaker person.n.01 Role +1 wife.n.01 Of -2 be.v.01 Theme -2 Time +1 Co-Theme +3 time.n.08 EQU now good.a.01 AttributeOf +1 person.n.01 Role +1 cook.n.01
+L'urdu è la sua lingua madre.	urdu.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 mother_tongue.n.01 Creator -1
+Tom ha fatto venti flessioni.	male.n.02 Name "Tom" do.v.02 Agent -1 Time +1 Theme +3 time.n.08 TPR now quantity.n.01 EQU 20 pushup.n.01 Quantity -1
+La pioggia durò cinque giorni.	rain.n.01 last.v.01 Theme -1 Time +1 Value +3 time.n.08 TPR now quantity.n.01 EQU 5 day.n.01 Quantity -1
+Anche io voglio quella maglia.	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now shirt.n.01
+Quanti figli ha Anthony Quinn?	child.n.02 Quantity ? have.v.01 Theme -1 Time +1 Pivot +2 time.n.08 EQU now male.n.02 Name "Anthony Quinn"
+Lei ha grigliato una bistecca.	female.n.02 grill.v.01 Agent -1 Time +1 Product +2 time.n.08 TPR now steak.n.01
+Lui aveva perso ogni speranza.	male.n.02 NEGATION <1 hope.n.01 NEGATION <1 lose.v.01 Agent -2 Theme -1 Time +1 time.n.08 TPR now
+Kelly apparirà in televisione.	female.n.02 Name "Kelly" appear.v.02 Theme -1 Time +1 Location +2 time.n.08 TSU now tv.n.01
+Tom lavora in un supermercato.	male.n.02 Name "Tom" work.v.02 Agent -1 Time +1 Location +2 time.n.08 EQU now supermarket.n.01
+Tutti gli androidi sono robot.	NEGATION <1 entity.n.01 SubOf +1 android.n.01 NEGATION <1 be.v.01 Theme -2 Time +1 Co-Theme +2 time.n.08 EQU now robot.n.01
+Inondazioni devastano l'Europa.	flood.n.01 ravage.v.02 Causer -1 Time +1 Patient +2 time.n.08 EQU now continent.n.01 Name "Europa"
+Nessuno di quei libri è utile.	NEGATION <1 entity.n.01 SubOf +1 book.n.01 time.n.08 EQU now useful.a.01 AttributeOf -3 Time -1
+Il riscaldamento non funziona.	heater.n.01 NEGATION <1 work.v.04 Theme -1 Time +1 time.n.08 EQU now
+Accardo compose i  24 Capricci.	male.n.02 Name "Accardo" compose.v.02 Agent -1 Time +1 Result +3 time.n.08 TPR now quantity.n.01 EQU 24 capriccio.n.01 Quantity -1
+Tom ha stirato i suoi vestiti.	male.n.02 Name "Tom" iron.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 EQU -3 clothes.n.01 User -1
+Che cosa inventò Alfred Nobel?	entity.n.01 EQU ? invent.v.01 Result -1 Time +1 Agent +2 time.n.08 TPR now male.n.02 Name "Alfred Nobel"
+Il vento sta soffiando da est.	wind.n.01 time.n.08 EQU now blow.v.02 Theme -2 Time -1 Source +1 east.n.05
+Io tengo un diario in inglese.	person.n.01 EQU speaker keep.v.08 Agent -1 Time +1 Theme +2 Context +3 time.n.08 EQU now diary.n.01 english.n.01
+Questo hotel è di mio cognato.	hotel.n.01 belong.v.01 Theme -1 Time +1 Pivot +3 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 brother-in-law.n.01 Of -2
+Un diamante vale molto denaro!	NEGATION <1 diamond.n.01 NEGATION <1 worth.a.02 Theme -1 Time +1 Value +2 time.n.08 EQU now money.n.01 Quantity +
+Tom è ancora un po' arrabbiato.	male.n.02 Name "Tom" time.n.08 EQU now a_little.r.01 angry.a.01 Experiencer -3 Time -2 Degree -1
+Charles de Gaulle morì nel 1970.	male.n.02 Name "Charles de Gaulle" die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1970
+Nessuno ha risolto il problema.	NEGATION <1 person.n.01 solve.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now problem.n.02
+Loro stanno giocando a scacchi.	person.n.01 time.n.08 EQU now play.v.01 Agent -2 Time -1 Theme +1 chess.n.02
+Mia sorella è una receptionist.	person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2 be.v.08 Theme -2 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 receptionist.n.01
+Mi piace scrivere delle poesie.	person.n.01 EQU speaker like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now write.v.01 Agent -3 Result +1 poem.n.01
+L'atterraggio è stato perfetto.	landing.n.03 time.n.08 TPR now perfect.a.01 AttributeOf -2 Time -1
+Questo libro appartiene a Tony.	book.n.01 belong.v.01 Theme -1 Time +1 Pivot +2 time.n.08 EQU now male.n.02 Name "Tony"
+Lucy non sa usare le bacchette.	female.n.02 Name "Lucy" NEGATION <1 POSSIBILITY <1 use.v.01 Agent -1 Theme +1 chopstick.n.01
+Qual è la capitale della Siria?	entity.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now national_capital.n.01 PartOf +1 country.n.02 Name "Siria"
+Nessuno dei libri è istruttivo.	NEGATION <1 entity.n.01 SubOf +1 book.n.01 time.n.08 EQU now instructive.a.01 AttributeOf -3 Time -1
+Mio zio mi comprò questo libro.	person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 person.n.01 EQU speaker buy.v.01 Agent -3 Beneficiary -1 Time +1 Theme +2 time.n.08 TPR now book.n.02
+La camicia deve essere stirata.	shirt.n.01 NECESSITY <1 time.n.08 EQU now iron.v.01 Patient -2 Time -1
+Pinocchio cammina per la città.	male.n.02 Name "Pinocchio" walk.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now town.n.01
+Questi sono gli appunti di Tom?	entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now note.n.01 Creator +1 male.n.02 Name "Tom"
+Il cane sta masticando un osso.	dog.n.01 time.n.08 EQU now chew.v.01 Agent -2 Time -1 Patient +1 bone.n.01
+Ci sono anche turisti francesi.	entity.n.01 be.v.04 EQU -1 Time +1 Theme +2 time.n.08 EQU now person.n.01 Role +1 Source +2 tourist.n.01 country.n.02 Name "france"
+George il Solitario è deceduto.	animal.n.01 Name "George il Solitario" die.v.01 Patient -1 Time +1 time.n.08 TPR now
+Mia sorella è più giovane di me.	person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2 time.n.08 EQU now more.r.01 Theme -3 Co-Theme +2 young.a.01 AttributeOf -4 Time -2 Degree -1 person.n.01 EQU speaker
+Jim sta innaffiando il giardino.	male.n.02 Name "Jim" time.n.08 EQU now water.v.01 Agent -2 Time -1 Destination +1 garden.n.01
+Questo caffè viene dall'Eritrea.	coffee.n.03 come.v.02 Theme -1 Time +1 Source +2 time.n.08 EQU now country.n.02 Name "Eritrea"
+L'appendice è lunga circa 10 cm.	NEGATION <1 appendix.n.02 NEGATION <1 long.a.02 Theme -1 Value +2 quantity.n.01 APX 10 cm.n.01 Quantity -1
+Yumi è brava a giocare a tennis.	female.n.02 Name "Yumi" time.n.08 EQU now good.a.01 AttributeOf -2 Time -1 Theme +1 play.v.01 Theme +1 tennis.n.01
+Io ho riempito un vaso di acqua.	person.n.01 EQU speaker fill.v.01 Agent -1 Time +1 Destination +2 Theme +3 time.n.08 TPR now vase.n.01 water.n.01
+Il signor Zhao è morto a Pechino.	mr.n.01 male.n.02 Name "Zhao" Title -1 die.v.01 Patient -1 Time +1 Location +2 time.n.08 TPR now city.n.01 Name "Pechino"
+Lei versò il latte in una tazza.	female.n.02 pour.v.01 Agent -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now milk.n.01 location.n.01 STI +1 bowl.n.01
+La guerra durò quasi dieci anni.	war.n.01 last.v.01 Theme -1 Time +1 Value +4 time.n.08 TPR now quantity.n.01 LES +1 quantity.n.01 EQU 10 year.n.01 Quantity -2
+Loro sono arrivati sul volo 201.	person.n.01 arrive.v.01 Theme -1 Time +1 Instrument +2 time.n.08 TPR now flight.n.09 Name "201"
+Il problema confuse il pubblico.	problem.n.02 puzzle.v.01 Stimulus -1 Time +1 Experiencer +2 time.n.08 TPR now public.n.01
+La donna ha abbracciato il bebè.	woman.n.01 hug.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now baby.n.01
+L'inglese è la mia lingua madre.	english.n.01 be.v.03 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker mother_tongue.n.01 Creator -1
+Marrakesh è più calda di Parigi.	city.n.01 Name "Marrakesh" time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 hot.a.01 AttributeOf -3 Time -2 Degree -1 city.n.01 Name "Parigi"
+Il supermercato apre alle dieci.	supermarket.n.01 open.v.03 Theme -1 Time +1 Time +2 time.n.08 EQU now time.n.08 ClockTime 10:00
+Wilkins lasciò il Milan nel 1987.	male.n.02 Name "Wilkins" depart.v.01 Theme -1 Time +1 Source +2 Time +3 time.n.08 TPR now city.n.01 Name "Milan" time.n.08 YearOfCentury 1987
+Anne non verrà alla nostra festa.	female.n.02 Name "Anne" NEGATION <1 come.v.02 Theme -1 Time +1 Destination +3 time.n.08 TSU now person.n.01 Sub speaker party.n.04 Creator -1
+Lei è annoiata da questo romanzo.	female.n.02 time.n.08 EQU now bored.a.01 Experiencer -2 Time -1 Stimulus +1 novel.n.01
+Anna Politkovskaya è stata uccisa.	female.n.02 Name "Anna Politkovskaya" time.n.08 TPR now murder.v.01 Patient -2 Time -1
+Mio figlio soffre di osteoporosi.	person.n.01 EQU speaker person.n.01 Role +1 son.n.01 Of -2 suffer.v.02 Experiencer -2 Time +1 Stimulus +2 time.n.08 EQU now osteoporosis.n.01
+Mio nipote è allergico alle uova.	person.n.01 EQU speaker person.n.01 Role +1 nephew.n.01 Of -2 time.n.08 EQU now allergic.a.02 Experiencer -3 Time -1 Stimulus +1 egg.n.02
+Che cosa inventò Charles Babbage?	entity.n.01 EQU ? invent.v.01 Result -1 Time +1 Agent +2 time.n.08 TPR now male.n.02 Name "Charles Babbage"
+Questo vino viene dall'Argentina?	wine.n.01 be.v.03 Theme -1 Time +1 Source +2 time.n.08 EQU now country.n.02 Name "Argentina"
+Mio fratello lavora in una banca.	person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 work.v.02 Agent -2 Time +1 Co-Agent +2 time.n.08 EQU now bank.n.02
+Joseph Wilson lavorava per la CIA.	male.n.02 Name "Joseph Wilson" work.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now organization.n.01 Name "CIA"
+Dublino è la mia città preferita.	city.n.01 Name "Dublino" be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker town.n.01 favourite.a.02 Experiencer -2 Stimulus -1
+Quello era il vostro piano, vero?	entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now person.n.01 EQU hearer plan.n.01 User -1
+Perché Jane è andata in stazione?	reason.n.01 EQU ? female.n.02 Name "Jane" time.n.08 TPR now go.v.01 Causer -3 Theme -2 Time -1 Destination +1 station.n.01
+I pirati navigarono i sette mari.	person.n.01 Role +1 pirate.n.02 sail.v.01 Theme -2 Time +1 Path +3 time.n.08 TPR now quantity.n.01 EQU 7 sea.n.01 Quantity -1
+Chi ha vinto il "Tour de France"?	person.n.01 Name ? win.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now tournament.n.01 Name "Tour de France"
+Qualcuno ha rubato l'auto di Tom.	person.n.01 steal.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now car.n.01 User +1 male.n.02 Name "Tom"
+La mia lingua madre è il polacco.	person.n.01 EQU speaker mother_tongue.n.01 User -1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now polish.n.04
+Eduardo è più giovane di Roberto.	male.n.02 Name "Eduardo" time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 young.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Roberto"
+Chi scrisse "Fiddler of the Roof"?	person.n.01 Name ? write.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now book.n.01 Name "fiddler on the roof"
+I mobili appartengono a mia madre.	furniture.n.01 belong.v.01 Theme -1 Time +1 Pivot +3 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 mother.n.01 Of -2
+Mio figlio gioca sotto la pioggia.	person.n.01 EQU speaker person.n.01 Role +1 son.n.01 Of -2 play.v.05 Agent -2 Time +1 Location +2 time.n.08 EQU now rain.n.01
+Lo spagnolo è la sua lingua madre.	spanish.n.01 be.v.03 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 mother_tongue.n.01 Creator -1
+Heather è una ragazza molto bella.	female.n.02 Name "Heather" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now girl.n.01 very.r.01 beautiful.a.01 AttributeOf -2 Degree -1
+Marilyn Monroe è morta 33 anni fa.	female.n.02 Name "Marilyn Monroe" die.v.01 Patient -1 Time +1 Time +4 time.n.08 TPR now quantity.n.01 EQU 33 year.n.01 Quantity -1 TAB now time.n.08 TAB -1
+Tom ha bussato e Mary ha risposto.	male.n.02 Name "Tom" knock.v.02 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <1 female.n.02 Name "Mary" answer.v.02 Agent -1 Time +1 time.n.08 TPR now
+Lui importa vestiti dalla Turchia.	male.n.02 import.v.01 Agent -1 Time +1 Theme +2 Source +3 time.n.08 EQU now clothes.n.01 country.n.02 Name "Turchia"
+Qual è la capitale della Malaysia?	entity.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now national_capital.n.01 PartOf +1 country.n.02 Name "Malaysia"
+Tirana è la capitale dell'Albania.	city.n.01 Name "Tirana" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now national_capital.n.01 PartOf +1 country.n.02 Name "Albania"
+Quel ragazzo è molto intelligente.	boy.n.01 time.n.08 EQU now very.r.01 smart.a.01 AttributeOf -3 Time -2 Degree -1
+Gotti venne accusato di estorsione.	male.n.02 Name "Gotti" time.n.08 TPR now accuse.v.01 Theme -2 Time -1 Attribute +1 extortion.n.03
+Wilkins arrivò in Italia nel  1987.	male.n.02 Name "Wilkins" arrive.v.01 Theme -1 Time +1 Destination +2 Time +3 time.n.08 TPR now country.n.02 Name "Italia" time.n.08 YearOfCentury 1987
+Il nome di mia sorella è Patricia.	name.n.01 Bearer +2 person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2 be.v.06 Theme -4 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 EQU "Patricia"
+“I Persiani” fu scritto da Eschilo.	book.n.01 Name "I Persiani" time.n.08 TPR now write.v.01 Result -2 Time -1 Agent +1 male.n.02 Name "Eschilo"
+Questo libro è scritto in inglese.	book.n.01 time.n.08 EQU now write.v.01 Result -2 Time -1 Context +1 english.n.01
+Tredici case sono state distrutte.	quantity.n.01 EQU 13 home.n.02 Quantity -1 time.n.08 TPR now destroy.v.01 Patient -2 Time -1
+Io sono innamorato di questa donna.	person.n.01 EQU speaker time.n.08 EQU now in_love.a.01 Experiencer -2 Time -1 Stimulus +1 woman.n.01
+Quello è il chihuahua di mia mamma.	entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now chihuahua.n.03 Owner +2 person.n.01 EQU speaker mom.n.01 Of -1
+È successo alle undici e un quarto.	entity.n.01 happen.v.01 Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 ClockTime 11:15
+Tom e Mary erano entrambi ubriachi.	male.n.02 Name "Tom" entity.n.01 Sub -1 Sub +1 Quantity 2 female.n.02 Name "Mary" NEGATION <1 entity.n.01 SubOf -2 NEGATION <1 time.n.08 TPR now drunk.a.01 AttributeOf -2 Time -1
+Il nostro pilaf costa quattro yuan.	person.n.01 Sub speaker pilaf.n.01 Creator -1 cost.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 4 yuan.n.01 Quantity -1
+Vladislav Listyev fu ucciso a Mosca.	male.n.02 Name "Vladislav Listyev" time.n.08 TPR now murder.v.01 Patient -2 Time -1 Location +1 city.n.01 Name "Mosca"
+Ho raccolto una margherita per lei.	person.n.01 EQU speaker pick.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now daisy.n.01 Beneficiary +1 female.n.02
+Chi ha diretto il film "Fail Safe"?	person.n.01 Name ? direct.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now film.n.01 Name "Fail Safe" movie.n.01 EQU -1
+La Russia è più grande dell'Italia.	country.n.02 Name "Russia" time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 big.a.01 AttributeOf -3 Time -2 Degree -1 country.n.02 Name "Italia"
+Un coccodrillo ha mangiato un cane.	crocodile.n.01 eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now dog.n.01
+Testare il QI di Koko non è facile.	test.v.03 Theme +1 iq.n.01 Creator +1 animal.n.01 Name "Koko" NEGATION <1 time.n.08 EQU now easy.a.01 AttributeOf -4 Time -1
+Lui pagò 1000 yen per questo libro.	male.n.02 pay.v.01 Agent -1 Time +1 Asset +3 Theme +4 time.n.08 TPR now quantity.n.01 EQU 1000 yen.n.02 Quantity -1 book.n.01
+Judy non è una buona cantante, vero?	female.n.02 Name "Judy" NEGATION <1 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now good.a.08 AttributeOf +2 person.n.01 Role +1 singer.n.01
+La polizia sta interrogando Tom ora.	police.n.01 time.n.08 EQU now interrogate.v.02 Agent -2 Time -1 Recipient +1 Time +2 male.n.02 Name "Tom" time.n.08 EQU now
+Ho letto quel libro parecchie volte.	person.n.01 EQU speaker read.v.01 Agent -1 Time +1 Source +2 Frequency +3 time.n.08 TPR now book.n.01 time.n.01 Quantity +
+Il museo Rodin a Parigi è magnifico.	museum.n.01 Name "museo Rodin" Location +1 city.n.01 Name "Parigi" time.n.08 EQU now magnificent.a.01 AttributeOf -3 Time -1
+Le ragazze si divertivano a ballare.	girl.n.01 revel.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now dance.n.03
+La mia famiglia è molto fiera di me.	person.n.01 EQU speaker family.n.01 Of -1 time.n.08 EQU now very.r.01 proud.a.01 Experiencer -3 Time -2 Degree -1 Stimulus +1 person.n.01 EQU speaker
+Anche lei ha comprato il dizionario.	female.n.02 buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now dictionary.n.01
+O.J. Simpson fu accusato di omicidio.	male.n.02 Name "O.J. Simpson" time.n.08 TPR now accuse.v.01 Theme -2 Time -1 Attribute +1 murder.n.01
+Lui berrà lo champagne a mezzanotte.	male.n.02 drink.v.01 Agent -1 Time +1 Patient +2 Time +3 time.n.08 TSU now champagne.n.01 time.n.08 ClockTime 00:00
+L'esame di mercoledì sarà difficile.	test.n.02 Time +1 time.n.08 DayOfWeek wednesday time.n.08 TSU now difficult.a.01 AttributeOf -3 Time -1
+Il locandiere sorrise maliziosamente.	person.n.01 Role +1 innkeeper.n.01 grin.v.01 Agent -2 Time +1 Manner +2 time.n.08 TPR now slyly.r.01
+Tom sta masticando uno stuzzicadenti.	male.n.02 Name "Tom" time.n.08 EQU now chew.v.01 Agent -2 Time -1 Patient +1 toothpick.n.01
+Nessuno di quei libri è interessante.	NEGATION <1 entity.n.01 SubOf +1 book.n.01 time.n.08 EQU now interesting.a.01 AttributeOf -3 Time -1
+David Beckham adesso vive in America.	male.n.02 Name "David Beckham" time.n.08 EQU now live.v.01 Theme -2 Time -1 Time +1 Location +2 time.n.08 EQU now country.n.02 Name "America"
+Tom ha stirato la sua camicia bianca.	male.n.02 Name "Tom" iron.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 EQU -3 shirt.n.01 User -1 Colour +1 white.a.01
+Jack Nicholson crebbe nel New Jersey.	male.n.02 Name "Jack Nicholson" raise.v.06 Patient -1 Time +1 Location +2 time.n.08 TPR now state.n.01 Name "New Jersey"
+La regina Elisabetta I morì nel 1603.	queen.n.02 female.n.02 Name "Elisabetta I" Title -1 die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1603
+Yamamoto aveva centosessantadue navi.	male.n.02 Name "Yamamoto" have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 TPR now ship.n.01 Quantity 162
+Jerry Reinsdorf ha vinto 7 campionati.	male.n.02 Name "Jerry Reinsdorf" win.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now quantity.n.01 EQU 7 championship.n.02 Quantity -1
+Sadako Sasaki morì il 25 ottobre 1955.	female.n.02 Name "Sadako Sasaki" die.v.01 Patient -1 Time +1 Time +3 time.n.08 TPR now time.n.08 DayOfMonth 25 EQU +1 time.n.08 MonthOfYear 10 EQU +1 time.n.08 YearOfCentury 1955
+Abbiamo scoperto un passaggio segreto.	person.n.01 Sub speaker discover.v.05 Agent -1 Time +1 Theme +2 time.n.08 TPR now passageway.n.01 secret.a.06 AttributeOf -1
+Anche i due poliziotti erano spossati.	anche.n.01 person.n.01 NEQ -1 Quantity +1 Role +2 quantity.n.01 EQU 2 policeman.n.01 time.n.08 TPR now exhausted.a.01 AttributeOf -4 Time -1
+Il chirurgo amputò la gamba sbagliata.	person.n.01 Role +1 surgeon.n.01 amputate.v.01 Agent -2 Time +1 Theme +2 time.n.08 TPR now leg.n.01 wrong.a.03 AttributeOf -1
+La sua casa è ai piedi del Monte Fuji.	male.n.02 house.n.01 User -1 be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now foot.n.03 PartOf +1 mountain.n.01 Name "Monte Fuji"
+Gabriel Garcia Marquez è uno scrittore.	male.n.02 Name "Gabriel Garcia Marquez" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 writer.n.01
+Yunus fondò la Grameen Bank 30 anni fa.	male.n.02 Name "Yunus" found.v.01 Agent -1 Time +1 Theme +2 Time +5 time.n.08 TPR now company.n.01 Name "Grameen Bank" quantity.n.01 EQU 30 year.n.01 Quantity -1 TAB now time.n.08 TAB -1
+Questa macchina consuma molta benzina.	car.n.01 consume.v.05 Causer -1 Time +1 Patient +3 time.n.08 EQU now quantity.n.01 EQU + fuel.n.01 Quantity -1
+Ibrahim Sofu fu ucciso da Metin Kaplan.	male.n.02 Name "Ibrahim Sofu" time.n.08 TPR now murder.v.01 Patient -2 Time -1 Agent +1 male.n.02 Name "Metin Kaplan"
+Un cane sta dormendo sotto il portico.	dog.n.01 time.n.08 EQU now sleep.v.01 Agent -2 Time -1 Location +1 porch.n.01
+Mabel Normand recitò in The Extra Girl.	female.n.02 Name "Mabel Normand" star.v.02 Agent -1 Time +1 Beneficiary +2 time.n.08 TPR now movie.n.01 Name "The Extra Girl"
+Io ho ordinato un libro da Amazon.com.	person.n.01 EQU speaker order.v.02 Agent -1 Time +1 Theme +2 Source +3 time.n.08 TPR now book.n.02 url.n.01 Name "Amazon.com"
+Quello è stato scritto da Taro Akagawa.	entity.n.01 time.n.08 TPR now write.v.02 Result -2 Time -1 Agent +1 male.n.02 Name "Taro Akagawa"
+Io conosco portoghese, inglese e russo.	person.n.01 EQU speaker know.v.01 Experiencer -1 Time +1 Stimulus +4 time.n.08 EQU now portuguese.n.01 english.n.01 entity.n.01 Sub -2 Sub -1 Sub +1 russian.n.02
+Lui consegnò il pacco all'orfanotrofio.	male.n.02 deliver.v.02 Agent -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now package.n.01 orphanage.n.02
+Frank Zappa era un musicista americano.	male.n.02 Name "Frank Zappa" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now person.n.01 Role +1 Source +2 musician.n.02 country.n.02 Name "america"
+Il signor Sato ha chiamato alle undici.	mr.n.01 male.n.02 Name "Sato" Title -1 call.v.03 Agent -1 Time +1 Time +2 time.n.08 TPR now time.n.08 ClockTime 11:00
+Saddam Hussein scappa negli Stati Uniti.	male.n.02 Name "Saddam Hussein" flee.v.01 Theme -1 Time +1 Destination +2 time.n.08 EQU now country.n.02 Name "Stati Uniti"
+Tom stava masticando uno stuzzicadenti.	male.n.02 Name "Tom" time.n.08 TPR now chew.v.01 Agent -2 Time -1 Patient +1 toothpick.n.01
+Quale premio ha vinto Elizabeth Neufeld?	prize.n.01 EQU ? win.v.01 Theme -1 Time +1 Agent +2 time.n.08 TPR now female.n.02 Name "Elizabeth Neufeld"
+Il padre di Elisabetta II era Giorgio VI.	person.n.01 Role +1 father.n.01 Of +1 female.n.02 Name "Elisabetta II" be.v.02 Theme -3 Time +1 Co-Theme +2 time.n.08 TPR now male.n.02 Name "Giorgio VI"
+Questo scoiattolo è allergico alle noci.	squirrel.n.01 time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 nut.n.01
+Spartan Air Lines acquisì United Airways.	company.n.01 Name "Spartan Air Lines" acquire.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now company.n.01 Name "United Airways"
+Papa Giovanni Paolo II è nato in Polonia.	pope.n.01 male.n.02 Name "Giovanni Paolo II" Title -1 bear.v.02 Patient -1 Time +1 Location +2 time.n.08 TPR now country.n.02 Name "Polonia"
+Una lettera bomba fu spedita a Kiesbauer.	letter_bomb.n.01 time.n.08 TPR now send.v.03 Theme -2 Time -1 Destination +1 female.n.02 Name "Kiesbauer"
+"Consuming Kids"fu scritto da Susan Linn.	book.n.01 Name "Consuming Kids" time.n.08 TPR now write.v.01 Result -2 Time -1 Agent +1 female.n.02 Name "Susan Linn"
+Ho comprato questa biro per due dollari.	person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 Asset +4 time.n.08 TPR now ballpoint.n.01 quantity.n.01 EQU 2 dollar.n.01 Quantity -1
+Da quale paese veniva Caterina la Grande?	country.n.02 Name ? come.v.08 Source -1 Time +1 Theme +2 time.n.08 TPR now female.n.02 Name "Caterina la Grande"
+Auckland è una città della Nuova Zelanda.	city.n.01 Name "Auckland" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now city.n.01 PartOf +1 country.n.02 Name "Nuova Zelanda"
+I fumetti erano impilati sulla scrivania.	comic_book.n.01 time.n.08 TPR now pile.v.01 Theme -2 Time -1 Location +1 desk.n.01
+Dove venne sepolto il presidente Lincoln?	location.n.01 Name ? time.n.08 TPR now bury.v.02 Location -2 Time -1 Theme +2 president.n.03 male.n.02 Name "Lincoln" Title -1
+Lui ha abbattuto quell'albero di ciliegio.	male.n.02 cut_down.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now tree.n.01 EQU +1 cherry_tree.n.01
+Quale gruppo terroristico ha fatto questo?	terrorist_group.n.01 Name ? do.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+Gli investigatori stanno ancora indagando.	person.n.01 Role +1 detective.n.01 time.n.08 EQU now investigate.v.02 Agent -3 Time -1
+Questo orologio antico vale mille dollari.	clock.n.01 antique.a.01 AttributeOf -1 worth.a.02 Theme -2 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 1000 dollar.n.01 Quantity -1
+L'acido salicilico è un composto organico.	salicylic_acid.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now compound.n.02 organic.a.01 AttributeOf -1
+La Southwest Airlines opera a  New Orleans.	company.n.01 Name "Southwest Airlines" operate.v.01 Agent -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "New Orleans"
+La Linea Kakhovskaya fu costruita nel 1995.	way.n.06 Name "Linea Kakhovskaya" time.n.08 TPR now build.v.01 Product -2 Time -1 Time +1 time.n.08 YearOfCentury 1995
+Sylvia Costas è la moglie di Andy Sipowicz.	female.n.02 Name "Sylvia Costas" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 wife.n.01 Of +1 male.n.02 Name "Andy Sipowicz"
+Dean Lynn Hart vive in Truckee River Trail.	female.n.02 Name "Dean Lynn Hart" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now way.n.06 Name "Truckee River Trail"
+Mary sta indossando un vestito di plastica.	female.n.02 Name "Mary" time.n.08 EQU now wear.v.01 Agent -2 Time -1 Theme +1 dress.n.01 MadeOf +1 plastic.n.01
+Grant ha attaccato Vicksburg diverse volte.	male.n.02 Name "Grant" attack.v.01 Agent -1 Time +1 Patient +2 Frequency +3 time.n.08 TPR now city.n.01 Name "Vicksburg" time.n.01 Quantity +
+L'uragano Katrina ha devastato New Orleans.	hurricane.n.01 Name "Katrina" cyclone.n.02 EQU -1 devastate.v.01 Causer -1 Time +1 Patient +2 time.n.08 TPR now city.n.01 Name "New Orleans"
+Quale locale di Liverpool lanciò i Beatles?	club.n.07 Name ? Location +1 city.n.01 Name "Liverpool" spawn.v.01 Causer -2 Time +1 Theme +2 time.n.08 TPR now musical_organization.n.01 Name "Beatles"
+Il Presidente Fujimori fu rieletto nel 1995.	president.n.03 male.n.02 Name "Fujimori" Title -1 time.n.08 TPR now reelect.v.01 Theme -2 Time -1 Time +1 time.n.08 YearOfCentury 1995
+Quella ragazza ha sorriso e mi ha salutata.	girl.n.01 smile.v.02 Agent -1 Time +1 time.n.08 TPR now person.n.01 EQU speaker wave.v.01 Agent -4 Recipient -1 Time +1 time.n.08 TPR now
+Lui è molto intelligente, come suo fratello.	male.n.02 time.n.08 EQU now very.r.01 intelligent.a.01 AttributeOf -3 Time -2 Degree -1 Time +2 CONTINUATION <1 very.r.01 intelligent.a.01 Degree -1 Time +1 AttributeOf +3 time.n.08 EQU now male.n.02 ANA -7 person.n.01 Role +1 brother.n.01 Of -2
+9 persone furono assassinate da Raman Raghav.	quantity.n.01 EQU 9 person.n.01 Quantity -1 time.n.08 TPR now assassinate.v.01 Patient -2 Time -1 Agent +1 male.n.02 Name "Raman Raghav"
+Il signor White arriverà a Tokyo alle 10:30.	mr.n.01 male.n.02 Name "White" Title -1 arrive.v.01 Theme -1 Time +1 Destination +2 Time +3 time.n.08 TSU now city.n.01 Name "Tokyo" time.n.08 ClockTime 10:30
+Tutti quelli che lo conoscono lo rispettano.	NEGATION <1 person.n.01 male.n.02 know.v.04 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now NEGATION <1 male.n.02 ANA -3 respect.v.01 Experiencer -5 Stimulus -1 Time +1 time.n.08 EQU now
+L'hard disk è stato completamente distrutto.	hard_disk.n.01 time.n.08 TPR now completely.r.01 destroy.v.02 Patient -3 Time -2 Degree -1
+I feriti furono trasportati con un'ambulanza.	person.n.01 Role +1 wounded.n.01 time.n.08 TPR now transport.v.01 Theme -3 Time -1 Instrument +1 ambulance.n.01
+Johann Wolfgang von Goethe nacque in Germania.	male.n.02 Name "Johann Wolfgang von Goethe" bear.v.02 Patient -1 Time +1 Location +2 time.n.08 TPR now country.n.02 Name "Germania"
+Chi è il terrorista internazionale più famoso?	person.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 terrorist.n.01 international.a.01 AttributeOf -2 most.r.01 famous.a.01 AttributeOf -4 Degree -1
+Reinventing Comics è un libro di Scott McCloud.	book.n.01 Name "Reinventing Comics" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now book.n.01 Creator +1 male.n.02 Name "Scott McCloud"
+Dove nacque il regista Michelangelo Antonioni?	location.n.01 Name ? bear.v.02 Location -1 Time +1 Patient +3 time.n.08 TPR now director.n.04 male.n.02 Name "Michelangelo Antonioni" Role -1
+Questo materiale assorbe l'anidride carbonica.	material.n.01 absorb.v.01 Goal -1 Theme +1 carbon_dioxide.n.01
+Ikeda è il mio cognome, e Kazuko è il mio nome.	name.n.01 EQU "Ikeda" be.v.06 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker last_name.n.01 Bearer -1 CONTINUATION <1 name.n.01 EQU "Kazuko" be.v.06 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker first_name.n.01 Bearer -1
+General Motors ha licenziato 76.000 lavoratori.	company.n.01 Name "General Motors" lay_off.v.02 Agent -1 Time +1 Theme +3 time.n.08 TPR now quantity.n.01 EQU 76000 person.n.01 Quantity -1 Role +1 worker.n.01
+Qin Shi Huang fu il primo Imperatore della Cina.	male.n.02 Name "Qin Shi Huang" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now person.n.01 Role +1 emperor.n.01 Order 1 Of +1 country.n.02 Name "Cina"
+Mia mamma ha sposato il mio papà negli anni '80.	person.n.01 EQU speaker person.n.01 Role +1 mom.n.01 Of -2 marry.v.01 Agent -2 Time +1 Co-Agent +3 Time +5 time.n.08 TPR now person.n.01 EQU speaker person.n.01 Role +1 dad.n.01 Of -2 time.n.08 YearOfCentury '198X'
+Quale compositore scrisse "Die Götterdämmerung"?	person.n.01 Name ? Role +1 composer.n.01 write.v.06 Agent -2 Time +1 Result +2 time.n.08 TPR now music.n.01 Name "Die~götterdämmerung"
+Lei ha rovesciato dell'inchiostro sulla scrivania.	female.n.02 spill.v.01 Agent -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now ink.n.01 desk.n.01
+NNSA è la National Nuclear Security Administration.	agency.n.01 Name "NNSA" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now agency.n.01 Name "National Nuclear Security Administration"
+Il signor Cameron dimenticò sua figlia in birreria.	mr.n.01 male.n.02 Name "Cameron" Title -1 forget.v.04 Agent -1 Time +1 Theme +3 Location +5 time.n.08 TPR now male.n.02 ANA -3 person.n.01 Role +1 daughter.n.01 Of -2 pub.n.01
+Liu Bei e Zhuge Liang sono una squadra imbattibile.	male.n.02 Name "Liu Bei" entity.n.01 Sub -1 Sub +1 male.n.02 Name "Zhuge Liang" be.v.01 Theme -2 Time +1 Co-Theme +2 time.n.08 EQU now team.n.01 unbeatable.a.01 AttributeOf -1
+Vittorio Emanuele III fu re d'Italia dal 1900 al 1946.	male.n.02 Name "Vittorio Emanuele III" be.v.08 Theme -1 Time +1 Co-Theme +2 Start +5 Finish +6 time.n.08 TPR now person.n.01 Role +1 king.n.01 Of +1 state.n.04 Name "Italia" time.n.08 YearOfCentury 1900 time.n.08 YearOfCentury 1946
+Lincoln ha accolto il suo vecchio avversario politico.	male.n.02 Name "Lincoln" welcome.v.02 Agent -1 Time +1 Theme +4 time.n.08 TPR now male.n.02 EQU -3 old.a.02 Attribute +2 person.n.01 Role +1 opponent.n.01 Of -3 political.a.01 Theme -1
+Napoleone è stato esiliato sull'Isola d'Elba nel 1814.	male.n.02 Name "Napoleone" time.n.08 TPR now exile.v.01 Theme -2 Time -1 Destination +1 Time +3 island.n.01 EQU +1 island.n.01 Name "Elba" time.n.08 YearOfCentury 1814

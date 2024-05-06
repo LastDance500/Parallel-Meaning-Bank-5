@@ -1,0 +1,555 @@
+time.n.08 EQU now person.n.01 EQU hearer say.v.01 Time -2 Agent -1
+person.n.01 EQU hearer see.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now person.n.01 EQU speaker
+entity.n.01 time.n.08 EQU now easy.a.01 AttributeOf -2 Time -1
+person.n.01 EQU speaker time.n.08 EQU now fine.a.01 AttributeOf -2 Time -1
+time.n.08 EQU now entity.n.01 logic.a.01 Time -2 AttributeOf -1
+time.n.08 EQU now entity.n.01 assured.a.01 Time -2 AttributeOf -1
+time.n.08 EQU now person.n.01 EQU hearer irrational.a.01 Time -2 AttributeOf -1
+time.n.08 EQU now entity.n.01 far.a.01 Time -2 Value + AttributeOf -1
+male.n.02 try.v.01 Agent -1 Time +1 time.n.08 EQU now
+male.n.02 laugh.v.01 Agent -1 Time +1 time.n.08 EQU now
+entity.n.01 time.n.08 EQU now obvious.a.01 AttributeOf -2 Time -1
+time.n.08 EQU now entity.n.01 terrible.a.01 Time -2 AttributeOf -1
+person.n.01 EQU hearer time.n.08 EQU now thirsty.a.02 Experiencer -2 Time -1
+time.n.08 TSU now male.n.02 Name "Tom" die.v.01 Time -2 Patient -1
+time.n.08 EQU now person.n.01 EQU hearer ready.a.01 Time -2 AttributeOf -1
+male.n.02 Name "Jesus" sing.v.01 Agent -1 Time +1 time.n.08 EQU now
+person.n.01 Sub speaker love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now entity.n.01
+time.n.08 TPR now female.n.02 angry.a.01 Time -2 Experiencer -1
+time.n.08 EQU now person.n.01 EQU speaker tired.a.01 Time -2 Experiencer -1
+female.n.02 have.v.04 Pivot -1 Time +1 Theme +3 time.n.08 EQU now beautiful.a.01 AttributeOf +1 dress.n.01
+person.n.01 Name "Ooko" swim.v.01 Theme -1 Time +1 time.n.08 EQU now
+time.n.08 TSU now person.n.01 EQU hearer guide.v.01 Time -2 Agent -1
+person.n.01 EQU speaker vote.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 Name "Ken"
+person.n.01 EQU speaker time.n.08 EQU now in_love.a.01 Experiencer -2 Time -1
+time.n.08 EQU now person.n.01 EQU speaker awake.a.01 Time -2 AttributeOf -1
+male.n.02 Name "Tom" applaud.v.01 Agent -1 Time +1 time.n.08 TPR now
+NEGATION <1 entity.n.01 time.n.08 EQU now nice.a.01 AttributeOf -2 Time -1
+person.n.01 Name  ? win.v.01 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker time.n.08 EQU now drunk.a.01 AttributeOf -2 Time -1
+person.n.01 EQU hearer entity.n.01 be.v.03 Theme -2 Co-Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Sub speaker
+how.n.02 EQU  ? time.n.08 EQU now male.n.02 Name "Tom" do.v.01 Location -3 Time -2 Agent -1
+NEGATION <1 person.n.01 NEGATION <1 person.n.01 NEGATION <1 entity.n.01 SubOf -1 NEGATION <1 entity.n.01 SubOf -1 NEGATION <1 entity.n.01 SubOf -1 NEGATION <1 entity.n.01 SubOf -1 NEGATION <1 entity.n.01 SubOf -1 NEGATION <1 sing.v.01 Agent -2 Time +1 time.n.08 EQU now
+time.n.08 EQU now male.n.02 Name "Tom" fine.a.01 Time -2 AttributeOf -1
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now smoke.v.01 Agent -2 Time -1
+entity.n.01 time.n.08 EQU now realistic.a.01 AttributeOf -2 Time -1
+entity.n.01 EQU  ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now illusion.n.01
+male.n.02 Name "Tom" laugh.v.01 Agent -1 Time +1 time.n.08 TPR now
+NEGATION <1 person.n.01 lie.v.01 Agent -1 Time +1 time.n.08 TPR now
+entity.n.01 time.n.08 EQU now acceptable.a.01 AttributeOf -2 Time -1
+NEGATION <1 entity.n.01 time.n.08 EQU now sacred.a.01 AttributeOf -2 Time -1
+NEGATION <1 entity.n.01 NEGATION <1 time.n.08 EQU now new.a.01 AttributeOf -2 Time -1
+male.n.02 Name "Ken" encourage.v.01 Agent -1 Time +1 Recipient +2 time.n.08 TPR now male.n.02 Name "Tom"
+male.n.02 time.n.08 EQU now old.a.01 Time -1 Value + AttributeOf -2
+female.n.02 Name "Alice" smile.v.01 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker old.a.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 18 year.n.01 Quantity -1
+person.n.01 cry.v.01 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Ken" know.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now entity.n.01
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now drink.v.01 Agent -2 Time -1
+time.n.08 EQU now person.n.01 EQU hearer stunned.a.01 Time -2 Experiencer -1
+bird.n.01 fly.v.01 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU speaker time.n.08 TSU now shoot.v.01 Agent -2 Time -1
+male.n.02 Name "Tom" time.n.08 TSU now hear.v.01 Experiencer -2 Time -1 Stimulus +1 entity.n.01
+NEGATION <1 person.n.01 NEGATION <1 love.v.01 Experiencer -1 Time +1 time.n.08 EQU now
+time.n.08 EQU now person.n.01 EQU hearer watch.v.01 Time -2 Agent -1
+time.n.08 EQU now person.n.01 EQU hearer analfabet.a.01 Time -2 AttributeOf -1
+person.n.01 EQU speaker NEGATION <1 hate.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now person.n.01 EQU hearer
+gallo.n.01 sing.v.01 Agent -1 Time +1 time.n.08 EQU now
+time.n.08 TPR now person.n.01 EQU speaker pray.v.01 Time -2 Agent -1
+car.n.01 time.n.08 EQU now green.a.01 ColourOf -2 Time -1
+sky.n.01 time.n.08 EQU now blue.a.01 ColourOf -2 Time -1
+cherry.n.01 suck.v.01 Agent -1 Time +1 time.n.08 EQU now
+male.n.02 Name "Tom" calciate.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now female.n.02 Name "Mary"
+person.n.01 EQU speaker have.v.04 Pivot -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 2 cat.n.01 Quantity -1
+cat.n.01 escape.v.01 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer jump.v.01 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker wake_up.v.01 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Tom" time.n.08 EQU now handsome.a.01 AttributeOf -2 Time -1
+entity.n.01 EQU  ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now city.n.01 Name "Lanzarote"
+male.n.02 Name "Tom" time.n.08 EQU now scream.v.01 Agent -2 Time -1
+dog.n.01 time.n.08 EQU now crazy.a.01 AttributeOf -2 Time -1
+person.n.01 EQU speaker be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now male.n.02 Name "Antonio"
+male.n.02 Name "Swift" die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1745
+person.n.01 EQU speaker time.n.08 EQU now tired.a.01 Experiencer -2 Time -1
+NEGATION <1 person.n.01 listen.v.01 Agent -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer time.n.08 EQU now smile.v.01 Agent -2 Time -1
+entity.n.01 be.v.03 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now quantity.n.01 EQU 10 polemic.n.01 Quantity -1
+male.n.02 time.n.08 EQU now out.a.01 AttributeOf -2 Time -1 Time +1 time.n.08 EQU now
+male.n.02 Name "Ken" know.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "Tom"
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now hungry.a.01 Experiencer -2 Time -1
+apple.n.01 time.n.08 EQU now red.a.01 ColourOf -2 Time -1
+person.n.01 time.n.08 EQU now beautiful.a.01 AttributeOf -2 Time -1
+NEGATION <1 person.n.01 NEGATION <1 applaud.v.01 Agent -1 Time +1 time.n.08 EQU now
+male.n.02 Name "Tom" insult.v.01 Agent -1 Time +1 Recipient +2 time.n.08 TPR now female.n.02 Name "Mary"
+dog.n.01 time.n.08 EQU now white.a.01 ColourOf -2 Time -1
+female.n.02 Name "Emily" time.n.08 EQU now armed.a.01 AttributeOf -2 Time -1
+time.n.08 TPR now person.n.01 EQU hearer interrogate.v.01 Time -2 Agent -1 Recipient +1 person.n.01 EQU speaker
+female.n.02 bluff.v.01 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 cry.v.01 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 Name  ? be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Niels Bohr"
+female.n.02 Name "Jane" time.n.08 TPR now furious.a.01 Experiencer -2 Time -1
+cat.n.01 laugh.v.01 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker time.n.08 TPR now relaxed.a.01 Experiencer -2 Time -1
+male.n.02 Name "Tony" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Kobe"
+person.n.01 EQU speaker time.n.08 EQU now armed.a.01 Experiencer -2 Time -1
+male.n.02 Name "Tom" play.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now tv.n.01
+male.n.02 time.n.08 EQU now very.r.01 tall.a.01 Time -2 Degree -1 Value + AttributeOf -3
+male.n.02 Name "Tom" time.n.08 TPR now unhappy.a.01 Experiencer -2 Time -1
+duck.n.01 swim.v.01 Theme -1 Time +1 Manner +2 time.n.08 EQU now well.a.01
+male.n.02 live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Tokyo"
+male.n.02 Name "Tom" have.v.01 Pivot -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 3 child.n.01 Quantity -1
+NEGATION <1 person.n.01 come.v.01 Theme -1 Time +1 time.n.08 TPR now
+dog.n.01 time.n.08 TSU now bark.v.01 Agent -2 Time -1
+female.n.02 Name "Nancy" play.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now piano.n.01
+person.n.01 time.n.08 EQU now exaggerate.v.01 Agent -2 Time -1
+person.n.01 EQU speaker time.n.08 EQU now intelligent.a.01 AttributeOf -2 Time -1
+person.n.01 EQU speaker person.n.01 Role +1 mother.n.01 Of -2 time.n.08 EQU now beautiful.a.01 AttributeOf -3 Time -1
+male.n.02 Name "Tom" time.n.08 EQU now disgusted.a.01 Experiencer -2 Time -1
+horse.n.01 suck.v.01 Agent -1 Time +1 time.n.08 EQU now
+person.n.01 Name  ? be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Sharpton"
+female.n.02 Name "Marie" time.n.08 EQU now growl.v.01 Patient -2 Time -1
+male.n.02 kiss.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now creative.a.01 AttributeOf -2 Time -1
+male.n.02 Name "Tom" time.n.08 EQU now exhausted.a.01 Experiencer -2 Time -1
+person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now prepared.a.01 AttributeOf -2 Time -1
+male.n.02 Name "Chuck" time.n.08 EQU now impolite.a.01 AttributeOf -2 Time -1
+person.n.01 EQU speaker time.n.08 EQU now fine.a.01 AttributeOf -2 Time -1
+male.n.02 Name "Tom" score.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now goal.n.01
+female.n.02 Name "Mary" NEGATION <1 spider.n.01 NEGATION <1 hate.v.01 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+entity.n.01 time.n.08 EQU now kind.a.01 AttributeOf -2 Time -1 Beneficiary +1 person.n.01 EQU hearer
+male.n.02 Name "Tom" time.n.08 EQU now sordid.a.01 AttributeOf -2 Time -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now see.v.01 Experiencer -3 Stimulus +1 person.n.01
+NEGATION <1 person.n.01 know.v.01 Experiencer -1 Time +1 time.n.08 EQU now
+entity.n.01 time.n.08 EQU now rather.r.01 dark.a.01 AttributeOf -3 Time -2 Degree -1
+man.n.01 time.n.08 EQU now right.a.01 AttributeOf -2 Time -1
+male.n.02 Name "Tom" scare.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now person.n.01
+NEGATION <1 person.n.01 understand.v.01 Experiencer -1 Time +1 time.n.08 EQU now
+male.n.02 build.v.01 Agent -1 Time +1 Product +2 time.n.08 EQU now copper.n.01
+NEGATION <1 person.n.01 time.n.08 EQU now perfect.a.01 AttributeOf -2 Time -1
+person.n.01 Role +1 duck.n.01 die.v.01 Patient -2 Time +1 time.n.08 TPR now
+NEGATION <1 person.n.01 stop.v.01 Agent -1 Time +1 time.n.08 TSU now
+NEGATION <1 person.n.01 NEGATION <1 time.n.08 TSU now die.v.01 Patient -2 Time -1
+male.n.02 Name "Tom" hate.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now halloween.n.01
+male.n.02 time.n.08 EQU now out.a.01 AttributeOf -2 Time -1 Time +1 time.n.08 EQU now
+male.n.02 Name "Tom" time.n.08 TPR now excited.a.01 Experiencer -2 Time -1
+male.n.02 Name "Tom" screw.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now wheel.n.01
+female.n.02 Name "Mary" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Cairo"
+person.n.01 Name  ? be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now name.n.01 EQU "Alice Rivlin"
+NEGATION <1 entity.n.01 scare.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "Tom"
+NEGATION <1 person.n.01 NEGATION <1 person.n.01 NEGATION <1 do.v.01 Agent -2 Time +1 time.n.08 TPR now
+snake.n.01 bite.v.01 Agent -1 Time +1 Patient +2 time.n.08 EQU now person.n.01 EQU speaker
+singapura.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now island.n.01
+NEGATION <1 person.n.01 NEGATION <1 make.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now mistake.n.01
+person.n.01 Sub speaker do.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+door.n.01 time.n.08 TPR now open.a.01 AttributeOf -2 Time -1
+male.n.02 Name "Li Xiaobo" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Source +1 country.n.02 Name "china"
+male.n.02 Name "Tom" know.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now entity.n.01
+plane.n.01 fly.v.01 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 Sub speaker impressed.a.01 Experiencer -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer time.n.08 EQU now bored.a.01 Experiencer -2 Time -1
+person.n.01 Name  ? be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Aaron Copland"
+person.n.01 Role +1 soldier.n.01 run.v.01 Theme -2 Time +1 time.n.08 TPR now
+banana.n.01 time.n.08 EQU now white.a.01 ColourOf -2 Time -1
+female.n.02 Name "Mary" call.v.01 Agent -1 Time +1 Recipient +2 time.n.08 TPR now person.n.01 Sub speaker
+person.n.01 Name  ? be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Thea Gibson"
+male.n.02 kick.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now ball.n.01
+male.n.02 Name "John" time.n.08 EQU now intelligent.a.01 AttributeOf -2 Time -1
+male.n.02 Name "Tom" hug.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now female.n.02 Name "Marie"
+male.n.02 leave.v.01 Theme -1 Time +1 Time +2 time.n.08 TSU now time.n.08 ClockTime 08:00
+male.n.02 Name "Ben" love.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now male.n.02 EQU -3 person.n.01 Role +1 sister.n.01 Of -2
+person.n.01 EQU speaker smoke.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now cigar.n.01
+how.n.02 Name  ? time.n.08 TPR now female.n.02 Name "Cecilia Alexandra" die.v.02 Location -3 Time -2 Patient -1
+female.n.02 Name "Mary" laugh.v.01 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now country.n.02 Name "Marocco"
+male.n.02 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 squirrel.n.01
+male.n.02 Name "Tom" have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now car.n.01
+female.n.02 Name "Yana" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Londra"
+male.n.02 Name "Tom" time.n.08 EQU now very.r.01 young.a.01 AttributeOf -3 Time -2 Degree -1
+male.n.02 Name "Tom" swim.v.01 Theme -1 Time +1 Location +2 time.n.08 TPR now river.n.01
+male.n.02 Name "Tom" time.n.08 EQU now laugh.v.01 Agent -2 Time -1
+person.n.01 EQU speaker have.v.04 Pivot -1 Time +1 Theme +2 time.n.08 EQU now dog.n.01 nice.a.01 AttributeOf -1
+male.n.02 Name "Tom" arrive.v.01 Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 ClockTime 14:30
+person.n.01 EQU speaker time.n.08 TPR now very.r.01 selfish.a.01 AttributeOf -3 Time -2 Degree -1
+male.n.02 Name "Tom" time.n.08 EQU now laugh.v.01 Agent -2 Time -1
+male.n.02 Name "Allan" person.n.01 Sub speaker leave.v.01 Theme -2 Source -1 Time +1 time.n.08 TPR now
+NEGATION <1 person.n.01 want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now die.v.01 Patient -3
+male.n.02 hate.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now school.n.01
+male.n.02 Name "Michael Jackson" die.v.02 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Tom" impost.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now timer.n.01
+male.n.02 Name "Bob" time.n.08 TPR now very.r.01 happy.a.01 Experiencer -3 Time -2 Degree -1
+NEGATION <1 person.n.01 NEGATION <1 have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+female.n.02 Name "Emily" time.n.08 TSU now surprise.v.01 Experiencer -2 Time -1 Stimulus +1 person.n.01 EQU speaker
+female.n.02 Name "Mary" break.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU speaker
+entity.n.01 be.v.03 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 grandmother.n.01 Of -2
+entity.n.01 time.n.08 EQU now perfect.a.01 AttributeOf -2 Time -1
+person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 time.n.08 EQU now rich.a.01 AttributeOf -3 Time -1
+door.n.01 time.n.08 EQU now closed.a.01 AttributeOf -2 Time -1
+person.n.01 NEGATION <1 time.n.08 EQU now happy.a.01 Experiencer -2 Time -1
+male.n.02 Name "Walt" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now ex-soldier.a.01 AttributeOf +1 person.n.01 Role +1 soldier.n.01
+sheep.n.01 lose.v.01 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now home.n.01
+how.n.02 Name  ? time.n.08 TPR now female.n.02 Name "Anna Frank" die.v.02 Location -3 Time -2 Patient -1
+male.n.02 Name "Tom" see.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now entity.n.01
+man.n.01 time.n.08 EQU now jealous.a.01 Experiencer -2 Time -1
+person.n.01 EQU speaker stab.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU speaker
+person.n.01 EQU speaker read.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now pencil.n.01
+guy.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now bull.n.01
+female.n.02 Name "Mary" have.v.01 Pivot -1 Time +1 Theme +3 time.n.08 EQU now female.n.02 EQU -3 pony.n.01 User -1
+male.n.02 Name "Tom" time.n.08 TPR now bet.v.01 Agent -2 Time -1
+person.n.01 EQU speaker be.v.03 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now country.n.02 Name "canada"
+female.n.02 Name "Emily" eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now apple.n.01
+office.n.01 time.n.08 TPR now deserted.a.01 AttributeOf -2 Time -1
+person.n.01 EQU speaker go.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now crazy.a.01 Experiencer -3 Stimulus +1 male.n.02
+male.n.02 invent.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now scus.n.01
+frontier.n.01 time.n.08 EQU now closed.a.01 AttributeOf -2 Time -1
+NEGATION <1 coffee.n.01 NEGATION <1 person.n.01 EQU speaker like.v.02 Stimulus -2 Experiencer -1 Time +1 time.n.08 EQU now
+country.n.02 Name "Canada" time.n.08 EQU now magnificent.a.01 AttributeOf -2 Time -1
+person.n.01 time.n.08 EQU now lie.v.01 Agent -2 Time -1
+person.n.01 EQU speaker hat.n.01 User -1 time.n.08 EQU now red.a.01 ColourOf -2 Time -1
+male.n.02 Name "Tom" want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now walk.v.01 Theme -3
+person.n.01 Name  ? be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Andrew Carnegie"
+person.n.01 Sub speaker time.n.08 TSU now take.v.01 Agent -2 Time -1 Theme +1 this.n.01
+female.n.02 sing.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now song.n.01
+person.n.01 EQU hearer blood.n.01 Creator -1 time.n.08 EQU now red.a.01 ColourOf -2 Time -1
+male.n.02 Name "Tom" person.n.01 EQU speaker abandon.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Tom" want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now popcorn.n.01
+paper.n.01 time.n.08 EQU now white.a.01 ColourOf -2 Time -1
+male.n.02 Name "Lincoln" die.v.02 Patient -1 Time +1 time.n.08 YearOfCentury 1865
+this.n.01 time.n.08 TSU now be.v.01 Agent -2 Time -1 Topic +1 selfish.a.01 AttributeOf -3
+entity.n.01 EQU  ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1
+male.n.02 collect.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now swallow.n.01
+location.n.02 Name  ? be.v.03 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now town.n.01 Name "Bassora"
+male.n.02 Name "Tom" suffer.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now innocence.n.01
+person.n.01 Sub speaker time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now country.n.02 Name "Guatemala"
+entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now quantity.n.01 EQU 5 more.r.01 Theme -1 entity.n.01 Quantity +1 quantity.n.01 EQU 8
+male.n.02 Name "Tom" time.n.08 EQU now angry.a.01 Experiencer -2 Time -1 NEGATION <1 male.n.02 ANA -3 terra_incognita.n.03 EQU -3 EQU -2 EQU -1
+male.n.02 Name "Tom" know.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now answer.n.01
+black_skirt.n.01 time.n.08 EQU now new.a.01 AttributeOf -2 Time -1
+apartment.n.01 time.n.08 EQU now very.r.01 high.a.01 Time -2 Degree -1 Value + AttributeOf -3
+person.n.01 EQU speaker order.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now pizza.n.01
+NEGATION <1 person.n.01 EQU hearer have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now person.n.01 Role +1 son.n.01 NEGATION <1 person.n.01 EQU speaker terra_incognita.n.03 EQU -4 EQU now terra_incognita.n.03 EQU -5 EQU -3 EQU -1
+NEGATION <1 person.n.01 SubOf +1 person.n.01 time.n.08 EQU now dead.a.01 AttributeOf -3 Time -1
+male.n.02 Name "Tom" eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now sandwich.n.01
+male.n.02 Name "Tom" buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now gun.n.01
+money.n.01 be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now table.n.01
+male.n.02 Name "Ken" NEGATION <1 time.n.08 TPR now run.v.01 Theme -2 Time -1
+NEGATION <1 person.n.01 NEGATION <1 time.n.08 EQU now eat.v.01 Agent -2 Time -1
+how.n.02 EQU  ? time.n.08 TPR now male.n.02 Name "Jerry Garcia" die.v.02 Causer -3 Time -2 Patient -1
+entity.n.01 time.n.08 EQU now burn.v.01 Patient -2 Time -1
+female.n.02 Name "Betty" kill.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now female.n.02 EQU -3 person.n.01 Role +1 mother.n.01 Of -2
+girl.n.01 time.n.08 EQU now strange.a.01 AttributeOf -2 Time -1
+male.n.02 have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now fox.n.01 huge.a.01 AttributeOf -1
+person.n.01 Name  ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 boss.n.01 Of +1 organization.n.01 Name "FBI"
+time.n.08 TPR now person.n.01 EQU hearer in_love.a.01 Time -2 Experiencer -1
+water.n.01 NEGATION <1 time.n.08 EQU now able.a.01 AttributeOf -2 Time -1
+male.n.02 Name "Tom" time.n.08 EQU now little.a.01 AttributeOf -2 Time -1
+bird.n.01 eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now apple.n.01
+person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 be.v.08 Theme -2 Time +1 Co-Theme +2 time.n.08 TPR now person.n.01 Role +1 attorney.n.01
+apple.n.01 time.n.08 EQU now hungry.a.01 Experiencer -2 Time -1
+male.n.02 speak.v.03 Agent -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 5 language.n.01 Quantity -1
+person.n.01 EQU speaker hate.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now person.n.01 EQU hearer hat.n.01 Creator -1
+male.n.02 Name "Tom" hug.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now female.n.02 Name "Mary"
+time.n.08 EQU now person.n.01 EQU hearer miss.v.01 Time -2 Experiencer -1 Stimulus +1 experience.n.01 NEGATION <1 person.n.01 EQU speaker terra_incognita.n.03 EQU -3 EQU now terra_incognita.n.03 EQU -4 EQU -3 EQU -1
+door.n.01 NEGATION <1 time.n.08 TPR now shut.v.01 Patient -2 Time -1
+entity.n.01 time.n.08 TPR now send.v.01 Theme -2 Time -1 Destination +1 female.n.02 Name "Mary"
+apple.n.01 time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 red.a.01 entity.n.01 Colour -1
+book.n.01 POSSIBILITY <1 excite.v.01 Experiencer -1 Stimulus +1 person.n.01 EQU speaker
+male.n.02 Name "Kieslowski" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 director.n.01
+female.n.02 Name "Lucy" licensing.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now female.n.02 Name "Mary"
+dog.n.01 time.n.08 EQU now green.a.01 ColourOf -2 Time -1 entity.n.01 beautiful.a.01 AttributeOf -1
+male.n.02 Name "Bob" time.n.08 EQU now popular.a.01 AttributeOf -2 Time -1 Location +1 school.n.01
+entity.n.01 NEGATION <1 surprise.v.01 Stimulus -1 Time +1 Experiencer +2 time.n.08 EQU now person.n.01 EQU speaker
+NEGATION <1 person.n.01 time.n.08 EQU now unhappy.a.01 Experiencer -2 Time -1
+time.n.08 EQU now person.n.01 EQU hearer like.v.03 Time -2 Experiencer -1 Stimulus +2 person.n.01 EQU hearer hot_dog.n.01 Creator -1
+owl.n.01 bear.v.02 Patient -1 Time +1 Location +2 time.n.08 TPR now country.n.02 Name "Argentina"
+entity.n.01 EQU  ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 Bearer +1 male.n.02 Name "Bausch & Lomb"
+trip.n.01 last.v.01 Theme -1 Time +1 Value +3 time.n.08 TPR now quantity.n.01 EQU 14 month.n.01 Quantity -1
+cat.n.01 take.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+female.n.02 Name "Laurie" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Melbourne"
+war.n.01 last.v.01 Theme -1 Time +1 Value +3 time.n.08 TPR now quantity.n.01 EQU 2 year.n.01 Quantity -1 TAB now time.n.08 TAB -1
+egg.n.01 be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now pond.n.01
+male.n.02 Name "Tom" sing.v.01 Agent -1 Time +1 Manner +2 time.n.08 EQU now beautifully.a.01
+person.n.01 Name  ? paint.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now fries.n.01
+country.n.02 Name "Italia" NEGATION <1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now country.n.02 Name "Cile"
+male.n.02 Name "Tom" wear.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now hat.n.01
+person.n.01 EQU speaker break.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now glass.n.01
+how.n.02 Name  ? time.n.08 TPR now female.n.02 Name "Virginia Woolf" die.v.02 Location -3 Time -2 Patient -1
+location.n.01 Name  ? time.n.08 TPR now male.n.02 Name "Adolf Hitler" bear.v.02 Location -3 Time -2 Patient -1
+female.n.02 Name "Taninna" time.n.08 EQU now shoot.v.02 Agent -2 Time -1
+female.n.02 time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 cat.n.01
+male.n.02 Name "Paul" time.n.08 EQU now fast.a.01 AttributeOf -2 Time -1 Degree +1 Co-Theme +2 more.r.01 Theme -3 person.n.01 EQU speaker
+female.n.02 ear.n.01 PartOf -1 time.n.08 EQU now red.a.01 ColourOf -2 Time -1
+novel.n.01 annoy.v.01 Stimulus -1 Time +1 Experiencer +2 time.n.08 EQU now person.n.01 EQU speaker
+male.n.02 Name "Tom" time.n.08 EQU now cry.v.01 Agent -2 Time -1
+spider.n.01 strike.v.01 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 Role +1 prisoner.n.01 time.n.08 EQU now escape.v.01 Theme -3 Time -1
+male.n.02 Name "Taro" speak.v.03 Agent -1 Time +1 Theme +2 time.n.08 EQU now english.n.01 NEGATION <1 male.n.02 ANA -4 terra_incognita.n.03 EQU -4 EQU now terra_incognita.n.03 EQU -5 EQU -2 EQU -1
+plane.n.01 fly.v.01 Theme -1 Time +1 Destination +2 time.n.08 TPR now east.n.01
+entity.n.01 Quantity  ? time.n.08 TPR now person.n.01 EQU hearer buy.v.01 Theme -3 Time -2 Agent -1
+male.n.02 wait.v.01 Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.01
+mr.n.01 male.n.02 Name "Smith" Title -1 come.v.01 Theme -1 Time +1 time.n.08 TPR now
+NEGATION <1 person.n.01 time.n.08 EQU now look.v.01 Agent -2 Time -1 Theme +1 person.n.01
+person.n.01 NEGATION <1 time.n.08 TSU now eat.v.01 Agent -2 Time -1 Patient +1 meat.n.01
+male.n.02 Name "Tom" do.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now great.a.01 AttributeOf +1 job.n.01
+female.n.02 know.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TSU now entity.n.01
+cat.n.01 time.n.08 EQU now bark.v.01 Agent -2 Time -1
+time.n.08 EQU now film.n.01 title.n.01 Time -2 Theme -1
+NEGATION <1 person.n.01 SubOf +1 person.n.01 Sub speaker time.n.08 EQU now perfect.a.01 AttributeOf -3 Time -1
+entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now novel.n.01 epic.a.01 AttributeOf -1
+person.n.01 Sub speaker time.n.08 EQU now go.v.01 Theme -2 Time -1 Destination +1 home.n.01
+male.n.02 Name "Tom" use.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now stew.n.01
+person.n.01 EQU speaker time.n.08 EQU now busy.a.01 AttributeOf -2 Time -1
+male.n.02 Name "Tom" time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 pollen.n.01
+mosquito.n.01 time.n.08 EQU now rinse.v.01 Agent -2 Time -1
+male.n.02 discourse.n.01 Creator -1 annoin.v.01 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Tom" give.v.03 Agent -1 Time +1 Recipient +2 Theme +3 time.n.08 TPR now female.n.02 female.n.02 Name "Mary"
+female.n.02 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 chef.n.01 excellent.a.01 AttributeOf -1
+NEGATION <1 system.n.01 time.n.08 EQU now perfect.a.01 AttributeOf -2 Time -1
+boy.n.01 eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now apple.n.01
+entity.n.01 search.v.01 Theme -1 time.n.08 EQU now stressful.a.01 AttributeOf -2 Time -1
+person.n.01 EQU speaker person.n.01 Role +1 grandfather.n.01 Of -2 bear.v.02 Patient -2 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1920
+person.n.01 EQU speaker marry.v.01 Agent -1 Time +1 Co-Agent +2 Time +3 time.n.08 TPR now male.n.02 Name "Tom" time.n.08 YearOfCentury 2013
+ship.n.01 time.n.08 TPR now direct.v.01 Theme -2 Time -1 Destination +1 city.n.01 Name "Kobe"
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now go.v.01 Theme -2 Time -1 NEGATION <1 male.n.02 ANA -3 terra_incognita.n.03 EQU -3 EQU -2 EQU -1
+NEGATION <1 entity.n.01 SubOf +1 man.n.01 NEGATION <1 riser.v.01 Agent -2 Time +1 time.n.08 TPR now
+male.n.02 Name "Tom" time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 dust.n.01
+person.n.01 time.n.08 EQU now wait.v.01 Theme -2 Time -1
+person.n.01 EQU speaker watch.v.03 Agent -1 Time +1 Theme +2 time.n.08 EQU now documentary.n.01
+blood.n.01 time.n.08 TPR now red.a.01 ColourOf -2 Time -1
+location.n.01 Name "Damasco" be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now location.n.01 Name "Siria"
+country.n.02 Name "Svizzera" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now country.n.01
+BSN.n.01 buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now company.n.01 Name "RJR Nabisco"
+person.n.01 Name "Everer" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now country.n.02 Name "Yucatán"
+male.n.02 Name "Nixon" bear.v.02 Patient -1 Time +1 Location +2 time.n.08 TPR now country.n.02 Name "California"
+person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01 male.n.02 Name "Tom"
+person.n.01 EQU speaker person.n.01 Role +1 boss.n.01 Of -2 time.n.08 EQU now so.r.01 stupid.a.01 AttributeOf -4 Time -2 Degree -1
+male.n.02 Name "Zhao" time.n.08 TPR now arrest.v.01 Patient -2 Time -1 Time +1 time.n.08 YearOfCentury 1989
+male.n.02 Name "John" time.n.08 EQU now good.a.01 AttributeOf -2 Time -1 Theme +1 math.n.01
+male.n.02 name.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 EQU -3 dog.n.01 Owner -1 name.n.01 EQU "Rex"
+person.n.01 Source +1 city.n.01 Name "Madrid" time.n.08 EQU now crazy.a.01 AttributeOf -3 Time -1
+cut.n.01 seem.v.01 Theme -1 Time +1 Attribute +2 time.n.08 EQU now bad.a.01 AttributeOf -3
+male.n.02 Name "Mometto" bear.v.02 Patient -1 Time +1 Location +2 time.n.08 TPR now island.n.01 Name "Mecca"
+male.n.02 Name "Tom" time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 entity.n.01
+NEGATION <1 person.n.01 SubOf +1 person.n.01 time.n.08 EQU now present.a.01 AttributeOf -3 Time -1
+male.n.02 Name "Carl Smith" die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 MonthOfYear 8
+person.n.01 EQU speaker explanation.n.01 Creator -1 time.n.08 EQU now clear.a.01 AttributeOf -2 Time -1
+male.n.02 Name "Tom" make.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now spaghetti.n.01
+person.n.01 EQU speaker come.v.01 Theme -1 Time +1 Time +2 time.n.08 TSU now home.n.01 time.n.08 ClockTime 19:00
+time.n.08 EQU now person.n.01 EQU hearer allergic.a.02 Time -2 Experiencer -1 Stimulus +1 entity.n.01
+male.n.02 Name "Tom" time.n.08 EQU now unhappy.a.01 Experiencer -2 Time -1 Stimulus +1 entity.n.01
+lady.n.01 Name "Lady Diana" die.v.01 Patient -1 Time +1 Location +2 time.n.08 TPR now city.n.01 Name "Parigi"
+male.n.02 show.v.03 Agent -1 Time +1 Recipient +3 time.n.08 TPR now male.n.02 EQU -3 album.n.01 User -1
+male.n.02 Name "Alessandro" die.v.01 Patient -1 Time +1 Location +2 time.n.08 TPR now city.n.01 Name "Babilonia"
+male.n.02 Name "Tom" person.n.01 EQU speaker beat.v.01 Agent -2 Patient -1 Time +1 Instrument +2 time.n.08 TPR now chess.n.01
+person.n.01 EQU speaker time.n.08 EQU now leave.v.01 Theme -2 Time -1 Duration +2 quantity.n.01 EQU 30 minute.n.01 Quantity -1
+female.n.02 Name "Beverly" work.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now organization.n.01 Name "WEDCOR"
+tour.n.01 time.n.08 TSU now splendid.a.01 AttributeOf -2 Time -1
+person.n.01 EQU speaker person.n.01 Role +1 mother.n.01 Of -2 taste.v.01 Agent -2 Time +1 Theme +2 time.n.08 TPR now milk.n.01
+ventilator.n.01 NEGATION <1 work.v.01 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "Paul" time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 vigorous.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Marc"
+book.n.01 cost.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 3000 yen.n.01 Quantity -1
+house.n.01 belong.v.01 Theme -1 Time +1 Pivot +2 time.n.08 EQU now person.n.01 EQU speaker
+male.n.02 Name "Edison" invent.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now lightbulb.n.01
+male.n.02 Name "Oscar Sini" die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1967
+male.n.02 Name "Tom" time.n.08 EQU now party.v.01 Agent -2 Time -1
+male.n.02 Name "Stephen Hawking" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 physicist.n.01
+male.n.02 Name "Picasso" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now famous.a.01 AttributeOf +2 person.n.01 Role +1 artist.n.01
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now muffin.n.01 Source +1 country.n.02 Name "england"
+Titanic.n.01 sink.v.02 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1912
+person.n.01 EQU speaker NEGATION <1 like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now woman.n.01
+person.n.01 Sub speaker make.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now sweater.n.01
+person.n.01 EQU speaker NEGATION <1 play.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now golf.n.01
+female.n.02 time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 intelligent.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU speaker
+male.n.02 Name "Dan" meet.v.01 Agent -1 Time +1 Co-Agent +2 Location +3 time.n.08 TPR now female.n.02 Name "Linda" church.n.01
+entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now old.a.01 Value + hat.n.01 Attribute -1
+male.n.02 Name "Ted" love.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now male.n.02 EQU -3 person.n.01 Role +1 wife.n.01 Of -2 female.n.02 Name "Elizabeth"
+person.n.01 EQU speaker person.n.01 Role +1 wife.n.01 Of -2 seem.v.01 Theme -2 Time +1 Attribute +2 time.n.08 TPR now surprised.a.01 AttributeOf -3
+country.n.02 Name "Italia" beat.v.02 Agent -1 Time +1 Patient +2 time.n.08 TPR now country.n.02 Name "Kazakhstan"
+person.n.01 EQU speaker cross.v.01 Theme -1 Time +1 Path +2 time.n.08 TPR now street.n.01
+female.n.02 Name "Anna Politkovskaya" time.n.08 TPR now kill.v.01 Patient -2 Time -1
+explosion.n.01 NEGATION <1 entity.n.01 SubOf -1 NEGATION <1destroy.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Robin Hood" deruba.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 EQU -3 person.n.01 Role +1 rich.n.01
+computer.n.01 User +1 male.n.02 Name "Billy" time.n.08 EQU now new.a.01 AttributeOf -3 Time -1
+male.n.02 Name "Tom" kick.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now hat.n.01
+location.n.01 Name "Copen" time.n.08 EQU now big.a.01 Time -1 Degree +1 Co-Theme +2 more.r.01 Theme -3 city.n.01 Name "Roma"
+person.n.01 EQU speaker person.n.01 Role +1 parent.n.01 Of -2 time.n.08 EQU now old.a.01 Time -1 Value + AttributeOf -3
+NEGATION <1 entity.n.01 PartOf +1 this.n.01 time.n.08 EQU now unusual.a.01 AttributeOf -3 Time -1
+male.n.02 name.n.01 Bearer -1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 EQU "Tomoyuki Ogura"
+location.n.01 Name  ? time.n.08 EQU now male.n.02 Name "Raymond Pettibon" work.v.02 Location -3 Time -2 Agent -1
+urdu.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 mother_tongue.n.01 Creator -1
+male.n.02 Name "Gianni Versace" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 stilist.n.01
+rain.n.01 last.v.01 Theme -1 Time +1 Value +3 time.n.08 TPR now quantity.n.01 EQU 5 day.n.01 Quantity -1
+entity.v.01 Quantity +1 person.n.01 Role +1 son.n.01 Of -2 male.n.02 Name "Anthony Quinn" have.v.01 Pivot -2 Time +1 Theme +2 time.n.08 EQU now person.n.01 Role +1 son.n.01 Of -2
+male.n.02 Name "Tom" time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 asthma.n.01
+person.n.01 Name  ? sing.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now male.n.02 Name "Tennessee Waltz"
+location.n.02 Name  ? time.n.08 TPR now organization.n.01 Name "Greenpeace" found.v.01 Location -3 Time -2 Theme -1
+exhibition.n.01 begin.v.01 Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 ClockTime 08:00
+male.n.02 Name "Tom Jackson" lose.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now election.n.01
+city.n.01 Name "Piazza San Pietro" time.n.08 EQU now crowded.a.01 AttributeOf -2 Time -1
+NEGATION <1 person.n.01 SubOf +1 book.n.01 time.n.08 EQU now helpful.a.01 AttributeOf -3 Time -1
+person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now present.n.01 male.n.02 Name "Tom"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +3 time.n.08 EQU now island.n.01 Quantity + country.n.02 Name "Cyprus"
+ship.n.01 time.n.08 EQU now attract.v.01 Theme -2 Time -1 Destination +1 hole.n.01
+entity.n.01 Name  ? invent.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now male.n.02 Name "Alfred Nobel"
+male.n.02 Name "Tom" arrive.v.01 Theme -1 Time +1 Destination +2 Time +3 time.n.08 TPR now city.n.01 Name "Boston" time.n.08 ClockTime 14:30
+male.n.02 Name "Andre Agassi" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now ex.a.01 AttributeOf +2 person.n.01 Role +1 tennis_player.n.01
+entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2
+person.n.01 Sub speaker live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now planet.n.01 Name "Earth"
+classical_music.n.01 comfort.v.01 Stimulus -1 Time +1 Experiencer +2 time.n.08 EQU now person.n.01 EQU speaker
+torre.n.01 time.n.08 EQU now high.a.01 Time -1 Value +3 quantity.n.01 EQU 20 meter.n.01 Quantity -1
+person.n.01 time.n.08 EQU now play.v.01 Agent -2 Time -1 Theme +1 chess.n.01
+person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2 be.v.08 Theme -2 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 receptionist.n.01
+male.n.02 Name "Tom" score.v.01 Agent -1 Time +1 Theme +3 Destination +4 time.n.08 TPR now quantity.n.01 EQU 300 dollar.n.01 Quantity -1 race.n.01
+ambush.n.01 time.n.08 TPR now perfect.a.01 AttributeOf -2 Time -1
+person.n.01 Sub speaker call.v.01 Agent -1 Time +1 Theme +2 Result +2 time.n.08 TPR now cat.n.01 female.n.02 Name "Mimi"
+organization.n.01 Name "Harvard" time.n.08 TPR now found.v.01 Theme -2 Time -1 Time +1 time.n.08 YearOfCentury 1636
+crocodile.n.01 eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Tom"
+NEGATION <1 person.n.01 SubOf +1 book.n.01 time.n.08 EQU now exhausting.a.01 AttributeOf -3 Time -1
+person.n.01 Sub speaker person.n.01 Role +1 parent.n.01 Of -2 person.n.01 Sub speaker love.v.01 Experiencer -3 Stimulus -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 buy.v.01 Agent -2 Time +1 Theme +2 time.n.08 TPR now book.n.01
+time.n.08 EQU now entity.n.01 be.v.02 Time -2 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now appunt.n.01 Creator +1 male.n.02 Name "Tom"
+dog.n.01 time.n.08 EQU now bite.v.01 Agent -2 Time -1 Patient +1 tooth.n.01
+NEGATION <1 entity.n.01 NEGATION <1 person.n.01 EQU speaker do.v.01 Agent -2 Theme -1 Time +1 Manner +2 time.n.08 TPR now automatically.a.01
+female.n.02 Name "Sekkura" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 chef.n.01 qualified.a.01 AttributeOf -1
+person.n.01 EQU speaker cut.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now spoon.n.01
+person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2 time.n.08 EQU now more.r.01 Theme -3 Co-Theme +2 young.a.01 AttributeOf -4 Time -2 Degree -1 person.n.01 EQU speaker
+male.n.02 Name "Charles de Gaulle" die.v.01 Patient -1 Time +1 time.n.08 YearOfCentury 1970
+male.n.02 Name "Jim" time.n.08 EQU now paint.v.01 Agent -2 Time -1 Patient +1 garden.n.01
+appendix.n.01 time.n.08 EQU now long.a.01 Time -1 Value +3 quantity.n.01 EQU 10 centimeter.n.01 Quantity -1
+female.n.02 Name "Yumi" time.n.08 EQU now good.a.01 AttributeOf -2 Time -1 Theme +1 play.v.01 Theme +1 tennis.n.01
+river.n.01 flow.v.01 Theme -1 Time +1 Manner +2 time.n.08 EQU now quietly.a.01
+this.n.01 seem.v.01 Theme -1 Time +1 Attribute +2 time.n.08 EQU now pretty.a.01 AttributeOf -3
+person.n.01 EQU speaker person.n.01 Role +1 grandmother.n.01 Of -2 suffer.v.01 Experiencer -2 Time +1 Stimulus +2 time.n.08 EQU now osteoporosis.n.01
+NEGATION <1 entity.n.01 PartOf +2 person.n.01 EQU speaker sweet.n.01 User -1 NEGATION <1 time.n.08 EQU now taste.v.01 Theme -4 Time -1
+problem.n.01 confuse.v.01 Agent -1 Time +1 Patient +2 time.n.08 EQU now public.n.01
+male.n.02 Name "Tom" eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now spaghetti.n.01 vegan.a.01 AttributeOf -1
+person.n.01 EQU speaker time.n.08 EQU now work.v.02 Agent -2 Time -1 Co-Agent +1 organization.n.01 Name "McDonald's"
+english.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker mother_tongue.n.01 Creator -1
+Marrakech.n.01 time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 hot.a.01 AttributeOf -3 Time -2 Degree -1 city.n.01 Name "Parigi"
+supermarket.n.01 open.v.01 Patient -1 Time +1 Time +2 time.n.08 TSU now time.n.08 ClockTime 10:00
+female.n.02 Name "Anne" NEGATION <1 time.n.08 TSU now come.v.01 Theme -2 Time -1 Destination +2 person.n.01 Sub speaker party.n.01 User -1
+entity.n.01 time.n.08 TPR now throw.v.01 Theme -2 Time -1 Destination +2 old.a.01 Value + vase.n.01 Attribute -1
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker city.n.01 favorite.a.01 Experiencer -1
+person.n.01 EQU speaker person.n.01 Role +1 grandfather.n.01 Of -2 time.n.08 EQU now allergic.a.02 Experiencer -3 Time -1 Stimulus +1 egg.n.01
+entity.n.01 Name  ? time.n.08 TPR now male.n.02 Name "Charles Babbage" invent.v.01 Location -3 Time -2 Agent -1
+male.n.02 win.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now gold_medal.n.01
+wine.n.01 be.v.03 Theme -1 Time +1 Source +2 time.n.08 EQU now country.n.02 Name "Argentina"
+person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now trolley.n.01 Co-Agent +1 male.n.02 Name "Tom"
+male.n.02 marry.v.01 Agent -1 Time +1 Co-Agent +3 time.n.08 TPR now rich.a.01 AttributeOf +1 girl.n.01
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer plan.n.01 Creator -1 NEGATION <1 person.n.01 EQU hearer terra_incognita.n.03 EQU -4 EQU now terra_incognita.n.03 EQU -5 EQU -2 EQU -1
+entity.n.01 form.v.01 Agent -1 Theme +1 desk.n.01 time.n.08 EQU now difficult.a.01 AttributeOf -3 Time -1
+person.n.01 Name  ? win.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now l'.v.01 Agent -3 Theme +1 Prix de France"
+male.n.02 Name "Edison" invent.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now lightbulb.n.01
+female.n.02 Name "Sencal" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Cortland"
+male.n.02 Name "Eduardo" time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 young.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Roberto"
+male.n.02 Name "Wilkins" leave.v.01 Theme -1 Time +1 Source +2 Time +3 time.n.08 TPR now city.n.01 Name "Milan" time.n.08 YearOfCentury 1987
+male.n.02 Name "Tom" attach.v.01 Agent -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now rope.n.01 eagle.n.01
+female.n.02 Name "Anna Politkovskaya" time.n.08 TPR now kill.v.01 Patient -2 Time -1
+person.n.01 EQU speaker kill.v.01 Agent -1 Time +1 Patient +2 Instrument +3 time.n.08 TPR now rattle.n.01 bastone.n.01
+spanish.n.01 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer mother_tongue.n.01 Creator -1
+building.n.01 time.n.08 EQU now burn.v.01 Patient -2 Time -1
+female.n.02 Name "Marilyn Monroe" die.v.01 Patient -1 Time +1 Time +4 time.n.08 TPR now quantity.n.01 EQU 33 year.n.01 Quantity -1 TAB now time.n.08 TAB -1
+male.n.02 Name "Tom" leave.v.01 Theme -1 Time +1 time.n.08 TPR now CONTINUATION <1 female.n.02 Name "Mary" answer.v.01 Agent -1 Time +1 time.n.08 TPR now
+person.n.01 time.n.08 EQU now blow.v.01 Agent -2 Time -1 Patient +1 green_leaf.n.01
+male.n.02 Name "Hideyo Noguchi" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now big.a.01 Value + man.n.01 Attribute -1
+female.n.02 Name "Nancy Ianiero" time.n.08 TPR now kill.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Mexico"
+NEGATION <1 pinguin.n.01 NEGATION <1 time.n.08 TPR now expulse.v.01 Theme -2 Time -1 Agent +1 group.n.01
+male.n.02 Name "Brian" buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now lipstick.n.01 Beneficiary +1 female.n.02 Name "Kate"
+hebrew.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker mother_tongue.n.01 Creator -1
+dog.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now animal.n.01 intelligent.a.01 AttributeOf -1
+book.n.01 time.n.08 EQU now write.v.01 Result -2 Time -1 Result +1 english.n.01
+male.n.02 time.n.08 TPR now attack.v.01 Patient -2 Time -1 Agent +1 squirrel.n.01
+entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now cat.n.01 person.n.01 EQU speaker person.n.01 Role +1 mother.n.01 Of -2
+person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 be.v.08 Theme -2 Time +1 Co-Theme +3 time.n.08 EQU now good.a.01 AttributeOf +2 person.n.01 Role +1 pianist.n.01
+person.n.01 Role +1 doctor.n.01 exhale.v.01 Agent -2 Time +1 Co-Agent +3 time.n.08 TPR now mr.n.01 male.n.02 Name "Brown" Title -1
+armour.n.01 NEGATION <1 time.n.08 TPR now ear.v.01 Theme -2 Time -1
+person.n.01 EQU speaker collect.v.01 Agent -1 Time +1 Theme +2 Beneficiary +3 time.n.08 TPR now cherry_tree.n.01 female.n.02
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +3 time.n.08 EQU now entity.n.01 full.a.01 AttributeOf -1 fish.n.01 river.n.01
+person.n.01 Name  ? direct.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now film.n.01 Name "Fail Safe"
+person.n.01 POSSIBILITY <1 understand.v.01 Experiencer -1 Stimulus +1 entity.n.01
+country.n.02 Name "Llinois" confine.v.01 Agent -1 Time +1 Patient +2 time.n.08 EQU now city.n.01 Name "Missouri"
+male.n.02 pay.v.01 Agent -1 Time +1 Theme +2 Asset +3 time.n.08 TPR now quantity.n.01 EQU 3000 yen.n.01 book.n.01
+female.n.02 Name "Judy" NEGATION <1 be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now good.a.01 AttributeOf +2 person.n.01 Role +1 singer.n.01 NEGATION <1 person.n.01 EQU hearer terra_incognita.n.03 EQU -4 EQU now terra_incognita.n.03 EQU -5 EQU -2 EQU -1
+person.n.01 EQU speaker mother_tongue.n.01 Creator -1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now japanese.n.01
+newspaper.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now newspaper.n.01 Source +1 country.n.02 Name "norway"
+museum.n.01 Name "Rodin" Location +1 city.n.01 Name "Parigi" time.n.08 EQU now magnificent.a.01 AttributeOf -3 Time -1
+location.n.01 Name  ? time.n.08 TPR now male.n.02 Name "Nelson Mandela" murder.v.01 Location -3 Time -2 Agent -1
+girl.n.01 fun.n.01 play.v.01 Agent -2 Location -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Dan" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Boston" city.n.01 Name "Massachusetts"
+person.n.01 EQU speaker person.n.01 Role +1 friend.n.01 Of -2 suffer.v.01 Experiencer -2 Time +1 Stimulus +2 time.n.08 EQU now osteoporosis.n.01
+exam.n.01 Time +1 time.n.08 DayOfWeek monday time.n.08 TSU now difficult.a.01 AttributeOf -2 Time -1
+male.n.02 Name "Klaus Pohl" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 theatre_director.n.01 german.n.02
+person.n.01 Role +1 driver.n.01 smile.v.01 Agent -2 Time +1 Manner +2 time.n.08 TPR now unhappy.a.01
+female.n.02 Name "Grace" meet.v.01 Agent -1 Time +1 Co-Agent +2 Location +3 time.n.08 TPR now male.n.02 Name "William" school.n.01
+quantity.n.01 EQU 13 person.n.01 Quantity -1 time.n.08 EQU now arrest.v.01 Patient -2 Time -1
+NEGATION <1 person.n.01 SubOf +1 book.n.01 time.n.08 EQU now interesting.a.01 AttributeOf -3 Time -1
+male.n.02 Name "Peter" time.n.08 EQU now buy.v.01 Agent -2 Time -1 Theme +1 cat.n.01 Attribute +1 maschio.n.01
+male.n.02 Name "Lin Piao" write.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now book.n.01 Colour +1 red.a.01
+male.n.02 Name "Jack Nicholson" be.v.03 Theme -1 Time +1 Location +2 time.n.08 TPR now city.n.01 Name "New Jersey"
+male.n.02 Name "Simpson" time.n.08 TPR now accuse.v.01 Agent -2 Time -1 Theme +1 murder.n.01
+male.n.02 Name "Tom" fill.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now bucket.n.01 Content +1 water.n.01
+male.n.02 Name "Sadako Sasaki" die.v.01 Patient -1 Time +1 Time +3 time.n.08 TPR now time.n.08 MonthOfYear 8 time.n.08 YearOfCentury 1955
+male.n.02 Name "Chomsky" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 translator.n.01
+male.n.02 Name "Tom" time.n.08 TPR now wear.v.01 Agent -2 Time -1 Theme +1 black_hat.n.01
+male.n.02 Name "Martin Luther King" time.n.08 TPR now kill.v.01 Patient -2 Time -1 Time +1 time.n.08 YearOfCentury 1968
+female.n.02 buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now dictionary.n.01
+male.n.02 Name "Tom" steal.v.01 Agent -1 Time +1 Theme +3 Destination +4 time.n.08 TPR now quantity.n.01 EQU 100 dollar.n.01 Quantity -1 female.n.02 Name "Mary"
+prostitution.n.01 time.n.08 EQU now legal.a.01 AttributeOf -2 Time -1 Location +1 country.n.02 Name "Germania"
+jet.n.01 time.n.08 TPR now fast.a.01 AttributeOf -2 Time -1 Degree +1 Co-Theme +2 more.r.01 Theme -3 miniskirt.n.01
+time.n.08 EQU now male.n.02 be.v.02 Time -2 Theme -1 Co-Theme +1 president.n.01 Of +1 country.n.02 Name "Stati Uniti"
+person.n.01 EQU speaker order.v.01 Agent -1 Time +1 Theme +2 Source +3 time.n.08 TPR now book.n.01 organization.n.01 Name "Amazon"
+female.n.02 Name "Mary" NEGATION <1 laugh.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now meat.n.01
+male.n.02 carry.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now balloon.n.01
+school.n.01 time.n.08 TPR now found.v.01 Theme -2 Time -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1650
+measure.n.02 Quantity  ? be.v.03 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now run.n.01 female.n.02 Name "Babe Ruth"
+organization.n.01 Name  ? time.n.08 EQU now male.n.02 Name "Hope Holcomb" drive.v.02 Location -3 Time -2 Agent -1
+male.n.02 Name "Yunus" found.v.01 Agent -1 Time +1 Theme +2 Duration +4 time.n.08 TPR now bank.n.01 Name "Grame Bank" quantity.n.01 EQU 30 year.n.01 Quantity -1 TAB now time.n.08 TAB -1
+male.n.02 Name "Tom" time.n.08 TPR now bite.v.01 Agent -2 Time -1 Patient +1 squirrel.n.01
+premi.n.01 Name  ? time.n.08 TPR now female.n.02 Name "Elizabeth Neufeld" win.v.01 Location -3 Time -2 Agent -1
+squirrel.n.01 time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 nut.n.01
+house.n.01 belong.v.01 Theme -1 Time +1 Pivot +3 time.n.08 EQU now mr.n.01 male.n.02 Name "Yamada" Title -1
+person.n.01 Sub speaker train.n.01 User -1 PartOf +1 time.n.08 EQU now start.v.01 Theme -3 Time -1 Time +1 Time +2 time.n.08 ClockTime 08:00 time.n.08 ClockTime 00:00
+NEGATION <1 person.n.01 accept.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 sacrifice.n.01 Creator -1
+person.n.01 steal.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker washing_machine.n.01 User -1
+organization.n.01 Name "Manchester United" win.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now match.n.01 Co-Agent +1 team.n.01 Name " Fulham"
+female.n.02 Name "Lisa Lillien" time.n.08 EQU now married.a.01 Theme -2 Time -1 Agent +1 male.n.02 Name "Dan Schneider"
+entity.n.01 EQU  ? be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 Degree +1 most.r.01 hotel.n.01 Experiencer -3 Stimulus -2 Location +1 city.n.01 Name "Boston"
+smoke.n.01 time.n.08 TPR now use.v.01 Theme -2 Time -1 Location +1 desk.n.01
+male.n.02 Name "Papa Giovanni Paolo II" bear.v.02 Patient -1 Time +1 Location +2 time.n.08 TPR now country.n.02 Name "Polonia"
+Consumer Kids" time.n.08 TPR now write.v.02 Result -2 Time -1 Agent +1 female.n.02 Name "Susan Linn"
+NEGATION <1 female.n.02 Name "Ania" NEGATION <1 Magdalena" love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "Justin Bieber"
+male.n.02 break.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now tree.n.01 Content +1 cereal.n.01
+person.n.01 EQU speaker child.n.01 Owner -1 have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now disease.n.01
+female.n.02 Name "Cenerentola" have.v.01 Pivot -1 Time +1 Theme +3 time.n.08 TPR now quantity.n.01 EQU 2 person.n.01 Quantity -1 Role +1 squirrel.n.01 cat.n.01
+male.n.02 Name "Tom" speak.v.03 Agent -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 5 language.n.01 Quantity -1 include.v.01 Agent -4 Time +1 Theme +2 time.n.08 EQU now russian.n.01
+person.n.01 Sub speaker team.n.01 Part -1 win.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now organization.n.01 Name "Lions" quantity.n.01 EQU 3
+male.n.02 Name "Grant" attack.v.01 Agent -1 Time +1 Patient +2 Frequency +3 time.n.08 TPR now city.n.01 Name "Viksburg" time.n.01 Quantity +
+person.n.01 EQU speaker eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now turkey.n.01
+local.n.01 Name  ? PartOf +1 city.n.01 Name "Liverpool" throw.v.01 Agent -2 Time +1 Theme +2 time.n.08 TPR now Beatles.n.01
+male.n.02 Name "Tom" work.v.02 Agent -1 Time +1 Co-Agent +3 time.n.08 TPR now oil_company.n.01 company.n.01 Theme -1
+male.n.02 opinion.n.01 Creator -1 time.n.08 EQU now very.r.01 important.a.01 AttributeOf -3 Time -2 Degree -1 Beneficiary +1 person.n.01 Sub speaker
+female.n.02 Name "Sylvia Costas" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 wife.n.01 Of -2 male.n.02 Name "Andy Sipowicz"
+entity.n.01 carry.v.01 Agent -1 Theme +1 car.n.01 be.v.01 Theme -2 Time +1 Co-Theme +2 time.n.08 EQU now cost.n.01 Quantity +
+mr.n.01 male.n.02 Name "White" Title -1 arrive.v.01 Theme -1 Time +1 Destination +2 Time +3 time.n.08 TSU now city.n.01 Name "Tokyo" time.n.08 ClockTime 10:30
+male.n.02 Name "Wolfgang Amadeus Mozart" bear.v.02 Patient -1 Time +1 Location +2 time.n.08 TPR now city.n.01 Name "Salisburgo"
+person.n.01 EQU speaker like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now flower.n.01 CONTINUATION <1 rose.n.01 entity.n.01 Sub -1 Sub +1 peach.n.01
+male.n.02 Name "Marlowe" time.n.08 TPR now arrest.v.01 Patient -2 Time -1 Agent +1 Source +2 country.n.02 Name "italy" police.n.01
+person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 Beneficiary +3 time.n.08 TPR now toy.n.01 child.n.01
+male.n.02 Name "Bena Soares" time.n.08 TPR now arrest.v.01 Patient -2 Time -1 Agent +1 army.n.01
+male.n.02 Name "Thomas Edison" invent.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now light_bulb.n.01
+male.n.02 Name "Tom" sospese.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 male.n.02 ANA -3 person.n.01 Role +1 father.n.01 Of -2 time.n.08 TPR now dishonest.a.01 AttributeOf -3 Time -1
+war.n.01 Order 1 Name "Premi" Theme +1 EQU now EQU +2 time.n.08 YearOfCentury 1914
+male.n.02 Name "Johann Wolfgang von Goethe" bear.v.02 Patient -1 Time +1 Location +2 time.n.08 TPR now country.n.02 Name "Germania"
+male.n.02 Name "Tom" time.n.08 EQU now embarrassed.a.01 Experiencer -2 Time -1 Stimulus +1 buy.v.01 Agent -3 Theme +1 medication.n.01
+movie.n.01 Name "Speed" time.n.08 TPR now direct.v.01 Theme -2 Time -1 Agent +1 male.n.02 Name "Jan De Bont"
+person.n.01 Name "Placebo" collaborate.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now female.n.02 Name "Marilynson"
+organization.n.01 Name "Texas Instruments" produce.v.01 Agent -1 Time +1 Result +2 time.n.08 EQU now cellphone.n.01
+male.n.02 Name "Tom" photograph.v.01 Agent -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now building.n.01 show.n.01
+group.n.01 Name "Spok's Beard" come.v.01 Theme -1 Time +1 Destination +2 time.n.08 EQU now country.n.02 Name "Giappone"
+person.n.01 Name  ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 leader.n.01 Of +2 country.n.02 Name "algerian" group.n.01 Name "Islamic Armato" Source -1
+mr.n.01 male.n.02 Name "Cameron" Title -1 forget.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 EQU -3 person.n.01 Role +1 daughter.n.01 Of -2 Role +1 nurse.n.01
+male.n.02 Name "Michael Jackson" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now author.n.01 Of +1 book.n.01 Name "Jurassic Park"
+instrument.n.01 Name  ? time.n.08 TPR now musician.n.01 Name "Jazz" person.n.01 Role +1 musician.n.01 Name "Art Tatum" play.v.01 Location -3 Time -3 Agent -1
+male.n.02 Name "Lincoln" accept.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 EQU -3 old.a.01 Degree +1 more.r.01 person.n.01 Role +1 politician.n.01
+NEGATION <1 person.n.01 come.v.01 Theme -1 Time +1 Path +2 time.n.08 TPR now street.n.01 NEGATION <1 time.n.08 TPR now surprised.a.01 Experiencer -3 Time -1

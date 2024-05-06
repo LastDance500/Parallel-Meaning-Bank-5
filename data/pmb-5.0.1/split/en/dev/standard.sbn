@@ -1,0 +1,4556 @@
+p05/d2020
+I won!
+person.n.01 EQU speaker win.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p10/d3384
+Grow up!
+person.n.01 EQU hearer grow_up.v.01 Patient -1
+
+p03/d2057
+Hug Tom.
+person.n.01 EQU hearer hug.v.01 Agent -1 Co-Agent +1 male.n.02 Name "Tom"
+
+p14/d3035
+Who swam?
+person.n.01 Name ? swim.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p56/d2205
+Who died?
+person.n.01 Name ? die.v.01 Patient -1 Time +1 time.n.08 TPR now
+
+p01/d3445
+He smiled.
+male.n.02 smile.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p25/d1709
+I see Tom.
+person.n.01 EQU speaker see.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "Tom"
+
+p14/d1000
+Gabi Bauer
+event.v.01 Participant +1 female.n.02 Name "Gabi Bauer"
+
+p12/d1165
+Paul Keast
+event.v.01 Participant +1 male.n.02 Name "Paul Keast"
+
+p49/d0895
+I ken him.
+person.n.01 EQU speaker know.v.04 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02
+
+p10/d3000
+Fire burns.
+fire.n.03 burn.v.04 Causer -1 Time +1 time.n.08 EQU now
+
+p35/d2371
+It's 8 P.M.
+time.n.08 EQU now EQU +1 time.n.08 ClockTime 20:00
+
+p86/d3347
+We'll cook.
+person.n.01 Sub speaker time.n.08 TSU now cook.v.01 Agent -2 Time -1
+
+p00/d1923
+It's clean.
+entity.n.01 time.n.08 EQU now clean.a.02 AttributeOf -2 Time -1
+
+p70/d0861
+I'm hungry!
+person.n.01 EQU speaker time.n.08 EQU now hungry.a.01 Experiencer -2 Time -1
+
+p03/d3329
+Pick it up.
+person.n.01 EQU hearer pick_up.v.02 Agent -1 Theme +1 entity.n.01
+
+p10/d3409
+I will help.
+person.n.01 EQU speaker time.n.08 TSU now help.v.01 Agent -2 Time -1
+
+p59/d0226
+That's okay.
+entity.n.01 time.n.08 EQU now okay.a.01 AttributeOf -2 Time -1
+
+p08/d3366
+He fixed it.
+male.n.02 fix.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now entity.n.01
+
+p21/d0950
+It's a trap!
+entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now trap.n.03
+
+p50/d2289
+Holy smokes.
+female.n.02 Name "Holy" smoke.v.01 Agent -1 Time +1 time.n.08 EQU now
+
+p60/d3097
+What a mess!
+be.v.01 Theme +1 Co-Theme +2 entity.n.01 mess.n.01
+
+p43/d1814
+Tom giggled.
+male.n.02 Name "Tom" giggle.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p71/d1699
+Tom is vain.
+male.n.02 Name "Tom" time.n.08 EQU now vain.a.01 AttributeOf -2 Time -1
+
+p20/d2816
+We remember.
+person.n.01 Sub speaker remember.v.01 Agent -1 Time +1 time.n.08 EQU now
+
+p07/d2527
+I saw a UFO.
+person.n.01 EQU speaker see.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now ufo.n.01
+
+p79/d2276
+They relaxed.
+person.n.01 relax.v.05 Agent -1 Time +1 time.n.08 TPR now
+
+p05/d2805
+I liked Tony.
+person.n.01 EQU speaker like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now male.n.02 Name "Tony"
+
+p53/d3342
+A bee buzzes.
+NEGATION <1 bee.n.01 NEGATION <1 buzz.v.01 Agent -1
+
+p72/d1709
+Tom's skiing.
+male.n.02 Name "Tom" time.n.08 EQU now ski.v.01 Theme -2 Time -1
+
+p38/d1424
+He will wait.
+male.n.02 time.n.08 TSU now wait.v.01 Theme -2 Time -1
+
+p50/d0895
+I dinnae ken.
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now know.v.01 Experiencer -2 Time -1
+
+p00/d1468
+Will Tom die?
+time.n.08 TSU now male.n.02 Name "Tom" die.v.01 Time -2 Patient -1
+
+p24/d0923
+It's a mummy!
+entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now mummy.n.02
+
+p54/d1782
+Alice smiled.
+female.n.02 Name "Alice" smile.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p74/d1889
+My eyes itch.
+person.n.01 EQU speaker eye.n.01 PartOf -1 itch.v.03 Stimulus -1 Time +1 time.n.08 EQU now
+
+p32/d2199
+Am I in love?
+time.n.08 EQU now person.n.01 EQU speaker in_love.a.01 Time -2 Experiencer -1
+
+p20/d1797
+Who'll drive?
+person.n.01 Name ? time.n.08 TSU now drive.v.01 Agent -2 Time -1
+
+p80/d2593
+I hugged Tom.
+person.n.01 EQU speaker hug.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 Name "Tom"
+
+p26/d2102
+Am I slipping?
+time.n.08 EQU now person.n.01 EQU speaker slip.v.03 Time -2 Theme -1
+
+p98/d0838
+He can't swim.
+male.n.02 NEGATION <1 POSSIBILITY <1 swim.v.01 Theme -1
+
+p81/d3017
+That's theirs.
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now entity.n.01 User +1 person.n.01
+
+p28/d2828
+You are drunk!
+person.n.01 EQU hearer time.n.08 EQU now drunk.a.02 Experiencer -2 Time -1
+
+p53/d2244
+He forgave me.
+male.n.02 forgive.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now person.n.01 EQU speaker
+
+p72/d2634
+He pinched me!
+male.n.02 pinch.v.01 Agent -1 Time +1 Experiencer +2 time.n.08 TPR now person.n.01 EQU speaker
+
+p19/d3127
+I'm bilingual.
+person.n.01 EQU speaker time.n.08 EQU now bilingual.a.01 AttributeOf -2 Time -1
+
+p45/d2855
+Tom is skinny.
+male.n.02 Name "Tom" time.n.08 EQU now skinny.a.01 Theme -2 Time -1
+
+p48/d0850
+Oh, I was ill.
+person.n.01 EQU speaker time.n.08 TPR now ill.a.01 AttributeOf -2 Time -1
+
+p22/d0805
+You are crazy.
+person.n.01 EQU hearer time.n.08 EQU now crazy.a.01 AttributeOf -2 Time -1
+
+p00/d3114
+I want it now!
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 Time +3 time.n.08 EQU now entity.n.01 time.n.08 EQU now
+
+p42/d2885
+Do cats dream?
+time.n.08 EQU now cat.n.01 dream.v.02 Time -2 Experiencer -1
+
+p24/d0850
+He hugged her.
+male.n.02 hug.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now female.n.02
+
+p04/d1721
+She's dieting.
+female.n.02 time.n.08 EQU now diet.v.01 Agent -2 Time -1
+
+p12/d0922
+It had snowed.
+entity.n.01 snow.v.01 EQU -1 Time +1 time.n.08 TPR now
+
+p40/d1960
+Is it a llama?
+be.v.01 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now entity.n.01 llama.n.01
+
+p65/d3533
+Tom's smoking.
+male.n.02 Name "Tom" time.n.08 EQU now smoke.v.01 Agent -2 Time -1
+
+p49/d0035
+Men are sawing
+man.n.01 time.n.08 EQU now saw.v.01 Agent -2 Time -1
+
+p03/d0873
+My butt hurts.
+person.n.01 EQU speaker butt.n.04 PartOf -1 hurt.v.01 Patient -1 Time +1 time.n.08 EQU now
+
+p10/d3483
+I'm illiterate.
+person.n.01 EQU speaker time.n.08 EQU now illiterate.a.01 AttributeOf -2 Time -1
+
+p10/d2977
+What a letdown!
+be.v.01 Theme +1 Co-Theme +2 entity.n.01 letdown.n.01
+
+p05/d2281
+Where art thou?
+location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now person.n.01 EQU hearer
+
+p81/d1437
+Stop kvetching!
+person.n.01 EQU hearer stop.v.02 PartOf +1 kvetch.v.01 Agent -2
+
+p28/d1912
+He bit his lip.
+male.n.02 bite.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 lip.n.01 PartOf -1
+
+p18/d1454
+Everybody left.
+NEGATION <1 person.n.01 NEGATION <1 leave.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p78/d2978
+He married her.
+male.n.02 marry.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now female.n.02
+
+p01/d1468
+Mary called us.
+female.n.02 Name "Mary" call.v.03 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now person.n.01 Sub speaker
+
+p90/d2014
+I am Bulgarian.
+person.n.01 EQU speaker time.n.08 EQU now be.v.03 Theme -2 Time -1 Source +1 country.n.02 Name "bulgaria"
+
+p77/d2545
+I love turtles.
+person.n.01 EQU speaker love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now turtle.n.02
+
+p50/d3172
+Do tigers purr?
+time.n.08 EQU now tiger.n.02 purr.v.02 Time -2 Agent -1
+
+p50/d1688
+The lion roars.
+lion.n.01 time.n.08 EQU now roar.n.02 Agent -2 Time -1
+
+p00/d2227
+We volunteered.
+person.n.01 Sub speaker volunteer.v.02 Agent -1 Time +1 time.n.08 TPR now
+
+p60/d2986
+I didn't flunk.
+person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now flunk.v.01 Agent -2 Time -1
+
+p67/d1538
+Is that French?
+time.n.08 EQU now entity.n.01 be.v.03 Time -2 Theme -1 Source +1 country.n.02 Name "france"
+
+p16/d0175
+He married him.
+male.n.02 marry.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 ANA -3
+
+p46/d0945
+I speak Arabic.
+person.n.01 EQU speaker speak.v.03 Agent -1 Time +1 Theme +2 time.n.08 EQU now arabic.n.01
+
+p36/d3408
+We're ruthless.
+person.n.01 Sub speaker time.n.08 EQU now ruthless.a.01 AttributeOf -2 Time -1
+
+p70/d1768
+I saw it on TV.
+person.n.01 EQU speaker see.v.01 Experiencer -1 Time +1 Stimulus +2 Instrument +3 time.n.08 TPR now entity.n.01 tv.n.01
+
+p11/d2098
+My name's Jack.
+person.n.01 EQU speaker name.n.01 Bearer -1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 EQU "Jack"
+
+p99/d3422
+I was off duty.
+person.n.01 EQU speaker time.n.08 TPR now off.a.01 Pivot -2 Time -1 Theme +1 duty.n.02
+
+p96/d1952
+We forgive him.
+person.n.01 Sub speaker forgive.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now male.n.02
+
+p03/d3199
+You told a lie.
+person.n.01 EQU hearer tell.v.01 Agent -1 Time +1 Topic +2 time.n.08 TPR now lie.n.01
+
+p95/d2649
+Is Tom kidding?
+time.n.08 EQU now male.n.02 Name "Tom" kid.v.01 Time -2 Agent -1
+
+p37/d1470
+Who stabbed Tom?
+person.n.01 Name ? stab.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Tom"
+
+p10/d2961
+They're kidding.
+person.n.01 time.n.08 EQU now kid.v.02 Agent -2 Time -1
+
+p10/d3187
+You're terrible.
+person.n.01 EQU hearer time.n.08 EQU now terrible.a.02 AttributeOf -2 Time -1
+
+p81/d2814
+I'm not thirsty.
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now thirsty.a.02 Experiencer -2 Time -1
+
+p83/d2123
+You're babbling.
+person.n.01 EQU hearer time.n.08 EQU now babble.v.01 Agent -2 Time -1
+
+p30/d3173
+How's Lanzarote?
+be.v.01 Attribute ? Time +1 Theme +2 time.n.08 EQU now island.n.01 Name "Lanzarote"
+
+p08/d1823
+Nobody got shot.
+NEGATION <1 person.n.01 time.n.08 TPR now shoot.v.01 Patient -2 Time -1
+
+p88/d2117
+I asked her out.
+person.n.01 EQU speaker ask_out.v.01 Agent -1 Time +1 Recipient +2 time.n.08 TPR now female.n.02
+
+p01/d2355
+You are naughty.
+person.n.01 EQU hearer time.n.08 EQU now naughty.a.02 AttributeOf -2 Time -1
+
+p21/d3136
+Lucy likes Mary.
+female.n.02 Name "Lucy" like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now female.n.02 Name "Mary"
+
+p38/d2946
+Many were slain.
+measure.n.02 Quantity + time.n.08 TPR now slay.v.01 Patient -2 Time -1
+
+p17/d1611
+We're neighbors.
+person.n.01 Sub speaker be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 neighbor.n.01
+
+p87/d1813
+I bit my tongue.
+person.n.01 EQU speaker bite.v.01 Experiencer -1 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU speaker tongue.n.01 PartOf -1
+
+p41/d0813
+We went to Gifu.
+person.n.01 Sub speaker go.v.01 Theme -1 Time +1 Destination +2 time.n.08 TPR now city.n.01 Name "Gifu"
+
+p61/d3462
+I'm not a freak!
+person.n.01 EQU speaker NEGATION <1 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 freak.n.01
+
+p00/d3269
+We'll take this.
+person.n.01 Sub speaker time.n.08 TSU now take.v.04 Agent -2 Time -1 Theme +1 entity.n.01
+
+p43/d3424
+I contacted Tom.
+person.n.01 EQU speaker contact.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now male.n.02 Name "Tom"
+
+p42/d2544
+I'm already wet!
+person.n.01 EQU speaker time.n.08 EQU now wet.a.01 AttributeOf -2 Time -1
+
+p47/d3526
+I purchased one.
+person.n.01 EQU speaker purchase.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+
+p54/d0863
+Are you married?
+time.n.08 EQU now person.n.01 EQU hearer married.a.01 Time -2 AttributeOf -1
+
+p55/d1548
+Who's screaming?
+person.n.01 Name ? time.n.08 EQU now scream.v.01 Agent -2 Time -1
+
+p36/d3264
+What scared you?
+entity.n.01 EQU ? scare.v.01 Stimulus -1 Time +1 Experiencer +2 time.n.08 TPR now person.n.01 EQU hearer
+
+p70/d2687
+I live in Malta.
+person.n.01 EQU speaker live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now country.n.02 Name "Malta"
+
+p32/d0931
+Ain't that cute?
+NEGATION <1 time.n.08 EQU now entity.n.01 cute.a.01 Time -2 AttributeOf -1
+
+p76/d2300
+Is that sarcasm?
+be.v.01 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now entity.n.01 sarcasm.n.01
+
+p07/d2400
+I'm cracking up.
+person.n.01 EQU speaker time.n.08 EQU now crack_up.v.03 Agent -2 Time -1
+
+p26/d1681
+Tom slugged Mary.
+male.n.02 Name "Tom" slug.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now female.n.02 Name "Mary"
+
+p79/d1413
+I kicked the dog.
+person.n.01 EQU speaker kick.v.03 Agent -1 Time +1 Patient +2 time.n.08 TPR now dog.n.01
+
+p89/d0794
+I'm Susan Greene.
+person.n.01 EQU speaker be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now female.n.02 Name "Susan Greene"
+
+p10/d2009
+I want a divorce.
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now divorce.n.01
+
+p98/d3320
+John chased Mary.
+male.n.02 Name "John" chase.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now female.n.02 Name "Mary"
+
+p05/d1932
+Both men laughed.
+man.n.01 Quantity 2 NEGATION <1 entity.n.01 SubOf -1 NEGATION <1 laugh.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p09/d1704
+What a hypocrite!
+be.v.01 Theme +1 Co-Theme +2 entity.n.01 person.n.01 Role +1 hypocrite.n.01
+
+p30/d2198
+I am dumbfounded.
+person.n.01 EQU speaker time.n.08 EQU now dumbfounded.a.01 Experiencer -2 Time -1
+
+p97/d1450
+The score is 1-0.
+score.n.03 be.v.06 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now score.n.03 Value 1-0
+
+p72/d0843
+He broke the law.
+male.n.02 break.v.06 Agent -1 Time +1 Theme +2 time.n.08 TPR now law.n.01
+
+p19/d1145
+It was 10.40 P.M.
+time.n.08 TPR now EQU +1 time.n.08 ClockTime 22:40
+
+p01/d0925
+It's very sticky.
+entity.n.01 time.n.08 EQU now very.r.01 sticky.a.01 AttributeOf -3 Time -2 Degree -1
+
+p21/d2131
+I always eat out.
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU speaker eat_out.v.01 Agent -1 Time +1 time.n.08 EQU now
+
+p25/d2843
+Jane was boiling.
+female.n.02 Name "Jane" time.n.08 TPR now boil.v.05 Recipient -2 Time -1
+
+p17/d3518
+What a nitpicker!
+be.v.01 Theme +1 Co-Theme +2 entity.n.01 person.n.01 Role +1 nitpicker.n.01
+
+p15/d1827
+Was Tom handsome?
+time.n.08 TPR now male.n.02 Name "Tom" handsome.a.01 Time -2 AttributeOf -1
+
+p87/d3276
+We ate the pizza.
+person.n.01 Sub speaker eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now pizza.n.01
+
+p61/d2827
+Nothing's sacred.
+NEGATION <1 entity.n.01 time.n.08 EQU now sacred.a.01 AttributeOf -2 Time -1
+
+p00/d2556
+I can't talk now.
+person.n.01 EQU speaker NEGATION <1 POSSIBILITY <1 talk.v.02 Agent -1 Time +1 time.n.08 EQU now
+
+p00/d1564
+I have a big dog.
+person.n.01 EQU speaker have.v.04 Pivot -1 Time +1 Theme +3 time.n.08 EQU now big.a.01 Value + dog.n.01 Attribute -1
+
+p67/d0917
+Mary slapped Tom.
+female.n.02 Name "Mary" slap.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Tom"
+
+p92/d2921
+I'm exaggerating.
+person.n.01 EQU speaker time.n.08 EQU now exaggerate.v.01 Agent -2 Time -1
+
+p24/d0931
+I chewed the gum.
+person.n.01 EQU speaker chew.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now gum.n.01
+
+p04/d1499
+Tom's headstrong.
+male.n.02 Name "Tom" time.n.08 EQU now headstrong.a.01 AttributeOf -2 Time -1
+
+p55/d1384
+Who makes viagra?
+organisation.n.02 Name ? make.v.06 Agent -1 Time +1 Product +2 time.n.08 EQU now viagra.n.01
+
+p32/d2013
+He ate the apple.
+male.n.02 eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now apple.n.01
+
+p27/d2870
+She's a knockout.
+female.n.02 EQU +2 time.n.08 EQU now person.n.01 Role +1 knockout.n.01 Time -2
+
+p99/d1989
+He took his book.
+male.n.02 take.v.04 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 book.n.02 User -1
+
+p20/d3528
+He is very young.
+male.n.02 time.n.08 EQU now very.r.01 young.a.01 AttributeOf -3 Time -2 Degree -1
+
+p80/d1427
+That's confusing.
+entity.n.01 time.n.08 EQU now confusing.a.01 AttributeOf -2 Time -1
+
+p33/d2649
+I wasn't thirsty.
+person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now thirsty.a.02 Experiencer -2 Time -1
+
+p26/d3373
+He is a born poet.
+male.n.02 be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now born.a.02 AttributeOf +2 person.n.01 Role +1 poet.n.01
+
+p37/d0776
+Everybody laughed.
+NEGATION <1 person.n.01 NEGATION <1 laugh.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p89/d2703
+Is this Tom's bag?
+be.v.02 Time +1 Theme +2 Co-Theme +4 time.n.08 EQU now entity.n.01 male.n.02 Name "Tom" bag.n.01 User -1
+
+p10/d2849
+I'm Canadian, too.
+person.n.01 EQU speaker time.n.08 EQU now be.v.03 Theme -2 Time -1 Source +1 country.n.02 Name "canada"
+
+p98/d3139
+Who did Tom marry?
+person.n.01 Name ? time.n.08 TPR now male.n.02 Name "Tom" marry.v.01 Co-Agent -3 Time -2 Agent -1
+
+p31/d3318
+Tom won't give in.
+male.n.02 Name "Tom" NEGATION <1 time.n.08 TSU now give_in.v.01 Agent -2 Time -1
+
+p09/d2404
+I closed my phone.
+person.n.01 EQU speaker close.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU speaker phone.n.01 User -1
+
+p30/d2912
+This is not funny!
+entity.n.01 NEGATION <1 time.n.08 EQU now funny.a.01 AttributeOf -2 Time -1
+
+p82/d1578
+Are those bedbugs?
+be.v.01 Time +1 Co-Theme +2 Theme +3 time.n.08 EQU now entity.n.01 bedbug.n.01
+
+p59/d2260
+This cat is Tom's.
+cat.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 Name "Tom" cat.n.01 Owner -1
+
+p88/d1890
+Whose bed is that?
+person.n.01 Name ? bed.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+
+p19/d2895
+They were cowards.
+person.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now person.n.01 Role +1 coward.n.01
+
+p90/d1396
+Who is Alger Hiss?
+person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Alger Hiss"
+
+p21/d2838
+It's super simple!
+entity.n.01 time.n.08 EQU now super.r.01 simple.a.01 AttributeOf -3 Time -2 Degree -1
+
+p77/d2578
+I shouldn't drink.
+person.n.01 EQU speaker NECESSITY <1 NEGATION <1 drink.v.02 Agent -1
+
+p25/d0761
+Swift died in 1745.
+male.n.02 Name "Swift" die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1745
+
+p17/d1730
+I also like candy.
+person.n.01 EQU speaker like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now candy.n.01
+
+p14/d3009
+I'm drinking milk.
+person.n.01 EQU speaker time.n.08 EQU now drink.v.01 Agent -2 Time -1 Patient +1 milk.n.01
+
+p15/d1605
+Your arm's broken.
+person.n.01 EQU hearer arm.n.01 PartOf -1 time.n.08 EQU now broken.a.01 AttributeOf -2 Time -1
+
+p41/d1415
+Everything's free.
+NEGATION <1 entity.n.01 NEGATION <1 time.n.08 EQU now free.a.03 AttributeOf -2 Time -1
+
+p60/d3257
+I'll never return.
+person.n.01 EQU speaker NEGATION <1 time.n.08 TSU now return.v.01 Theme -2 Time -1
+
+p67/d2626
+Whose idea was it?
+person.n.01 Name ? idea.n.01 Creator -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+
+p13/d2056
+Whose bag is this?
+person.n.01 Name ? bag.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+
+p04/d3462
+Harry is a wizard.
+male.n.02 Name "Harry" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 wizard.n.02
+
+p54/d0943
+You're a nice one!
+person.n.01 EQU hearer be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now nice.a.01 AttributeOf +1 person.n.01
+
+p73/d2412
+This bucket leaks.
+bucket.n.01 leak.v.04 Source -1 Time +1 time.n.08 EQU now
+
+p68/d2286
+Did Cathy go, too?
+time.n.08 TPR now female.n.02 Name "Cathy" go.v.01 Time -2 Theme -1
+
+p70/d2294
+Should I call 911?
+time.n.08 TSU now person.n.01 EQU speaker call.v.03 Time -2 Agent -1 Theme +1 phone_number.n.01 Name "911"
+
+p27/d2548
+Tom poisoned Mary.
+male.n.02 Name "Tom" poison.v.02 Agent -1 Time +1 Patient +2 time.n.08 TPR now female.n.02 Name "Mary"
+
+p11/d3411
+I climbed Mt. Aso.
+person.n.01 EQU speaker climb.v.01 Theme -1 Time +1 Path +2 time.n.08 TPR now mountain.n.01 Name "Mt. Aso"
+
+p76/d2572
+I'm scared of you.
+person.n.01 EQU speaker time.n.08 EQU now scared.a.01 Experiencer -2 Time -1 Stimulus +1 person.n.01 EQU hearer
+
+p80/d3469
+They're beautiful.
+person.n.01 time.n.08 EQU now beautiful.a.01 AttributeOf -2 Time -1
+
+p03/d1816
+I love rock music.
+person.n.01 EQU speaker love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now rock_music.n.01
+
+p07/d2320
+Is that Guatemala?
+be.v.02 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now entity.n.01 country.n.02 Name "Guatemala"
+
+p79/d1593
+The moon is bright.
+moon.n.01 time.n.08 EQU now bright.a.01 AttributeOf -2 Time -1
+
+p06/d1726
+This party is dull.
+party.n.04 time.n.08 EQU now dull.a.01 AttributeOf -2 Time -1
+
+p10/d2152
+They're disposable.
+entity.n.01 time.n.08 EQU now disposable.a.02 AttributeOf -2 Time -1
+
+p10/d2117
+That's humiliating.
+entity.n.01 time.n.08 EQU now humiliating.a.01 Stimulus -2 Time -1
+
+p98/d2348
+Tom made spaghetti.
+male.n.02 Name "Tom" make.v.39 Agent -1 Time +1 Result +2 time.n.08 TPR now spaghetti.n.01
+
+p02/d2340
+You slept with her?
+person.n.01 EQU hearer sleep_with.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now female.n.02
+
+p81/d2247
+I'm ordering pizza.
+person.n.01 EQU speaker time.n.08 EQU now order.v.02 Agent -2 Time -1 Theme +1 pizza.n.01
+
+p31/d3060
+She's thirty-three.
+female.n.02 time.n.08 EQU now old.a.01 AttributeOf -2 Time -1 Value +1 measure.n.02 Quantity 33 Unit +1 year.n.01
+
+p52/d2041
+You guys are weird.
+person.n.01 EQU hearer guy.n.01 SubOf -1 time.n.08 EQU now weird.a.01 AttributeOf -2 Time -1
+
+p97/d2187
+Call 110 right now.
+person.n.01 EQU hearer call.v.03 Agent -1 Theme +1 Time +2 phone_number.n.01 Name "110" time.n.08 EQU now
+
+p72/d2101
+Everybody liked us.
+NEGATION <1 person.n.01 NEGATION <1 like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now person.n.01 Sub speaker
+
+p08/d3236
+My monkey ran away!
+person.n.01 EQU speaker monkey.n.01 Owner -1 run_away.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p85/d2626
+It's raining again!
+entity.n.01 time.n.08 EQU now rain.v.01 EQU -2 Time -1
+
+p01/d3298
+Tom is unperturbed.
+male.n.02 Name "Tom" time.n.08 EQU now unperturbed.a.01 Experiencer -2 Time -1
+
+p38/d2835
+I pocketed my keys.
+person.n.01 EQU speaker pocket.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker key.n.01 User -1
+
+p86/d2052
+I like disco music.
+person.n.01 EQU speaker like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now disco_music.n.01
+
+p14/d2644
+Kim smiled sweetly.
+female.n.02 Name "Kim" smile.v.02 Agent -1 Time +1 Manner +2 time.n.08 TPR now sweetly.r.01
+
+p50/d1511
+Tom embraces Marie.
+male.n.02 Name "Tom" embrace.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 EQU now female.n.02 Name "Marie"
+
+p41/d2405
+You must be joking!
+person.n.01 EQU hearer NECESSITY <1 time.n.08 EQU now joke.v.02 Agent -2 Time -1
+
+p61/d0803
+Whose book is that?
+person.n.01 Name ? book.n.02 User -1 be.v.01 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+
+p00/d3053
+Can I call you Eli?
+POSSIBILITY <1 person.n.01 EQU speaker call.v.01 Agent -1 Theme +1 Result +2 person.n.01 EQU hearer name.n.01 EQU "Eli"
+
+p00/d2078
+My watch says 2:30.
+person.n.01 EQU speaker watch.n.01 User -1 say.v.11 Theme -1 Time +1 Value +2 time.n.08 EQU now time.n.08 ClockTime 14:30
+
+p43/d3144
+Those are not fish.
+entity.n.01 NEGATION <1 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now fish.n.01
+
+p92/d2363
+Are you illiterate?
+time.n.08 EQU now person.n.01 EQU hearer illiterate.a.01 Time -2 AttributeOf -1
+
+p75/d0912
+Who is this person?
+person.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01
+
+p04/d2828
+I handed him a map.
+person.n.01 EQU speaker hand.v.01 Agent -1 Time +1 Destination +2 Theme +3 time.n.08 TPR now male.n.02 map.n.01
+
+p91/d3506
+Nobody can help me.
+NEGATION <1 person.n.01 POSSIBILITY <1 help.v.01 Agent -1 Beneficiary +1 person.n.01 EQU speaker
+
+p36/d2785
+Am I still married?
+time.n.08 EQU now person.n.01 EQU speaker married.a.01 Time -2 AttributeOf -1
+
+p36/d3229
+Is this Bob's book?
+be.v.02 Time +1 Theme +2 Co-Theme +4 time.n.08 EQU now entity.n.01 male.n.02 Name "Bob" book.n.01 User -1
+
+p32/d0878
+He's an Englishman.
+male.n.02 be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Source +1 country.n.02 Name "england"
+
+p99/d0343
+We foresaw the war.
+person.n.01 Sub speaker foresee.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now war.n.01
+
+p99/d2340
+Something happened.
+entity.n.01 happen.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p34/d2877
+I liked your story.
+person.n.01 EQU speaker like.v.02 Experiencer -1 Time +1 Stimulus +3 time.n.08 TPR now person.n.01 EQU hearer story.n.01 Creator -1
+
+p03/d2481
+Is Tom still happy?
+time.n.08 EQU now male.n.02 Name "Tom" happy.a.01 Time -2 Experiencer -1
+
+p56/d3252
+His stomach growls.
+male.n.02 stomach.n.01 PartOf -1 growl.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p07/d1383
+Who founded Taoism?
+person.n.01 Name ? found.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now taoism.n.01
+
+p66/d1648
+We're honeymooning.
+person.n.01 Sub speaker time.n.08 EQU now honeymoon.v.01 Agent -2 Time -1
+
+p06/d2456
+Half an hour passed.
+hour.n.01 Quantity 0.5 pass.v.04 Duration -1 Time +1 time.n.08 TPR now
+
+p89/d2963
+Tom fucked up again.
+male.n.02 Name "Tom" fuck_up.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p10/d2626
+Yesterday I was ill.
+time.n.08 TIN +2 day.n.03 TCT now day.n.03 TAB -1 person.n.01 EQU speaker time.n.08 TPR now ill.a.01 Time -5 AttributeOf -2 Time -1
+
+p02/d3004
+Tom was misbehaving.
+male.n.02 Name "Tom" time.n.08 TPR now misbehave.v.01 Agent -2 Time -1
+
+p62/d3416
+I never played golf.
+person.n.01 EQU speaker NEGATION <1 play.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now golf.n.01
+
+p62/d2971
+Nobody contacted me.
+NEGATION <1 person.n.01 contact.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now person.n.01 EQU speaker
+
+p31/d0951
+I'm fed up with him.
+person.n.01 EQU speaker time.n.08 EQU now fed_up.a.01 Experiencer -2 Time -1 Stimulus +1 male.n.02
+
+p09/d2677
+I come from Holland.
+person.n.01 EQU speaker come.v.08 Theme -1 Time +1 Source +2 time.n.08 EQU now country.n.02 Name "Holland"
+
+p83/d2074
+It's kind of creepy.
+entity.n.01 time.n.08 EQU now kind_of.r.01 creepy.a.01 AttributeOf -3 Time -2 Degree -1
+
+p97/d3383
+I was going to work.
+person.n.01 EQU speaker time.n.08 TPR now go.v.01 Theme -2 Time -1 Destination +1 work.n.03
+
+p59/d2549
+You can't leave now.
+person.n.01 EQU hearer NEGATION <1 POSSIBILITY <1 leave.v.01 Theme -1 Time +1 time.n.08 EQU now
+
+p08/d2226
+Anybody can do this.
+NEGATION <1 person.n.01 NEGATION <1 POSSIBILITY <1 do.v.02 Agent -1 Theme +1 entity.n.01
+
+p19/d3341
+Everybody's smiling.
+NEGATION <1 person.n.01 NEGATION <1 time.n.08 EQU now smile.v.01 Agent -2 Time -1
+
+p01/d1663
+Tom knows Mary lied.
+male.n.02 Name "Tom" know.v.01 Proposition >1 Experiencer -1 Time +1 time.n.08 EQU now CONTINUATION <0 female.n.02 Name "Mary" lie.v.05 Agent -1 Time +1 time.n.08 TPR now
+
+p58/d3387
+Tom glanced at Mary.
+male.n.02 Name "Tom" glance.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now female.n.02 Name "Mary"
+
+p21/d2889
+What a genius he is!
+person.n.01 Role +1 genius.n.01 male.n.02 be.v.01 Co-Theme -3 Theme -1 Time +1 time.n.08 EQU now
+
+p38/d3381
+I owe you 3,000 yen.
+person.n.01 EQU speaker owe.v.03 Agent -1 Time +1 Beneficiary +2 Theme +4 time.n.08 EQU now person.n.01 EQU hearer quantity.n.01 EQU 3000 yen.n.02 Quantity -1
+
+p25/d2456
+Tom shut the blinds.
+male.n.02 Name "Tom" shut.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now blind.n.03
+
+p86/d1396
+Who is Annie Oakley?
+person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now female.n.02 Name "Annie Oakley"
+
+p14/d0058
+Two cubs are playing
+quantity.n.01 EQU 2 cub.n.03 Quantity -1 time.n.08 EQU now play.v.05 Agent -2 Time -1
+
+p50/d1857
+You reek of alcohol.
+person.n.01 EQU hearer reek.v.02 Location -1 Time +1 Theme +2 time.n.08 EQU now alcohol.n.01
+
+p64/d2183
+You guys are insane!
+person.n.01 EQU hearer guy.n.01 SubOf -1 time.n.08 EQU now insane.a.01 AttributeOf -2 Time -1
+
+p00/d1565
+You're a workaholic.
+person.n.01 EQU hearer EQU +2 time.n.08 EQU now person.n.01 Role +1 workaholic.n.01 Time -2
+
+p00/d0771
+Maria has long hair.
+female.n.02 Name "Maria" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now long.a.02 Value + hair.n.01 Attribute -1
+
+p43/d1614
+Where's my golf bag?
+location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +3 time.n.08 EQU now person.n.01 EQU speaker golf_bag.n.01 User -1
+
+p92/d2781
+Zucchinis are green.
+zucchini.n.02 time.n.08 EQU now green.a.01 ColourOf -2 Time -1
+
+p16/d2612
+I'm reading my book.
+person.n.01 EQU speaker time.n.08 EQU now read.v.01 Agent -2 Time -1 Source +2 person.n.01 EQU speaker book.n.01 User -1
+
+p47/d2236
+Who wrote this poem?
+person.n.01 Name ? write.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now poem.n.01
+
+p24/d2958
+I have appendicitis.
+person.n.01 EQU speaker have.v.16 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now appendicitis.n.01
+
+p46/d1395
+What is Freddie Mac?
+entity.n.01 EQU ? be.v.01 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now company.n.01 Name "Freddie Mac"
+
+p91/d1395
+Who is Alice Rivlin?
+person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now female.n.02 Name "Alice Rivlin"
+
+p36/d0829
+Many cars passed by.
+car.n.01 Quantity + pass_by.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p70/d2167
+Poaching is illegal.
+poach.v.01 time.n.08 EQU now illegal.a.01 AttributeOf -2 Time -1
+
+p23/d2100
+I used to eat pizza.
+person.n.01 EQU speaker time.n.08 TPR now eat.v.01 Agent -2 Time -1 Patient +1 pizza.n.01
+
+p32/d0959
+He was born in Ohio.
+male.n.02 time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 state.n.01 Name "Ohio"
+
+p27/d2261
+I use birth control.
+person.n.01 EQU speaker use.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now birth_control.n.01
+
+p34/d3246
+I speak French, too.
+person.n.01 EQU speaker speak.v.03 Agent -1 Time +1 Theme +2 time.n.08 EQU now french.n.01
+
+p20/d0207
+I am playing Chopin.
+person.n.01 EQU speaker time.n.08 EQU now play.v.07 Agent -2 Time -1 Theme +1 chopin.n.01
+
+p96/d2299
+Mary milked the cow.
+female.n.02 Name "Mary" milk.v.01 Agent -1 Time +1 Source +2 time.n.08 TPR now cow.n.01
+
+p80/d2497
+We are in Formigine.
+person.n.01 Sub speaker be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now town.n.01 Name "Formigine"
+
+p03/d2676
+Mary loves her pony.
+female.n.02 Name "Mary" love.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now female.n.02 ANA -3 pony.n.05 Owner -1
+
+p33/d2476
+In which city is he?
+city.n.01 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now male.n.02
+
+p66/d1777
+She blackmailed him.
+female.n.02 blackmail.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now male.n.02
+
+p37/d0774
+I'm allergic to fish.
+person.n.01 EQU speaker time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 fish.n.02
+
+p06/d3214
+I owe him 50,000 yen.
+person.n.01 EQU speaker owe.v.03 Agent -1 Time +1 Beneficiary +2 Theme +4 time.n.08 EQU now male.n.02 quantity.n.01 EQU 50000 yen.n.02 Quantity -1
+
+p10/d2837
+I'm in love with her.
+person.n.01 EQU speaker time.n.08 EQU now in_love.a.01 Experiencer -2 Time -1 Stimulus +1 female.n.02
+
+p02/d2690
+Tom is grilling meat.
+male.n.02 Name "Tom" time.n.08 EQU now grill.v.01 Agent -2 Time -1 Patient +1 meat.n.01
+
+p62/d2617
+They bought a parrot.
+person.n.01 buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now parrot.n.01
+
+p31/d3259
+Did you question her?
+time.n.08 TPR now person.n.01 EQU hearer question.v.02 Time -2 Agent -1 Recipient +1 female.n.02
+
+p35/d1336
+The El Aqsa Intifadah
+event.v.01 Participant +1 war.n.01 Name "El Aqsa Intifadah"
+
+p84/d2927
+Anna loves chocolate.
+female.n.02 Name "Anna" love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now chocolate.n.02
+
+p52/d2116
+Who invented karaoke?
+person.n.01 Name ? invent.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now karaoke.n.01
+
+p82/d2254
+I saw nothing at all.
+person.n.01 EQU speaker NEGATION <1 see.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now entity.n.01
+
+p18/d0868
+My mother can't come.
+person.n.01 EQU speaker person.n.01 Role +1 mother.n.01 Of -2 NEGATION <1 POSSIBILITY <1 come.v.01 Theme -2
+
+p08/d3388
+He mocked my efforts.
+male.n.02 mock.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker effort.n.01 Creator -1
+
+p88/d1421
+I took the wrong bus.
+person.n.01 EQU speaker take.v.09 Agent -1 Time +1 Theme +3 time.n.08 TPR now wrong.a.01 AttributeOf +1 bus.n.01
+
+p01/d3416
+Everyone shook hands.
+NEGATION <1 person.n.01 NEGATION <1 shake.v.09 Agent -1 Time +1 Patient +2 time.n.08 TPR now hand.n.01
+
+p90/d1516
+I'll find Tom myself.
+person.n.01 EQU speaker time.n.08 TSU now find.v.03 Agent -2 Time -1 Theme +1 male.n.02 Name "Tom"
+
+p51/d0124
+Is your skull broken?
+time.n.08 EQU now person.n.01 EQU hearer skull.n.01 PartOf -1 broken.a.01 Time -3 AttributeOf -1
+
+p77/d2398
+He devoured his meal.
+male.n.02 devour.v.04 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 meal.n.01 Consumer -1
+
+p86/d0928
+None of this is good.
+NEGATION <1 entity.n.01 SubOf +1 entity.n.01 time.n.08 EQU now good.a.01 AttributeOf -3 Time -1
+
+p14/d2394
+Everyone noticed her.
+NEGATION <1 person.n.01 NEGATION <1 notice.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now female.n.02
+
+p15/d0788
+Where's the restroom?
+location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now restroom.n.01
+
+p50/d1654
+He envied my success.
+male.n.02 envy.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 TPR now person.n.01 EQU speaker success.n.03 User -1
+
+p22/d0814
+We elected him mayor.
+person.n.01 Sub speaker elect.v.01 Agent -1 Time +1 Theme +2 Result +3 time.n.08 TPR now male.n.02 person.n.01 Role +1 mayor.n.01
+
+p00/d3438
+I like bright colors.
+person.n.01 EQU speaker like.v.02 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now bright.a.01 AttributeOf +1 color.n.01
+
+p00/d1503
+Is the cat all right?
+time.n.08 EQU now cat.n.01 all_right.a.01 Time -2 AttributeOf -1
+
+p43/d0927
+I owe him 10 dollars.
+person.n.01 EQU speaker owe.v.03 Agent -1 Time +1 Beneficiary +2 Theme +4 time.n.08 EQU now male.n.02 quantity.n.01 EQU 10 dollar.n.01 Quantity -1
+
+p42/d1536
+He is still at large.
+male.n.02 time.n.08 EQU now at_large.a.01 AttributeOf -2 Time -1
+
+p24/d1392
+Who is Alberto Tomba?
+person.n.01 EQU ? be.v.01 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Alberto Tomba"
+
+p54/d2734
+He massaged her back.
+male.n.02 massage.v.01 Agent -1 Time +1 Experiencer +3 time.n.08 TPR now female.n.02 back.n.01 PartOf -1
+
+p91/d2800
+I hate peanut butter.
+person.n.01 EQU speaker hate.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now peanut_butter.n.01
+
+p73/d2352
+I don't speak Hebrew.
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now speak.v.03 Agent -2 Time -1 Theme +1 hebrew.n.01
+
+p73/d2755
+She pressed a button.
+female.n.02 press.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now button.n.02
+
+p70/d1513
+A dog is barking now.
+dog.n.01 time.n.08 EQU now bark.v.04 Agent -2 Time -1 Time +1 time.n.08 EQU now
+
+p40/d1466
+Mary enjoyed herself.
+female.n.02 Name "Mary" enjoy.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now female.n.02 ANA -3
+
+p40/d2565
+They're in aisle two.
+person.n.01 be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now aisle.n.02 Order 2
+
+p27/d1663
+What is your surname?
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer surname.n.01 Bearer -1
+
+p99/d0796
+Is this your bicycle?
+be.v.02 Time +1 Theme +2 Co-Theme +4 time.n.08 EQU now entity.n.01 person.n.01 EQU hearer bicycle.n.01 User -1
+
+p34/d2398
+This is a wood table.
+entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now wood.n.01 table.n.02 MadeOf -1
+
+p69/d2497
+I dreamed about Yumi.
+person.n.01 EQU speaker dream.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now female.n.02 Name "Yumi"
+
+p96/d2367
+Have you googled Tom?
+person.n.01 EQU hearer google.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now male.n.02 Name "Tom"
+
+p03/d2764
+The light bulb burst.
+light_bulb.n.01 burst.v.01 Patient -1 Time +1 time.n.08 TPR now
+
+p56/d0785
+Where's the bus stop?
+location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now bus_stop.n.01
+
+p07/d2498
+Maybe you'll succeed.
+POSSIBILITY <1 person.n.01 EQU hearer time.n.08 TSU now succeed.v.01 Agent -2 Time -1
+
+p26/d2152
+I married Tom in 2013.
+person.n.01 EQU speaker marry.v.01 Agent -1 Time +1 Co-Agent +2 Time +3 time.n.08 TPR now male.n.02 Name "Tom" time.n.08 YearOfCentury 2013
+
+p79/d0767
+Nobody understands me.
+NEGATION <1 person.n.01 understand.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now person.n.01 EQU speaker
+
+p06/d3386
+You're happy-go-lucky.
+person.n.01 EQU hearer time.n.08 EQU now happy-go-lucky.a.01 AttributeOf -2 Time -1
+
+p10/d3165
+You're older than him.
+person.n.01 EQU hearer time.n.08 EQU now old.a.01 AttributeOf -2 Time -1 Degree +1 more.r.01 Theme -3 Co-Theme +1 male.n.02
+
+p02/d2758
+Whose handbag is this?
+person.n.01 Name ? handbag.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+
+p05/d1765
+Throw the ball to Tom.
+person.n.01 EQU hearer throw.v.01 Agent -1 Theme +1 Destination +2 ball.n.01 male.n.02 Name "Tom"
+
+p05/d1701
+They're playing chess.
+person.n.01 time.n.08 EQU now play.v.01 Agent -2 Time -1 Theme +1 chess.n.02
+
+p31/d1839
+Four times five is 20.
+number.n.02 EQU 4 times.n.02 Theme -1 Co-Theme +1 number.n.02 EQU 5 be.v.06 Theme -2 Co-Theme +1 number.n.02 EQU 20
+
+p09/d2373
+They ate marshmallows.
+person.n.01 eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now marshmallow.n.01
+
+p84/d0784
+Brian took some roses.
+male.n.02 Name "Brian" take.v.04 Agent -1 Time +1 Theme +2 time.n.08 TPR now rose.n.01
+
+p63/d3259
+The jackal is howling.
+jackal.n.01 time.n.08 EQU now howl.v.02 Agent -2 Time -1
+
+p53/d2488
+Maria salted the meat.
+female.n.02 Name "Maria" salt.v.01 Agent -1 Time +1 Destination +2 time.n.08 TPR now meat.n.01
+
+p18/d2642
+You're older than her.
+person.n.01 EQU hearer time.n.08 EQU now old.a.01 AttributeOf -2 Time -1 Degree +1 more.r.01 Theme -3 Co-Theme +1 female.n.02
+
+p08/d1878
+I'm eating dinner now.
+person.n.01 EQU speaker time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 Time +2 dinner.n.01 time.n.08 EQU now
+
+p85/d3191
+Tom grimaced slightly.
+male.n.02 Name "Tom" grimace.v.01 Agent -1 Time +1 Manner +2 time.n.08 TPR now slightly.r.01
+
+p01/d0017
+A man is lumping dough
+man.n.01 time.n.08 EQU now lump.v.01 Agent -2 Time -1 Patient +1 dough.n.01
+
+p58/d0892
+I'm not afraid at all.
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now afraid.a.01 Experiencer -2 Time -1
+
+p21/d3368
+I bought a few stamps.
+person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now stamp.n.04 Quantity -
+
+p51/d2590
+I had my money stolen.
+person.n.01 EQU speaker time.n.08 TPR now person.n.01 EQU speaker money.n.01 User -1 steal.v.01 Beneficiary -4 Time -3 Theme -1
+
+p77/d1393
+Who is Albert Ghiorso?
+person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Albert Ghiorso"
+
+p44/d2443
+A cat abhors a vacuum.
+NEGATION <1 cat.n.01 NEGATION <1 abhor.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now vacuum.n.04
+
+p17/d1450
+He's manipulating you!
+male.n.02 time.n.08 EQU now manipulate.v.05 Agent -2 Time -1 Patient +1 person.n.01 EQU hearer
+
+p17/d2459
+Betty killed everyone.
+female.n.02 Name "Betty" NEGATION <1 person.n.01 NEGATION <1 kill.v.01 Agent -2 Patient -1 Time +1 time.n.08 TPR now
+
+p87/d1806
+Everyone looked at us.
+NEGATION <1 person.n.01 NEGATION <1 look.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now person.n.01 Sub speaker
+
+p22/d3143
+Tom's stomach growled.
+male.n.02 Name "Tom" stomach.n.01 PartOf -1 growl.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p00/d2162
+Do you like Europeans?
+time.n.08 EQU now person.n.01 EQU hearer like.v.03 Time -2 Experiencer -1 Stimulus +1 person.n.01 Source +1 continent.n.01 Name "europe"
+
+p60/d0927
+This is so depressing.
+entity.n.01 time.n.08 EQU now so.r.01 depressing.a.01 Experiencer -3 Time -2 Degree -1
+
+p92/d1392
+How did Cleopatra die?
+manner.n.01 EQU ? time.n.08 TPR now female.n.02 Name "Cleopatra" die.v.01 Manner -3 Time -2 Patient -1
+
+p13/d0874
+Guus Hiddink is Dutch.
+male.n.02 Name "Guus Hiddink" time.n.08 EQU now be.v.03 Theme -2 Time -1 Source +1 country.n.02 Name "netherlands"
+
+p75/d2971
+Everybody wants to go.
+NEGATION <1 person.n.01 NEGATION <1 want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now go.v.03 Theme -3
+
+p29/d1675
+Mike Tyson is a boxer.
+male.n.02 Name "Mike Tyson" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 boxer.n.01
+
+p04/d3337
+My bicycle has a flat.
+person.n.01 EQU speaker bicycle.n.01 User -1 have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now flat.n.05
+
+p12/d3331
+I gave him a sedative.
+person.n.01 EQU speaker give.v.03 Agent -1 Time +1 Recipient +2 Theme +3 time.n.08 TPR now male.n.02 sedative.n.01
+
+p39/d1385
+How did Eva Peron die?
+manner.n.01 EQU ? time.n.08 TPR now female.n.02 Name "Eva Peron" die.v.01 Manner -3 Time -2 Patient -1
+
+p36/d2829
+Which car did you buy?
+car.n.01 EQU ? time.n.08 TPR now person.n.01 EQU hearer buy.v.01 Theme -3 Time -2 Agent -1
+
+p71/d1599
+Linda likes chocolate.
+female.n.02 Name "Linda" like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now chocolate.n.02
+
+p23/d2483
+Whose books are those?
+person.n.01 Name ? book.n.02 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+
+p40/d2766
+What a beautiful ring!
+be.v.01 Theme +1 Co-Theme +3 entity.n.01 beautiful.a.01 AttributeOf +1 ring.n.08
+
+p27/d1798
+Did you hurt yourself?
+time.n.08 TPR now person.n.01 EQU hearer hurt.v.02 Time -2 Experiencer -1 Stimulus -1
+
+p11/d2268
+Nobody encouraged him.
+NEGATION <1 person.n.01 encourage.v.02 Agent -1 Time +1 Recipient +2 time.n.08 TPR now male.n.02
+
+p99/d2399
+Let's get off the bus.
+time.n.08 TSU now person.n.01 EQU speaker get_off.v.01 Time -2 Theme -1 Source +1 bus.n.01
+
+p96/d0802
+A dolphin is a mammal.
+NEGATION <1 dolphin.n.02 NEGATION <1 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now mammal.n.01
+
+p80/d1467
+They're afraid of Tom.
+person.n.01 time.n.08 EQU now afraid.a.01 Experiencer -2 Time -1 Stimulus +1 male.n.02 Name "Tom"
+
+p56/d2747
+I will return at 6:30.
+person.n.01 EQU speaker time.n.08 TSU now return.v.01 Theme -2 Time -1 Time +1 time.n.08 ClockTime 18:30
+
+p33/d2930
+It's a quarter to two.
+entity.n.01 EQU now EQU +1 time.n.08 ClockTime 13:45
+
+p94/d1905
+Who discovered radium?
+person.n.01 Name ? discover.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now radium.n.01
+
+p26/d2575
+I know you can do this.
+person.n.01 EQU speaker know.v.01 Proposition >1 Experiencer -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer POSSIBILITY <1 do.v.02 Agent -1 Theme +1 entity.n.01
+
+p37/d2401
+You're a fucking idiot!
+person.n.01 EQU hearer be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now fucking.a.01 AttributeOf +1 person.n.01 Role +1 idiot.n.01
+
+p10/d2197
+Tom is angry, isn't he?
+male.n.02 Name "Tom" time.n.08 EQU now angry.a.01 Experiencer -2 Time -1
+
+p98/d0929
+Are you angry with Tom?
+time.n.08 EQU now person.n.01 EQU hearer angry.a.01 Time -2 Experiencer -1 Stimulus +1 male.n.02 Name "Tom"
+
+p02/d3417
+Mary oiled her bicycle.
+female.n.02 Name "Mary" oil.v.01 Agent -1 Time +1 Destination +3 time.n.08 TPR now female.n.02 ANA -3 bicycle.n.01 User -1
+
+p93/d1468
+Everybody wants to win.
+NEGATION <1 person.n.01 NEGATION <1 want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now win.v.01 Agent -3
+
+p05/d2395
+He's dark and handsome.
+male.n.02 time.n.08 EQU now time.n.08 EQU now dark.a.10 AttributeOf -3 Time -2 handsome.a.01 AttributeOf -4 Time -2
+
+p35/d0920
+If he's busy, help him.
+male.n.02 time.n.08 EQU now busy.a.01 AttributeOf -2 Time -1 CONSEQUENCE <1 person.n.01 EQU hearer help.v.01 Agent -1 Beneficiary +1 male.n.02 ANA -5
+
+p28/d2428
+I can't speak Japanese.
+person.n.01 EQU speaker NEGATION <1 POSSIBILITY <1 speak.v.03 Agent -1 Theme +1 japanese.n.02
+
+p30/d0872
+My computer has frozen.
+person.n.01 EQU speaker computer.n.01 User -1 freeze.v.01 Patient -1 Time +1 time.n.08 TPR now
+
+p53/d2793
+My sister adores music.
+person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2 adore.v.01 Experiencer -2 Time +1 Stimulus +2 time.n.08 EQU now music.n.01
+
+p82/d2388
+The wine was excellent.
+wine.n.01 time.n.08 TPR now excellent.a.01 AttributeOf -2 Time -1
+
+p08/d2537
+Where's Tom's umbrella?
+location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +3 time.n.08 EQU now male.n.02 Name "Tom" umbrella.n.01 User -1
+
+p78/d1937
+Do whatever's required.
+person.n.01 EQU hearer NEGATION <1 entity.n.01 time.n.08 EQU now require.v.02 Theme -2 Time -1 NEGATION <1 do.v.02 Agent -4 Theme -3
+
+p01/d1872
+Tom is timid, isn't he?
+male.n.02 Name "Tom" time.n.08 EQU now timid.a.01 AttributeOf -2 Time -1
+
+p01/d2053
+What a beautiful place!
+be.v.01 Theme +1 Co-Theme +3 entity.n.01 beautiful.a.01 AttributeOf +1 place.n.01
+
+p58/d2171
+Who wrote "The Prince"?
+person.n.01 Name ? write.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now book.n.01 Name "The Prince"
+
+p77/d1389
+How long is a Fiat 500?
+long.a.02 Value ? Time +1 AttributeOf +2 time.n.08 EQU now fiat_500.n.01
+
+p86/d1431
+Our pilaf is four yuan.
+person.n.01 Sub speaker pilaf.n.01 Creator -1 be.v.13 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 4 yuan.n.01 Quantity -1
+
+p14/d2938
+Is anyone else bidding?
+time.n.08 EQU now person.n.01 NEQ +1 person.n.01 bid.v.01 Time -3 Agent -2
+
+p50/d2599
+My watch is waterproof.
+person.n.01 EQU speaker watch.n.01 User -1 time.n.08 EQU now waterproof.a.01 AttributeOf -2 Time -1
+
+p64/d2398
+I'm sorry, I fucked up.
+person.n.01 EQU speaker time.n.08 EQU now sorry.a.01 Theme -2 Time -1 CONTINUATION <1 person.n.01 EQU speaker fuck_up.v.01 Agent -1 Time +1 time.n.08 TPR now
+
+p41/d1395
+Who is Andrew Carnegie?
+person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Andrew Carnegie"
+
+p00/d3418
+I didn't murder anyone.
+person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now murder.v.01 Agent -2 Time -1 Patient +1 person.n.01
+
+p00/d2321
+I hope she's all right.
+person.n.01 EQU speaker hope.v.01 Proposition >1 Pivot -1 Time +1 time.n.08 EQU now CONTINUATION <0 female.n.02 time.n.08 EQU now all_right.a.01 AttributeOf -2 Time -1
+
+p67/d1513
+I majored in chemistry.
+person.n.01 EQU speaker major.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now chemistry.n.01
+
+p42/d1468
+Let's sit in the shade.
+time.n.08 TSU now person.n.01 EQU speaker sit.v.01 Time -2 Agent -1 Location +1 shade.n.01
+
+p13/d0778
+Is it anything serious?
+be.v.01 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now entity.n.01 entity.n.01 Attribute +1 serious.a.01
+
+p16/d3497
+Tom is my ex-boyfriend.
+male.n.02 Name "Tom" be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker time.n.08 TPR now person.n.01 Role +1 boyfriend.n.01 Of -3 Time -2
+
+p29/d1795
+I used to keep a diary.
+person.n.01 EQU speaker time.n.08 TPR now keep.v.08 Agent -2 Time -1 Theme +1 diary.n.01
+
+p04/d2935
+I'll be reading a book.
+person.n.01 EQU speaker time.n.08 TSU now read.v.01 Experiencer -2 Time -1 Stimulus +1 book.n.01
+
+p54/d1663
+My stomach is growling.
+person.n.01 EQU speaker stomach.n.01 PartOf -1 time.n.08 EQU now growl.v.01 Theme -2 Time -1
+
+p91/d3507
+No one is invulnerable.
+NEGATION <1 person.n.01 time.n.08 EQU now invulnerable.a.01 AttributeOf -2 Time -1
+
+p39/d1740
+I gave a lot of cheese.
+person.n.01 EQU speaker give.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01 Quantity + EQU +1 cheese.n.01
+
+p55/d2286
+Let's go to the cinema.
+time.n.08 TSU now person.n.01 EQU speaker go.v.01 Time -2 Theme -1 Destination +1 cinema.n.02
+
+p70/d2295
+Susan left an hour ago.
+female.n.02 Name "Susan" leave.v.01 Theme -1 Time +1 Time +3 time.n.08 TPR now hour.n.01 Quantity 1 TAB now time.n.08 TAB -1
+
+p40/d2842
+He has eleven children.
+male.n.02 have.v.01 Pivot -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 11 child.n.02 Quantity -1
+
+p11/d1700
+What bee has stung you?
+bee.n.01 EQU ? sting.v.02 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU hearer
+
+p76/d2640
+We need your signature.
+person.n.01 Sub speaker need.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now person.n.01 EQU hearer signature.n.01 Creator -1
+
+p34/d3553
+She crumbled a biscuit.
+female.n.02 crumble.v.02 Agent -1 Time +1 Patient +2 time.n.08 TPR now biscuit.n.02
+
+p69/d2470
+Jesus has abs of steel.
+male.n.02 Name "Jesus" have.v.02 Pivot -1 Time +1 Theme +2 time.n.08 EQU now ab.n.03 MadeOf +1 steel.n.01
+
+p96/d2890
+Tom crawled out of bed.
+male.n.02 Name "Tom" crawl.v.01 Theme -1 Time +1 Source +2 time.n.08 TPR now bed.n.01
+
+p03/d0805
+You mustn't use my pen.
+person.n.01 EQU hearer NECESSITY <1 NEGATION <1 use.v.01 Agent -1 Theme +2 person.n.01 EQU speaker pen.n.01 User -1
+
+p07/d3045
+Whose textbook is this?
+person.n.01 Name ? textbook.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+
+p66/d1391
+Name a song by Nirvana.
+person.n.01 EQU hearer name.v.02 Agent -1 Theme +1 song.n.01 Creator +1 musical_organization.n.01 Name "Nirvana"
+
+p26/d2674
+I knew it was unhealthy.
+person.n.01 EQU speaker know.v.01 Proposition >1 Experiencer -1 Time +1 time.n.08 TPR now CONTINUATION <0 entity.n.01 time.n.08 TPR now unhealthy.a.01 AttributeOf -2 Time -1
+
+p89/d1393
+How did Brandon Lee die?
+manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "Brandon Lee" die.v.01 Manner -3 Time -2 Patient -1
+
+p10/d1501
+I owe him 1,000 dollars.
+person.n.01 EQU speaker owe.v.03 Agent -1 Time +1 Beneficiary +2 Theme +4 time.n.08 EQU now male.n.02 quantity.n.01 EQU 1000 dollar.n.01 Quantity -1
+
+p10/d1433
+I think Tom is outgoing.
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 male.n.02 Name "Tom" time.n.08 EQU now outgoing.a.03 AttributeOf -2 Time -1
+
+p62/d3443
+He acted like a lunatic.
+male.n.02 act.v.02 Agent -1 Time +1 Attribute +2 time.n.08 TPR now person.n.01 Role +1 lunatic.n.01
+
+p81/d1871
+What's your maiden name?
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+
+p35/d2620
+A north wind is blowing.
+north.n.04 wind.n.01 Source -1 time.n.08 EQU now blow.v.02 Theme -2 Time -1
+
+p09/d2035
+Can you see anyone else?
+POSSIBILITY <1 person.n.01 EQU hearer see.v.01 Experiencer -1 Stimulus +1 person.n.01 NEQ +1 person.n.01
+
+p28/d3024
+I brought you red roses.
+person.n.01 EQU speaker bring.v.01 Agent -1 Time +1 Destination +2 Theme +4 time.n.08 TPR now person.n.01 EQU hearer red.a.01 rose.n.01 Colour -1
+
+p53/d0942
+I grew up in that house.
+person.n.01 EQU speaker grow_up.v.01 Patient -1 Time +1 Location +2 time.n.08 TPR now location.n.01 STI +1 house.n.01
+
+p18/d3246
+I didn't sell Tom those.
+person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now sell.v.01 Agent -2 Time -1 Recipient +1 Theme +2 male.n.02 Name "Tom" entity.n.01
+
+p72/d2432
+His biceps are very big.
+male.n.02 biceps.n.01 PartOf -1 time.n.08 EQU now very.r.01 big.a.01 Time -2 Degree -1 Value + AttributeOf -3
+
+p08/d3277
+I majored in psychology.
+person.n.01 EQU speaker major.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now psychology.n.01
+
+p88/d3262
+How did your sister die?
+manner.n.01 EQU ? time.n.08 TPR now person.n.01 EQU hearer person.n.01 Role +1 sister.n.01 Of -2 die.v.01 Manner -5 Time -4 Patient -2
+
+p19/d0762
+Lady Diana died in Paris.
+lady.n.03 female.n.02 Name "Diana" Title -1 die.v.01 Patient -1 Time +1 Location +2 time.n.08 TPR now city.n.01 Name "Paris"
+
+p01/d3129
+The restaurant is empty.
+restaurant.n.01 time.n.08 EQU now empty.a.01 AttributeOf -2 Time -1
+
+p90/d3194
+I got her a wrist watch.
+person.n.01 EQU speaker get.v.22 Agent -1 Time +1 Beneficiary +2 Theme +3 time.n.08 TPR now female.n.02 wrist_watch.n.01
+
+p21/d2189
+My cellphone is ringing.
+person.n.01 EQU speaker cellphone.n.01 User -1 time.n.08 EQU now ring.v.01 Theme -2 Time -1
+
+p45/d1392
+How did Patsy Cline die?
+manner.n.01 EQU ? time.n.08 TPR now female.n.02 Name "Patsy Cline" die.v.01 Manner -3 Time -2 Patient -1
+
+p45/d0823
+I have a very old stamp.
+person.n.01 EQU speaker have.v.01 Pivot -1 Time +1 Theme +4 time.n.08 EQU now very.r.01 old.a.02 Degree -1 Value + AttributeOf +1 stamp.n.04
+
+p48/d2468
+The two men shook hands.
+quantity.n.01 EQU 2 man.n.01 Quantity -1 shake.v.09 Agent -1 Time +1 Theme +2 time.n.08 TPR now hand.n.01
+
+p86/d1579
+We'll have loads of fun.
+person.n.01 Sub speaker time.n.08 TSU now have.v.03 Experiencer -2 Time -1 Stimulus +1 entity.n.01 Quantity + EQU +1 fun.n.01
+
+p87/d1940
+Everything is all right.
+NEGATION <1 entity.n.01 NEGATION <1 time.n.08 EQU now all_right.a.01 AttributeOf -2 Time -1
+
+p50/d3044
+I want to kill somebody.
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now kill.v.01 Agent -3 Patient +1 person.n.01
+
+p50/d2304
+Mary dyed her hair blue.
+female.n.02 Name "Mary" dye.v.01 Agent -1 Time +1 Patient +3 Result +4 time.n.08 TPR now female.n.02 ANA -3 hair.n.01 PartOf -1 blue.a.01 ColourOf -1
+
+p41/d2804
+She installed a program.
+female.n.02 instal.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now program.n.07
+
+p00/d1693
+Your jokes aren't funny.
+person.n.01 EQU hearer joke.n.01 Creator -1 NEGATION <1 time.n.08 EQU now funny.a.01 AttributeOf -2 Time -1
+
+p60/d1798
+What a dishonest fellow!
+be.v.01 Theme +1 Co-Theme +3 entity.n.01 dishonest.a.01 AttributeOf +1 person.n.01 Role +1 fellow.n.01
+
+p92/d2898
+What is your first name?
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer first_name.n.01 Bearer -1
+
+p13/d1527
+Tom switched off the TV.
+male.n.02 Name "Tom" switch_off.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now tv.n.02
+
+p75/d3390
+The cat arched its back.
+cat.n.01 arch.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now entity.n.01 ANA -3 back.n.01 PartOf -1
+
+p04/d3045
+My passport has expired.
+person.n.01 EQU speaker passport.n.02 User -1 expire.v.01 Patient -1 Time +1 time.n.08 TPR now
+
+p12/d1720
+She's not young, is she?
+female.n.02 NEGATION <1 time.n.08 EQU now young.a.01 AttributeOf -2 Time -1
+
+p39/d0155
+He grinned with delight.
+male.n.02 grin.v.01 Agent -1 Time +1 Manner +2 time.n.08 TPR now delight.n.01
+
+p74/d1495
+I sold it for 600 euros.
+person.n.01 EQU speaker sell.v.02 Agent -1 Time +1 Theme +2 Asset +4 time.n.08 TPR now entity.n.01 quantity.n.01 EQU 600 euro.n.01 Quantity -1
+
+p68/d2376
+Texas borders on Mexico.
+state.n.01 Name "Texas" border.v.04 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now country.n.02 Name "Mexico"
+
+p71/d3199
+I love hard-boiled eggs.
+person.n.01 EQU speaker love.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now hard-boiled.a.03 AttributeOf +1 egg.n.02
+
+p40/d0804
+How long is that bridge?
+long.a.02 Value ? Time +1 AttributeOf +2 time.n.08 EQU now bridge.n.01
+
+p65/d1976
+None of my friends know.
+NEGATION <1 entity.n.01 SubOf +2 person.n.01 EQU speaker person.n.01 Role +1 friend.n.01 Of -2 know.v.01 Experiencer -4 Time +1 time.n.08 EQU now
+
+p57/d0761
+Vance worked with Hooper.
+male.n.02 Name "Vance" work.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 Name "Hooper"
+
+p11/d3490
+I'm sitting next to Tom.
+person.n.01 EQU speaker time.n.08 EQU now sit.v.01 Theme -2 Time -1 next.a.02 Theme -1 Theme +1 male.n.02 Name "Tom"
+
+p99/d2403
+I am sweating in my bed.
+person.n.01 EQU speaker time.n.08 EQU now sweat.v.01 Source -2 Time -1 Location +2 person.n.01 EQU speaker bed.n.01 User -1
+
+p49/d2950
+The bed costs 120 euros!
+bed.n.01 cost.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 120 euro.n.01 Quantity -1
+
+p96/d1536
+There were 30 survivors.
+entity.n.01 be.v.04 EQU -1 Time +1 Theme +3 time.n.08 TPR now quantity.n.01 EQU 30 person.n.01 Quantity -1 Role +1 survivor.n.01
+
+p80/d1646
+Tom paid by credit card.
+male.n.02 Name "Tom" pay.v.01 Agent -1 Time +1 Instrument +2 time.n.08 TPR now credit_card.n.01
+
+p56/d2630
+I am allergic to pollen.
+person.n.01 EQU speaker time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 pollen.n.01
+
+p26/d0102
+My blood pressure is low.
+person.n.01 EQU speaker blood_pressure.n.01 Affectee -1 time.n.08 EQU now low.a.01 Time -1 Value + AttributeOf -2
+
+p79/d2109
+You'll regret it someday.
+person.n.01 EQU hearer time.n.08 TSU now regret.v.01 Experiencer -2 Time -1 Stimulus +1 Time +2 entity.n.01 time.n.08 TSU now
+
+p10/d1383
+Who founded Rhode Island?
+person.n.01 Name ? found.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now state.n.04 Name "Rhode Island"
+
+p98/d0954
+His new car is wonderful.
+male.n.02 new.a.01 AttributeOf +1 car.n.01 User -2 time.n.08 EQU now wonderful.a.01 AttributeOf -2 Time -1
+
+p02/d1382
+Who painted "Sunflowers"?
+person.n.01 Name ? paint.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now painting.n.01 Name "Sunflowers"
+
+p05/d1490
+She's learning Esperanto.
+female.n.02 time.n.08 EQU now learn.v.01 Agent -2 Time -1 Topic +1 esperanto.n.01
+
+p05/d2094
+Each of them sang a song.
+NEGATION <1 person.n.01 SubOf +1 person.n.01 NEGATION <1 sing.v.01 Agent -2 Time +1 Theme +2 time.n.08 TPR now song.n.01
+
+p09/d1666
+I didn't drink that milk.
+person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now drink.v.01 Agent -2 Time -1 Patient +1 milk.n.01
+
+p09/d3199
+He conquered Mt. Everest.
+male.n.02 conquer.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now mountain.n.01 Name "mount everest"
+
+p28/d0769
+Can I pay by credit card?
+POSSIBILITY <1 person.n.01 EQU speaker pay.v.01 Agent -1 Instrument +1 credit_card.n.01
+
+p52/d2593
+I lent the record to Ken.
+person.n.01 EQU speaker lend.v.02 Agent -1 Time +1 Theme +2 Recipient +3 time.n.08 TPR now record.n.02 male.n.02 Name "Ken"
+
+p97/d1756
+Kale chips are addictive.
+kale.n.02 chip.n.04 MadeOf -1 time.n.08 EQU now addictive.a.01 AttributeOf -2 Time -1
+
+p82/d2239
+We're wasting ammunition.
+person.n.01 Sub speaker time.n.08 EQU now waste.v.02 Agent -2 Time -1 Asset +1 ammunition.n.01
+
+p59/d2698
+Tom took Mary to the zoo.
+male.n.02 Name "Tom" take.v.07 Theme -1 Time +1 Co-Theme +2 Destination +3 time.n.08 TPR now female.n.02 Name "Mary" zoo.n.01
+
+p08/d1725
+Everyone's looking at me.
+NEGATION <1 person.n.01 NEGATION <1 time.n.08 EQU now look.v.01 Agent -2 Time -1 Theme +1 person.n.01 EQU speaker
+
+p78/d1511
+That CD costs 10 dollars.
+cd.n.04 cost.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 10 dollar.n.01 Quantity -1
+
+p01/d2661
+Who are you insured with?
+organization.n.01 Name ? time.n.08 EQU now person.n.01 EQU hearer insure.v.03 Agent -3 Time -2 Beneficiary -1
+
+p21/d1954
+Many people admire Nikko.
+person.n.01 Quantity + admire.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now city.n.01 Name "Nikko"
+
+p51/d2074
+I owe her thirty dollars.
+person.n.01 EQU speaker owe.v.01 Agent -1 Time +1 Goal +2 Theme +4 time.n.08 EQU now female.n.02 quantity.n.01 EQU 30 dollar.n.01 Quantity -1
+
+p44/d1383
+How did Micky Mantle die?
+manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "Micky Mantle" die.v.01 Manner -3 Time -2 Patient -1
+
+p44/d1979
+Peter is buying a tomcat.
+male.n.02 Name "Peter" time.n.08 EQU now buy.v.01 Agent -2 Time -1 Theme +1 tomcat.n.01
+
+p86/d3481
+Tom is extremely unhappy.
+male.n.02 Name "Tom" time.n.08 EQU now extremely.r.01 unhappy.a.01 Experiencer -3 Time -2 Degree -1
+
+p50/d0866
+How much are these pants?
+measure.n.02 Quantity ? be.v.13 Value -1 Time +1 Theme +2 time.n.08 EQU now pant.n.02
+
+p22/d3376
+I picked a daisy for her.
+person.n.01 EQU speaker pick.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now daisy.n.01 Beneficiary +1 female.n.02
+
+p64/d1384
+How did Adolf Hitler die?
+manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "Adolf Hitler" die.v.01 Manner -3 Time -2 Patient -1
+
+p00/d0910
+What a beautiful rainbow!
+be.v.01 Theme +1 Co-Theme +3 entity.n.01 beautiful.a.01 AttributeOf +1 rainbow.n.01
+
+p00/d1710
+This dog will protect us.
+dog.n.01 time.n.08 TSU now protect.v.01 Agent -2 Time -1 Beneficiary +1 person.n.01 Sub speaker
+
+p60/d1403
+You're being contentious.
+person.n.01 EQU hearer time.n.08 EQU now contentious.a.01 AttributeOf -2 Time -1
+
+p42/d2953
+Mary is filing her nails.
+female.n.02 Name "Mary" time.n.08 EQU now file.v.02 Agent -2 Time -1 Patient +2 female.n.02 ANA -3 nail.n.01 PartOf -1
+
+p47/d3173
+He robbed me of my purse.
+male.n.02 rob.v.01 Agent -1 Time +1 Source +2 Theme +4 time.n.08 TPR now person.n.01 EQU speaker person.n.01 EQU speaker purse.n.01 User -1
+
+p24/d2402
+Has anyone talked to Tom?
+person.n.01 talk.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 Name "Tom"
+
+p54/d1717
+Is this tea set complete?
+time.n.08 EQU now tea_set.n.01 complete.a.01 Time -2 AttributeOf -1
+
+p54/d1396
+How did Joseph Smith die?
+manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "Joseph Smith" die.v.01 Manner -3 Time -2 Patient -1
+
+p73/d1391
+Where is Edwin Tang from?
+location.n.01 Name ? be.v.03 Source -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "Edwin Tang"
+
+p73/d0761
+Zhao was arrested in 1989.
+male.n.02 Name "Zhao" time.n.08 TPR now arrest.v.01 Patient -2 Time -1 Time +1 time.n.08 YearOfCentury 1989
+
+p55/d2824
+Let's play hide-and-seek!
+time.n.08 TSU now person.n.01 EQU speaker play.v.01 Time -2 Agent -1 Theme +1 hide-and-seek.n.01
+
+p36/d2821
+He was partially clothed.
+male.n.02 time.n.08 TPR now partially.r.01 clothed.a.01 AttributeOf -3 Time -2 Degree -1
+
+p32/d1767
+His behavior troubles us.
+male.n.02 behavior.n.01 Creator -1 trouble.v.02 Stimulus -1 Time +1 Experiencer +2 time.n.08 EQU now person.n.01 Sub speaker
+
+p27/d2050
+Dick passed me the photo.
+male.n.02 Name "Dick" pass.v.05 Agent -1 Time +1 Recipient +2 Theme +3 time.n.08 TPR now person.n.01 EQU speaker photo.n.01
+
+p11/d2173
+What was Tom's last name?
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now male.n.02 Name "Tom" last_name.n.01 Bearer -1
+
+p99/d2265
+What time will you leave?
+time.n.08 ClockTime ? time.n.08 TSU now person.n.01 EQU hearer leave.v.01 Time -3 Time -2 Theme -1
+
+p34/d1939
+Do not provoke that wasp.
+person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now provoke.v.02 Stimulus -2 Time -1 Experiencer +1 wasp.n.02
+
+p20/d2647
+I was meeting Bob at six.
+person.n.01 EQU speaker time.n.08 TPR now meet.v.02 Agent -2 Time -1 Co-Agent +1 Time +2 male.n.02 Name "Bob" time.n.08 ClockTime 18:00
+
+p80/d3476
+Everybody makes mistakes.
+NEGATION <1 person.n.01 NEGATION <1 make.v.24 Agent -1 Theme +1 mistake.n.01
+
+p03/d2785
+That displeased everyone.
+entity.n.01 NEGATION <1 person.n.01 NEGATION <1 displease.v.01 Stimulus -2 Experiencer -1 Time +1 time.n.08 TPR now
+
+p33/d1395
+How did Dennis Brown die?
+manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "Dennis Brown" die.v.01 Manner -3 Time -2 Patient -1
+
+p07/d2350
+Somebody wants a haircut.
+person.n.01 want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now haircut.n.01
+
+p94/d2717
+Mary was scornful of Tom.
+female.n.02 Name "Mary" time.n.08 TPR now scornful.a.01 Agent -2 Time -1 Theme +1 male.n.02 Name "Tom"
+
+p06/d1919
+Carol is studying Spanish.
+female.n.02 Name "Carol" time.n.08 EQU now study.v.05 Agent -2 Time -1 Theme +1 spanish.n.01
+
+p10/d1831
+My father was an engineer.
+person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 be.v.08 Theme -2 Time +1 Co-Theme +2 time.n.08 TPR now person.n.01 Role +1 engineer.n.01
+
+p10/d1382
+How tall was Judy Garland?
+tall.a.01 Time +1 AttributeOf +2 time.n.08 TPR now female.n.02 Name "Judy Garland"
+
+p98/d0904
+We have a half-dozen eggs.
+person.n.01 Sub speaker have.v.01 Pivot -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+
+p93/d2720
+That's my mom's chihuahua.
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 mom.n.01 Of -2 chihuahua.n.03 Owner -2
+
+p05/d1649
+We elected James chairman.
+person.n.01 Sub speaker elect.v.01 Agent -1 Time +1 Theme +2 Result +3 time.n.08 TPR now male.n.02 Name "James" chairman.n.01
+
+p81/d1878
+I don't trust politicians.
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now trust.v.01 Experiencer -2 Time -1 Stimulus +1 person.n.01 Role +1 politician.n.02
+
+p31/d3200
+Tom is studying right now.
+male.n.02 Name "Tom" time.n.08 EQU now study.v.05 Agent -2 Time -1 Time +1 time.n.08 EQU now
+
+p09/d2499
+I didn't unlock that door.
+person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now unlock.v.01 Agent -2 Time -1 Patient +1 door.n.01
+
+p63/d1381
+What country is Berlin in?
+country.n.02 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now city.n.01 Name "Berlin"
+
+p63/d1549
+Tom majored in psychology.
+male.n.02 Name "Tom" major.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now psychology.n.01
+
+p18/d3139
+Nobody suspected anything.
+NEGATION <1 person.n.01 suspect.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+
+p72/d2326
+He died of a heart attack.
+male.n.02 die.v.01 Patient -1 Time +1 Causer +2 time.n.08 TPR now heart_attack.n.01
+
+p85/d1590
+But where is this compass?
+location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now compass.n.01
+
+p19/d2492
+Mary is somewhat arrogant.
+female.n.02 Name "Mary" time.n.08 EQU now somewhat.r.01 arrogant.a.01 AttributeOf -3 Time -2 Degree -1
+
+p01/d0926
+Do you remember Mr. Saito?
+time.n.08 EQU now person.n.01 EQU hearer remember.v.01 Time -2 Agent -1 Theme +2 mr.n.01 male.n.02 Name "Saito" Title -1
+
+p58/d0861
+The cigars cost two Marks.
+cigar.n.01 cost.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 2 mark.n.07 Quantity -1
+
+p45/d1389
+Where is the Wailing Wall?
+location.n.01 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now structure.n.01 Name "Wailing Wall"
+
+p25/d2462
+English abounds in idioms.
+english.n.01 abound.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now idiom.n.04
+
+p17/d2168
+Tom never bought anything.
+male.n.02 Name "Tom" NEGATION <1 buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+
+p15/d3297
+Someone left this for you.
+person.n.01 leave.v.02 Agent -1 Time +1 Theme +2 Beneficiary +3 time.n.08 TPR now entity.n.01 person.n.01 EQU hearer
+
+p87/d1723
+I am inflating my balloon.
+person.n.01 EQU speaker time.n.08 EQU now inflate.v.02 Agent -2 Time -1 Patient +2 person.n.01 EQU speaker balloon.n.02 User -1
+
+p61/d1803
+Tom has hundreds of books.
+male.n.02 Name "Tom" have.v.04 Pivot -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 Quantity +1 EQU +2 quantity.n.01 MOR 200 book.n.02
+
+p00/d3178
+He came back at 5 o'clock.
+male.n.02 come.v.01 Theme -1 Time +1 Manner +2 Time +3 time.n.08 TPR now back.r.01 time.n.08 ClockTime 17:00
+
+p60/d2111
+She won many competitions.
+female.n.02 win.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now competition.n.02 Quantity +
+
+p42/d1745
+I am climbing a palm tree.
+person.n.01 EQU speaker time.n.08 EQU now climb.v.01 Theme -2 Time -1 Path +1 palm_tree.n.01
+
+p16/d0018
+A man is playing the drums
+man.n.01 time.n.08 EQU now play.v.07 Agent -2 Time -1 Theme +1 drum.n.01
+
+p29/d1393
+How did Marty Robbins die?
+manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "Marty Robbins" die.v.01 Manner -3 Time -2 Patient -1
+
+p29/d1811
+I forgot my email address.
+person.n.01 EQU speaker forget.v.02 Agent -1 Time +1 Theme +4 time.n.08 TPR now person.n.01 EQU speaker email.n.01 address.n.02 User -2 Theme -1
+
+p12/d3130
+Everybody agrees with you.
+NEGATION <1 person.n.01 NEGATION <1 agree.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 EQU now person.n.01 EQU hearer
+
+p91/d2315
+Is money important to you?
+time.n.08 EQU now money.n.02 important.a.01 Time -2 AttributeOf -1 Theme +1 person.n.01 EQU hearer
+
+p91/d0835
+He is a volleyball player.
+male.n.02 be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 volleyball_player.n.01
+
+p74/d2263
+He is addicted to cocaine.
+male.n.02 time.n.08 EQU now addicted.a.01 Experiencer -2 Time -1 Stimulus +1 cocaine.n.01
+
+p70/d2076
+Where is the ladies' room?
+location.n.01 EQU ? be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now ladies'_room.n.01
+
+p70/d3082
+Are anal fissures curable?
+time.n.08 EQU now anal.a.01 AttributeOf +1 fissure.n.01 curable.a.01 Time -3 AttributeOf -1
+
+p40/d0241
+We could do something big.
+person.n.01 Sub speaker POSSIBILITY <1 do.v.02 Agent -1 Theme +1 entity.n.01 Attribute +1 big.a.02
+
+p65/d2825
+Lucy can't use chopsticks.
+female.n.02 Name "Lucy" NEGATION <1 POSSIBILITY <1 use.v.01 Agent -1 Theme +1 chopstick.n.01
+
+p76/d2329
+I keep a diary in English.
+person.n.01 EQU speaker keep.v.08 Agent -1 Time +1 Theme +2 Context +3 time.n.08 EQU now diary.n.01 english.n.01
+
+p69/d0797
+I will give you this book.
+person.n.01 EQU speaker time.n.08 TSU now give.v.03 Agent -2 Time -1 Recipient +1 Theme +2 person.n.01 EQU hearer book.n.02
+
+p20/d3047
+Many people were arrested.
+person.n.01 Quantity + time.n.08 TPR now arrest.v.01 Patient -2 Time -1
+
+p03/d3146
+I think Tom is persuasive.
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 male.n.02 Name "Tom" time.n.08 EQU now persuasive.a.01 AttributeOf -2 Time -1
+
+p56/d2069
+A cold bath refreshed him.
+cold.a.01 Value + bath.n.02 Attribute -1 refresh.v.02 Stimulus -1 Time +1 Experiencer +2 time.n.08 TPR now male.n.02
+
+p07/d3287
+He likes playing football.
+male.n.02 like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now play.v.01 Agent -3 Theme +1 football.n.01
+
+p95/d3252
+Laurie lives in Melbourne.
+male.n.02 Name "Laurie" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Melbourne"
+
+p79/d3043
+Classical music soothes me.
+classical_music.n.01 soothe.v.01 Stimulus -1 Time +1 Experiencer +2 time.n.08 EQU now person.n.01 EQU speaker
+
+p37/d3505
+Bill was killed with a gun.
+male.n.02 Name "Bill" time.n.08 TPR now kill.v.01 Patient -2 Time -1 Instrument +1 gun.n.01
+
+p06/d2204
+Everyone except me knew it.
+NEGATION <1 person.n.01 NEQ +1 person.n.01 EQU speaker NEGATION <1 know.v.01 Experiencer -2 Time +1 Stimulus +2 time.n.08 TPR now entity.n.01
+
+p10/d3144
+The policeman was off duty.
+person.n.01 Role +1 policeman.n.01 time.n.08 TPR now off.a.01 Pivot -3 Time -1 Theme +1 duty.n.02
+
+p05/d2986
+Both buildings burned down.
+building.n.01 Quantity 2 NEGATION <1 entity.n.01 SubOf -1 NEGATION <1 burn_down.v.01 Patient -1 Time +1 time.n.08 TPR now
+
+p81/d1707
+Bilal is taller than Karam.
+male.n.02 Name "Bilal" time.n.08 EQU now tall.a.01 AttributeOf -2 Time -1 Degree +1 more.r.01 Theme -3 Co-Theme +1 male.n.02 Name "Karam"
+
+p84/d2367
+I bought two dozen pencils.
+person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now quantity.n.01 EQU 14 pencil.n.01 Quantity -1
+
+p52/d3190
+Nobody is cleverer than he.
+NEGATION <1 person.n.01 time.n.08 EQU now clever.a.02 AttributeOf -2 Time -1 Degree +1 more.r.01 Theme -3 Co-Theme +1 male.n.02
+
+p30/d2583
+I haven't touched anything.
+person.n.01 EQU speaker NEGATION <1 touch.v.01 Agent -1 Time +1 Experiencer +2 time.n.08 TPR now entity.n.01
+
+p97/d2329
+Mary uses a potter's wheel.
+female.n.02 Name "Mary" use.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now potter's_wheel.n.01
+
+p59/d1560
+Tom cut down a cherry tree.
+male.n.02 Name "Tom" cut_down.v.06 Agent -1 Time +1 Patient +2 time.n.08 TPR now cherry_tree.n.01
+
+p85/d2258
+I speak French and English.
+person.n.01 EQU speaker speak.v.03 Agent -1 Time +1 Theme +3 time.n.08 EQU now french.n.01 entity.n.01 Sub -1 Sub +1 english.n.01
+
+p01/d1956
+Bergen is a Norwegian town.
+city.n.01 Name "Bergen" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now country.n.02 Name "norway" town.n.01 PartOf -1
+
+p58/d1639
+Lucy cannot use chopsticks.
+female.n.02 Name "Lucy" NEGATION <1 POSSIBILITY <1 use.v.01 Agent -1 Theme +1 chopstick.n.01
+
+p38/d1392
+How did Virginia Woolf die?
+manner.n.01 EQU ? time.n.08 TPR now female.n.02 Name "Virginia Woolf" die.v.01 Manner -3 Time -2 Patient -1
+
+p44/d1442
+I was born in 1988 in York.
+person.n.01 EQU speaker time.n.08 TPR now bear.v.02 Patient -2 Time -1 Time +1 Location +2 time.n.08 YearOfCentury 1988 city.n.01 Name "York"
+
+p48/d2078
+I'm feeling kind of sleepy.
+person.n.01 EQU speaker time.n.08 EQU now feel.v.04 Experiencer -2 Time -1 Stimulus +2 kind_of.r.01 sleepy.a.01 AttributeOf -4 Degree -1
+
+p15/d2427
+You cut down a cherry tree.
+person.n.01 EQU hearer cut_down.v.06 Agent -1 Time +1 Patient +2 time.n.08 TPR now cherry_tree.n.01
+
+p64/d3493
+None of my students failed.
+NEGATION <1 entity.n.01 SubOf +2 person.n.01 EQU speaker person.n.01 Role +1 student.n.01 User -2 fail.v.07 Agent -4 Time +1 time.n.08 TPR now
+
+p64/d3243
+The prisoners are escaping!
+person.n.01 Role +1 prisoner.n.01 time.n.08 EQU now escape.v.01 Theme -3 Time -1
+
+p61/d0761
+Wehkamp was based in the UK.
+company.n.01 Name "Wehkamp" time.n.08 TPR now based.a.02 Theme -2 Time -1 Location +1 country.n.02 Name "UK"
+
+p00/d1690
+He is studying agriculture.
+male.n.02 time.n.08 EQU now study.v.02 Agent -2 Time -1 Theme +1 agriculture.n.02
+
+p67/d1686
+Tom's a typical Englishman.
+male.n.02 Name "Tom" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now typical.a.01 AttributeOf +1 person.n.01 Source +1 country.n.02 Name "england"
+
+p43/d2322
+Robin Hood robbed the rich.
+male.n.02 Name "Robin Hood" rob.v.01 Agent -1 Time +1 Source +2 time.n.08 TPR now rich.n.01
+
+p13/d1589
+I run ten kilometers daily.
+NEGATION <1 day.n.01 NEGATION <1 person.n.01 EQU speaker run.v.01 Theme -1 Time -2 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 10 kilometer.n.01 Quantity -1
+
+p16/d3188
+It's 4:30 in the afternoon.
+time.n.08 EQU now EQU +1 time.n.08 ClockTime 16:30 PartOf +1 afternoon.n.01
+
+p29/d3511
+All my cakes are delicious!
+NEGATION <1 entity.n.01 PartOf +2 person.n.01 EQU speaker cake.n.03 Creator -1 NEGATION <1 time.n.08 EQU now delicious.a.02 AttributeOf -4 Time -1
+
+p46/d1381
+Who composed "The Messiah"?
+person.n.01 Name ? compose.v.02 Agent -1 Time +1 Result +2 time.n.08 TPR now music.n.01 Name "Messiah"
+
+p73/d2123
+I belong to the brass band.
+person.n.01 EQU speaker belong.v.05 Theme -1 Time +1 Goal +2 time.n.08 EQU now brass_band.n.01
+
+p55/d1989
+A crow is as black as coal.
+NEGATION <1 crow.n.01 NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 black.a.01 ColourOf -3 Time -2 Degree -1 coal.n.02
+
+p71/d2847
+Tom hasn't broken any laws.
+male.n.02 Name "Tom" NEGATION <1 break.v.06 Agent -1 Time +1 Theme +2 time.n.08 TPR now law.n.02
+
+p70/d2112
+Do you like IKEA furniture?
+time.n.08 EQU now person.n.01 EQU hearer like.v.02 Time -2 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now company.n.01 Name "IKEA" furniture.n.01 Creator -1
+
+p40/d0178
+We're buying movie tickets.
+person.n.01 Sub speaker time.n.08 EQU now buy.v.01 Agent -2 Time -1 Theme +2 movie.n.01 ticket.n.01 Theme -1
+
+p27/d2380
+The enemy is eavesdropping!
+person.n.01 Role +1 enemy.n.03 time.n.08 EQU now eavesdrop.v.01 Agent -3 Time -1
+
+p99/d2312
+Osamu Dazai killed himself.
+male.n.02 Name "Osamu Dazai" kill.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 ANA -3
+
+p34/d2264
+Skateboarding is dangerous.
+skateboard.v.01 time.n.08 EQU now dangerous.a.01 AttributeOf -2 Time -1
+
+p20/d2462
+You're a little overweight.
+person.n.01 EQU hearer time.n.08 EQU now a_little.r.01 overweight.a.01 AttributeOf -3 Time -2 Degree -1
+
+p80/d2937
+She died from turbeculosis.
+female.n.02 die.v.01 Patient -1 Time +1 Causer +2 time.n.08 TPR now tuberculosis.n.01
+
+p03/d2829
+I want a vanilla ice cream.
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now vanilla_ice_cream.n.01
+
+p07/d2110
+I substitute honey for jam.
+person.n.01 EQU speaker substitute.v.01 Agent -1 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now honey.n.01 jam.n.01
+
+p95/d3323
+It's popular with students.
+entity.n.01 time.n.08 EQU now popular.a.01 Stimulus -2 Time -1 Experiencer +1 person.n.01 Role +1 student.n.01
+
+p94/d2689
+I'm twenty-seven years old.
+person.n.01 EQU speaker time.n.08 EQU now quantity.n.01 EQU 27 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+
+p26/d3013
+We won the match by 10 to 4.
+person.n.01 Sub speaker win.v.01 Agent -1 Time +1 Theme +2 Extent +3 time.n.08 TPR now match.n.02 score.n.03 Value 10-4
+
+p79/d0763
+Gianni Versace is a designer.
+male.n.02 Name "Gianni Versace" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 designer.n.05
+
+p06/d3125
+The innkeeper grinned slyly.
+person.n.01 Role +1 innkeeper.n.01 grin.v.01 Agent -2 Time +1 Manner +2 time.n.08 TPR now slyly.r.01
+
+p10/d3084
+Everything is all right now.
+NEGATION <1 entity.n.01 NEGATION <1 time.n.08 EQU now all_right.a.01 AttributeOf -2 Time -1 Time +1 time.n.08 EQU now
+
+p02/d1557
+I'm watching figure skating.
+person.n.01 EQU speaker time.n.08 EQU now watch.v.03 Agent -2 Time -1 Theme +1 figure_skating.n.01
+
+p62/d0880
+Do you like white chocolate?
+time.n.08 EQU now person.n.01 EQU hearer like.v.02 Time -2 Experiencer -1 Stimulus +1 white_chocolate.n.01
+
+p81/d0760
+MBUSA is based in New Yersey.
+company.n.01 Name "MBUSA" time.n.08 EQU now based.a.02 Theme -2 Time -1 Location +1 state.n.01 Name "New Yersey"
+
+p09/d1910
+Did you buy a return ticket?
+time.n.08 TPR now person.n.01 EQU hearer buy.v.01 Time -2 Agent -1 Theme +1 return_ticket.n.01
+
+p09/d3449
+I'm tired of her complaints.
+person.n.01 EQU speaker time.n.08 EQU now tired_of.a.01 Experiencer -2 Time -1 Stimulus +2 female.n.02 complaint.n.03 Creator -1
+
+p30/d2686
+Which browser are you using?
+browser.n.02 EQU ? time.n.08 EQU now person.n.01 EQU hearer use.v.01 Theme -3 Time -2 Agent -1
+
+p53/d2912
+Tom has a learning disorder.
+male.n.02 Name "Tom" have.v.12 Pivot -1 Time +1 Theme +2 time.n.08 EQU now learning_disorder.n.01
+
+p08/d2134
+Tom showed up at about 2:30.
+male.n.02 Name "Tom" show_up.v.01 Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 APX +1 time.n.08 ClockTime 14:30
+
+p85/d0893
+A doctor examined Mr. Brown.
+person.n.01 Role +1 doctor.n.01 examine.v.02 Agent -2 Time +1 Theme +3 time.n.08 TPR now mr.n.01 male.n.02 Name "Brown" Title -1
+
+p01/d3508
+This casino is losing money.
+casino.n.01 time.n.08 EQU now lose.v.07 Agent -2 Time -1 Theme +1 money.n.01
+
+p01/d0030
+A woman is playing the flute
+woman.n.01 time.n.08 EQU now play.v.07 Agent -2 Time -1 Theme +1 flute.n.01
+
+p90/d1914
+They speak French in Quebec.
+person.n.01 speak.v.03 Agent -1 Time +1 Theme +2 Location +3 time.n.08 EQU now french.n.01 state.n.01 Name "Quebec"
+
+p21/d1674
+Tom prepared lunch for Mary.
+male.n.02 Name "Tom" prepare.v.02 Agent -1 Time +1 Product +2 Beneficiary +3 time.n.08 TPR now lunch.n.01 female.n.02 Name "Mary"
+
+p38/d0762
+European cars sell in Russia.
+continent.n.01 Name "europe" car.n.01 Source -1 sell.v.02 Theme -1 Time +1 Location +2 time.n.08 EQU now country.n.02 Name "Russia"
+
+p44/d1307
+Eight rangers were examined.
+quantity.n.01 EQU 8 person.n.01 Quantity -1 Role +1 ranger.n.02 time.n.08 TPR now examine.v.03 Theme -3 Time -1
+
+p48/d3053
+Mount Fuji is extraordinary.
+mountain.n.01 Name "Mount Fuji" time.n.08 EQU now extraordinary.a.01 AttributeOf -2 Time -1
+
+p86/d3114
+His slacks are all wrinkled.
+male.n.02 slacks.n.01 User -1 NEGATION <1 entity.n.01 SubOf -1 NEGATION <1 time.n.08 EQU now wrinkled.a.02 AttributeOf -2 Time -1
+
+p17/d0877
+My mother tongue is Spanish.
+person.n.01 EQU speaker mother_tongue.n.01 Creator -1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now spanish.n.01
+
+p50/d3121
+I was born in Osaka in 1977.
+person.n.01 EQU speaker time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 Time +2 city.n.01 Name "Osaka" time.n.08 YearOfCentury 1977
+
+p64/d2402
+You freaked out, didn't you?
+person.n.01 EQU hearer freak_out.v.01 Experiencer -1 Time +1 time.n.08 TPR now
+
+p61/d0826
+An elephant has a long nose.
+NEGATION <1 elephant.n.01 NEGATION <1 have.v.02 Pivot -1 Theme +2 long.a.02 Value + nose.n.01 Attribute -1
+
+p00/d2596
+I've been stung by a hornet.
+person.n.01 EQU speaker time.n.08 TPR now sting.v.02 Patient -2 Time -1 Agent +1 hornet.n.01
+
+p00/d0957
+That guy is completely nuts!
+guy.n.01 time.n.08 EQU now completely.r.01 nuts.a.01 AttributeOf -3 Time -2 Degree -1
+
+p43/d3365
+Mary is extremely beautiful.
+female.n.02 Name "Mary" time.n.08 EQU now extremely.r.02 beautiful.a.01 Theme -3 Time -2 Degree -1
+
+p42/d2867
+I've climbed Mt. Fuji twice.
+person.n.01 EQU speaker climb.v.01 Theme -1 Time +1 Path +2 Frequency +3 time.n.08 TPR now mountain.n.01 Name "Mt. Fuji" time.n.01 Quantity 2
+
+p16/d1475
+What a haughty fellow he is!
+haughty.a.01 AttributeOf +1 person.n.01 Role +1 fellow.n.01 male.n.02 be.v.01 Co-Theme -3 Theme -1 Time +1 time.n.08 EQU now
+
+p47/d2077
+Tom swallowed a chewing-gum.
+male.n.02 Name "Tom" swallow.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now chewing_gum.n.01
+
+p29/d0779
+Is English spoken in Canada?
+time.n.08 EQU now english.n.01 speak.v.03 Time -2 Theme -1 Location +1 country.n.02 Name "Canada"
+
+p04/d1684
+They found the stolen money.
+person.n.01 find.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now steal.v.01 Theme +1 money.n.01
+
+p46/d3151
+What insects have you eaten?
+insect.n.01 EQU ? person.n.01 EQU hearer eat.v.01 Patient -2 Agent -1 Time +1 time.n.08 TPR now
+
+p91/d3550
+It's already out of fashion.
+entity.n.01 time.n.08 EQU now unfashionable.a.01 AttributeOf -2 Time -1
+
+p68/d3526
+Three bulbs have burned out.
+quantity.n.01 EQU 3 bulb.n.02 Quantity -1 burn_out.v.01 Patient -1 Time +1 time.n.08 TPR now
+
+p70/d2748
+Bush respects all religions.
+male.n.02 Name "Bush" NEGATION <1 religion.n.02 NEGATION <1 respect.v.02 Experiencer -2 Stimulus -1 Time +1 time.n.08 EQU now
+
+p40/d3310
+That will cost thirty euros.
+entity.n.01 time.n.08 TSU now cost.v.01 Theme -2 Time -1 Value +2 quantity.n.01 EQU 30 euro.n.01 Quantity -1
+
+p40/d0128
+Juan died from tuberculosis.
+male.n.02 Name "Juan" die.v.01 Patient -1 Time +1 Causer +2 time.n.08 TPR now tuberculosis.n.01
+
+p27/d0712
+Leloir was born in Argentina.
+male.n.02 Name "Leloir" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 country.n.02 Name "Argentina"
+
+p11/d1395
+What are brake pads made of?
+entity.n.01 EQU ? time.n.08 EQU now brake_pad.n.01 make.v.06 Material -3 Time -2 Product -1
+
+p49/d2981
+Have you eaten a banana pie?
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now banana.n.02 pie.n.01 MadeOf -1
+
+p96/d2832
+He weighs around 300 pounds.
+male.n.02 weigh.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 APX 300 pound.n.01 Quantity -1
+
+p96/d2873
+Tom is a former paratrooper.
+male.n.02 Name "Tom" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now time.n.08 TPR now person.n.01 Role +1 paratrooper.n.01 Time -2
+
+p56/d2908
+Were you younger than Ellen?
+time.n.08 TPR now person.n.01 EQU hearer young.a.01 Time -2 AttributeOf -1 Degree +1 more.r.01 Theme -2 Co-Theme +1 female.n.02 Name "Ellen"
+
+p07/d0048
+The person is slicing onions
+person.n.01 time.n.08 EQU now slice.v.03 Agent -2 Time -1 Patient +1 onion.n.03
+
+p95/d1733
+Tom shook everybody's hands.
+male.n.02 Name "Tom" NEGATION <1 person.n.01 NEGATION <1 shake.v.09 Agent -2 Time +1 Patient +2 time.n.08 TPR now hand.n.01 PartOf -3
+
+p26/d3188
+Dan contacted Linda's sister.
+male.n.02 Name "Dan" contact.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now female.n.02 Name "Linda" person.n.01 Role +1 sister.n.01 Of -2
+
+p06/d3103
+I took a book from the shelf.
+person.n.01 EQU speaker take.v.04 Agent -1 Time +1 Theme +2 Source +3 time.n.08 TPR now book.n.01 shelf.n.01
+
+p89/d2901
+Mt. Fuji is 3776 meters high.
+mountain.n.01 Name "Mt. Fuji" time.n.08 EQU now quantity.n.01 EQU 3776 meter.n.01 Quantity -1 high.a.02 Theme -4 Time -3 Value -1
+
+p10/d1741
+I, too, am worried about Tom.
+person.n.01 EQU speaker time.n.08 EQU now worried.a.01 Experiencer -2 Time -1 Stimulus +1 male.n.02 Name "Tom"
+
+p02/d1764
+Tom's strategy isn't working.
+male.n.02 Name "Tom" strategy.n.01 Creator -1 NEGATION <1 time.n.08 EQU now work.v.03 Theme -2 Time -1
+
+p62/d3253
+I can't stretch my right arm.
+person.n.01 EQU speaker NEGATION <1 POSSIBILITY <1 stretch.v.02 Agent -1 Patient +3 person.n.01 EQU speaker right.a.01 AttributeOf +1 arm.n.01 PartOf -2
+
+p05/d2691
+This hall holds 2,000 people.
+hall.n.03 hold.v.12 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 2000 person.n.01 Quantity -1
+
+p31/d1585
+You assemble sewing machines.
+person.n.01 EQU hearer assemble.v.01 Agent -1 Time +1 Product +2 time.n.08 EQU now sewing_machine.n.01
+
+p09/d2957
+I went to Kyushu by airplane.
+person.n.01 EQU speaker go.v.01 Theme -1 Time +1 Destination +2 Instrument +3 time.n.08 TPR now island.n.01 Name "Kyushu" airplane.n.01
+
+p63/d3123
+Catalan is spoken in Andorra.
+catalan.n.02 time.n.08 EQU now speak.v.03 Theme -2 Time -1 Location +1 country.n.02 Name "Andorra"
+
+p30/d0066
+Does Mike call his dog Pochi?
+time.n.08 EQU now male.n.02 Name "Mike" call.v.01 Time -2 Agent -1 Theme +2 Result +3 male.n.02 ANA -2 dog.n.01 Owner -1 name.n.01 EQU "Pochi"
+
+p97/d2564
+Your success excites my envy.
+person.n.01 EQU hearer success.n.03 Creator -1 excite.v.01 Stimulus -1 Time +1 Experiencer +3 time.n.08 EQU now person.n.01 EQU speaker envy.n.01 Creator -1
+
+p72/d0779
+In case it rains, I won't go.
+CONDITION <1 event.v.01 Participant i entity.n.01 rain.v.01 EQU -1 Time +1 time.n.08 TSU now terra_incognita.n.03 EQU i EQU -2 CONSEQUENCE <1 person.n.01 EQU speaker NEGATION <1 time.n.08 TSU now go.v.01 Theme -2 Time -1
+
+p85/d1815
+Leo Tolstoy was a vegetarian.
+male.n.02 Name "Leo Tolstoy" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now person.n.01 Role +1 vegetarian.n.01
+
+p01/d2062
+Ted loves his wife Elizabeth.
+male.n.02 Name "Ted" love.v.03 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now male.n.02 ANA -3 person.n.01 Role +1 EQU +2 wife.n.01 Of -2 female.n.02 Name "Elizabeth"
+
+p01/d2992
+I ordered a book from London.
+person.n.01 EQU speaker order.v.02 Agent -1 Time +1 Theme +2 Source +3 time.n.08 TPR now book.n.02 city.n.01 Name "London"
+
+p21/d3271
+Tom weighs over 90 kilograms.
+male.n.02 Name "Tom" weigh.v.01 Theme -1 Time +1 Value +4 time.n.08 EQU now quantity.n.01 MOR +1 quantity.n.01 EQU 90 kilogram.n.01 Quantity -2
+
+p25/d2748
+Daniel thanked the policemen.
+male.n.02 Name "Daniel" thank.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now person.n.01 Role +1 policeman.n.01
+
+p48/d0874
+Evangeline Lilly is Canadian.
+female.n.02 Name "Evangeline Lilly" time.n.08 EQU now be.v.03 Theme -2 Time -1 Source +1 country.n.02 Name "canada"
+
+p14/d1414
+My cousin is hooked on smack.
+person.n.01 EQU speaker person.n.01 Role +1 cousin.n.01 Of -2 time.n.08 EQU now hook.v.09 Experiencer -3 Time -1 Stimulus +1 smack.n.04
+
+p50/d2642
+How much do the carrots cost?
+measure.n.02 Quantity ? time.n.08 EQU now carrot.n.01 cost.v.01 Value -3 Time -2 Theme -1
+
+p41/d0774
+I bought two bottles of milk.
+person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +4 time.n.08 TPR now quantity.n.01 EQU 2 bottle.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 milk.n.01
+
+p00/d2182
+I was having dinner with Tom.
+person.n.01 EQU speaker time.n.08 TPR now have.v.06 Agent -2 Time -1 Patient +1 Co-Agent +2 dinner.n.01 male.n.02 Name "Tom"
+
+p60/d1671
+What lovely puppies they are!
+lovely.a.01 AttributeOf +1 puppy.n.01 entity.n.01 be.v.01 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+
+p60/d2845
+We are dyeing our hair brown.
+person.n.01 Sub speaker time.n.08 EQU now dye.v.01 Agent -2 Time -1 Patient +2 Result +3 person.n.01 Sub speaker hair.n.01 PartOf -1 brown.a.01 ColourOf -1
+
+p13/d2772
+You suffer from osteoporosis.
+person.n.01 EQU hearer suffer.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now osteoporosis.n.01
+
+p75/d3488
+I am planting an orange tree.
+person.n.01 EQU speaker time.n.08 EQU now plant.v.01 Agent -2 Time -1 Theme +1 orange_tree.n.01
+
+p04/d2820
+Don't touch that blue button.
+person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now touch.v.01 Agent -2 Time -1 Theme +2 blue.a.01 button.n.02 Colour -1
+
+p46/d0880
+I will arrive on 23rd of May.
+person.n.01 EQU speaker time.n.08 TSU now arrive.v.01 Theme -2 Time -1 Time +1 time.n.08 DayOfMonth 23 MonthOfYear 5 time.n.08 EQU -1
+
+p91/d2851
+I perspired under my armpits.
+person.n.01 EQU speaker perspire.v.01 Source -1 Time +1 Location +2 time.n.08 TPR now location.n.01 SZN +2 person.n.01 EQU speaker armpit.n.01 PartOf -1
+
+p74/d0259
+I am not acquainted with her.
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now acquainted.a.01 Experiencer -2 Time -1 Stimulus +1 female.n.02
+
+p68/d3105
+You're drinking cherry juice.
+person.n.01 EQU hearer time.n.08 EQU now drink.v.01 Agent -2 Time -1 Patient +2 cherry.n.03 juice.n.01 MadeOf -1
+
+p23/d1396
+How big is the Great Pyramid?
+big.a.01 Value ? Time +1 AttributeOf +2 time.n.08 EQU now structure.n.01 Name "Great Pyramid"
+
+p23/d1387
+Who won the "Tour de France"?
+person.n.01 Name ? win.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now tournament.n.01 Name "Tour de France"
+
+p65/d3153
+My sister's name is Patricia.
+person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2 name.n.01 User -2 be.v.06 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 EQU "Patricia"
+
+p11/d2035
+I've attempted suicide twice.
+person.n.01 EQU speaker attempt.v.01 Agent -1 Time +1 Theme +2 Frequency +3 time.n.08 TPR now suicide.n.01 time.n.01 Quantity 2
+
+p99/d3497
+I don't think this is a wasp.
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now think.v.01 Time -1 Proposition >1 Agent -2 CONTINUATION <0 entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now wasp.n.02
+
+p69/d0761
+Yasser Arafat succeeded Abbas.
+male.n.02 Name "Yasser Arafat" succeed.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 Name "Abbas"
+
+p20/d3161
+Seicho Matumoto died in 1992.
+male.n.02 Name "Seicho Matumoto" die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1992
+
+p80/d2175
+Ah, I forgot my mobile phone.
+person.n.01 EQU speaker forget.v.04 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker mobile_phone.n.01 User -1
+
+p56/d2580
+I want to buy a dozen donuts.
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now buy.v.01 Agent -3 Theme +2 quantity.n.01 EQU 12 donut.n.01 Quantity -1
+
+p66/d0024
+A player is throwing the ball
+person.n.01 Role +1 player.n.01 time.n.08 EQU now throw.n.01 Agent -3 Time -1 Theme +1 ball.n.01
+
+p26/d2693
+Our neighbor has broken a rib.
+person.n.01 Sub speaker person.n.01 Role +1 neighbor.n.01 Of -2 break.v.57 Experiencer -2 Time +1 Patient +2 time.n.08 TPR now rib.n.02
+
+p06/d3008
+Is your mother tongue Chinese?
+be.v.02 Time +1 Theme +3 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer mother_tongue.n.01 Creator -1 chinese.n.01
+
+p06/d3385
+Tom drinks milk every morning.
+NEGATION <1 morning.n.01 NEGATION <1 male.n.02 Name "Tom" drink.v.01 Agent -1 Time -2 Time +1 Patient +2 time.n.08 EQU now milk.n.01
+
+p10/d2732
+I wanted to run away with Tom.
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 TPR now run_away.v.01 Theme -3 Co-Agent +1 male.n.02 Name "Tom"
+
+p02/d2064
+Who is lurking in the shadows?
+person.n.01 Name ? time.n.08 EQU now lurk.v.01 Theme -2 Time -1 Location +1 shadow.n.02
+
+p93/d3060
+But you will write, won't you?
+person.n.01 EQU hearer time.n.08 TSU now write.v.02 Agent -2 Time -1
+
+p05/d3143
+What splendid houses they are!
+splendid.a.01 AttributeOf +1 house.n.01 entity.n.01 be.v.01 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+
+p31/d3119
+It will cost around 10000 yen.
+entity.n.01 time.n.08 TSU now cost.v.01 Theme -2 Time -1 Value +2 quantity.n.01 APX 10000 yen.n.02 Quantity -1
+
+p83/d1943
+A dog was run over by a truck.
+dog.n.01 time.n.08 TPR now run_over.v.01 Patient -2 Time -1 Agent +1 truck.n.01
+
+p52/d1415
+She was appointed chairperson.
+female.n.02 time.n.08 TPR now appoint.v.02 Theme -2 Time -1 Time +1 Result +2 time.n.08 TPR now chairperson.n.01
+
+p97/d3230
+World War I broke out in 1914.
+war.n.01 Name "World War I" break_out.v.01 Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1914
+
+p82/d0086
+You guys are totally clueless.
+person.n.01 EQU hearer guy.n.01 SubOf -1 time.n.08 EQU now totally.r.01 clueless.a.01 AttributeOf -3 Time -2 Degree -1
+
+p72/d3208
+Did you sleep with that woman?
+time.n.08 TPR now person.n.01 EQU hearer sleep_with.v.01 Time -2 Agent -1 Co-Agent +1 woman.n.01
+
+p08/d2338
+"Awesome" is an overused word.
+word.n.01 EQU "Awesome" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now overuse.v.01 Theme +1 word.n.01
+
+p88/d0930
+India is a developing country.
+state.n.04 Name "India" EQU +1 developing_country.n.01
+
+p01/d0761
+Pierce lives on E. 28th Street.
+male.n.02 Name "Pierce" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now way.n.06 Name "E. 28th Street"
+
+p90/d0030
+A woman is slicing an eggplant
+woman.n.01 time.n.08 EQU now slice.v.03 Agent -2 Time -1 Patient +1 eggplant.n.01
+
+p21/d0852
+Do you know where my watch is?
+time.n.08 EQU now person.n.01 EQU hearer know.v.01 Time -2 Proposition >1 Experiencer -1 CONTINUATION <0 location.n.01 EQU ? person.n.01 EQU speaker watch.n.01 Location -2 User -1 be.v.03 Theme -1 Time +1 time.n.08 EQU now
+
+p21/d2055
+John is more clever than Bill.
+male.n.02 Name "John" time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 clever.a.02 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Bill"
+
+p45/d2152
+What's the title of the movie?
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now title.n.02 Bearer +1 movie.n.01
+
+p14/d2438
+I spoke with her for one hour.
+person.n.01 EQU speaker speak.v.02 Agent -1 Time +1 Co-Agent +2 Duration +4 time.n.08 TPR now female.n.02 quantity.n.01 EQU 1 hour.n.01 Quantity -1
+
+p15/d2006
+Where did you put the ketchup?
+location.n.01 EQU ? time.n.08 TPR now person.n.01 EQU hearer put.v.01 Location -3 Time -2 Agent -1 Theme +1 ketchup.n.01
+
+p00/d2432
+How much did the glasses cost?
+measure.n.02 Unit ? Quantity ? time.n.08 TPR now glasses.n.01 cost.v.01 Value -3 Time -2 Theme -1
+
+p00/d0948
+Do seedless watermelons exist?
+time.n.08 EQU now seedless.a.01 AttributeOf +1 watermelon.n.02 exist.v.01 Time -3 Theme -1
+
+p43/d2445
+I bought a pen, but I lost it.
+person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now pen.n.01 CONTRAST <1 person.n.01 EQU speaker lose.v.04 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01 ANA -4
+
+p16/d2088
+I picked these flowers myself.
+person.n.01 EQU speaker pick.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now flower.n.01 person.n.01 EQU -4
+
+p75/d2594
+That was your plan, wasn't it?
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now person.n.01 EQU hearer plan.n.01 User -1
+
+p29/d0118
+What kind of meal did you eat?
+entity.n.01 InstanceOf +1 EQU ? meal.n.01 time.n.08 TPR now person.n.01 EQU hearer eat.v.01 Patient -4 Time -2 Agent -1
+
+p54/d2017
+Testing Koko's IQ is not easy.
+test.v.03 Theme +1 animal.n.01 Name "Koko" iq.n.01 Creator -2 NEGATION <1 time.n.08 EQU now easy.a.01 AttributeOf -2 Time -1
+
+p73/d2331
+Emily isn't afraid of spiders.
+female.n.02 Name "Emily" NEGATION <1 time.n.08 EQU now afraid.a.01 Experiencer -2 Time -1 Stimulus +1 spider.n.01
+
+p74/d2185
+I am singing with my children.
+person.n.01 EQU speaker time.n.08 EQU now sing.v.02 Agent -2 Time -1 Co-Agent +2 person.n.01 EQU speaker person.n.01 Role +1 child.n.02 Of -2
+
+p55/d1888
+I've been to Italy many times.
+person.n.01 EQU speaker be.v.03 Theme -1 Time +1 Location +2 Frequency +3 time.n.08 TPR now country.n.02 Name "Italy" time.n.01 Quantity +
+
+p36/d3336
+This apple juice is 100% pure.
+apple_juice.n.01 time.n.08 EQU now quantity.n.01 EQU 100 percent.n.01 Quantity -1 pure.a.01 Theme -4 Time -3 Value -1
+
+p23/d0211
+What kind of book do you want?
+entity.n.01 InstanceOf +1 EQU ? book.n.01 time.n.08 EQU now person.n.01 EQU hearer want.v.01 Theme -4 Time -2 Pivot -1
+
+p57/d1982
+You're right. I'll go by taxi.
+person.n.01 EQU hearer time.n.08 EQU now right.a.05 AttributeOf -2 Time -1 CONTINUATION <1 person.n.01 EQU speaker time.n.08 TSU now go.v.01 Theme -2 Time -1 Instrument +1 taxi.n.01
+
+p69/d2652
+Tom arrived in Boston at 2:30.
+male.n.02 Name "Tom" arrive.v.01 Theme -1 Time +1 Destination +2 Time +3 time.n.08 TPR now city.n.01 Name "Boston" time.n.08 ClockTime 14:30
+
+p96/d0944
+We don't have a swimming pool.
+person.n.01 Sub speaker NEGATION <1 time.n.08 EQU now have.v.01 Pivot -2 Time -1 Theme +1 swimming_pool.n.01
+
+p03/d2627
+Tom and Mary were both crying.
+male.n.02 Name "Tom" entity.n.01 Sub -1 Sub +1 Quantity 2 female.n.02 Name "Mary" NEGATION <1 entity.n.01 SubOf -2 NEGATION <1 time.n.08 TPR now cry.v.02 Agent -2 Time -1
+
+p56/d0884
+My clock is five minutes fast.
+person.n.01 EQU speaker clock.n.01 User -1 time.n.08 EQU now quantity.n.01 EQU 5 minute.n.01 Quantity -1 fast.a.02 Theme -4 Time -3 Value -1
+
+p66/d0761
+Wilkins departed Milan in 1987.
+male.n.02 Name "Wilkins" depart.v.01 Theme -1 Time +1 Source +2 Time +3 time.n.08 TPR now city.n.01 Name "Milan" time.n.08 YearOfCentury 1987
+
+p26/d1716
+He's popular with the students.
+male.n.02 time.n.08 EQU now popular.a.01 Stimulus -2 Time -1 Experiencer +1 person.n.01 Role +1 student.n.01
+
+p79/d2941
+Did Marika understand Estonian?
+time.n.08 TPR now female.n.02 Name "Marika" understand.v.03 Time -2 Experiencer -1 Stimulus +1 estonian.n.01
+
+p79/d1560
+Is your brother's name Aleksej?
+be.v.02 Time +1 Theme +5 Co-Theme +6 time.n.08 EQU now person.n.01 EQU hearer person.n.01 Role +1 brother.n.01 Of -2 name.n.01 Bearer -2 name.n.01 EQU "Aleksej"
+
+p89/d0717
+The World court subpoenaed Bush.
+world_court.n.01 subpoena.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Bush"
+
+p10/d1983
+Who did William Wallace defeat?
+person.n.01 Name ? time.n.08 TPR now male.n.02 Name "William Wallace" defeat.v.01 Co-Agent -3 Time -2 Agent -1
+
+p02/d0712
+Kraft sold Celestial Seasonings.
+company.n.01 Name "Kraft" sell.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now company.n.01 Name "Celestial Seasonings"
+
+p05/d1457
+Aren't you ashamed of yourself?
+NEGATION <1 time.n.08 EQU now person.n.01 EQU hearer ashamed.a.01 Time -2 Experiencer -1 Stimulus +1 person.n.01 EQU hearer
+
+p35/d1564
+He might be away at the moment.
+male.n.02 POSSIBILITY <1 away.a.01 AttributeOf -1 Time +1 time.n.08 EQU now
+
+p28/d2744
+Drivers should wear seat belts.
+person.n.01 Role +1 driver.n.01 NECESSITY <1 wear.v.02 Agent -2 Theme +1 seat_belt.n.01
+
+p82/d1779
+This coffee comes from Eritrea.
+coffee.n.03 come.v.02 Theme -1 Time +1 Source +2 time.n.08 EQU now country.n.02 Name "Eritrea"
+
+p18/d3496
+Jean Reno is my favorite actor.
+male.n.02 Name "Jean Reno" be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker favorite.a.02 Experiencer -1 Stimulus +2 person.n.01 Role +1 actor.n.01
+
+p78/d1718
+"Roma" is an anagram of "amor."
+word.n.01 EQU "Roma" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now anagram.n.01 Of +1 word.n.01 EQU "amor"
+
+p88/d2287
+Joe and I saw a lion yesterday.
+male.n.02 Name "Joe" entity.n.01 Sub -1 Sub +1 person.n.01 EQU speaker see.v.01 Experiencer -2 Time +1 Stimulus +2 Time +3 time.n.08 TPR now lion.n.01 time.n.08 TIN +2 day.n.03 TCT now day.n.03 TAB -1
+
+p01/d2508
+Yumi is good at playing tennis.
+female.n.02 Name "Yumi" time.n.08 EQU now good.a.01 AttributeOf -2 Time -1 Theme +1 play.v.01 Theme +1 tennis.n.01
+
+p21/d1940
+Nowadays anybody can get books.
+NEGATION <1 person.n.01 NEGATION <1 POSSIBILITY <1 time.n.08 EQU now get.v.01 Pivot -2 Time -1 Theme +1 book.n.02
+
+p25/d2583
+A squirrel hid in the branches.
+squirrel.n.01 hide.v.02 Agent -1 Time +1 Location +2 time.n.08 TPR now branch.n.02
+
+p86/d2745
+He was born on July 28th, 1888.
+male.n.02 time.n.08 TPR now bear.v.02 Patient -2 Time -1 Time +2 time.n.08 MonthOfYear 7 EQU +1 time.n.08 DayOfMonth 28 time.n.08 YearOfCentury 1888 EQU -1
+
+p14/d2006
+Liisa accused me of negligence.
+female.n.02 Name "Liisa" accuse.v.01 Agent -1 Time +1 Theme +2 Attribute +3 time.n.08 TPR now person.n.01 EQU speaker negligence.n.01
+
+p50/d3434
+Where is the journey taking us?
+location.n.01 Name ? time.n.08 EQU now journey.n.01 take.v.27 Location -3 Time -2 Causer -1 Theme +1 person.n.01 Sub speaker
+
+p22/d1383
+Where was Abraham Lincoln born?
+location.n.01 Name ? time.n.08 TPR now male.n.02 Name "Abraham Lincoln" bear.v.02 Location -3 Time -2 Patient -1
+
+p41/d2984
+That was incredible, wasn't it?
+entity.n.01 time.n.08 TPR now incredible.a.01 AttributeOf -2 Time -1
+
+p00/d1643
+He is leaving Chicago tomorrow.
+male.n.02 time.n.08 TSU now leave.v.01 Theme -2 Time -1 Source +1 Time +2 city.n.01 Name "Chicago" time.n.08 TIN +2 day.n.03 TCT now TAB +1 day.n.03
+
+p00/d0785
+Bill was killed by an intruder.
+male.n.02 Name "Bill" time.n.08 TPR now kill.v.01 Patient -2 Time -1 Agent +1 person.n.01 Role +1 intruder.n.01
+
+p92/d1839
+Neither he nor I speak Spanish.
+NEGATION <1 male.n.02 speak.v.03 Agent -1 Theme +1 spanish.n.01 NEGATION <2 person.n.01 EQU speaker speak.v.03 Agent -1 Theme +1 spanish.n.01
+
+p16/d0761
+Saddam Hussein flees to the U.S.
+male.n.02 Name "Saddam Hussein" flee.v.01 Theme -1 Time +1 Destination +2 time.n.08 EQU now country.n.02 Name "us"
+
+p24/d1381
+Who succeeded Ferdinand Marcos?
+person.n.01 Name ? succeed.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 Name "Ferdinand Marcos"
+
+p54/d1622
+Forming a cabinet is difficult.
+form.v.01 Result +1 cabinet.n.02 time.n.08 EQU now difficult.a.01 AttributeOf -3 Time -1
+
+p46/d1391
+Where was Guillermo Ortiz born?
+location.n.01 Name ? time.n.08 TPR now male.n.02 Name "Guillermo Ortiz" bear.v.02 Location -3 Time -2 Patient -1
+
+p91/d2487
+The traffic light doesn't work.
+traffic_light.n.01 NEGATION <1 time.n.08 EQU now work.v.04 Theme -2 Time -1
+
+p55/d0889
+Someone's knocking at the door.
+person.n.01 time.n.08 EQU now knock.v.02 Agent -2 Time -1 Patient +1 door.n.01
+
+p71/d1801
+I am convinced that I am right.
+person.n.01 EQU speaker time.n.08 EQU now convinced.a.01 Time -1 Proposition >1 Experiencer -2 CONTINUATION <0 person.n.01 EQU speaker time.n.08 EQU now right.a.02 AttributeOf -2 Time -1
+
+p23/d0824
+Everyone except me was invited.
+NEGATION <1 person.n.01 NEQ +1 person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now invite.v.02 Theme -3 Time -1
+
+p27/d3043
+Where did Mahatma Gandhi study?
+location.n.01 Name ? time.n.08 TPR now male.n.02 Name "Mahatma Gandhi" study.v.02 Location -3 Time -2 Agent -1
+
+p57/d3043
+I began playing golf years ago.
+person.n.01 EQU speaker begin.v.01 Time +1 PartOf +2 Time +5 time.n.08 TPR now play.v.01 Agent -3 Theme +1 golf.n.01 year.n.01 TAB now time.n.08 TAB -1
+
+p99/d2925
+Sunday's match will be crucial.
+time.n.08 DayOfWeek sunday match.n.02 Time -1 time.n.08 TSU now crucial.a.01 AttributeOf -2 Time -1
+
+p20/d1666
+Sam is a philosopher, isn't he?
+male.n.02 Name "Sam" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 philosopher.n.01
+
+p96/d2878
+Tom has a 13-year-old daughter.
+male.n.02 Name "Tom" have.v.01 Pivot -1 Time +1 Theme +5 time.n.08 EQU now quantity.n.01 EQU 13 year.n.01 Quantity -1 old.a.01 Value -1 AttributeOf +1 person.n.01 Role +1 daughter.n.01
+
+p80/d1391
+Where does Nnenna Freelon live?
+location.n.01 Name ? time.n.08 EQU now female.n.02 Name "Nnenna Freelon" live.v.01 Location -3 Time -2 Theme -1
+
+p03/d2090
+I want to climb Mt. Fuji again.
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now climb.v.01 Theme -3 Path +1 mountain.n.01 Name "Mt. Fuji"
+
+p07/d1927
+What instruments does Tom play?
+instrument.n.06 EQU ? time.n.08 EQU now male.n.02 Name "Tom" play.v.07 Theme -3 Time -2 Agent -1
+
+p66/d2412
+I was awakened at five o'clock.
+person.n.01 EQU speaker time.n.08 TPR now awaken.v.01 Patient -2 Time -1 Time +1 time.n.08 ClockTime 05:00
+
+p26/d2077
+I want to go to America someday.
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now go.v.01 Theme -3 Destination +1 Time +2 country.n.02 Name "America" time.n.08 TSU now
+
+p06/d0023
+A person is not peeling a banana
+person.n.01 NEGATION <1 time.n.08 EQU now peel.v.01 Agent -2 Time -1 Source +1 banana.n.02
+
+p98/d1722
+Grace has met William at school.
+female.n.02 Name "Grace" meet.v.08 Agent -1 Time +1 Co-Agent +2 Location +3 time.n.08 TPR now male.n.02 Name "William" school.n.02
+
+p02/d2592
+I'm afraid you misunderstood me.
+person.n.01 EQU speaker time.n.08 EQU now afraid.a.02 Time -1 Proposition >1 Experiencer -2 CONTINUATION <0 person.n.01 EQU hearer misunderstand.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now person.n.01 EQU speaker
+
+p05/d1550
+I want to buy a dozen doughnuts.
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now buy.v.01 Agent -3 Theme +2 quantity.n.01 EQU 12 doughnut.n.02 Quantity -1
+
+p81/d1394
+How did Julius Irving's son die?
+manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "Julius Irving" person.n.01 Role +1 son.n.01 Of -2 die.n.01 Manner -5 Time -4 Patient -2
+
+p09/d2140
+I will discuss it with my horse.
+person.n.01 EQU speaker time.n.08 TSU now discuss.v.02 Agent -2 Time -1 Topic +1 Co-Agent +3 entity.n.01 person.n.01 EQU speaker horse.n.01 Owner -1
+
+p28/d3226
+According to her, he won't come.
+according.a.02 Proposition >1 Source +1 female.n.02 CONTINUATION <0 male.n.02 NEGATION <1 time.n.08 TSU now come.v.02 Theme -2 Time -1
+
+p30/d2680
+You stole the money, didn't you?
+person.n.01 EQU hearer steal.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now money.n.01
+
+p30/d3537
+Tom is majoring in architecture.
+male.n.02 Name "Tom" time.n.08 EQU now major.v.01 Agent -2 Time -1 Theme +1 architecture.n.02
+
+p72/d0760
+Lukoil earned $1 billion in 2004.
+company.n.01 Name "Lukoil" earn.v.01 Agent -1 Time +1 Theme +2 Time +4 time.n.08 TPR now dollar.n.01 Quantity +1 quantity.n.01 EQU 1000000000 time.n.08 YearOfCentury 2004
+
+p19/d1382
+What did Charles Babbage invent?
+entity.n.01 EQU ? time.n.08 TPR now male.n.02 Name "Charles Babbage" invent.v.01 Result -3 Time -2 Agent -1
+
+p01/d1514
+I haven't received anything yet.
+person.n.01 EQU speaker NEGATION <1 receive.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+
+p90/d2548
+The train is 30 minutes overdue.
+train.n.01 time.n.08 EQU now quantity.n.01 EQU 30 minute.n.01 Quantity -1 overdue.a.01 Theme -4 Time -3 Value -1
+
+p51/d2417
+Do you want some scrambled eggs?
+time.n.08 EQU now person.n.01 EQU hearer want.v.01 Time -2 Pivot -1 Time +1 Theme +2 time.n.08 EQU now scrambled_eggs.n.01
+
+p25/d2578
+Saint Peter's Square is crowded.
+public_square.n.01 Name "Saint Peter's Square" time.n.08 EQU now crowded.a.01 AttributeOf -2 Time -1
+
+p48/d3106
+This house belongs to Mr Yamada.
+house.n.01 belong.v.01 Theme -1 Time +1 Pivot +3 time.n.08 EQU now mr.n.01 male.n.02 Name "Yamada" Title -1
+
+p87/d1860
+Tom bought Mary some chocolates.
+male.n.02 Name "Tom" buy.v.01 Agent -1 Time +1 Beneficiary +2 Theme +3 time.n.08 TPR now female.n.02 Name "Mary" chocolate.n.02
+
+p22/d3502
+I'll go provided you go with me.
+person.n.01 EQU speaker time.n.08 TSU now go.v.03 Theme -2 Time -1 EXPLANATION <1 person.n.01 EQU hearer go.v.03 Theme -1 Time +1 Co-Theme +2 time.n.08 TSU now person.n.01 EQU speaker
+
+p64/d2903
+It is ten minutes before eleven.
+time.n.08 EQU now EQU +1 time.n.08 ClockTime 10:50
+
+p00/d2612
+What's your favorite commercial?
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 Experiencer -1 Stimulus +1 commercial.n.01
+
+p00/d0761
+Pierce lives near Rossville Blvd.
+male.n.02 Name "Pierce" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now location.n.01 APX +1 way.n.06 Name "Rossville Blvd"
+
+p43/d3000
+Pskov is in the south of Russia.
+city.n.01 Name "Pskov" be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now south.n.04 Of +1 country.n.02 Name "Russia"
+
+p42/d1785
+Each of them bought a new dress.
+NEGATION <1 person.n.01 SubOf +1 person.n.01 NEGATION <1 buy.v.01 Agent -2 Time +1 Theme +3 time.n.08 TPR now new.a.01 AttributeOf +1 dress.n.01
+
+p24/d2347
+I am ashamed of my poor English.
+person.n.01 EQU speaker time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +3 person.n.01 EQU speaker poor.a.05 AttributeOf +1 english.n.01 Creator -2
+
+p29/d1758
+A tanker is a ship carrying oil.
+NEGATION <1 tanker.n.01 NEGATION <1 be.v.01 Theme -1 Co-Theme +1 ship.n.01 carry.v.01 Instrument -1 Theme +1 oil.n.03
+
+p46/d1384
+What is Australia's oldest city?
+entity.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now country.n.02 Name "Australia" old.a.02 Degree +1 most.r.01 city.n.01 Location -3 Attribute -2
+
+p39/d0000
+A banana is being eaten by a man
+banana.n.02 time.n.08 EQU now eat.v.01 Patient -2 Time -1 Agent +1 man.n.01
+
+p68/d1610
+Did he have Parkinson's disease?
+time.n.08 TPR now male.n.02 have.v.12 Time -2 Experiencer -1 Stimulus +1 parkinson's_disease.n.01
+
+p70/d0951
+How many languages do you speak?
+language.n.01 Quantity ? time.n.08 EQU now person.n.01 EQU hearer speak.v.03 Theme -3 Time -2 Agent -1
+
+p65/d2772
+Vladivostok is a city in Russia.
+city.n.01 Name "Vladivostok" EQU +1 city.n.01 PartOf +1 country.n.02 Name "Russia"
+
+p34/d2626
+Magdalena and Lech are thirteen.
+female.n.02 Name "Magdalena" time.n.08 EQU now old.a.01 AttributeOf -2 Time -1 Value +1 measure.n.02 Quantity 13 Unit +1 year.n.01 CONTINUATION <1 male.n.02 Name "Lech" time.n.08 EQU now old.a.01 AttributeOf -2 Time -1 Value +1 measure.n.02 Quantity 13 Unit +1 year.n.01
+
+p69/d2817
+I was born on January 2 in 1968.
+person.n.01 EQU speaker time.n.08 TPR now bear.v.02 Patient -2 Time -1 Time +2 time.n.08 MonthOfYear 1 EQU +1 time.n.08 DayOfMonth 2 time.n.08 YearOfCentury 1968 EQU -1
+
+p80/d3529
+A billion adults are illiterate.
+quantity.n.01 EQU 1000000000 adult.n.01 Quantity -1 time.n.08 EQU now illiterate.a.01 AttributeOf -2 Time -1
+
+p03/d2920
+I love her, but she's a lesbian.
+person.n.01 EQU speaker love.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now female.n.02 CONTRAST <1 female.n.02 ANA -1 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 lesbian.n.01
+
+p33/d0713
+Pierre Bérégovoy commits suicide.
+male.n.02 Name "Pierre Bérégovoy" commit.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now suicide.n.01
+
+p94/d1649
+I'm suffering from anal itching.
+person.n.01 EQU speaker time.n.08 EQU now suffer.v.02 Experiencer -2 Time -1 Stimulus +2 anal.a.01 Theme +1 itching.n.01
+
+p26/d2636
+Something's wrong with my e-mail.
+entity.n.01 time.n.08 EQU now wrong.a.04 AttributeOf -2 Time -1 Causer +2 person.n.01 EQU speaker e-mail.n.01 User -1
+
+p37/d1392
+When was "Cold Mountain" written?
+time.n.08 YearOfCentury ? time.n.08 TPR now book.n.01 Name "Cold Mountain" write.v.01 Time -3 Time -2 Result -1
+
+p10/d0715
+"Sophie's World" is a best seller.
+book.n.01 Name "Sophie's World" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now best_seller.n.01
+
+p98/d1956
+You said that thirty minutes ago.
+person.n.01 EQU hearer say.v.01 Agent -1 Time +1 Topic +2 Time +5 time.n.08 TPR now entity.n.01 quantity.n.01 EQU 30 minute.n.01 Quantity -1 TAB now time.n.08 TAB -1
+
+p02/d2787
+Who could've broken the fishbowl?
+person.n.01 Name ? POSSIBILITY <1 break.v.02 Agent -1 Time +1 Patient +2 time.n.08 TPR now fishbowl.n.02
+
+p81/d1435
+Canned food doesn't interest him.
+canned_food.n.01 NEGATION <1 time.n.08 EQU now interest.v.01 Stimulus -2 Time -1 Experiencer +1 male.n.02
+
+p09/d0838
+What a disagreeable fellow he is!
+disagreeable.a.02 AttributeOf +1 person.n.01 Role +1 fellow.n.01 male.n.02 be.v.01 Co-Theme -3 Theme -1 Time +1 time.n.08 EQU now
+
+p84/d2008
+What's your favorite ZZ Top song?
+entity.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 Experiencer -1 Stimulus +2 musical_organization.n.01 Name "ZZ Top" song.n.01 Creator -1
+
+p30/d1961
+Chad is called "Tchad" in French.
+country.n.02 Name "Chad" time.n.08 EQU now call.v.01 Theme -2 Time -1 Result +1 Context +2 name.n.01 EQU "Tchad" french.n.01
+
+p53/d2805
+Chomsky is a structural linguist.
+male.n.02 Name "Chomsky" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now structural.a.04 AttributeOf +2 person.n.01 Role +1 linguist.n.01
+
+p08/d3489
+The speech lasted thirty minutes.
+speech.n.01 last.v.01 Theme -1 Time +1 Value +3 time.n.08 TPR now quantity.n.01 EQU 30 minute.n.01 Quantity -1
+
+p85/d0712
+Manchester United defeated Fulham.
+team.n.01 Name "Manchester United" defeat.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now team.n.01 Name "Fulham"
+
+p19/d2578
+Did she have Parkinson's disease?
+time.n.08 TPR now female.n.02 have.v.12 Time -2 Experiencer -1 Stimulus +1 parkinson's_disease.n.01
+
+p90/d2522
+Mary bought a fake Gucci handbag.
+female.n.02 Name "Mary" buy.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now fake.a.02 entity.n.01 Attribute -1 APX +2 company.n.01 Name "Gucci" handbag.n.01 Creator -1
+
+p38/d1973
+'Toast' is an anagram of 'stoat'.
+word.n.01 EQU "Toast" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now anagram.n.01 Of +1 word.n.01 EQU "stoat"
+
+p44/d0886
+What is Mr. Johnson's first name?
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now mr.n.01 male.n.02 Name "Johnson" Title -1 first_name.n.01 User -1
+
+p48/d3229
+Forty-eight sailors are on board.
+quantity.n.01 EQU 48 person.n.01 Quantity -1 Role +1 sailor.n.01 time.n.08 EQU now on_board.r.01 AttributeOf -3 Time -1
+
+p87/d3205
+What kind of flowers do you like?
+entity.n.01 InstanceOf +1 EQU ? flower.n.01 time.n.08 EQU now person.n.01 EQU hearer like.v.03 Stimulus -4 Time -2 Experiencer -1
+
+p64/d2106
+His novels also appear in French.
+male.n.02 novel.n.01 Creator -1 appear.v.03 Theme -1 Time +1 Attribute +2 time.n.08 EQU now french.n.01
+
+p00/d0717
+The yakuza are the Japanese mafia.
+yakuza.n.02 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now country.n.02 Name "japan" mafia.n.01 Location -1
+
+p60/d3343
+Canned food doesn't interest her.
+canned_food.n.01 NEGATION <1 time.n.08 EQU now interest.v.01 Stimulus -2 Time -1 Experiencer +1 female.n.02
+
+p42/d0760
+Hooper bought a house in Portland.
+male.n.02 Name "Hooper" buy.v.01 Agent -1 Time +1 Theme +2 Location +3 time.n.08 TPR now house.n.01 city.n.01 Name "Portland"
+
+p13/d2643
+Four plus eighteen is twenty-two.
+number.n.02 EQU 4 plus.n.02 Theme -1 Co-Theme +1 number.n.02 EQU 18 be.v.06 Theme -2 Co-Theme +1 number.n.02 EQU 22
+
+p29/d1392
+In which city is the River Seine?
+city.n.01 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now river.n.01 Name "Seine" river.n.01 EQU -1
+
+p04/d1194
+In 1960, 35 people were employed.
+time.n.08 YearOfCentury 1960 quantity.n.01 EQU 35 person.n.01 Quantity -1 time.n.08 TPR now employ.v.01 Time -4 Theme -2 Time -1
+
+p12/d0347
+My grandfather was born in 1920 .
+person.n.01 EQU speaker person.n.01 Role +1 grandfather.n.01 Of -2 time.n.08 TPR now bear.v.02 Patient -3 Time -1 Time +1 time.n.08 YearOfCentury 1920
+
+p74/d3413
+I pulled out my knitting needles.
+person.n.01 EQU speaker pull_out.v.02 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker knitting_needle.n.01 User -1
+
+p71/d2621
+Jim doesn't like apples, does he?
+male.n.02 Name "Jim" NEGATION <1 time.n.08 EQU now like.v.02 Experiencer -2 Time -1 Stimulus +1 apple.n.01
+
+p32/d1930
+She's an excellent brain surgeon.
+female.n.02 be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now excellent.a.01 AttributeOf +2 person.n.01 Role +1 brain_surgeon.n.01
+
+p99/d0760
+Parmalat costs 14.3 billion euros.
+company.n.01 Name "Parmalat" cost.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 14300000000 euro.n.01 Quantity -1
+
+p69/d1391
+Where does Raymond Pettibon work?
+location.n.01 Name ? time.n.08 EQU now male.n.02 Name "Raymond Pettibon" work.v.02 Location -3 Time -2 Agent -1
+
+p03/d2661
+Dan fixed a quick meal for Linda.
+male.n.02 Name "Dan" fix.v.04 Agent -1 Time +1 Patient +3 Beneficiary +4 time.n.08 TPR now quick.a.01 AttributeOf +1 meal.n.01 female.n.02 Name "Linda"
+
+p56/d1740
+Mary hasn't grilled the meat yet.
+female.n.02 Name "Mary" NEGATION <1 grill.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now meat.n.01
+
+p66/d2119
+I trusted him and I believed him.
+person.n.01 EQU speaker trust.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now male.n.02 CONTINUATION <1 person.n.01 EQU speaker believe.v.05 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now male.n.02 ANA -4
+
+p06/d3291
+We elected Ms. Jordan chairperson.
+person.n.01 Sub speaker elect.v.01 Agent -1 Time +1 Theme +3 Result +4 time.n.08 TPR now ms.n.05 female.n.02 Name "Jordan" Title -1 chairperson.n.01
+
+p10/d1239
+HBV Union Criticizes Deutsche Bank
+alliance.n.03 Name "HBV Union" criticize.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now company.n.01 Name "Deutsche Bank"
+
+p02/d1725
+His office is on the eighth floor.
+male.n.02 office.n.01 User -1 be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now floor.n.02 Order 8
+
+p05/d2579
+Odette was born in Nantes in 1905.
+female.n.02 Name "Odette" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 Time +2 city.n.01 Name "Nantes" time.n.08 YearOfCentury 1905
+
+p84/d1638
+Laura is watching television news.
+female.n.02 Name "Laura" time.n.08 EQU now watch.v.03 Agent -2 Time -1 Theme +1 television_news.n.01
+
+p63/d2839
+Woodrow Wilson was extremely sick.
+male.n.02 Name "Woodrow Wilson" time.n.08 TPR now extremely.r.02 sick.a.01 AttributeOf -3 Time -2 Degree -1
+
+p30/d1957
+How much does your daughter weigh?
+measure.n.02 Quantity ? time.n.08 EQU now person.n.01 EQU hearer person.n.01 Role +1 daughter.n.01 Of -2 weigh.v.01 Value -5 Time -4 Theme -2
+
+p72/d2962
+Each individual paid 7000 dollars.
+NEGATION <1 individual.n.01 NEGATION <1 pay.v.01 Agent -1 Time +1 Asset +3 time.n.08 TPR now quantity.n.01 EQU 7000 dollar.n.01 Quantity -1
+
+p59/d2593
+How much do ten paper plates cost?
+measure.n.02 Quantity ? time.n.08 EQU now quantity.n.01 EQU 10 paper_plate.n.01 Quantity -1 cost.v.01 Value -4 Time -3 Theme -1
+
+p19/d0763
+The Ebro Delta is used for farming.
+geographical_area.n.01 Name "Ebro Delta" time.n.08 EQU now use.v.01 Theme -2 Time -1 Goal +1 farming.n.01
+
+p90/d0764
+Dagbladet is a Norwegian newspaper.
+company.n.01 Name "Dagbladet" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now country.n.02 Name "norway" newspaper.n.02 Location -1
+
+p51/d2116
+What an interesting novel this is!
+interesting.a.01 Stimulus +1 novel.n.01 entity.n.01 be.v.01 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+
+p25/d2239
+At last, we arrived in California.
+at_last.r.01 person.n.01 Sub speaker arrive.v.01 Manner -2 Theme -1 Time +1 Destination +2 time.n.08 TPR now state.n.01 Name "California"
+
+p17/d3532
+This company sold unsafe products.
+company.n.01 sell.v.02 Agent -1 Time +1 Theme +3 time.n.08 TPR now unsafe.a.02 AttributeOf +1 product.n.01
+
+p14/d1977
+None of the books are instructive.
+NEGATION <1 entity.n.01 SubOf +1 book.n.01 time.n.08 EQU now instructive.a.01 AttributeOf -3 Time -1
+
+p50/d0024
+A piano is being played by someone
+piano.n.01 time.n.08 EQU now play.v.07 Theme -2 Time -1 Agent +1 person.n.01
+
+p64/d2793
+By whom was the island discovered?
+person.n.01 Name ? time.n.08 TPR now island.n.01 discover.v.07 Agent -3 Time -2 Theme -1
+
+p00/d2784
+Sachiko is more popular than Judy.
+female.n.02 Name "Sachiko" time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 popular.a.01 Stimulus -3 Time -2 Degree -1 female.n.02 Name "Judy"
+
+p13/d0760
+Côte d'Ivoire is located in Africa.
+country.n.02 Name "Côte d'Ivoire" time.n.08 EQU now located.a.01 Theme -2 Time -1 Location +1 continent.n.01 Name "Africa"
+
+p75/d1389
+Who directed "North by Northwest"?
+person.n.01 Name ? direct.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now movie.n.01 Name "North by Northwest"
+
+p29/d3320
+Nevertheless, I'm extremely proud.
+person.n.01 EQU speaker time.n.08 EQU now extremely.r.01 proud.a.01 AttributeOf -3 Time -2 Degree -1
+
+p46/d3193
+He came from a tiny mountain town.
+male.n.02 come.v.08 Theme -1 Time +1 Location +4 time.n.08 TPR now tiny.a.01 AttributeOf +2 mountain.n.01 town.n.01 Location -1
+
+p74/d2352
+Today we'll study Charles Dickens.
+time.n.08 TIN +2 day.n.03 TCT now day.n.03 EQU -1 person.n.01 Sub speaker time.n.08 TSU now study.v.01 Time -5 Agent -2 Time -1 Theme +1 male.n.02 Name "Charles Dickens"
+
+p71/d0917
+Mary was arrested for shoplifting.
+female.n.02 Name "Mary" time.n.08 TPR now arrest.v.01 Patient -2 Time -1 Theme +1 shoplifting.n.01
+
+p27/d3050
+I am complaining to the principal.
+person.n.01 EQU speaker time.n.08 EQU now complain.v.01 Agent -2 Time -1 Recipient +1 person.n.01 Role +1 principal.n.02
+
+p11/d2436
+I know him but he doesn't know me.
+person.n.01 EQU speaker know.v.04 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 CONTRAST <1 male.n.02 ANA -1 NEGATION <1 time.n.08 EQU now know.v.04 Experiencer -2 Time -1 Stimulus +1 person.n.01 EQU speaker
+
+p34/d2221
+According to her, he isn't coming.
+according.a.02 Proposition >1 Source +1 female.n.02 CONTINUATION <0 male.n.02 NEGATION <1 time.n.08 EQU now come.v.02 Theme -2 Time -1
+
+p20/d1387
+What year did the "Mar Egeo" sink?
+time.n.08 YearOfCentury ? time.n.08 TPR now vehicle.n.01 Name "Mar Egeo" sink.v.04 Time -3 Time -2 Patient -1
+
+p03/d2373
+What a ridiculous opinion that is!
+ridiculous.a.02 AttributeOf +1 opinion.n.01 entity.n.01 be.v.01 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+
+p07/d2158
+She started laughing hysterically.
+female.n.02 start.v.01 Time +1 PartOf +2 Manner +3 time.n.08 TPR now laugh.v.01 Agent -3 hysterically.r.01
+
+p66/d1389
+Where is the Popocatepetl volcano?
+location.n.01 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now volcano.n.02 Name "Popocatepetl"
+
+p79/d0024
+A potato is being sliced by a woman
+potato.n.01 time.n.08 EQU now slice.v.03 Patient -2 Time -1 Agent +1 woman.n.01
+
+p10/d2688
+How many magazines are on the desk?
+magazine.n.02 Quantity ? be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now desk.n.01
+
+p62/d1381
+How did Molly Shannon's mother die?
+manner.n.01 EQU ? time.n.08 TPR now female.n.02 Name "Molly Shannon" person.n.01 Role +1 mother.n.01 Of -2 die.v.01 Manner -5 Time -4 Patient -2
+
+p05/d1902
+If the car breaks down, we'll walk.
+car.n.01 break_down.v.04 Patient -1 Time +1 time.n.08 EQU now CONSEQUENCE <1 person.n.01 Sub speaker time.n.08 TSU now walk.v.01 Theme -2 Time -1
+
+p81/d2183
+How long is the Golden Gate Bridge?
+long.a.02 Value ? Time +1 AttributeOf +2 time.n.08 EQU now bridge.n.01 Name "Golden Gate Bridge"
+
+p09/d2850
+How many Eskimos live in Greenland?
+person.n.01 Quantity ? Role +1 eskimo.n.01 live.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now island.n.01 Name "Greenland"
+
+p63/d1502
+None of these buses go to Shinjuku.
+NEGATION <1 entity.n.01 SubOf +1 bus.n.01 go.v.01 Theme -2 Time +1 Destination +2 time.n.08 TSU now city.n.01 Name "Shinjuku"
+
+p30/d3512
+Her aunt's glasses are fashionable.
+female.n.02 person.n.01 Role +1 aunt.n.01 Of -2 glasses.n.01 User -2 time.n.08 EQU now fashionable.a.01 AttributeOf -2 Time -1
+
+p18/d3033
+Is Tom left-handed or right-handed?
+male.n.02 Name "Tom" ALTERNATION <1 time.n.08 EQU now left-handed.a.01 AttributeOf -2 Time -1 ALTERNATION <2 time.n.08 EQU now right-handed.a.01 AttributeOf -4 Time -1
+
+p59/d0175
+Though he is clever, he isn't wise.
+male.n.02 time.n.08 EQU now clever.a.02 AttributeOf -2 Time -1 CONTRAST <1 male.n.02 ANA -3 NEGATION <1 time.n.08 EQU now wise.a.01 AttributeOf -2 Time -1
+
+p85/d2030
+This bag is 4 kilograms overweight.
+bag.n.01 time.n.08 EQU now quantity.n.01 EQU 4 kilogram.n.01 Quantity -1 overweight.a.01 Theme -4 Time -3 Value -1
+
+p01/d3115
+What kind of souvenirs did you buy?
+entity.n.01 InstanceOf +1 EQU ? souvenir.n.01 time.n.08 TPR now person.n.01 EQU hearer buy.v.01 Theme -4 Time -2 Agent -1
+
+p21/d0763
+Dinosaur remains were found in Asia.
+dinosaur.n.01 remains.n.02 PartOf -1 time.n.08 TPR now find.v.02 Theme -2 Time -1 Location +1 continent.n.01 Name "Asia"
+
+p77/d2090
+That guy stole my wallet! Stop him!
+guy.n.01 steal.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker wallet.n.01 User -1 CONTINUATION <1 person.n.01 EQU hearer stop.v.05 Agent -1 Patient +1 male.n.02 ANA -7
+
+p17/d1387
+What do the initials WTO stand for?
+entity.n.01 Name ? time.n.08 EQU now initial.n.01 EQU +1 symbol.n.01 EQU "WTO" stand_for.v.02 Co-Theme -4 Time -3 Theme -2
+
+p15/d1393
+How old was Babe Ruth when he died?
+old.a.01 Value ? Time +1 AttributeOf +2 time.n.08 TPR now male.n.02 Name "Babe Ruth" male.n.02 ANA -1 die.v.01 TIN -4 Patient -1 Time +1 time.n.08 TPR now
+
+p22/d2422
+Mary received a telegraph from Tom.
+female.n.02 Name "Mary" receive.v.01 Agent -1 Time +1 Theme +2 Source +3 time.n.08 TPR now telegram.n.01 male.n.02 Name "Tom"
+
+p61/d3307
+None of his advice was very useful.
+NEGATION <1 entity.n.01 SubOf +2 male.n.02 advice.n.01 Creator -1 time.n.08 TPR now very.r.01 useful.a.01 AttributeOf -5 Time -2 Degree -1
+
+p00/d3476
+I love thick, creamy mushroom soup.
+person.n.01 EQU speaker love.v.01 Experiencer -1 Time +1 Stimulus +6 time.n.08 EQU now thick.a.03 AttributeOf +4 creamy.a.02 AttributeOf +3 mushroom.n.01 mushroom.n.01 soup.n.01 MadeOf -2 MadeOf -1
+
+p13/d3153
+Dan lives in Boston, Massachusetts.
+male.n.02 Name "Dan" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "Boston" PartOf +1 state.n.01 Name "Massachusetts"
+
+p24/d3104
+Tom's response surprised everybody.
+male.n.02 Name "Tom" response.n.03 Creator -1 NEGATION <1 person.n.01 NEGATION <1 surprise.v.02 Stimulus -2 Experiencer -1 Time +1 time.n.08 TPR now
+
+p04/d2290
+Ultraviolet rays are harmful to us.
+ultraviolet.a.01 AttributeOf +1 ray.n.01 time.n.08 EQU now harmful.a.01 Stimulus -2 Time -1 Experiencer +1 person.n.01 Sub speaker
+
+p54/d1627
+I don't trust anyone except myself.
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now trust.v.01 Experiencer -2 Time -1 Stimulus +1 person.n.01 NEQ +1 person.n.01 EQU speaker
+
+p74/d0714
+A letter bomb was sent to Kiesbauer.
+letter_bomb.n.01 time.n.08 TPR now send.v.03 Theme -2 Time -1 Destination +1 female.n.02 Name "Kiesbauer"
+
+p68/d1688
+We're looking for a friend of ours.
+person.n.01 Sub speaker time.n.08 EQU now look.v.04 Agent -2 Time -1 Theme +1 person.n.01 Role +1 friend.n.01 Of +1 person.n.01 Sub speaker
+
+p70/d2345
+Wednesday's test will be difficult.
+time.n.08 DayOfWeek wednesday test.n.02 Time -1 time.n.08 TSU now difficult.a.01 AttributeOf -2 Time -1
+
+p27/d1394
+what is Speedy Claxton's real name?
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now male.n.02 Name "Speedy Claxton" real.a.01 AttributeOf +1 name.n.01 Bearer -2
+
+p11/d1089
+"I was a boy," he said impatiently.
+person.n.01 EQU speaker be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now boy.n.01 CONTINUATION <0 male.n.02 say.v.02 Proposition <1 Agent -1 Time +1 Manner +2 time.n.08 TPR now impatiently.r.01
+
+p34/d2068
+Urumqi is even colder than Kashgar.
+city.n.01 Name "Urumqi" time.n.08 EQU now cold.a.01 AttributeOf -2 Time -1 Degree +1 more.r.01 Theme -3 Co-Theme +1 city.n.01 Name "Kashgar"
+
+p20/d2785
+Is tapwater drinkable in Australia?
+time.n.08 EQU now tap_water.n.01 drinkable.a.01 Time -2 Theme -1 Location +1 country.n.02 Name "Australia"
+
+p96/d1662
+Do you believe in the Easter Bunny?
+time.n.08 EQU now person.n.01 EQU hearer believe.v.01 Time -2 Agent -1 Theme +1 easter_bunny.n.01
+
+p07/d0252
+Everything you saw was an illusion.
+NEGATION <1 entity.n.01 person.n.01 EQU hearer see.v.01 Stimulus -2 Experiencer -1 Time +1 time.n.08 TPR now NEGATION <1 be.v.01 Theme -4 Time +1 Co-Theme +2 time.n.08 TPR now illusion.n.01
+
+p26/d3070
+I am memorizing the national anthem.
+person.n.01 EQU speaker time.n.08 EQU now memorize.v.01 Agent -2 Time -1 Topic +1 national_anthem.n.01
+
+p89/d2432
+I watched the basketball game on TV.
+person.n.01 EQU speaker watch.v.03 Agent -1 Time +1 Theme +2 Instrument +3 time.n.08 TPR now basketball_game.n.01 tv.n.01
+
+p02/d2477
+I'm always confusing John with Paul.
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU speaker time.n.08 EQU now confuse.v.01 Agent -2 Time -1 Patient +1 Co-Patient +2 male.n.02 Name "John" male.n.02 Name "Paul"
+
+p31/d0016
+A man is filling a plastic container
+man.n.01 time.n.08 EQU now fill.v.01 Agent -2 Time -1 Destination +2 plastic.n.01 container.n.01 MadeOf -1
+
+p84/d1385
+How many inhabitants does Iraq have?
+person.n.01 Quantity ? Role +1 inhabitant.n.01 time.n.08 EQU now country.n.02 Name "Iraq" have.v.02 Theme -4 Time -2 Pivot -1
+
+p83/d1394
+How did George Wallace's father die?
+manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "George Wallace" person.n.01 Role +1 father.n.01 Of -2 die.v.01 Manner -5 Time -4 Patient -2
+
+p82/d1975
+That's my favorite kind of sandwich.
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker favorite.a.02 Experiencer -1 Stimulus +1 entity.n.01 InstanceOf +1 sandwich.n.01
+
+p78/d0012
+A lemur is licking a person's finger
+lemur.n.01 time.n.08 EQU now lick.v.02 Agent -2 Time -1 Experiencer +2 person.n.01 finger.n.01 PartOf -1
+
+p88/d2089
+Trygve Lie was a Norwegian diplomat.
+male.n.02 Name "Trygve Lie" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now country.n.02 Name "norway" person.n.01 Source -1 Role +1 diplomat.n.01
+
+p58/d0884
+I'm living in Kunming at the moment.
+person.n.01 EQU speaker time.n.08 EQU now live.v.01 Theme -2 Time -1 Location +1 Time +2 city.n.01 Name "Kunming" time.n.08 EQU now
+
+p38/d2263
+Neither Tom nor Mary speaks Spanish.
+NEGATION <1 male.n.02 Name "Tom" speak.v.03 Agent -1 Time +1 Theme +2 time.n.08 EQU now spanish.n.01 NEGATION <2 female.n.02 Name "Mary" speak.v.03 Agent -1 Time +1 Theme +2 time.n.08 EQU now spanish.n.01
+
+p48/d1384
+What year did "Snow White" come out?
+time.n.08 YearOfCentury ? time.n.08 TPR now movie.n.01 Name "Snow White" come_out.v.02 Time -3 Time -2 Theme -1
+
+p87/d2718
+Japanese shogi corresponds to chess.
+country.n.02 Name "japan" shogi.n.01 Source -1 correspond.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now chess.n.02
+
+p50/d2167
+Where was Nelson Mandela imprisoned?
+location.n.01 Name ? time.n.08 TPR now male.n.02 Name "Nelson Mandela" imprison.v.01 Location -3 Time -2 Patient -1
+
+p00/d1489
+I haven't been to Boston since 2013.
+person.n.01 EQU speaker NEGATION <1 be.v.03 Theme -1 Time +1 Location +2 Start +3 time.n.08 TPR now city.n.01 Name "Boston" time.n.08 YearOfCentury 2013
+
+p60/d3186
+Cinderella had two evil stepsisters.
+female.n.02 Name "Cinderella" have.v.01 Pivot -1 Time +1 Theme +4 time.n.08 TPR now quantity.n.01 EQU 2 evil.a.01 AttributeOf +1 person.n.01 Quantity -2 Role +1 stepsister.n.01
+
+p47/d3549
+I didn't know you were a vegetarian.
+person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now know.v.01 Time -1 Proposition >1 Experiencer -2 CONTINUATION <0 person.n.01 EQU hearer TPR now EQU +1 person.n.01 Role +1 vegetarian.n.01
+
+p75/d0716
+Pope John Paul II was born in Poland.
+pope.n.01 male.n.02 Name "John Paul II" Title -1 time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 country.n.02 Name "Poland"
+
+p46/d1912
+Will you drink wine instead of milk?
+time.n.08 TSU now person.n.01 EQU hearer drink.v.01 Time -2 Agent -1 Patient +1 wine.n.01 NEGATION <1 entity.n.01 EQU -2 Patient +1 milk.n.01
+
+p73/d0818
+I had my personal computer repaired.
+person.n.01 EQU speaker time.n.08 TPR now person.n.01 EQU speaker personal_computer.n.01 User -1 repair.v.01 Beneficiary -4 Time -3 Patient -1
+
+p68/d1488
+Jacob Coxey was ready for the worst.
+male.n.02 Name "Jacob Coxey" time.n.08 TPR now ready.a.01 AttributeOf -2 Time -1 Theme +1 worst.n.01
+
+p71/d1936
+I spilled coffee on your tablecloth.
+person.n.01 EQU speaker spill.v.01 Agent -1 Time +1 Theme +2 Destination +4 time.n.08 TPR now coffee.n.01 person.n.01 EQU hearer tablecloth.n.01 User -1
+
+p32/d0766
+The Falklands War took place in 1982.
+war.n.01 Name "Falklands War" take_place.v.01 Theme -1 Time +1 EQU +2 Time +3 time.n.08 TPR now entity.n.01 time.n.08 YearOfCentury 1982
+
+p27/d1519
+Emily lent me her Georgian textbook.
+female.n.02 Name "Emily" lend.v.02 Agent -1 Time +1 Recipient +2 Theme +5 time.n.08 TPR now person.n.01 EQU speaker female.n.02 ANA -4 country.n.02 Name "georgia" textbook.n.01 User -2 Source -1
+
+p99/d3174
+Tom is wearing a Harvard sweatshirt.
+male.n.02 Name "Tom" time.n.08 EQU now wear.v.02 Agent -2 Time -1 Theme +2 university.n.03 Name "Harvard" sweatshirt.n.01 Source -1
+
+p34/d3049
+Steve is wearing a black turtleneck.
+male.n.02 Name "Steve" time.n.08 EQU now wear.v.01 Agent -2 Time -1 Theme +2 black.a.01 turtleneck.n.01 Colour -1
+
+p03/d2285
+How much does the orange juice cost?
+measure.n.02 Unit ? Quantity ? time.n.08 EQU now orange_juice.n.01 cost.v.01 Value -3 Time -2 Theme -1
+
+p94/d2611
+Three pieces, including a small one.
+event.v.01 Participant +2 quantity.n.01 EQU 3 piece.n.01 Quantity -1 Sub +2 small.a.01 Value + piece.n.01 Attribute -1
+
+p10/d0764
+The Berlin Wall was torn down in 1989.
+structure.n.01 Name "Berlin Wall" time.n.08 TPR now tear_down.v.01 Patient -2 Time -1 Time +1 time.n.08 YearOfCentury 1989
+
+p62/d2450
+Despite all his faults he is popular.
+male.n.02 time.n.08 EQU now popular.a.01 Stimulus -2 Time -1 CONTRAST <1 NEGATION <1 entity.n.01 PartOf +2 male.n.02 fault.n.01 Creator -1 NEGATION <1 event.v.01 Participant -3
+
+p81/d2987
+Melanie said that she likes swimming.
+female.n.02 Name "Melanie" say.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 female.n.02 ANA -3 like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now swimming.n.01
+
+p81/d2887
+Police arrested everyone in the room.
+police.n.01 NEGATION <1 person.n.01 Location +1 room.n.01 NEGATION <1 arrest.v.01 Agent -3 Patient -2 Time +1 time.n.08 TPR now
+
+p63/d2262
+A dollar is equal to a hundred cents.
+dollar.n.01 Quantity 1 equal.a.01 Theme -1 Co-Theme +2 quantity.n.01 EQU 100 cent.n.01 Quantity -1
+
+p97/d2111
+All of a sudden they stopped talking.
+all_of_a_sudden.r.02 person.n.01 stop.v.02 Manner -2 Time +1 PartOf +2 time.n.08 TPR now talk.v.01 Agent -3
+
+p08/d2112
+You're slower than a villain's horse.
+person.n.01 EQU hearer time.n.08 EQU now slow.a.01 AttributeOf -2 Time -1 Degree +1 more.r.01 Theme -3 Co-Theme +3 person.n.01 Role +1 villain.n.01 horse.n.01 Owner -2
+
+p78/d2187
+His blue coat was dirty and wrinkled.
+male.n.02 blue.a.01 coat.n.01 User -2 Colour -1 time.n.08 TPR now time.n.08 TPR now dirty.a.01 AttributeOf -3 Time -2 wrinkled.a.02 AttributeOf -4 Time -2
+
+p01/d2141
+I've studied Japanese for five years.
+person.n.01 EQU speaker study.v.04 Agent -1 Time +1 Theme +2 Duration +4 time.n.08 TPR now japanese.n.02 quantity.n.01 EQU 5 year.n.01 Quantity -1
+
+p21/d0764
+Tony Blair belongs to the Labor Party.
+male.n.02 Name "Tony Blair" belong.v.05 Theme -1 Time +1 Pivot +2 time.n.08 EQU now party.n.01 Name "Labor Party"
+
+p21/d2118
+My uncle brought a new TV set for us.
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 bring.v.01 Agent -2 Time +1 Theme +3 Destination +4 time.n.08 TPR now new.a.05 AttributeOf +1 tv_set.n.01 person.n.01 Sub speaker
+
+p48/d1391
+In which city was Jorge Machado born?
+city.n.01 Name ? time.n.08 TPR now male.n.02 Name "Jorge Machado" bear.v.02 Location -3 Time -2 Patient -1
+
+p86/d1952
+Nancy couldn't move the desk herself.
+female.n.02 Name "Nancy" NEGATION <1 POSSIBILITY <1 move.v.02 Agent -1 Theme +1 desk.n.01 female.n.02 EQU -3
+
+p15/d2653
+I called 911 and the paramedics came.
+person.n.01 EQU speaker call.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now phone_number.n.01 Name "911" CONTINUATION <1 paramedic.n.01 come.v.01 Theme -1 Time +1 time.n.08 TPR now
+
+p50/d1997
+What's your favorite hotel in Boston?
+entity.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 Experiencer -1 Stimulus +1 hotel.n.01 Location +1 city.n.01 Name "Boston"
+
+p00/d0054
+There is no man playing two keyboards
+NEGATION <1 entity.n.01 time.n.08 EQU now man.n.01 play.v.07 Time -2 EQU -3 Agent -1 Theme +2 quantity.n.01 EQU 2 keyboard.n.01 Quantity -1
+
+p42/d2561
+I lied to my girlfriend about my age.
+person.n.01 EQU speaker lie.v.05 Agent -1 Time +1 Recipient +3 Topic +6 time.n.08 TPR now person.n.01 EQU speaker person.n.01 Role +1 girlfriend.n.02 Of -2 person.n.01 EQU speaker age.n.01 FeatureOf -1
+
+p75/d0914
+My uncle is slim, but my aunt is fat.
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 time.n.08 EQU now slim.a.01 AttributeOf -3 Time -1 CONTRAST <1 person.n.01 EQU speaker person.n.01 Role +1 aunt.n.01 Of -2 time.n.08 EQU now fat.a.01 AttributeOf -3 Time -1
+
+p04/d0227
+Apart from English, he speaks German.
+entity.n.01 english.n.01 SubOf -1 male.n.02 speak.v.03 Theme -3 Agent -1 Time +1 time.n.08 EQU now german.n.02 SubOf -5
+
+p91/d1905
+Yumi's boyfriend is a bit antisocial.
+female.n.02 Name "Yumi" person.n.01 Role +1 boyfriend.n.01 Of -2 time.n.08 EQU now measure.n.02 Quantity - antisocial.a.01 Theme -4 Time -2 Value -1
+
+p36/d1402
+Nobody knows where he has escaped to.
+NEGATION <1 person.n.01 know.v.01 Proposition >1 Experiencer -1 Time +1 time.n.08 EQU now CONTINUATION <0 location.n.01 EQU ? male.n.02 escape.v.01 Destination -2 Theme -1 Time +1 time.n.08 TPR now
+
+p70/d2506
+Napoleon Bonaparte feared black cats.
+male.n.02 Name "Napoleon Bonaparte" fear.v.02 Experiencer -1 Time +1 Stimulus +3 time.n.08 TPR now black.a.01 cat.n.01 Colour -1
+
+p99/d3309
+Picasso painted this picture in 1950.
+male.n.02 Name "Picasso" paint.v.01 Agent -1 Time +1 Result +2 Time +3 time.n.08 TPR now picture.n.02 time.n.08 YearOfCentury 1950
+
+p80/d2841
+Where did you take your earrings off?
+location.n.01 EQU ? time.n.08 TPR now person.n.01 EQU hearer take_off.v.02 Location -3 Time -2 Agent -1 Theme +2 person.n.01 EQU hearer earring.n.01 User -1
+
+p07/d0801
+Every member of the club was present.
+NEGATION <1 person.n.01 Role +1 member.n.01 Of +1 club.n.02 NEGATION <1 time.n.08 TPR now present.a.02 AttributeOf -4 Time -1
+
+p37/d2434
+This offer expires on August 15, 1999.
+offer.n.02 expire.v.01 Patient -1 Time +1 Time +3 time.n.08 TSU now time.n.08 MonthOfYear 8 EQU +1 time.n.08 DayOfMonth 15 EQU +1 time.n.08 YearOfCentury 1999
+
+p10/d2508
+He is working in the field of biology.
+male.n.02 time.n.08 EQU now work.v.02 Agent -2 Time -1 Theme +1 field.n.04 EQU +1 biology.n.01
+
+p62/d1213
+We are strong if Germany is strong ...
+person.n.01 Sub speaker time.n.08 EQU now strong.a.01 AttributeOf -2 Time -1 PRECONDITION <1 state.n.04 Name "Germany" time.n.08 EQU now strong.a.01 AttributeOf -2 Time -1
+
+p93/d1382
+What is Buzz Aldrin's real first name?
+entity.n.01 EQU ? be.v.02 Co-Theme -1 Time +1 Theme +4 time.n.08 EQU now male.n.02 Name "Buzz Aldrin" real.a.01 AttributeOf +1 first_name.n.01 Bearer -2
+
+p52/d1587
+Let's not go to that restaurant again.
+person.n.01 EQU speaker NEGATION <1 time.n.08 TSU now go.v.01 Theme -2 Time -1 Destination +1 restaurant.n.01
+
+p30/d2829
+Bilbao is a city in the Basque Country
+city.n.01 Name "Bilbao" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now city.n.01 PartOf +1 country.n.02 Name "Basque Country"
+
+p59/d2131
+Salicylic acid is an organic compound.
+salicylic_acid.n.01 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now organic.a.01 AttributeOf +1 compound.n.02
+
+p58/d3087
+Neither Tom nor Mary can speak French.
+NEGATION <1 male.n.02 Name "Tom" POSSIBILITY <1 speak.v.03 Agent -1 Theme +1 french.n.01 NEGATION <3 female.n.02 Name "Mary" POSSIBILITY <1 speak.v.03 Agent -1 Theme +1 french.n.01
+
+p45/d1435
+The bowl contains many kinds of candy.
+bowl.n.01 contain.v.02 Pivot -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 Quantity + InstanceOf +1 candy.n.01
+
+p86/d3185
+Lincoln was elected President in 1860.
+male.n.02 Name "Lincoln" time.n.08 TPR now elect.v.01 Theme -2 Time -1 Result +1 Time +3 person.n.01 Role +1 president.n.03 time.n.08 YearOfCentury 1860
+
+p14/d2823
+This book costs more or less 20 euros.
+book.n.02 cost.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 APX 20 euro.n.01 Quantity -1
+
+p64/d1542
+Susan is majoring in American history.
+female.n.02 Name "Susan" time.n.08 EQU now major.v.01 Agent -2 Time -1 Theme +2 country.n.02 Name "america" history.n.03 Theme -1
+
+p43/d2963
+Fabio lived for two years in Shanghai.
+male.n.02 Name "Fabio" live.v.01 Theme -1 Time +1 Duration +3 Location +4 time.n.08 TPR now quantity.n.01 EQU 2 year.n.01 Quantity -1 city.n.03 Name "Shanghai"
+
+p16/d2472
+We visited Sao Paulo's largest museum.
+person.n.01 Sub speaker visit.v.01 Agent -1 Time +1 Theme +5 time.n.08 TPR now city.n.01 Name "Sao Paulo" large.a.01 Degree +1 most.r.01 museum.n.01 Location -3 Attribute -2
+
+p04/d1660
+China is called "Zhongguo" in Chinese.
+country.n.02 Name "China" time.n.08 EQU now call.v.01 Theme -2 Time -1 Result +1 Context +2 name.n.01 EQU "Zhongguo" chinese.n.01
+
+p39/d3294
+About twenty people came to the party.
+quantity.n.01 APX 20 person.n.01 Quantity -1 come.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now party.n.04
+
+p68/d1551
+Japan imports oranges from California.
+state.n.04 Name "Japan" import.v.01 Agent -1 Time +1 Theme +2 Source +3 time.n.08 EQU now orange.n.01 state.n.01 Name "California"
+
+p40/d0897
+The view from the summit is very nice.
+view.n.02 Source +1 summit.n.02 time.n.08 EQU now very.r.01 nice.a.01 AttributeOf -4 Time -2 Degree -1
+
+p99/d1264
+He was interrogated by Hamburg police.
+male.n.02 time.n.08 TPR now interrogate.v.02 Recipient -2 Time -1 Agent +2 city.n.01 Name "Hamburg" police.n.01 Source -1
+
+p49/d3026
+Napoleon was banished to Elba in 1814.
+male.n.02 Name "Napoleon" time.n.08 TPR now banish.v.01 Theme -2 Time -1 Destination +1 Time +2 island.n.01 Name "Elba" time.n.08 YearOfCentury 1814
+
+p80/d2384
+You said his name was Tom, didn't you?
+person.n.01 EQU hearer say.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 male.n.02 name.n.01 Bearer -1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now name.n.01 EQU "Tom"
+
+p33/d2841
+Norway is called "Norge" in Norwegian.
+country.n.02 Name "Norway" time.n.08 EQU now call.v.01 Theme -2 Time -1 Result +1 Context +2 name.n.01 EQU "Norge" norwegian.n.02
+
+p89/d1383
+What year did poet Emily Dickinson die?
+time.n.08 YearOfCentury ? time.n.08 TPR now poet.n.01 female.n.02 Name "Emily Dickinson" Role -1 die.v.01 Time -4 Time -3 Patient -1
+
+p93/d1864
+I was anxious for a new word processor.
+person.n.01 EQU speaker time.n.08 TPR now anxious.a.01 Experiencer -2 Time -1 Stimulus +2 new.a.01 AttributeOf +1 word_processor.n.01
+
+p84/d1391
+What does the acronym "PERS" stand for?
+entity.n.01 Name ? time.n.08 EQU now acronym.n.01 EQU +1 acronym.n.01 EQU "PERS" stand_for.v.02 Co-Theme -4 Time -3 Theme -2
+
+p53/d0949
+Although she is rich, she is not happy.
+female.n.02 time.n.08 EQU now rich.a.01 AttributeOf -2 Time -1 CONTRAST <1 female.n.02 ANA -3 NEGATION <1 time.n.08 EQU now happy.a.01 Experiencer -2 Time -1
+
+p59/d2453
+At any rate, the program was a success.
+at_any_rate.r.01 program.n.02 be.v.01 Manner -2 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now success.n.01
+
+p58/d3295
+Tom pushed all the pillows off the bed.
+male.n.02 Name "Tom" NEGATION <1 entity.n.01 PartOf +1 pillow.n.01 NEGATION <1 push.v.01 Agent -3 Theme -2 Time +1 Source +2 time.n.08 TPR now bed.n.01
+
+p51/d1485
+J. J. Thomson was an English scientist.
+male.n.02 Name "joseph john thomson" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now country.n.02 Name "england" person.n.01 Source -1 Role +1 scientist.n.01
+
+p48/d0715
+A shipwreck took place in the North Sea.
+shipwreck.n.03 take_place.v.01 Theme -1 Time +1 EQU +2 Location +3 time.n.08 TPR now entity.n.01 sea.n.01 Name "North Sea"
+
+p50/d1536
+How many films did you watch yesterday?
+film.n.01 Quantity ? time.n.08 TPR now person.n.01 EQU hearer watch.v.01 Theme -3 Time -2 Agent -1 Time +1 time.n.08 TIN +2 day.n.03 TCT now day.n.03 TAB -1
+
+p61/d0922
+My uncle isn't young, but he's healthy.
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 NEGATION <1 time.n.08 EQU now young.a.01 Time -1 Value + AttributeOf -3 CONTRAST <1 male.n.02 ANA -4 time.n.08 EQU now healthy.a.01 AttributeOf -2 Time -1
+
+p00/d0955
+If you don't like it then you can quit.
+person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now like.v.02 Experiencer -2 Time -1 Stimulus +1 entity.n.01 CONSEQUENCE <1 person.n.01 EQU hearer POSSIBILITY <1 quit.v.01 Agent -1
+
+p16/d1849
+I cannot lie to Taninna. She's my wife.
+person.n.01 EQU speaker NEGATION <1 POSSIBILITY <1 lie.v.05 Agent -1 Recipient +1 female.n.02 Name "Taninna" CONTINUATION <1 female.n.02 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 wife.n.01 Of -2
+
+p75/d2274
+I fell in love with a girl from Vienna.
+person.n.01 EQU speaker fall.v.03 Patient -1 Time +1 Result +2 time.n.08 TPR now in_love.a.01 Experiencer -3 Stimulus +1 girl.n.01 Source +1 city.n.01 Name "Vienna"
+
+p04/d2764
+Will you go to the party instead of me?
+time.n.08 TSU now person.n.01 EQU hearer go.v.01 Time -2 Theme -1 Destination +1 party.n.04 NEGATION <1 entity.n.01 EQU -2 Theme +1 person.n.01 EQU speaker
+
+p39/d3188
+We plan to drink champagne at midnight.
+person.n.01 Sub speaker plan.v.01 Agent -1 Time +1 Topic +2 time.n.08 EQU now drink.v.01 Agent -3 Patient +1 Time +2 champagne.n.01 time.n.08 ClockTime 00:00
+
+p23/d0808
+Rosa Montero is an extraordinary woman.
+female.n.02 Name "Rosa Montero" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now extraordinary.a.01 AttributeOf +1 woman.n.01
+
+p27/d0050
+The woman is playing an electric guitar
+woman.n.01 time.n.08 EQU now play.v.07 Agent -2 Time -1 Theme +1 electric_guitar.n.01
+
+p34/d2847
+I will not translate contracts anymore.
+person.n.01 EQU speaker NEGATION <1 time.n.08 TSU now translate.v.01 Agent -2 Time -1 Patient +1 contract.n.01
+
+p80/d2524
+Despite his riches, he's not contented.
+male.n.02 NEGATION <1 time.n.08 EQU now content.a.01 Experiencer -2 Time -1 CONTRAST <1 event.v.01 Participant +2 male.n.02 riches.n.01 User -1
+
+p26/d3215
+I know Portuguese, English, and Russian.
+person.n.01 EQU speaker know.v.01 Experiencer -1 Time +1 Stimulus +4 time.n.08 EQU now portuguese.n.01 english.n.01 entity.n.01 Sub -2 Sub -1 Sub +1 russian.n.02
+
+p10/d1392
+How many inhabitants does Kanazawa have?
+person.n.01 Quantity ? Role +1 inhabitant.n.01 time.n.08 EQU now city.n.01 Name "Kanazawa" have.v.02 Theme -4 Time -2 Pivot -1
+
+p31/d0786
+Napoleon marched his armies into Russia.
+male.n.02 Name "Napoleon" march.v.06 Agent -1 Time +1 Theme +3 Path +4 time.n.08 TPR now male.n.02 ANA -3 army.n.01 User -1 country.n.02 Name "Russia"
+
+p63/d0764
+Vladislav Listyev was murdered in Moscow.
+male.n.02 Name "Vladislav Listyev" time.n.08 TPR now murder.v.01 Patient -2 Time -1 Location +1 city.n.01 Name "Moscow"
+
+p72/d2908
+The engineer climbed the telephone pole.
+person.n.01 Role +1 engineer.n.01 climb.v.01 Agent -2 Time +1 Theme +2 time.n.08 TPR now telephone_pole.n.01
+
+p72/d1695
+He stuffed his laundry into a large bag.
+male.n.02 stuff.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 laundry.n.01 User -1 large.a.01 Value + bag.n.01 Theme -1
+
+p88/d1805
+Everyone at the party was drinking wine.
+NEGATION <1 person.n.01 Location +1 party.n.04 NEGATION <1 time.n.08 TPR now drink.v.01 Agent -3 Time -1 Patient +1 wine.n.01
+
+p58/d3359
+If you want a pencil, I'll lend you one.
+person.n.01 EQU hearer want.v.02 Pivot -1 Time +1 Theme +2 time.n.08 EQU now pencil.n.01 CONSEQUENCE <1 person.n.01 EQU speaker time.n.08 TSU now lend.v.02 Agent -2 Time -1 Recipient +1 Theme +2 person.n.01 EQU hearer pencil.n.01
+
+p25/d0799
+This music is popular with young people.
+music.n.01 time.n.08 EQU now popular.a.01 Stimulus -2 Time -1 Experiencer +2 young.a.01 Value + person.n.01 Attribute -1
+
+p48/d0764
+Alfred Nobel is the inventor of dynamite.
+male.n.02 Name "Alfred Nobel" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 inventor.n.01 Result +1 dynamite.n.01
+
+p50/d2459
+He made a speech in support of the plan.
+male.n.02 make.v.16 Agent -1 Time +1 Theme +2 time.n.08 TPR now speech.n.01 Goal +1 support.n.03 Theme +1 plan.n.01
+
+p22/d0716
+"The Persians" were written by Aeschylus.
+writing.n.02 Name "The Persians" time.n.08 TPR now write.v.01 Result -2 Time -1 Agent +1 male.n.02 Name "Aeschylus"
+
+p13/d1561
+Compare your answers with the teacher's.
+person.n.01 EQU hearer compare.v.01 Agent -1 Theme +2 Co-Theme +5 person.n.01 EQU hearer answer.n.02 Creator -1 person.n.01 Role +1 teacher.n.01 answer.n.02 Creator -2
+
+p75/d3222
+Berber is not as difficult as Icelandic.
+berber.n.02 NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 difficult.a.01 AttributeOf -3 Time -2 Degree -1 icelandic.n.01
+
+p91/d3190
+John Kerry was born in Colorado in 1943.
+male.n.02 Name "John Kerry" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 Time +2 state.n.01 Name "Colorado" time.n.08 YearOfCentury 1943
+
+p70/d2331
+You should be ashamed of your stupidity.
+person.n.01 EQU hearer NECESSITY <1 ashamed.a.01 Experiencer -1 Stimulus +2 person.n.01 EQU hearer stupidity.n.02 User -1
+
+p23/d1390
+Where does the singer Julie Kelly teach?
+location.n.01 Name ? time.n.08 EQU now singer.n.01 female.n.02 Name "Julie Kelly" Role -1 teach.v.01 Location -4 Time -3 Agent -1
+
+p11/d2099
+Farmers rebelled against the government.
+person.n.01 Role +1 farmer.n.01 rebel.v.01 Agent -2 Time +1 Beneficiary +2 time.n.08 TPR now government.n.01
+
+p20/d0810
+Antique carpets are especially valuable.
+antique.a.01 AttributeOf +1 carpet.n.01 time.n.08 EQU now especially.r.01 valuable.a.01 AttributeOf -3 Time -2 Degree -1
+
+p20/d0026
+A soccer ball is rolling into a goal net
+soccer_ball.n.01 time.n.08 EQU now roll.v.01 Theme -2 Time -1 Destination +1 location.n.01 STI +1 goal.n.03 net.n.04 EQU -1
+
+p66/d1390
+How old was Burt Lancaster when he died?
+old.a.01 Value ? Time +1 AttributeOf +2 time.n.08 TPR now male.n.02 Name "Burt Lancaster" CONTINUATION <1 male.n.02 ANA -1 die.v.01 Patient -1 Time +1 time.n.08 TPR now
+
+p06/d1384
+What is the full name of conductor Seiji?
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now full.a.03 AttributeOf +1 name.n.01 Bearer +2 conductor.n.01 male.n.02 Name "Seiji" Role -1
+
+p89/d1859
+Her husband is currently living in Tokyo.
+female.n.02 person.n.01 Role +1 husband.n.01 Of -2 time.n.08 EQU now time.n.08 EQU now live.v.01 Theme -4 Time -2 Time -1 Location +1 city.n.01 Name "Tokyo"
+
+p31/d1390
+What prize was Elizabeth Neufeld awarded?
+prize.n.01 EQU ? time.n.08 TPR now female.n.02 Name "Elizabeth Neufeld" award.v.01 Theme -3 Time -2 Goal -1
+
+p84/d2551
+We should do away with the death penalty.
+person.n.01 Sub speaker NECESSITY <1 do_away_with.v.01 Agent -1 Theme +1 death_penalty.n.01
+
+p78/d1146
+We won't shoot unarmed Russian people..."
+person.n.01 Sub speaker NEGATION <1 time.n.08 TSU now shoot.v.01 Agent -2 Time -1 Patient +3 unarmed.a.01 AttributeOf +2 country.n.02 Name "russia" person.n.01 Source -1
+
+p19/d0874
+Lisa Lillien is married to Dan Schneider.
+female.n.02 Name "Lisa Lillien" time.n.08 EQU now married.a.01 AttributeOf -2 Time -1 Theme +1 male.n.02 Name "Dan Schneider"
+
+p01/d1921
+Palestine is called "Filastin" in Arabic.
+region.n.03 Name "Palestine" time.n.08 EQU now call.v.01 Theme -2 Time -1 Result +1 Context +2 name.n.01 EQU "Filastin" arabic.n.01
+
+p38/d1387
+What does the abbreviation IRA stand for?
+entity.n.01 Name ? time.n.08 EQU now abbreviation.n.01 EQU +1 word.n.01 EQU "IRA" stand_for.v.02 Co-Theme -4 Time -3 Theme -2
+
+p50/d1388
+Who composed the "Concierto de Aranjuez"?
+person.n.01 Name ? compose.v.02 Agent -1 Time +1 Result +2 time.n.08 TPR now music.n.01 Name "Concierto de Aranjuez"
+
+p50/d2665
+A swarm of hornets attacked the children.
+swarm.n.02 entity.n.01 Sub -1 Sub +1 hornet.n.01 attack.v.04 Agent -2 Time +1 Patient +2 time.n.08 TPR now child.n.01
+
+p67/d1385
+What does the abbreviation DNA stand for?
+entity.n.01 Name ? time.n.08 EQU now abbreviation.n.01 EQU +1 word.n.01 EQU "DNA" stand_for.v.02 Co-Theme -4 Time -3 Theme -2
+
+p42/d1386
+In which American state is San Francisco?
+country.n.02 Name "america" state.n.01 Name ? PartOf -1 be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now city.n.01 Name "San Francisco"
+
+p47/d1387
+What is Mika Kaurismäki's brother's name?
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now male.n.02 Name "Mika Kaurismäki" person.n.01 Role +1 brother.n.01 Of -2 name.n.01 Bearer -2
+
+p46/d0712
+Ibrahim Sofu was murdered by Metin Kaplan.
+male.n.02 Name "Ibrahim Sofu" time.n.08 TPR now murder.v.01 Patient -2 Time -1 Agent +1 male.n.02 Name "Metin Kaplan"
+
+p40/d1929
+Romeo instantly fell in love with Juliet.
+male.n.02 Name "Romeo" instantly.r.01 fall.v.03 Manner -1 Patient -2 Time +1 Result +2 Stimulus +3 time.n.08 TPR now in_love.a.01 Experiencer -4 female.n.02 Name "Juliet"
+
+p76/d3234
+I bid thee a happy voyage to thine abode.
+person.n.01 EQU speaker bid.v.02 Agent -1 Time +1 Recipient +2 Theme +4 time.n.08 EQU now person.n.01 EQU hearer happy.a.01 AttributeOf +1 voyage.n.01 Destination +2 person.n.01 EQU hearer abode.n.01 User -1
+
+p96/d0717
+American hostages were released in Tehran.
+country.n.02 Name "america" person.n.01 Source -1 Role +1 hostage.n.01 time.n.08 TPR now release.v.02 Theme -3 Time -1 Location +1 city.n.01 Name "Tehran"
+
+p80/d1587
+His debts amounted to a thousand dollars.
+male.n.02 debt.n.02 Creator -1 amount.v.02 Theme -1 Time +1 Value +3 time.n.08 TPR now quantity.n.01 EQU 1000 dollar.n.01 Quantity -1
+
+p06/d2002
+Despite his errors everyone respected him.
+NEGATION <1 person.n.01 NEGATION <1 respect.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now male.n.02 CONTRAST <1 event.v.01 Participant +2 male.n.02 error.n.01 Creator -1
+
+p05/d0808
+"Where is your house?" "It is over there."
+location.n.01 EQU ? be.v.03 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer house.n.01 User -1 CONTINUATION <1 entity.n.01 ANA -1 be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now location.n.01
+
+p35/d1389
+What Nobel Prize was Kenzaburo Oe awarded?
+nobel_prize.n.01 Name ? time.n.08 TPR now male.n.02 Name "Kenzaburo Oe" award.v.01 Theme -3 Time -2 Beneficiary -1
+
+p28/d2540
+They opposed Darwin's theory of evolution.
+person.n.01 oppose.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 Name "Darwin" theory_of_evolution.n.01 Creator -1
+
+p18/d1396
+What composer wrote "Die Götterdämmerung"?
+person.n.01 Name ? Role +1 composer.n.01 write.v.06 Agent -2 Time +1 Result +2 time.n.08 TPR now music.n.01 Name "Die Götterdämmerung"
+
+p90/d2279
+It's strange that Tom didn't mention that.
+entity.n.01 time.n.08 EQU now strange.a.01 Time -1 Proposition >1 EQU -2 CONTINUATION <0 male.n.02 Name "Tom" NEGATION <1 time.n.08 TPR now mention.v.01 Agent -2 Time -1 Topic +1 entity.n.01
+
+p90/d3471
+Tom was wearing an orange prison jumpsuit.
+male.n.02 Name "Tom" time.n.08 TPR now wear.v.01 Agent -2 Time -1 Theme +3 orange.a.01 prison.n.01 jumpsuit.n.01 Colour -2 Source -1
+
+p17/d1392
+What country is Aswan High Dam located in?
+country.n.02 Name ? time.n.08 EQU now structure.n.01 Name "Aswan High Dam" located.a.01 Location -3 Time -2 Theme -1
+
+p61/d1392
+What did George Washington call his house?
+name.n.01 EQU ? time.n.08 TPR now male.n.02 Name "George Washington" call.v.01 Result -3 Time -2 Agent -1 Theme +2 male.n.02 ANA -2 house.n.01 User -1
+
+p13/d2857
+America isn't a country, it's a continent.
+continent.n.01 Name "America" NEGATION <1 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now country.n.02 CONTINUATION <1 entity.n.01 ANA -4 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now continent.n.01
+
+p16/d1525
+It's a direct flight from Tokyo to London.
+entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now direct_flight.n.01 Source +1 Destination +2 city.n.01 Name "Tokyo" city.n.01 Name "London"
+
+p54/d0761
+Two worshippers were killed in Afghanistan.
+quantity.n.01 EQU 2 person.n.01 Quantity -1 Role +1 worshipper.n.01 time.n.08 TPR now kill.v.01 Patient -3 Time -1 Location +1 country.n.02 Name "Afghanistan"
+
+p71/d0068
+If I've misjudged you, I'm terribly sorry.
+person.n.01 EQU speaker misjudge.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now person.n.01 EQU hearer CONSEQUENCE <1 person.n.01 EQU speaker time.n.08 EQU now terribly.r.01 sorry.a.01 AttributeOf -3 Time -2 Degree -1
+
+p27/d0761
+Sylvia Costas is the wife of Andy Sipowicz.
+female.n.02 Name "Sylvia Costas" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 wife.n.01 Of +1 male.n.02 Name "Andy Sipowicz"
+
+p57/d3371
+I'm afraid you have dialed a wrong number.
+person.n.01 EQU speaker time.n.08 EQU now afraid.a.02 Time -1 Proposition >1 Experiencer -2 CONTINUATION <0 person.n.01 EQU hearer dial.v.02 Agent -1 Time +1 Theme +3 time.n.08 TPR now wrong.a.01 AttributeOf +1 number.n.04
+
+p95/d2527
+Arnold Schwarzenegger was born in Austria.
+male.n.02 Name "Arnold Schwarzenegger" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 country.n.02 Name "Austria"
+
+p02/d0909
+Forgive me if I haven't cooked supper well.
+person.n.01 EQU hearer forgive.v.01 Agent -1 Theme +1 person.n.01 EQU speaker PRECONDITION <1 person.n.01 EQU speaker NEGATION <1 cook.v.02 Agent -1 Time +1 Product +2 Manner +3 time.n.08 TPR now supper.n.01 well.a.01
+
+p53/d1381
+Where did Roger Williams, pianist, grow up?
+location.n.01 Name ? time.n.08 TPR now male.n.02 Name "Roger Williams" EQU +1 person.n.01 Role +1 pianist.n.01 grow_up.v.01 Location -5 Time -4 Patient -3
+
+p82/d1391
+What is the name of Maggie Dixon's brother?
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 Bearer +2 female.n.02 Name "Maggie Dixon" person.n.01 Role +1 brother.n.01 Of -2
+
+p01/d0050
+The woman is not picking up a baby kangaroo
+woman.n.01 NEGATION <1 time.n.08 EQU now pick_up.v.01 Agent -2 Time -1 Theme +2 baby.n.06 kangaroo.n.01 Theme -1
+
+p51/d3431
+Mrs. Davis was anything but a perfect wife.
+mrs.n.01 female.n.02 Name "Davis" Title -1 NEGATION <1 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now perfect.a.01 AttributeOf +2 person.n.01 Role +1 wife.n.01
+
+p14/d1574
+What kind of American accent does Tom have?
+entity.n.01 InstanceOf +2 EQU ? country.n.02 Name "america" accent.n.01 Source -1 time.n.08 EQU now male.n.02 Name "Tom" have.v.02 Theme -5 Time -2 Pivot -1
+
+p60/d1396
+How many people visited Disneyland in 1999?
+person.n.01 Quantity ? visit.v.01 Agent -1 Time +1 Location +2 Time +3 time.n.08 TPR now park.n.02 Name "Disneyland" time.n.08 YearOfCentury 1999
+
+p42/d2090
+I'm angry because someone stole my bicycle.
+person.n.01 EQU speaker time.n.08 EQU now angry.a.01 Experiencer -2 Time -1 EXPLANATION <1 person.n.01 steal.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker bicycle.n.01 User -1
+
+p54/d3540
+Pirates preyed upon unarmed merchant ships.
+person.n.01 Role +1 pirate.n.02 prey.v.02 Agent -2 Time +1 Theme +3 time.n.08 TPR now unarmed.a.01 AttributeOf +1 merchant_ship.n.01
+
+p27/d2667
+A football team consists of eleven players.
+NEGATION <1 football_team.n.01 NEGATION <1 consist.v.04 Theme -1 Time +1 Attribute +3 time.n.08 EQU now quantity.n.01 EQU 11 person.n.01 Quantity -1 Role +1 player.n.01
+
+p76/d3097
+If the phone rings again, I will ignore it.
+phone.n.01 ring.v.01 Theme -1 Time +1 time.n.08 EQU now CONSEQUENCE <1 person.n.01 EQU speaker time.n.08 TSU now ignore.v.02 Agent -2 Time -1 Theme +1 entity.n.01 ANA -6
+
+p66/d0712
+Dean Lynn Hart lives in Truckee River Trail.
+female.n.02 Name "Dean Lynn Hart" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now way.n.06 Name "Truckee River Trail"
+
+p93/d2343
+Mary's favorite movie is The Princess Bride.
+female.n.02 Name "Mary" favorite.a.02 Experiencer -1 Stimulus +1 movie.n.01 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now movie.n.01 Name "The Princess Bride"
+
+p35/d1511
+My father graduated from Harvard University.
+person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 graduate.v.01 Agent -2 Time +1 Source +2 time.n.08 TPR now university.n.03 Name "Harvard University"
+
+p30/d1387
+In what part of Russia did an oilpipe burst?
+part.n.05 Name ? PartOf +1 country.n.02 Name "Russia" time.n.08 TPR now oil_pipeline.n.01 burst.v.01 Location -4 Time -2 Patient -1
+
+p08/d2154
+A lot of tobacco is grown in North Carolina.
+entity.n.01 Quantity + EQU +1 tobacco.n.02 time.n.08 EQU now grow.v.04 Product -3 Time -1 Location +1 state.n.01 Name "North Carolina"
+
+p25/d2856
+What kind of music will you guys be playing?
+entity.n.01 InstanceOf +1 EQU ? music.n.01 time.n.08 TSU now person.n.01 EQU hearer guy.n.01 SubOf -1 time.n.08 EQU now play.v.07 Time -4 Theme -6 Agent -2 Time -1
+
+p87/d0715
+Qin Shi Huang was the first Emperor of China.
+male.n.02 Name "Qin Shi Huang" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now person.n.01 Role +1 emperor.n.01 Order 1 Of +1 country.n.02 Name "China"
+
+p50/d1981
+We were waiting for the boat for many hours.
+person.n.01 Sub speaker time.n.08 TPR now wait.v.01 Theme -2 Time -1 Goal +1 Duration +2 boat.n.01 hour.n.01 Quantity +
+
+p42/d0765
+Wolfgang Amadeus Mozart was born in Salzburg.
+male.n.02 Name "Wolfgang Amadeus Mozart" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 city.n.01 Name "Salzburg"
+
+p91/d2213
+Tom made a peanut butter and jelly sandwich.
+male.n.02 Name "Tom" make.v.15 Agent -1 Time +1 Product +4 time.n.08 TPR now peanut_butter.n.01 jelly.n.02 sandwich.n.01 MadeOf -2 MadeOf -1
+
+p57/d2804
+We studied the government's economic policy.
+person.n.01 Sub speaker study.v.01 Agent -1 Time +1 Theme +4 time.n.08 TPR now government.n.01 economic.a.01 AttributeOf +1 policy.n.02 Creator -2
+
+p95/d1391
+Who founded the Chippendale striptease club?
+person.n.01 Name ? found.v.02 Agent -1 Time +1 Theme +3 time.n.08 TPR now striptease.n.02 club.n.07 Name "Chippendale" Theme -1
+
+p62/d2472
+I will accept the work, provided you help me.
+person.n.01 EQU speaker time.n.08 TSU now accept.v.03 Agent -2 Time -1 Theme +1 work.n.01 EXPLANATION <1 person.n.01 EQU hearer help.v.01 Agent -1 Beneficiary +1 person.n.01 EQU speaker
+
+p81/d0711
+Reinventing Comics is a book by Scott McCloud.
+book.n.01 Name "Reinventing Comics" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now book.n.01 Creator +1 male.n.02 Name "Scott McCloud"
+
+p30/d0714
+The assassination of Rabin took place in 1995.
+assassination.n.02 Patient +1 male.n.02 Name "Rabin" take_place.v.01 Theme -2 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1995
+
+p51/d0761
+Tom Online earned US$42.78 mn in three months.
+company.n.01 Name "Tom Online" earn.v.01 Theme -1 Time +1 Asset +2 Duration +5 time.n.08 TPR now united_states_dollar.n.01 Quantity +1 quantity.n.01 EQU 42780000 quantity.n.01 EQU 3 month.n.01 Quantity -1
+
+p17/d0767
+Even though he apologized, I'm still furious.
+male.n.02 apologize.v.01 Agent -1 Time +1 time.n.08 TPR now CONTRAST <1 person.n.01 EQU speaker time.n.08 EQU now furious.a.02 AttributeOf -2 Time -1
+
+p00/d0801
+I'm calling because I've lost my credit card.
+person.n.01 EQU speaker time.n.08 EQU now call.v.03 Agent -2 Time -1 EXPLANATION <1 person.n.01 EQU speaker lose.v.05 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker credit_card.n.01 User -1
+
+p16/d1383
+What year did the shuttle Challenger explode?
+time.n.08 YearOfCentury ? time.n.08 TPR now shuttle.n.02 Name "Challenger" explode.v.09 Time -3 Time -2 Patient -1
+
+p70/d0022
+A person is drinking orange juice and walking
+person.n.01 time.n.08 EQU now time.n.08 EQU now drink.v.01 Agent -3 Time -2 Patient +1 orange_juice.n.01 walk.v.01 Theme -5 Time -3
+
+p34/d0711
+The rock group Spock's Beard comes from Japan.
+rock_group.n.01 Name "Spock's Beard" musical_organization.n.01 EQU -1 come.v.08 Theme -1 Time +1 Location +2 time.n.08 EQU now country.n.02 Name "Japan"
+
+p07/d1180
+In October 1995, the Fuji plant was expanded.
+time.n.08 MonthOfYear 10 EQU +1 time.n.08 YearOfCentury 1995 city.n.01 Name "Fuji" plant.n.01 Location -1 time.n.08 TPR now expand.v.02 Time -5 Patient -2 Time -1
+
+p06/d1392
+In which country is Mount Kilimanjaro located?
+country.n.02 Name ? time.n.08 EQU now mountain.n.01 Name "Mount Kilimanjaro" located.a.01 Location -3 Time -2 Theme -1
+
+p05/d2172
+In August, I'm going to Japan with my friends.
+time.n.08 MonthOfYear 8 person.n.01 EQU speaker time.n.08 TSU now go.v.01 Time -3 Theme -2 Time -1 Destination +1 Co-Theme +3 country.n.02 Name "Japan" person.n.01 EQU speaker person.n.01 Role +1 friend.n.01 Of -2
+
+p97/d0712
+Cisco was acquired by Infogear Technology Corp.
+company.n.01 Name "Cisco" time.n.08 TPR now acquire.v.01 Theme -2 Time -1 Agent +1 company.n.01 Name "Infogear Technology Corp"
+
+p90/d3065
+I cannot wipe the table. I don't have a cloth.
+person.n.01 EQU speaker NEGATION <1 POSSIBILITY <1 wipe.v.01 Agent -1 Source +1 table.n.02 CONTINUATION <1 person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now have.v.04 Pivot -2 Time -1 Theme +1 cloth.n.01
+
+p00/d2531
+Is Haruki Murakami popular in Vietnam as well?
+time.n.08 EQU now male.n.02 Name "Haruki Murakami" popular.a.01 Time -2 Stimulus -1 Location +1 country.n.02 Name "Vietnam"
+
+p24/d1896
+Have you studied Darwin's theory of evolution?
+person.n.01 EQU hearer study.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 Name "Darwin" theory_of_evolution.n.01 Creator -1
+
+p73/d1603
+There are about 460,000 millionaires in Tokyo.
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +5 time.n.08 EQU now quantity.n.01 APX 460000 person.n.01 Quantity -1 Role +1 millionaire.n.01 city.n.01 Name "Tokyo"
+
+p68/d1392
+What beach was "I Dream of Jeannie" filmed on?
+beach.n.01 Name ? time.n.08 TPR now movie.n.01 Name "I Dream of Jeannie" film.v.01 Location -3 Time -2 Theme -1
+
+p34/d2438
+Yoko is in London now. She's studying English.
+female.n.02 Name "Yoko" be.v.03 Theme -1 Time +1 Location +2 Time +3 time.n.08 EQU now city.n.01 Name "London" time.n.08 EQU now CONTINUATION <1 female.n.02 ANA -5 time.n.08 EQU now study.v.02 Agent -2 Time -1 Theme +1 english.n.03
+
+p26/d1748
+The accident took place near that intersection.
+accident.n.01 take_place.v.01 Theme -1 Time +1 EQU +2 Location +3 time.n.08 TPR now entity.n.01 location.n.01 APX +1 intersection.n.02
+
+p84/d1610
+Besides French, he can obviously speak English.
+male.n.02 POSSIBILITY <1 entity.n.01 french.n.01 SubOf -1 obviously.r.01 speak.v.03 Agent -4 Theme -3 Manner -1 english.n.01 SubOf -4
+
+p01/d2704
+Bob charged 3 dollars an hour for mowing lawns.
+male.n.02 Name "Bob" charge.v.03 Agent -1 Time +1 Asset +4 Theme +7 time.n.08 TPR now quantity.n.01 EQU 3 dollar.n.01 measure.n.02 Quantity -2 Unit +1 division.n.11 Theme -2 Co-Theme +1 hour.n.01 mow.v.01 Patient +1 lawn.n.01
+
+p51/d1252
+Negotiations have been adjourned until 18 June.
+negotiation.n.01 time.n.08 TPR now adjourn.v.01 Theme -2 Time -1 Finish +2 time.n.08 DayOfMonth 18 EQU +1 time.n.08 MonthOfYear 6
+
+p00/d1686
+That story is a famous one that everyone knows.
+story.n.02 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now famous.a.01 AttributeOf +1 story.n.02 NEGATION <1 person.n.01 NEGATION <1 know.v.01 Stimulus -2 Experiencer -1 Time +1 time.n.08 EQU now
+
+p29/d2539
+"Whose earrings are these?" "They are Tania's."
+person.n.01 Name ? earring.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 CONTINUATION <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now female.n.02 Name "Tania" earring.n.01 User -1
+
+p74/d1860
+Even though it's small, it's still a great car.
+entity.n.01 time.n.08 EQU now small.a.01 AttributeOf -2 Time -1 CONTRAST <1 entity.n.01 ANA -3 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now great.a.04 AttributeOf +1 car.n.01
+
+p32/d2245
+This stuffed animal belongs to the little girl.
+stuffed.a.01 AttributeOf +1 animal.n.01 belong.v.01 Theme -1 Time +1 Pivot +3 time.n.08 EQU now little.a.03 AttributeOf +1 girl.n.01
+
+p99/d1836
+You can trust John. He will never let you down.
+person.n.01 EQU hearer POSSIBILITY <1 trust.v.01 Experiencer -1 Stimulus +1 male.n.02 Name "John" CONTINUATION <1 male.n.02 NEGATION <1 time.n.08 TSU now let_down.v.02 Experiencer -2 Time -1 Stimulus +1 person.n.01 EQU hearer
+
+p79/d3174
+I am completely agog over your diaphanous dress.
+person.n.01 EQU speaker time.n.08 EQU now completely.r.01 agog.a.01 Experiencer -3 Time -2 Degree -1 Stimulus +3 person.n.01 EQU hearer diaphanous.a.01 AttributeOf +1 dress.n.01 User -2
+
+p28/d2813
+He was living in England when the war broke out.
+male.n.02 time.n.08 TPR now live.v.01 Theme -2 Time -1 Location +1 country.n.02 Name "England" war.n.01 break_out.v.01 TIN -3 Theme -1 Time +1 time.n.08 TPR now
+
+p19/d2615
+Rocket technology improved during World War Two.
+rocket.n.01 technology.n.01 Theme -1 improve.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 TIN +1 war.n.01 Name "World War Two"
+
+p17/d1391
+What was the first film directed by John Milius?
+entity.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now film.n.01 Order 1 direct.v.03 Theme -1 Agent +1 male.n.02 Name "John Milius"
+
+p00/d0913
+The garden was full of beautiful yellow flowers.
+garden.n.01 time.n.08 TPR now full.a.01 AttributeOf -2 Time -1 Theme +3 beautiful.a.01 AttributeOf +2 yellow.a.01 flower.n.01 Colour -1
+
+p60/d0762
+An Italian director is awarded an honorary Oscar.
+country.n.02 Name "italy" person.n.01 Source -1 Role +1 director.n.04 time.n.08 EQU now award.v.01 Beneficiary -3 Time -1 Theme +2 honorary.a.01 AttributeOf +1 oscar.n.01
+
+p91/d2755
+Five hundred British soldiers had been captured.
+quantity.n.01 EQU 500 country.n.02 Name "united kingdom" person.n.01 Quantity -2 Source -1 Role +1 soldier.n.01 time.n.08 TPR now capture.v.03 Theme -3 Time -1
+
+p20/d2455
+"Whose examples are these?" "They are Meryem's."
+person.n.01 Name ? example.n.01 Creator -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 CONTINUATION <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now female.n.02 Name "Meryem" example.n.01 Creator -1
+
+p89/d3414
+Hydration is critically important in hot weather.
+hydration.n.01 time.n.08 EQU now critically.r.01 important.a.03 AttributeOf -3 Time -2 Degree -1 Context +2 hot.a.01 Value + weather.n.01 Attribute -1
+
+p05/d0718
+Masterpieces seized by Nazis were found in Berlin.
+masterpiece.n.01 seize.v.03 Theme -1 Agent +1 person.n.01 Role +1 nazi.n.01 time.n.08 TPR now find.v.01 Theme -5 Time -1 Time +1 Location +2 time.n.08 TPR now city.n.01 Name "Berlin"
+
+p01/d0712
+Kraft sold Celestial Seasonings to Lipton in 1986.
+company.n.01 Name "Kraft" sell.v.01 Agent -1 Time +1 Theme +2 Recipient +3 Time +4 time.n.08 TPR now company.n.01 Name "Celestial Seasonings" company.n.01 Name "Lipton" time.n.08 YearOfCentury 1986
+
+p44/d2100
+Tom renewed his driver's license three weeks ago.
+male.n.02 Name "Tom" renew.v.01 Agent -1 Time +1 Patient +3 Time +6 time.n.08 TPR now male.n.02 ANA -3 driver's_license.n.01 User -1 quantity.n.01 EQU 3 week.n.01 Quantity -1 TAB now time.n.08 TAB -1
+
+p50/d1584
+This stone was so heavy that I could not lift it.
+stone.n.01 time.n.08 TPR now heavy.a.01 Time -1 Value + AttributeOf -2 RESULT <1 person.n.01 EQU speaker NEGATION <1 POSSIBILITY <1 lift.v.01 Agent -1 Theme +1 entity.n.01 ANA -5
+
+p99/d0712
+A tsunami hit the north-eastern coast of Hokkaido.
+tsunami.n.01 hit.v.05 Agent -1 Time +1 Patient +3 time.n.08 TPR now northeastern.a.01 AttributeOf +1 coast.n.01 PartOf +1 island.n.01 Name "Hokkaido"
+
+p95/d0849
+She is from Hokkaido, but is now living in Tokyo.
+female.n.02 be.v.03 Theme -1 Time +1 Source +2 time.n.08 EQU now island.n.01 Name "Hokkaido" time.n.08 EQU now time.n.08 EQU now live.v.01 Theme -6 Time -2 Time -1 Location +1 city.n.01 Name "Tokyo"
+
+p28/d3157
+Could you pick up Shigemi from the daycare center?
+POSSIBILITY <1 person.n.01 EQU hearer pick_up.v.04 Agent -1 Theme +1 Source +2 male.n.02 Name "Shigemi" day_care_center.n.01
+
+p15/d1396
+How many dimples does a regulation golf ball have?
+dimple.n.02 Quantity ? time.n.08 EQU now regulation.a.01 AttributeOf +1 golf_ball.n.01 have.v.02 Theme -4 Time -3 Pivot -1
+
+p92/d1393
+What city in Louisiana was Britney Spears born in?
+city.n.01 Name ? PartOf +1 state.n.01 Name "Louisiana" time.n.08 TPR now female.n.02 Name "Britney Spears" bear.v.02 Location -4 Time -2 Patient -1
+
+p24/d0712
+Leloir served as a visiting professor at Cambridge.
+male.n.02 Name "Leloir" serve.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now person.n.01 Role +1 Location +2 visiting_professor.n.01 university.n.03 Name "Cambridge"
+
+p32/d1658
+Subway fares will be raised as of April 1st, 1999.
+subway_fare.n.01 time.n.08 TSU now raise.v.01 Patient -2 Time -1 Start +2 time.n.08 MonthOfYear 4 EQU +1 time.n.08 DayOfMonth 1 EQU +1 time.n.08 YearOfCentury 1999
+
+p94/d1186
+Annual capacity now amounts to around 90,000 tons.
+annual.a.02 AttributeOf +1 capacity.n.01 time.n.08 EQU now amount.v.02 Theme -2 Time -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 APX 90000 ton.n.02 Quantity -1
+
+p01/d2778
+The dictionary contains about half a million words.
+dictionary.n.01 contain.v.01 Pivot -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 APX 500000 word.n.01 Quantity -1
+
+p60/d3423
+Rugby is a sport which is never called off by rain.
+rugby.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now sport.n.01 NEGATION <1 time.n.08 EQU now call_off.v.01 Theme -2 Time -1 Causer +1 rain.n.01
+
+p75/d1380
+Which political party is Lionel Jospin a member of?
+political_party.n.01 Name ? be.v.01 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now male.n.02 Name "Lionel Jospin" person.n.01 Role +1 member.n.01 Of -5
+
+p11/d0712
+The atomic tests at Bikini Atoll took place in 1946.
+atomic.a.02 AttributeOf +1 test.n.05 Location +1 island.n.01 Name "Bikini Atoll" take_place.v.01 Theme -2 Time +1 EQU +2 Time +3 time.n.08 TPR now entity.n.01 time.n.08 YearOfCentury 1946
+
+p35/d1381
+If something has petrified, what has it turned into?
+entity.n.01 petrify.v.02 Patient -1 Time +1 time.n.08 TPR now CONSEQUENCE <1 entity.n.01 EQU ? entity.n.01 ANA -4 turn.v.03 Result -2 Patient -1 Time +1 time.n.08 TPR now
+
+p53/d1483
+Our house has seven rooms including the dining room.
+person.n.01 Sub speaker house.n.01 User -1 have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 7 room.n.01 Quantity -1 Sub +1 dining_room.n.01
+
+p48/d3227
+Tom doesn't approve of the way Mary's been behaving.
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now approve.v.02 Agent -2 Time -1 Theme +1 way.n.01 Proposition >1 CONTINUATION <0 female.n.02 Name "Mary" time.n.08 TPR now behave.v.01 Theme -2 Time -1
+
+p54/d3533
+Dr. Patterson, a psychologist, has tested Koko's IQ.
+doctor.n.04 female.n.02 Name "Patterson" Title -1 EQU +1 person.n.01 Role +1 psychologist.n.01 test.v.03 Agent -3 Time +1 Theme +3 time.n.08 TPR now animal.n.01 Name "Koko" iq.n.01 Creator -1
+
+p10/d0777
+Finishing the job by Tuesday will be a piece of cake.
+finish.v.01 Theme +1 Time +2 job.n.02 time.n.08 DayOfWeek tuesday time.n.08 TSU now be.v.01 Theme -4 Time -1 Co-Theme +1 piece_of_cake.n.01
+
+p84/d1388
+What's the Argentinian name for the Falkland Islands?
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now country.n.02 Name "argentina" name.n.01 Source -1 Bearer +1 island.n.01 Name "Falkland Islands"
+
+p00/d1391
+How many people in U.S. do not have health insurance?
+person.n.01 Quantity ? Location +1 country.n.02 Name "us" NEGATION <1 time.n.08 EQU now have.v.02 Pivot -3 Time -1 Theme +1 health_insurance.n.01
+
+p29/d2905
+"Whose newspapers are these?" "They are my father's."
+person.n.01 Name ? newspaper.n.03 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 CONTINUATION <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 newspaper.n.03 User -2
+
+p35/d2923
+Tom's favorite Elvis Presley song is "Jailhouse Rock."
+male.n.02 Name "Tom" favorite.a.02 Experiencer -1 Stimulus +2 male.n.02 Name "Elvis Presley" song.n.01 Creator -1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now music.n.01 Name "Jailhouse Rock"
+
+p90/d2046
+Approximately seven billion people inhabit our planet.
+quantity.n.01 APX 7000000000 person.n.01 Quantity -1 inhabit.v.01 Theme -1 Time +1 Location +3 time.n.08 EQU now person.n.01 Sub speaker planet.n.01 User -1
+
+p47/d0760
+Allan Chapman is employed at the River Forecast Centre.
+male.n.02 Name "Allan Chapman" time.n.08 EQU now employ.v.02 Theme -2 Time -1 Location +1 agency.n.01 Name "River Forecast Centre"
+
+p99/d1489
+Addition and subtraction are functions of mathematics.
+addition.n.06 entity.n.01 Sub -1 Sub +1 subtraction.n.01 be.v.01 Theme -2 Time +1 Co-Theme +2 time.n.08 EQU now function.n.01 PartOf +1 mathematics.n.01
+
+p78/d1380
+What Spanish explorer discovered the Mississippi River?
+country.n.02 Name "spain" person.n.01 Name ? Source -1 Role +1 explorer.n.01 discover.v.01 Agent -2 Time +1 Theme +2 time.n.08 TPR now river.n.01 Name "Mississippi River"
+
+p87/d2198
+All of a sudden, a fire broke out in the movie theater.
+all_of_a_sudden.r.02 fire.n.01 break_out.v.01 Manner -2 Theme -1 Time +1 Location +2 time.n.08 TPR now movie_theater.n.01
+
+p04/d3392
+Mary was wearing a pink blouse with matching miniskirt.
+female.n.02 Name "Mary" time.n.08 TPR now wear.v.01 Agent -2 Time -1 Theme +2 Co-Theme +4 pink.a.01 blouse.n.01 Colour -1 matching.a.02 AttributeOf +1 miniskirt.n.01
+
+p76/d3489
+Andris Bērziņš will become the new president of Latvia.
+male.n.02 Name "Andris Bērziņš" time.n.08 TSU now become.v.02 Patient -2 Time -1 Result +2 new.a.05 AttributeOf +1 person.n.01 Role +1 president.n.03 Of +1 state.n.04 Name "Latvia"
+
+p81/d0852
+About two million pounds of flour are exported annually.
+NEGATION <1 year.n.01 NEGATION <1 quantity.n.01 APX 2000000 pound.n.01 Quantity -1 Quantity +1 flour.n.01 time.n.08 EQU now export.v.01 Time -5 Theme -3 Time -1
+
+p32/d1680
+His humble background parallels that of his predecessor.
+male.n.02 humble.a.01 AttributeOf +1 background.n.01 Theme -2 parallel.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now background.n.01 Theme +2 male.n.02 ANA -6 person.n.01 Role +1 predecessor.n.01 Of -2
+
+p26/d0712
+Leloir won the Premio de la Sociedad Científica Argentina.
+male.n.02 Name "Leloir" win.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now award.n.02 Name "Premio de la Sociedad Científica Argentina"
+
+p87/d1247
+Ms Anke Huber, however, is out: she had lost 4:6 and 1:6.
+ms.n.05 female.n.02 Name "Anke Huber" Title -1 time.n.08 EQU now out.a.01 AttributeOf -2 Time -1 EXPLANATION <1 female.n.02 ANA -3 lose.v.02 Agent -1 Time +1 Extent +3 time.n.08 TPR now score.n.03 Value 4-6 entity.n.01 Sub -1 Sub +1 score.n.03 Value 1-6
+
+p30/d2737
+Susan and Bob have flown from London to Sydney, Australia.
+female.n.02 Name "Susan" entity.n.01 Sub -1 Sub +1 male.n.02 Name "Bob" fly.v.01 Theme -2 Time +1 Source +2 Destination +3 time.n.08 TPR now city.n.01 Name "London" city.n.01 Name "Sydney" PartOf +1 country.n.02 Name "Australia"
+
+p49/d1795
+I used to type my letters, but now I use a word processor.
+person.n.01 EQU speaker time.n.08 TPR now type.v.01 Agent -2 Time -1 Theme +2 person.n.01 EQU speaker letter.n.01 User -1 CONTRAST <1 time.n.08 EQU now person.n.01 EQU speaker use.v.01 Time -2 Agent -1 Time +1 Theme +2 time.n.08 EQU now word_processor.n.01
+
+p56/d0716
+World War II was the war that took place from 1939 to 1945.
+war.n.01 Name "World War II" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now war.n.01 take_place.v.01 Theme -1 Time +1 EQU +2 Start +3 Finish +4 time.n.08 TPR now entity.n.01 time.n.08 YearOfCentury 1939 time.n.08 YearOfCentury 1945
+
+p20/d1970
+Every author suffers from writer's block from time to time.
+NEGATION <1 person.n.01 Role +1 author.n.01 NEGATION <1 suffer.v.02 Experiencer -2 Time +1 Stimulus +2 Manner +3 time.n.08 EQU now writer's_block.n.01 from_time_to_time.r.01
+
+p25/d1564
+Anna has chestnut brown hair, but Magdalena has blonde hair.
+female.n.02 Name "Anna" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now chestnut.a.01 hair.n.01 Colour -1 CONTRAST <1 female.n.02 Name "Magdalena" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now blonde.a.01 hair.n.01 Colour -1
+
+p92/d2380
+Tom named his squirrel Hazelnut, because it likes hazelnuts.
+male.n.02 Name "Tom" time.n.08 TPR now name.n.02 Agent -2 Time -1 Theme +2 Result +3 male.n.02 ANA -3 squirrel.n.01 Owner -1 name.n.01 EQU "Hazelnut" EXPLANATION <1 entity.n.01 ANA -2 like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now hazelnut.n.02
+
+p94/d0763
+Carl Lewis won eighteen gold medals and set 21 world records.
+male.n.02 Name "Carl Lewis" win.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now quantity.n.01 EQU 18 gold_medal.n.01 Quantity -1 set.v.04 Agent -5 Time +1 Theme +3 time.n.08 TPR now quantity.n.01 EQU 21 world_record.n.01 Quantity -1
+
+p02/d1309
+"Terrible weather," said Baron von S. His wife looked nervous.
+terrible.a.01 AttributeOf +1 weather.n.01 say.v.01 Theme -1 Time +1 Agent +3 time.n.08 TPR now baron.n.01 person.n.01 Name "von S." Title -1 CONTINUATION <1 male.n.02 ANA -1 person.n.01 Role +1 wife.n.01 Of -2 look.v.03 Theme -2 Time +1 Attribute +2 time.n.08 TPR now nervous.a.02 AttributeOf -4
+
+p37/d1007
+He came to Leipzig in 1981 from the small town of Aschersleben.
+male.n.02 come.v.02 Theme -1 Time +1 Destination +2 Time +3 Source +5 time.n.08 TPR now city.n.01 Name "Leipzig" time.n.08 YearOfCentury 1981 small.a.01 Value + town.n.01 Attribute -1 EQU +1 town.n.01 Name "Aschersleben"
+
+p92/d1654
+You ask in vain for forgiveness; your actions are unforgivable.
+person.n.01 EQU hearer ask.v.02 Agent -1 Time +1 Manner +2 Theme +3 time.n.08 EQU now in_vain.r.01 forgiveness.n.01 CONTINUATION <1 person.n.01 EQU hearer action.n.01 Creator -1 time.n.08 EQU now unforgivable.a.01 AttributeOf -2 Time -1
+
+p60/d2533
+Boiling lobsters is illegal in the town of Reggio Emilia, Italy.
+boil.v.02 Patient +1 lobster.n.02 time.n.08 EQU now illegal.a.01 AttributeOf -3 Time -1 Location +1 town.n.01 EQU +1 PartOf +2 town.n.01 Name "Reggio Emilia" country.n.02 Name "Italy"
+
+p06/d0713
+Apple's profits rose by 78 percent during the last quarter of 2006.
+company.n.01 Name "Apple" profit.n.01 Creator -1 rise.v.02 Theme -1 Time +1 Value +3 Duration +5 time.n.08 TPR now quantity.n.01 EQU 78 percent.n.01 Quantity -1 last.a.02 AttributeOf +1 quarter.n.06 PartOf +1 time.n.08 YearOfCentury 2006
+
+p57/d1237
+He defeated Swedish player Stefan Edberg in two sets, 6:4 and 6:2.
+male.n.02 defeat.v.01 Agent -1 Time +1 Co-Agent +4 Theme +6 Extent +8 time.n.08 TPR now country.n.02 Name "sweden" player.n.01 male.n.02 Name "Stefan Edberg" Source -2 Role -1 quantity.n.01 EQU 2 set.n.08 Quantity -1 score.n.03 Value 6-4 entity.n.01 Sub -1 Sub +1 score.n.03 Value 6-2
+
+p02/d0710
+The ICJ ruled in 1948 that Albania should pay Britain 843,947 pounds.
+organization.n.01 Name "ICJ" rule.v.04 Proposition >1 Agent -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1948 CONTINUATION <0 state.n.04 Name "Albania" NECESSITY <1 pay.v.01 Agent -1 Recipient +1 Asset +3 state.n.04 Name "Britain" quantity.n.01 EQU 843947 pound.n.02 Quantity -1
+
+p99/d2611
+Evliya Celebi was a Turkish traveller who lived in the 17th century.
+male.n.02 Name "Evliya Celebi" be.v.08 Theme -1 Time +1 Co-Theme +3 Time +7 time.n.08 TPR now country.n.02 Name "turkey" person.n.01 Source -1 Role +1 traveller.n.01 live.v.01 Theme -2 Time +1 time.n.08 TPR now century.n.01 Order 17
+
+p96/d1449
+Thirty-five degrees centigrade equals ninety-five degrees Fahrenheit.
+quantity.n.01 EQU 35 degree_celsius.n.01 Quantity -1 equal.v.01 Theme -1 Co-Theme +2 quantity.n.01 EQU 95 degree_fahrenheit.n.01 Quantity -1
+
+p78/d3170
+The peacock (Inachis io) is a beautiful and easily recognizable butterfly.
+NEGATION <1 peacock.n.01 inachis_io.n.01 EQU -1 NEGATION <1 be.v.01 Theme -2 Time +1 Co-Theme +5 time.n.08 EQU now beautiful.a.01 AttributeOf +3 easily.r.01 recognizable.a.01 AttributeOf +1 butterfly.n.01 Role -2
+
+p51/d0076
+Frank Lampard passed the ball to Beckham. Beckham kicked the ball and scored!
+male.n.02 Name "Frank Lampard" pass.v.20 Agent -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now ball.n.01 male.n.02 Name "Beckham" CONTINUATION <1 male.n.02 Name "Beckham" kick.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now ball.n.01 score.v.01 Agent -4 Time +1 time.n.08 TPR now
+
+p10/d0963
+The South African-based Conservation Corporation threatens the local population.
+country.n.02 Name "south africa" based.a.02 Location -1 Theme +1 company.n.01 Name "Conservation Corporation" threaten.v.01 Agent -1 Time +1 Theme +3 time.n.08 EQU now local.a.02 AttributeOf +1 population.n.02
+
+p10/d1214
+Approximately 60,000 Saxon farmers were disowned during the agricultural reform.
+quantity.n.01 APX 60000 state.n.01 Name "saxony" person.n.01 Quantity -2 Source -1 Role +1 farmer.n.01 time.n.08 TPR now disown.v.02 Patient -3 Time -1 Context +2 agricultural.a.02 AttributeOf +1 reform.n.01
+
+p74/d3377
+Goethe's poem "Mignon" is widely read in Japan in Mori Ogai's excellent translation.
+male.n.02 Name "Goethe" poem.n.01 Creator -1 EQU +1 poem.n.01 Name "Mignon" time.n.08 EQU now widely.r.01 read.v.01 Theme -4 Time -2 Manner -1 Context +1 Time +4 country.n.02 Name "Japan" male.n.02 Name "Mori Ogai" excellent.a.01 AttributeOf +1 translation.n.01 Creator -2
+
+p53/d1387
+What award did director Quentin Tarantino's film, "Pulp Fiction", win in the Cannes Film Festival?
+award.n.02 Name ? time.n.08 TPR now director.n.04 male.n.02 Name "Quentin Tarantino" Role -1 film.n.01 Creator -1 movie.n.01 Name "Pulp Fiction" EQU -1 win.v.01 Theme -6 Time -5 Pivot -2 Context +1 festival.n.02 Name "Cannes Film Festival"
+
+p50/d0710
+Leona Helmsley, the self-proclaimed queen of a luxury hotel chain, was sentenced Tuesday to four years in federal prison.
+female.n.02 Name "Leona Helmsley" EQU +2 self-proclaimed.a.01 AttributeOf +2 person.n.01 Role +1 queen.n.05 Of +3 luxury.n.01 hotel.n.01 Attribute -1 chain.n.04 Theme -1 time.n.08 TPR now sentence.v.01 Patient -8 Time -1 Time +1 Value +3 Destination +5 time.n.08 DayOfWeek tuesday quantity.n.01 EQU 4 year.n.01 Quantity -1 federal.a.01 AttributeOf +1 prison.n.01
+
+p23/d0064
+Parliamentary elections were held in Greece on 9 April 2000. The ruling Panhellenic Socialist Movement (PASOK) of Prime Minister Costas Simitis was narrowly re-elected, defeating the conservative New Democracy party. Simitis formed his third cabinet.
+parliamentary.a.01 AttributeOf +1 election.n.01 time.n.08 TPR now hold.v.03 Theme -2 Time -1 Location +1 Time +3 country.n.02 Name "Greece" time.n.08 DayOfMonth 9 EQU +1 time.n.08 MonthOfYear 4 EQU +1 time.n.08 YearOfCentury 2000 CONTINUATION <1 ruling.a.01 Name "Panhellenic Socialist Movement" party.n.01 EQU -1 party.n.01 Name "PASOK" EQU -1 Part +2 prime_minister.n.01 male.n.02 Name "Costas Simitis" Role -1 time.n.08 TPR now narrowly.r.01 reelect.v.01 Theme -6 Time -2 Manner -1 CONTINUATION <1 time.n.08 TPR now defeat.v.01 Agent -8 Time -1 Co-Agent +3 conservative.a.02 AttributeOf +2 party.n.01 Name "New Democracy" party.n.01 EQU -1 CONTINUATION <1 male.n.02 Name "Simitis" form.v.01 Agent -1 Time +1 Result +3 time.n.08 TPR now male.n.02 ANA -12 cabinet.n.02 Creator -1 Order 3
+
