@@ -1,4 +1,3 @@
-[![Logo](logo.png)](#)
 [![Logo](new_logo.png)](#)
 
 # Parallel-Meaning-Bank-5
