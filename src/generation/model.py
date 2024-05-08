@@ -9,7 +9,7 @@ from torch.optim.lr_scheduler import StepLR
 
 path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-Config = {"batch_size": 6,
+Config = {"batch_size": 4,
           "cuda_index": 0,
           "max_length": 512
           }
@@ -28,7 +28,7 @@ class Dataset(torch.utils.data.Dataset):
     def __getitem__(self, idx):
         text = self.text[idx].split("\t")[0]
         sbn = self.text[idx].split("\t")[1].replace("\n", "")
-        return text, sbn
+        return sbn, text
 
 
 def get_dataloader(input_file_path, batch_size=Config["batch_size"]):
@@ -80,8 +80,8 @@ class Generator:
         with open(save_path, 'w', encoding="utf-8") as f:
             self.model.eval()
             with torch.no_grad():
-                for i, (text, target) in enumerate(tqdm(val_loader)):
-                    x = self.tokenizer(text, return_tensors='pt', padding=True, truncation=True,
+                for i, (sbn, target) in enumerate(tqdm(val_loader)):
+                    x = self.tokenizer(sbn, return_tensors='pt', padding=True, truncation=True,
                                        max_length=Config["max_length"])['input_ids'].to(
                         self.device)
                     out_put = self.model.generate(x)
@@ -96,8 +96,8 @@ class Generator:
         self.model.eval()
         total_loss = 0
         with torch.no_grad():
-            for batch, (text, target) in enumerate(val_loader):
-                x = self.tokenizer(text, return_tensors='pt', padding=True, truncation=True,
+            for batch, (sbn, target) in enumerate(val_loader):
+                x = self.tokenizer(sbn, return_tensors='pt', padding=True, truncation=True,
                                    max_length=Config["max_length"])['input_ids'].to(self.device)
                 y = self.tokenizer(target, return_tensors='pt', padding=True, truncation=True,
                                    max_length=Config["max_length"])['input_ids'].to(self.device)
@@ -118,8 +118,8 @@ class Generator:
         for epoch in range(epoch_number):
             self.model.train()
             pbar = tqdm(train_loader)
-            for batch, (text, target) in enumerate(pbar):
-                x = self.tokenizer(text, return_tensors='pt', padding=True, truncation=True,
+            for batch, (sbn, target) in enumerate(pbar):
+                x = self.tokenizer(sbn, return_tensors='pt', padding=True, truncation=True,
                                    max_length=Config["max_length"])['input_ids'].to(self.device)
                 y = self.tokenizer(target, return_tensors='pt', padding=True, truncation=True,
                                    max_length=Config["max_length"])['input_ids'].to(self.device)
