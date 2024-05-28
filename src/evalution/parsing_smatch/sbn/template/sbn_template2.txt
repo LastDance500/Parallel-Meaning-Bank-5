@@ -1,0 +1,1 @@
+male.n.02 come.v.02 Theme -1 Time +1 Source +2 time.n.08 TPR now TIN +3 city.n.01 Name "Tokyo" day.n.03 day.n.03 TAB -1 terra_incognita.n.01 EQU now TIN -2

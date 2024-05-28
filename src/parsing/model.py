@@ -108,7 +108,7 @@ class Generator:
         average_loss = total_loss / len(val_loader)
         return average_loss
 
-    def train(self, train_loader, val_loader, lr, epoch_number, patience=10, step_size=5, gamma=0.2, save_path="",
+    def train(self, train_loader, val_loader, lr, epoch_number, patience=5, step_size=5, gamma=0.2, save_path="",
               min_epoch=10, min_delta=0.001):
         optimizer = AdamW(self.model.parameters(), lr)
         scheduler = StepLR(optimizer, step_size=step_size, gamma=gamma)

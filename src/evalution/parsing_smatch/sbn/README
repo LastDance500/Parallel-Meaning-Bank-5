@@ -1,0 +1,20 @@
+=============PMB-5.0.0 SBN-related Source Code==============
+
+## Description
+
+This folder contains the scripts for:
+- convertion from sbn to other data types (incl. penman and dot).
+- SMATCH score calculation 
+
+
+## Usage
+
+- convert sbn to penman and dot file:
+python3 sbn2penman.py -s ./template/sbn_template.txt -o ./template/penman_template.txt -d ./template/dot_template.dot
+
+- calculate the smatch between SBNs:
+python3 sbn_smatch.py -s1 ./template/sbn_template.txt -s2 ./template/sbn_template2.txt
+
+- calculate the smatch between SBNs in details:
+python3 sbn_smatch.py -s1 ./template/sbn_template.txt -s2 ./template/sbn_template2.txt -e smatch -d role
+

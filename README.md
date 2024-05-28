@@ -8,6 +8,7 @@
 3. [Model Training](#model-usage)
 4. [Evaluation](#evaluation)
 5. [Contributors](#contributors)
+6. [Citation](#citation)
 
 ## Overview
 
@@ -44,4 +45,9 @@ python3 src/parsing/run.py -l en -m google/byt5-base -ip -pt data/pmb-5.1.0/seq2
 
 ## Contributors
 
-🐄 Xiao Zhang, Chunliu Wang, Rik van Noord, Johan Bos
+🐄 Xiao Zhang, Chunliu Wang, Rik van Noord, Johan Bos  
+📧 xiao.zhang@rug.nl
+
+## Citation
+
+Xiao Zhang, Chunliu Wang, Rik van Noord, and Johan Bos. 2024. Gaining More Insight into Neural Semantic Parsing with Challenging Benchmarks. In Proceedings of the Fifth International Workshop on Designing Meaning Representations @ LREC-COLING 2024, pages 162–175, Torino, Italia. ELRA and ICCL.
